@@ -7,7 +7,7 @@ import pic07 from '../assets/images/pic07.jpg';
 const LeftSidebar = props => (
   <Layout>
     <Helmet>
-      <title>Right Sidebar - Landed by HTML5 UP</title>
+      <title>Right Sidebar</title>
       <meta name="description" content="Right Sidebar Page" />
     </Helmet>
 
