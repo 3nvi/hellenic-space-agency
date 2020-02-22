@@ -1,11 +1,11 @@
-import React from 'react'
-import { Helmet } from 'react-helmet'
-import Layout from '../components/layout'
-import pic02 from '../assets/images/pic02.jpg'
-import pic03 from '../assets/images/pic03.jpg'
-import pic04 from '../assets/images/pic04.jpg'
-import pic07 from '../assets/images/pic07.jpg'
-import pic08 from '../assets/images/pic08.jpg'
+import React from 'react';
+import { Helmet } from 'react-helmet';
+import Layout from '../components/Layout';
+import pic02 from '../assets/images/pic02.jpg';
+import pic03 from '../assets/images/pic03.jpg';
+import pic04 from '../assets/images/pic04.jpg';
+import pic07 from '../assets/images/pic07.jpg';
+import pic08 from '../assets/images/pic08.jpg';
 
 const Elements = props => (
   <Layout>
@@ -14,24 +14,20 @@ const Elements = props => (
       <meta name="description" content="Elements Page" />
     </Helmet>
 
-    <div id="main" className="wrapper style1">
+    <main className="wrapper style1">
       <div className="container">
         <header className="major">
           <h2>Elements</h2>
-          <p>
-            Ipsum dolor feugiat aliquam tempus sed magna lorem consequat
-            accumsan
-          </p>
+          <p>Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan</p>
         </header>
 
         <section>
           <h3>Text</h3>
           <p>
-            This is <b>bold</b> and this is <strong>strong</strong>. This is{' '}
-            <i>italic</i> and this is <em>emphasized</em>. This is{' '}
-            <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-            This is <u>underlined</u> and this is code: <code>for (;;) </code>.
-            Finally, <a href="#">this is a link</a>.
+            This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this
+            is <em>emphasized</em>. This is <sup>superscript</sup> text and this is{' '}
+            <sub>subscript</sub> text. This is <u>underlined</u> and this is code:{' '}
+            <code>for (;;) </code>. Finally, <a href="#">this is a link</a>.
           </p>
 
           <hr />
@@ -41,20 +37,20 @@ const Elements = props => (
             <p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
           </header>
           <p>
-            Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio
-            porttitor sem non mi integer non faucibus ornare mi ut ante amet
-            placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan
-            varius montes viverra nibh in adipiscing blandit tempus accumsan.
+            Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non
+            mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante
+            lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus
+            accumsan.
           </p>
           <header>
             <h4>Heading with a Subtitle</h4>
             <p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
           </header>
           <p>
-            Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio
-            porttitor sem non mi integer non faucibus ornare mi ut ante amet
-            placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan
-            varius montes viverra nibh in adipiscing blandit tempus accumsan.
+            Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non
+            mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante
+            lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus
+            accumsan.
           </p>
 
           <hr />
@@ -69,18 +65,15 @@ const Elements = props => (
 
           <h4>Blockquote</h4>
           <blockquote>
-            Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis
-            sagittis eget tempus euismod. Vestibulum ante ipsum primis in
-            faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-            adipiscing accumsan faucibus. Vestibulum ante ipsum primis in
+            Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus
+            euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+            felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in
             faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.
           </blockquote>
 
           <h4>Preformatted</h4>
           <pre>
-            <code>
-              i = 0; print 'It took ' + 5 + ' iterations to sort the deck.';
-            </code>
+            <code>i = 0; print 'It took ' + 5 + ' iterations to sort the deck.';</code>
           </pre>
         </section>
 
@@ -453,12 +446,7 @@ const Elements = props => (
                 <input type="text" name="name" id="name" placeholder="Name" />
               </div>
               <div className="col-6 col-12-xsmall">
-                <input
-                  type="email"
-                  name="email"
-                  id="email"
-                  placeholder="Email"
-                />
+                <input type="email" name="email" id="email" placeholder="Email" />
               </div>
               <div className="col-12">
                 <select name="category" id="category">
@@ -470,12 +458,7 @@ const Elements = props => (
                 </select>
               </div>
               <div className="col-4 col-12-medium">
-                <input
-                  type="radio"
-                  id="priority-low"
-                  name="priority"
-                  defaultChecked
-                />
+                <input type="radio" id="priority-low" name="priority" defaultChecked />
                 <label htmlFor="priority-low">Low Priority</label>
               </div>
               <div className="col-4 col-12-medium">
@@ -505,11 +488,7 @@ const Elements = props => (
               <div className="col-12">
                 <ul className="actions">
                   <li>
-                    <input
-                      type="submit"
-                      value="Send Message"
-                      className="primary"
-                    />
+                    <input type="submit" value="Send Message" className="primary" />
                   </li>
                   <li>
                     <input type="reset" value="Reset" />
@@ -598,58 +577,50 @@ const Elements = props => (
             <span className="image left">
               <img src={pic08} alt="" />
             </span>
-            Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis
-            sagittis eget. tempus euismod. Vestibulum ante ipsum primis in
-            faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-            adipiscing accumsan eu faucibus. Integer ac pellentesque praesent
-            tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum
-            primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis
-            volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque
-            praesent. Donec accumsan interdum nisi, quis tincidunt felis
-            sagittis eget. tempus euismod. Vestibulum ante ipsum primis in
-            faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-            adipiscing accumsan eu faucibus. Integer ac pellentesque praesent
-            tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum
-            primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis
-            volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque
-            praesent. Cras aliquet accumsan curae accumsan arcu amet egestas
-            placerat odio morbi mi adipiscing col morbi felis faucibus in
-            gravida sollicitudin interdum commodo. Ante aliquam vis iaculis
-            accumsan lorem ipsum dolor sit amet nullam. Cras aliquet accumsan
-            curae accumsan arcu amet egestas placerat odio morbi mi adipiscing
-            col morbi felis faucibus in gravida sollicitudin interdum commodo.
-            Ante aliquam vis iaculis accumsan lorem ipsum dolor sit amet nullam.
+            Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus
+            euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+            felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque
+            praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in
+            faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan
+            eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis
+            tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus
+            vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu
+            faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus
+            euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+            felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque
+            praesent. Cras aliquet accumsan curae accumsan arcu amet egestas placerat odio morbi mi
+            adipiscing col morbi felis faucibus in gravida sollicitudin interdum commodo. Ante
+            aliquam vis iaculis accumsan lorem ipsum dolor sit amet nullam. Cras aliquet accumsan
+            curae accumsan arcu amet egestas placerat odio morbi mi adipiscing col morbi felis
+            faucibus in gravida sollicitudin interdum commodo. Ante aliquam vis iaculis accumsan
+            lorem ipsum dolor sit amet nullam.
           </p>
           <p>
             <span className="image right">
               <img src={pic08} alt="" />
             </span>
-            Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis
-            sagittis eget. tempus euismod. Vestibulum ante ipsum primis in
-            faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-            adipiscing accumsan eu faucibus. Integer ac pellentesque praesent
-            tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum
-            primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis
-            volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque
-            praesent. Donec accumsan interdum nisi, quis tincidunt felis
-            sagittis eget. tempus euismod. Vestibulum ante ipsum primis in
-            faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac
-            adipiscing accumsan eu faucibus. Integer ac pellentesque praesent
-            tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum
-            primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis
-            volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque
-            praesent. Cras aliquet accumsan curae accumsan arcu amet egestas
-            placerat odio morbi mi adipiscing col morbi felis faucibus in
-            gravida sollicitudin interdum commodo. Ante aliquam vis iaculis
-            accumsan lorem ipsum dolor sit amet nullam. Cras aliquet accumsan
-            curae accumsan arcu amet egestas placerat odio morbi mi adipiscing
-            col morbi felis faucibus in gravida sollicitudin interdum commodo.
-            Ante aliquam vis iaculis accumsan lorem ipsum dolor sit amet nullam.
+            Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus
+            euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+            felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque
+            praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in
+            faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan
+            eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis
+            tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus
+            vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu
+            faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus
+            euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
+            felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque
+            praesent. Cras aliquet accumsan curae accumsan arcu amet egestas placerat odio morbi mi
+            adipiscing col morbi felis faucibus in gravida sollicitudin interdum commodo. Ante
+            aliquam vis iaculis accumsan lorem ipsum dolor sit amet nullam. Cras aliquet accumsan
+            curae accumsan arcu amet egestas placerat odio morbi mi adipiscing col morbi felis
+            faucibus in gravida sollicitudin interdum commodo. Ante aliquam vis iaculis accumsan
+            lorem ipsum dolor sit amet nullam.
           </p>
         </section>
       </div>
-    </div>
+    </main>
   </Layout>
-)
+);
 
-export default Elements
+export default Elements;

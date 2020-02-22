@@ -1,17 +1,39 @@
-# gatsby-starter-landed
+# Hellenic Space Agency
 
-**This is a starter for Gatsby.js V2.**
+This repo contains all work related to the public facing website of the Hellenic Space Agency
 
-Gatsby.js V2 starter based on the Landed site template, designed by HTML5 UP.
+## Running locally
 
-## Preview
+To run this project locally, simply:
 
-https://gatsby-starter-landed.netlify.com
+```
+git clone https://github.com/3nvi/hellenic-space-agency
+cd hellenic-space-agency
+npm run start
+```
 
-## Installation
+## Creating & Testing a production build
 
-Install this starter :
-<br/>
-`gatsby new gatsby-starter-landed https://github.com/vasrush/gatsby-starter-landed`
+To create a local production build all you need to do is run:
 
-Run `gatsby develop` to start the dev site or `gatsby build` to build it for production.
+```
+npm run build
+```
+
+This will create a set of HTML, JS, CSS assets in the `/public` folder. These are fully portable,
+so you can move them anywhere and just serve them as is.
+
+---
+
+To serve them locally - for testing - purposes, run:
+
+```
+npm run serve
+```
+
+and a production-like server will serve your production files in your localhost.
+
+## Deploying Changes
+
+This repo is connected to Netlify through webhooks. Every new push to the `master` branch will
+automatically result in a new build and a new deployment.

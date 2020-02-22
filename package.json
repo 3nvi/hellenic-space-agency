@@ -1,8 +1,9 @@
 {
-  "name": "gatsby-starter-landed-v2",
-  "description": "Gatsby Starter - Landed V2",
-  "version": "1.0.0",
-  "author": "Vasilis Gakis",
+  "name": "hellenic-space-agency",
+  "private": true,
+  "description": "The public facing website of the Hellenic Space Agency",
+  "version": "0.1.0",
+  "author": "Aggelos Arvanitakis <agg.arvanitakis@gmail.com>",
   "dependencies": {
     "gatsby": "^2.18.1",
     "gatsby-image": "^2.2.33",
@@ -25,21 +26,44 @@
     "react-helmet/react-side-effect": "2.1.0"
   },
   "keywords": [
-    "gatsby"
+    "hsa",
+    "hellenic space agency",
+    "hellenic space center"
   ],
-  "license": "MIT",
+  "license": "UNLICENSED",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
-    "format": "prettier --write '**/*.js'",
-    "clean": "gatsby clean",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "format": "prettier --write '**/*.{js,jsx,ts,tsx}'",
+    "clean": "gatsby clean"
   },
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "@types/react": "^16.9.22",
+    "@types/react-dom": "^16.9.5",
+    "@types/react-helmet": "^5.0.15",
+    "@types/react-scroll": "^1.5.4",
+    "@typescript-eslint/eslint-plugin": "^2.20.0",
+    "@typescript-eslint/parser": "^2.20.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-config-react-app": "^5.2.0",
+    "eslint-plugin-flowtype": "^4.6.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.18.3",
+    "eslint-plugin-react-hooks": "^2.4.0",
+    "gatsby-plugin-typescript": "^2.1.27",
+    "husky": "^3.1.0",
+    "lint-staged": "^10.0.7",
+    "prettier": "^1.19.1",
+    "typescript": "^3.8.2"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vasrush/gatsby-starter-landed"
+    "url": "https://github.com/3nvi/hellenic-space-agency"
+  },
+  "bugs": {
+    "url": "https://github.com/3nvi/hellenic-space-agency/issues"
   }
 }

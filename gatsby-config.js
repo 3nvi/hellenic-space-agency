@@ -1,62 +1,23 @@
 module.exports = {
-  //pathPrefix: `/mygatsby`,
   siteMetadata: {
-    title: 'Landed',
-    author: 'vasrush',
-    description: 'A Gatsby.js V2 Starter based on Landed by HTML5 UP',
+    title: 'Hellenic Space Agency',
+    author: 'Aggelos Arvanitakis',
+    description: 'Hellenic Space Agency website',
     menuLinks: [
       {
         name: 'Home',
-        link: '/',
-      },
-      {
-        name: 'Layouts',
-        link: '#',
-        items: [
-          {
-            name: 'Left Sidebar',
-            link: '/left-sidebar',
-          },
-          {
-            name: 'Right Sidebar',
-            link: '/right-sidebar',
-          },
-          {
-            name: 'No Sidebar',
-            link: '/no-sidebar',
-          },
-          {
-            name: 'SubMenu',
-            link: '#',
-            items: [
-              {
-                name: 'Option 1',
-                link: '#',
-              },
-              {
-                name: 'Option 2',
-                link: '#',
-              },
-              {
-                name: 'Option 3',
-                link: '#',
-              },
-              {
-                name: 'Option 4',
-                link: '#',
-              },
-            ],
-          },
-        ],
+        href: '/',
+        isPrimary: false,
       },
       {
         name: 'Elements',
-        link: '/elements',
+        href: '/elements',
+        isPrimary: false,
       },
       {
         name: 'Sign Up',
-        link: '#',
-        cl: 'button primary',
+        href: '#',
+        isPrimary: true,
       },
     ],
   },
@@ -90,6 +51,6 @@ module.exports = {
         lang: 'en',
       },
     },
-    'gatsby-plugin-offline',
+    'gatsby-plugin-typescript',
   ],
-}
+};

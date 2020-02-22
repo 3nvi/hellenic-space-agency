@@ -1,16 +1,16 @@
-import React from 'react'
-import pic01 from '../assets/images/pic01.jpg'
-import { Link as ScrollLink } from 'react-scroll'
+import React from 'react';
+import pic01 from '../assets/images/pic01.jpg';
+import { Link as ScrollLink } from 'react-scroll';
 
-const Banner = props => (
+const Banner: React.FC = () => (
   <section id="banner">
     <div className="content">
       <header>
-        <h2>The future has landed</h2>
+        <h2>Hellenic Space Agency</h2>
         <p>
-          And there are no hoverboards or flying cars.
+          Commited to do something really really big.
           <br />
-          Just apps. Lots of mother flipping apps.
+          Just don't know what yet
         </p>
       </header>
       <span className="image">
@@ -29,6 +29,6 @@ const Banner = props => (
       Next
     </ScrollLink>
   </section>
-)
+);
 
-export default Banner
+export default Banner;

@@ -1,12 +1,12 @@
-import React from 'react'
-import { Helmet } from 'react-helmet'
-import Layout from '../components/layout'
-import Banner from '../components/Banner'
-import One from '../components/One'
-import Two from '../components/Two'
-import Three from '../components/Three'
-import Four from '../components/Four'
-import Five from '../components/Five'
+import React from 'react';
+import { Helmet } from 'react-helmet';
+import Layout from '../components/Layout';
+import Banner from '../components/Banner';
+import One from '../components/One';
+import Two from '../components/Two';
+import Three from '../components/Three';
+import Four from '../components/Four';
+import Five from '../components/Five';
 
 class Home extends React.Component {
   render() {
@@ -27,8 +27,8 @@ class Home extends React.Component {
         <Four />
         <Five />
       </Layout>
-    )
+    );
   }
 }
 
-export default Home
+export default Home;

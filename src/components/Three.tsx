@@ -1,9 +1,9 @@
-import React from 'react'
-import pic04 from '../assets/images/pic04.jpg'
-import { Link as ScrollLink } from 'react-scroll'
-import Fade from 'react-reveal/Fade'
+import React from 'react';
+import pic04 from '../assets/images/pic04.jpg';
+import { Link as ScrollLink } from 'react-scroll';
+import Fade from 'react-reveal/Fade';
 
-const Three = props => (
+const Three: React.FC = () => (
   <section
     id="three"
     className="spotlight style3 left inactive"
@@ -19,10 +19,9 @@ const Three = props => (
           <p>Accumsan integer ultricies aliquam vel massa sapien phasellus</p>
         </header>
         <p>
-          Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim
-          mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet
-          augue varius tempus lobortis porttitor lorem et accumsan consequat
-          adipiscing lorem.
+          Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent
+          adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor
+          lorem et accumsan consequat adipiscing lorem.
         </p>
         <ul className="actions">
           <li>
@@ -45,6 +44,6 @@ const Three = props => (
       Next
     </ScrollLink>
   </section>
-)
+);
 
-export default Three
+export default Three;
