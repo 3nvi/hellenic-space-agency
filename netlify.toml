@@ -40,3 +40,4 @@
   from = "/*"
   to = "/en/:splat"
   status = 301
+  conditions = {}
