@@ -33,10 +33,10 @@
 [[redirects]]
   from = "/*"
   to = "/el/:splat"
-  status = 302
+  status = 301
   conditions = {Language = "el"}
 
 [[redirects]]
   from = "/*"
   to = "/en/:splat"
-  status = 302
+  status = 301
