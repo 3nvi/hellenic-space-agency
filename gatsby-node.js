@@ -18,6 +18,7 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => 
         path: lang + page.path,
         context: {
           ...page.context,
+          originalPath: page.path,
           lang,
         },
       });

@@ -34,23 +34,22 @@ export const onPreRenderHTML = ({ getHeadComponents, replaceHeadComponents }) =>
  * Wrap all pages with a Translation provider and set the language on SSR time
  */
 export const wrapPageElement = ({ element, props }) => {
-  const { lang } = props.pageContext;
+  const { lang, originalPath } = props.pageContext;
   i18n.changeLanguage(lang);
 
   if (process.env.NODE_ENV !== 'production') {
     return element;
   }
 
-  const canonicalPathname = props.location.pathname.replace(`/${lang}/`, '/');
   return (
     <React.Fragment>
       <Helmet>
-        <link rel="canonical" href={`${process.env.URL}${canonicalPathname}`} />
+        <link rel="canonical" href={`${process.env.URL}${originalPath}`} />
         {config.siteMetadata.supportedLanguages.map(supportedLang => (
           <link
             rel="alternate"
             hrefLang={supportedLang}
-            href={`${process.env.URL}/${supportedLang}${canonicalPathname}`}
+            href={`${process.env.URL}/${supportedLang}${originalPath}`}
           />
         ))}
       </Helmet>
