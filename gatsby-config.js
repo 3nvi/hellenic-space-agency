@@ -1,8 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: 'Hellenic Space Agency',
-    author: 'Aggelos Arvanitakis',
     description: 'Hellenic Space Agency website',
+    image: `/assets/images/main.jpg`,
+    keywords: ['Hellenic Space Agency'],
+    // logo: `/img/favicon.png`,
     menuLinks: [
       {
         name: 'Home',
