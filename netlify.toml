@@ -34,6 +34,12 @@
   from = "/*"
   to = "/el/:splat"
   status = 301
+  conditions = {Country = ["el"]}
+
+[[redirects]]
+  from = "/*"
+  to = "/el/:splat"
+  status = 301
   conditions = {Language = ["el"]}
 
 [[redirects]]
