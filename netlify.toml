@@ -29,3 +29,15 @@
 	public,
 	max-age=31536000,
 	immutable'''
+
+[[redirects]]
+  from = "/*"
+  to = "/el/:splat"
+  status = 302
+  conditions = {Language = ["el"]}
+
+[[redirects]]
+  from = "/*"
+  to = "/en/:splat"
+  status = 302
+  conditions = {Language = ["en"]}
