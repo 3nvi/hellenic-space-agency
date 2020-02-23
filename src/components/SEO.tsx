@@ -10,6 +10,7 @@ interface SEOProps {
 
 const SEO: React.FC<SEOProps> = ({ title, description }) => {
   const {
+    t,
     i18n: { language },
   } = useTranslation();
 
@@ -18,9 +19,6 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
       query {
         site {
           siteMetadata {
-            title
-            keywords
-            description
             image
           }
         }
@@ -28,18 +26,18 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
     `
   );
 
-  const metaDescription = description || site.siteMetadata.description;
+  const metaDescription = description || t('siteMetadata.description');
 
   return (
     <Helmet
       htmlAttributes={{
         lang: language,
       }}
-      titleTemplate={`%s | ${site.siteMetadata.title}`}
+      titleTemplate={`%s | ${t('siteMetadata.title')}`}
       meta={[
         {
           name: `keywords`,
-          content: site.siteMetadata.keywords,
+          content: t('siteMetadata.keywords'),
         },
         {
           name: `description`,

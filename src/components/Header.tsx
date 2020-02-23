@@ -1,19 +1,28 @@
 import React from 'react';
 import { Link } from 'gatsby';
+import { useTranslation } from 'react-i18next';
 import MobileMenu from './MobileMenu';
 
-interface MenuLink {
-  name: string;
-  href: string;
-  isPrimary: boolean;
-}
+const menuLinks = [
+  {
+    id: 'home',
+    href: '/',
+    isPrimary: false,
+  },
+  {
+    id: 'about',
+    href: '/about',
+    isPrimary: false,
+  },
+  {
+    id: 'contact',
+    href: '#',
+    isPrimary: true,
+  },
+];
 
-interface HeaderProps {
-  siteTitle: string;
-  menuLinks: MenuLink[];
-}
-
-const Header: React.FC<HeaderProps> = ({ siteTitle, menuLinks }) => {
+const Header: React.FC = () => {
+  const { t } = useTranslation();
   const [isMenuActive, setMenuActive] = React.useState(false);
   const [mobileActiveClass, setMobileActiveClass] = React.useState('');
 
@@ -31,7 +40,7 @@ const Header: React.FC<HeaderProps> = ({ siteTitle, menuLinks }) => {
             aria-label="Open mobile menu"
           />
           <span className="title">
-            <Link to="/">{siteTitle}</Link>
+            <Link to="/">{t('siteMetadata.title')}</Link>
           </span>
         </div>
         <div id="navPanel">
@@ -41,7 +50,7 @@ const Header: React.FC<HeaderProps> = ({ siteTitle, menuLinks }) => {
 
       <header id="header">
         <h1 id="logo">
-          <Link to="/">{siteTitle}</Link>
+          <Link to="/">{t('siteMetadata.title')}</Link>
         </h1>
         <div className="navbar-menu">
           <nav>
@@ -49,7 +58,7 @@ const Header: React.FC<HeaderProps> = ({ siteTitle, menuLinks }) => {
               {menuLinks.map(link => (
                 <li key={link.href}>
                   <Link className={link.isPrimary ? 'button primary' : undefined} to={link.href}>
-                    {link.name}
+                    {t(`header.links.${link.id}`)}
                   </Link>
                 </li>
               ))}

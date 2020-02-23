@@ -1,14 +1,35 @@
 {
   "en": {
     "translation": {
+      "siteMetadata": {
+        "title": "Hellenic Space Agency",
+        "description": "Hellenic Space Agency website",
+        "keywords": "Hellenic Space Agency, Greek Space Center"
+      },
       "header": {
+        "links": {
+          "home": "Home",
+          "about": "About",
+          "contact": "Contact"
+        },
         "welcomeMsg": "Welcome to React and react-i18next"
       }
     }
   },
   "el": {
     "translation": {
+      "siteMetadata": {
+        "title": "Ελληνικό Κέντρο Διαστήματος",
+        "description": "Επίσημη ιστοσελίδα του Ελληνικού Κέντρου Διαστήματος",
+        "keywords": "Ελληνικό Κέντρο Διαστήματος, Υπηρεσία Διαστήματος"
+      },
+
       "header": {
+        "links": {
+          "home": "Αρχικη",
+          "about": "Ποιοι ειμαστε",
+          "contact": "Επικοινωνια"
+        },
         "welcomeMsg": "Καλωσήρθατε στη React"
       }
     }

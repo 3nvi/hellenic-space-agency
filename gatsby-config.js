@@ -1,28 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Hellenic Space Agency',
-    description: 'Hellenic Space Agency website',
     image: `/assets/images/main.jpg`,
-    keywords: ['Hellenic Space Agency'],
     supportedLanguages: ['en', 'el'],
     // logo: `/assets/images/favicon.png`,
-    menuLinks: [
-      {
-        name: 'Home',
-        href: '/',
-        isPrimary: false,
-      },
-      {
-        name: 'Elements',
-        href: '/elements',
-        isPrimary: false,
-      },
-      {
-        name: 'Sign Up',
-        href: '#',
-        isPrimary: true,
-      },
-    ],
   },
   plugins: [
     'gatsby-plugin-react-helmet',
