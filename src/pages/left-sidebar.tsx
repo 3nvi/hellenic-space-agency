@@ -4,7 +4,7 @@ import Layout from '../components/Layout';
 import pic05 from '../assets/images/pic05.jpg';
 import pic06 from '../assets/images/pic06.jpg';
 
-const LeftSidebar = props => (
+const LeftSidebar: React.FC = () => (
   <Layout>
     <Helmet>
       <title>Left Sidebar</title>

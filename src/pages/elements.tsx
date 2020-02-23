@@ -7,7 +7,7 @@ import pic04 from '../assets/images/pic04.jpg';
 import pic07 from '../assets/images/pic07.jpg';
 import pic08 from '../assets/images/pic08.jpg';
 
-const Elements = props => (
+const Elements: React.FC = () => (
   <Layout>
     <Helmet>
       <title>Elements</title>
@@ -302,7 +302,7 @@ const Elements = props => (
               </tbody>
               <tfoot>
                 <tr>
-                  <td colSpan="2"></td>
+                  <td colSpan={2}></td>
                   <td>100.00</td>
                 </tr>
               </tfoot>
@@ -347,7 +347,7 @@ const Elements = props => (
               </tbody>
               <tfoot>
                 <tr>
-                  <td colSpan="2"></td>
+                  <td colSpan={2}></td>
                   <td>100.00</td>
                 </tr>
               </tfoot>
@@ -482,7 +482,7 @@ const Elements = props => (
                   name="message"
                   id="message"
                   placeholder="Enter your message"
-                  rows="6"
+                  rows={6}
                 ></textarea>
               </div>
               <div className="col-12">
