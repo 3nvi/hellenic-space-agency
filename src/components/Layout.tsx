@@ -1,42 +1,39 @@
 import React from 'react';
-import { StaticQuery, graphql } from 'gatsby';
-import { useLocation } from '@reach/router';
-import '../assets/scss/main.scss';
+import { graphql, useStaticQuery } from 'gatsby';
 import Header from './Header';
 import Footer from './Footer';
+import '../assets/scss/main.scss';
 
-const Layout: React.FC = ({ children }) => {
-  const { pathname } = useLocation();
-  return (
-    <StaticQuery
-      query={graphql`
-        query SiteTitleQuery {
-          site {
-            siteMetadata {
-              title
-              description
-              menuLinks {
-                name
-                href
-                isPrimary
-              }
+interface LayoutProps {
+  isHeaderSticky?: boolean;
+}
+
+const Layout: React.FC<LayoutProps> = ({ children, isHeaderSticky = false }) => {
+  const { site } = useStaticQuery(
+    graphql`
+      query SiteHeaderQuery {
+        site {
+          siteMetadata {
+            title
+            menuLinks {
+              name
+              href
+              isPrimary
             }
           }
         }
-      `}
-      render={data => (
-        <div className={pathname === '/' ? 'landing' : undefined}>
-          <div id="page-wrapper">
-            <Header
-              menuLinks={data.site.siteMetadata.menuLinks}
-              siteTitle={data.site.siteMetadata.title}
-            />
-            {children}
-            <Footer />
-          </div>
-        </div>
-      )}
-    />
+      }
+    `
+  );
+
+  return (
+    <div className={!isHeaderSticky ? 'landing' : undefined}>
+      <div id="page-wrapper">
+        <Header menuLinks={site.siteMetadata.menuLinks} siteTitle={site.siteMetadata.title} />
+        {children}
+        <Footer />
+      </div>
+    </div>
   );
 };
 

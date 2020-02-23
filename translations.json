@@ -1,0 +1,16 @@
+{
+  "en": {
+    "translation": {
+      "header": {
+        "welcomeMsg": "Welcome to React and react-i18next"
+      }
+    }
+  },
+  "el": {
+    "translation": {
+      "header": {
+        "welcomeMsg": "Καλωσήρθατε στη React"
+      }
+    }
+  }
+}

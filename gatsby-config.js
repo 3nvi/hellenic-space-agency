@@ -4,7 +4,8 @@ module.exports = {
     description: 'Hellenic Space Agency website',
     image: `/assets/images/main.jpg`,
     keywords: ['Hellenic Space Agency'],
-    // logo: `/img/favicon.png`,
+    supportedLanguages: ['en', 'el'],
+    // logo: `/assets/images/favicon.png`,
     menuLinks: [
       {
         name: 'Home',
@@ -34,7 +35,7 @@ module.exports = {
         background_color: '#663399',
         theme_color: '#663399',
         display: 'minimal-ui',
-        icon: 'src/assets/images/website-icon.png', // This path is relative to the root of the site.
+        // icon: 'static/assets/images/favicon.png', // This path is relative to the root of the site.
       },
     },
     {
@@ -46,6 +47,7 @@ module.exports = {
             variants: [`100`, `300`, `300italic`],
             formats: ['woff2'],
             fontDisplay: 'swap',
+            subsets: ['greek'],
           },
         ],
       },
@@ -60,12 +62,6 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     'gatsby-plugin-sass',
-    {
-      resolve: 'gatsby-plugin-html-attributes',
-      options: {
-        lang: 'en',
-      },
-    },
     'gatsby-plugin-typescript',
   ],
 };

@@ -6,11 +6,12 @@ import Two from '../components/Two';
 import Three from '../components/Three';
 import Four from '../components/Four';
 import Five from '../components/Five';
-import withSeo from '../hoc/withSeo';
+import SEO from '../components/SEO';
 
 const Home: React.FC = () => {
   return (
     <Layout>
+      <SEO title="Explore" />
       <Banner />
       <One />
       <Two />
@@ -20,4 +21,4 @@ const Home: React.FC = () => {
     </Layout>
   );
 };
-export default withSeo({ title: 'Explore' })(Home);
+export default Home;

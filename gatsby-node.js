@@ -1,30 +1,24 @@
-const allLocales = ['en', 'el'];
-
-exports.onCreatePage = async ({ page, actions }, { locales = allLocales }) => {
+const config = require('./gatsby-config');
+/**
+ * Makes sure to create localized paths for each file in the /pages folder.
+ * For example, pages/404.js will be converted to /en/404.js and /el/404.js and
+ * it will be accessible from https:// .../en/404/ and https:// .../el/404/
+ */
+exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => {
   if (process.env.NODE_ENV === 'development') {
     return;
   }
 
-  const { createPage, deletePage } = actions;
-
   await deletePage(page);
 
   await Promise.all(
-    locales.map(async lang => {
-      const localizedPath = lang + page.path;
-
+    config.siteMetadata.supportedLanguages.map(async lang => {
       await createPage({
         ...page,
-        path: localizedPath,
+        path: lang + page.path,
         context: {
           ...page.context,
-          currentLocale: lang,
-          canonicalPageUri: page.path,
-          localizedPageInfo: locales.map(lang => ({
-            lang: lang,
-            uri: `${lang}${page.path}`,
-          })),
-          locales,
+          lang,
         },
       });
     })

@@ -5,7 +5,7 @@ import Layout from '../components/Layout';
 import pic07 from '../assets/images/pic07.jpg';
 
 const LeftSidebar: React.FC = () => (
-  <Layout>
+  <Layout isHeaderSticky>
     <Helmet>
       <title>Right Sidebar</title>
       <meta name="description" content="Right Sidebar Page" />
