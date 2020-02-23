@@ -64,6 +64,9 @@ module.exports = {
         lang: 'en',
       },
     },
+    {
+      resolve: 'gatsby-plugin-brotli',
+    },
     'gatsby-plugin-typescript',
   ],
 };
