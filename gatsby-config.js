@@ -42,6 +42,8 @@ module.exports = {
           {
             family: `Roboto`,
             variants: [`100`, `300`, `300italic`],
+            formats: ['woff2'],
+            fontDisplay: 'swap',
           },
         ],
       },
