@@ -1,6 +1,6 @@
 import React from 'react';
-import { Link } from 'gatsby';
 import { useTranslation } from 'react-i18next';
+import Link from '../components/Link';
 import MobileMenu from './MobileMenu';
 
 const menuLinks = [
@@ -11,12 +11,12 @@ const menuLinks = [
   },
   {
     id: 'about',
-    href: '/about',
+    href: '/about/',
     isPrimary: false,
   },
   {
     id: 'contact',
-    href: '#',
+    href: '/contact/',
     isPrimary: true,
   },
 ];
@@ -24,6 +24,7 @@ const menuLinks = [
 const Header: React.FC = () => {
   const { t } = useTranslation();
   const [isMenuActive, setMenuActive] = React.useState(false);
+
   const [mobileActiveClass, setMobileActiveClass] = React.useState('');
 
   React.useEffect(() => {
@@ -66,6 +67,19 @@ const Header: React.FC = () => {
           </nav>
         </div>
       </header>
+      <ul className="language-selector-container">
+        <li>
+          <Link aria-label="Change language to greek" to="/el/">
+            ΕΛ
+          </Link>
+        </li>
+        <span>|</span>
+        <li>
+          <Link aria-label="Change language to english" to="/en/">
+            EN
+          </Link>
+        </li>
+      </ul>
     </React.Fragment>
   );
 };

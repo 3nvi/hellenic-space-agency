@@ -1,6 +1,6 @@
 import React from 'react';
-import { Link } from 'gatsby';
 import { useTranslation } from 'react-i18next';
+import Link from './Link';
 
 interface MenuLink {
   id: string;
