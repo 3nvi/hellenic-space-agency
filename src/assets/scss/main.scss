@@ -937,10 +937,6 @@ input[type='radio'] {
   &.left,
   &.right {
     max-width: 40%;
-
-    img {
-      width: 100%;
-    }
   }
 
   &.fit {
@@ -1864,6 +1860,17 @@ body.is-touch {
         color: inherit;
       }
     }
+  }
+}
+
+/* About */
+.profile {
+  margin-bottom: 5em;
+
+  a {
+    display: inline-block;
+    position: relative;
+    top: -1em;
   }
 }
 

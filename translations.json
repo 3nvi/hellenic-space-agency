@@ -4,7 +4,7 @@
       "siteMetadata": {
         "title": "Hellenic Space Agency",
         "description": "Hellenic Space Agency website",
-        "keywords": "Hellenic Space Agency, Greek Space Center"
+        "keywords": "Hellenic Space Agency,Greek Space Center,Ioannis Daglis,George Nounesis"
       },
       "header": {
         "links": {
@@ -13,6 +13,30 @@
           "contact": "Contact"
         },
         "welcomeMsg": "Welcome to React and react-i18next"
+      },
+      "about": {
+        "title": "About us",
+        "description": "A few words about us",
+        "daglis": {
+          "link": "http://scholar.uoa.gr/iadaglis/home",
+          "name": "Ioannis Daglis",
+          "bio": "Ioannis A. Daglis is professor of space physics at the National and Kapodistrian University of Athens (Department of Physics), Head of the Space Physics Group and Director of the Observatory of the University of Athens. Before his appointment at the University of Athens, he was the director of the Institute for Space Applications and Remote Sensing (ISARS) for six years (2006-2012) and the director of the Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing (IAASARS) for one year (2012-2013). His scientific expertise pertains to solar system astrophysics and space applications.\n\nHe has been a co-investigator of the NASA space missions SAC-B, Polar and THEMIS, and of the ESA space missions BepiColombo and Proba-3. He has been the scientific representative of the SREM instrument on the ESA mission Rosetta, and science team member of the NASA missions AMPTE, CRRES, Geotail and of the ESA mission Cluster. "
+        },
+        "nounesis": {
+          "link": "http://www.rrp.demokritos.gr/file/Biomolecular%20Physics/nounesis_english2010.pdf",
+          "name": "George Nounesis",
+          "bio": "George Nounesis was until recently the Director & Chairman of the\nBoard of the National Centre for Scientific Research “Demokritos”\n(2017-2019). During his tenure he is credited with the “Expansion of\nthe NCSRD Infrastructure Project” a 48 MEuros construction project\nco-financed, by the European Investment Bank and the State of\nGreece and also the rapid growth of technology transfer to start ups\nand multinationals. Dr. Nounesis studied Physics at the National and\nKapodistrian University of Athens. He obtained his PhD at the School\nof Physics and Astronomy of the University of Minnesota. He\ncompleted a three-year Postdoctoral training at the Chemistry Department of the Massachusetts\nInstitute of Technology and the Executive Education Program on “Innovation for Economic Development”\nat the Harvard Kennedy School of Government. Prior to returning to Greece he held Research Staff\nappointments at the Center for Materials Science and Engineering at MIT and at the Francis Bitter\nNational Magnet Laboratory. He has spent sabbatical leaves at the Centre de Recherche Paul Pascal at\nCNRS and the Chemistry Department of the University of Bordeaux I as an Invited Professor. His research\nis mainly focused on structural and thermodynamic studies of nano-structured soft materials as well as of\nbiomolecules, primarily proteins. For his work he has received awards and distinctions from the\nAmerican Society for Reproductive Medicine, the John S. Latsis Public Benefit Foundation, the Empirikion\nFoundation, the United States Department of the Navy and the Graduate School of the University of\nMinnesota."
+        },
+        "karantzalos": {
+          "link": "http://users.ntua.gr/karank",
+          "name": "Kostantinos Karantzalos",
+          "bio": "Kostantinos Karantzalos is an Associate Professor of Remote Sensing\nat the National Technical University of Athens. His teaching and research interests include\ngeoscience and earth observation, geospatial big data, hyperspectral image analysis, computer\nvision and machine learning with applications e.g. in environmental monitoring and precision\nagriculture. He has several publications in top-rank international journals &amp; conferences and a\nnumber of awards and honors for his research contributions. He has more than 17 years of\nresearch experience, involved with more than 19 EU and national excellence/ competitive\nresearch projects. Dr. Karantzalos, IEEE Senior Member, serves as Scientific/ Program\nCommittee and reviewer for top rank international journals/conferences and as an Evaluator/\nPanel Member for the evaluation of EU and national research programmes (H2020, Deutsche\nForschungsgemeinschaft, Israel Science Foundation, Belgian Science Policy Office, Netherlands\nOrganisation for Scientific Research, etc). Dr. Karantzalos currently Co-chairing the ISPRS\nWorking Group WG III/4 on Hyperspectral Image Processing."
+        },
+        "sergis": {
+          "link": "http://www.academyofathens.gr/sites/default/files/Sergis%20long%20CV.pdf",
+          "name": "Nikos Sergis",
+          "bio": "Dr. Sergis is a researcher in Space Physics. Between 2006 and 2020 he worked at\nthe Office of Space Research and Technology at the Academy of Athens in\ncollaboration with JHU/APL. From 2017 he is an Adjunct Researcher at the\nNational Observatory of Athens. His published work includes 77 peer-reviewed\npapers in scientific journals or book chapters, with &gt;1600 citations (h=25) and\nseveral invited seminars in Greece, Europe and the USA. In 2009 and 2018 he\nreceived NASA awards for his contribution in the Cassini mission to Saturn and\nin 2008 he was elected by the Editorial Board of Annales Geophysicae best\nreviewer in the field of Magnetospheric Physics. He has experience in the\nmanagement of research programs and he serves as evaluator for proposals\nsubmitted for funding to NASA, the EC and national funding agencies in Europe.\nHe leads or participates to research groups in Space Science and Applications in\ncollaboration with institutes from Europe and the USA. Dr. Sergis has supervised\nor co-supervised PhD, MSc and undergraduate theses in Greece and abroad. He is\na member of the American Geophysical Union (AGU), the European Geosciences\nUnion (EGU) and the International Astronomical Union (IAU)."
+        }
       }
     }
   },
@@ -21,7 +45,7 @@
       "siteMetadata": {
         "title": "Ελληνικό Κέντρο Διαστήματος",
         "description": "Επίσημη ιστοσελίδα του Ελληνικού Κέντρου Διαστήματος",
-        "keywords": "Ελληνικό Κέντρο Διαστήματος, Υπηρεσία Διαστήματος"
+        "keywords": "Ελληνικό Κέντρο Διαστήματος,Υπηρεσία Διαστήματος, Ιωάννης Δαγκλής,Γιώργος Νούνεσης"
       },
 
       "header": {
@@ -31,6 +55,30 @@
           "contact": "Επικοινωνια"
         },
         "welcomeMsg": "Καλωσήρθατε στη React"
+      },
+      "about": {
+        "title": "Ποιοί Είμαστε",
+        "description": "Λίγα λόγια για εμάς",
+        "daglis": {
+          "link": "http://scholar.uoa.gr/iadaglis/home",
+          "name": "Ιωάννης Δαγκλής",
+          "bio": "Ο Ιωάννης Α. Δαγκλής (http://scholar.uoa.gr/iadaglis/home) ειναι Καθηγητής Διαστημικής Φυσικής\nτου Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών. Έχει εργαστεί σε Πανεπιστήμια και\nΕρευνητικά Κέντρα της Γερμανίας, της Ιαπωνίας και των Ηνωμένων Πολιτειών, και διετέλεσε\nΔιευθυντής του Ινστιτούτου Διαστημικών Εφαρμογών στο Εθνικό Αστεροσκοπείο Αθηνών για\nμια οκταετία.\nΟ κ. Δαγκλής είναι Τακτικό Μέλος της Διεθνούς Αστροναυτικής Ακαδημίας και μέλος\nεπιτροπών εμπειρογνωμόνων της NASA, της αντίστοιχης ευρωπαϊκής ESA, της Ευρωπαϊκής\nΕπιτροπής, της Ακαδημίας της Φινλανδίας και άλλων εθνικών οργανισμών έρευνας. Έχει\nσυμμετάσχει στον σχεδιασμό και την επιστημονική ανάλυση των παρατηρήσεων 15\nευρωπαϊκών και αμερικανικών διαστημικών αποστολών και έχει διατελέσει Επιστημονικός\nΥπεύθυνος 21 διεθνών και 8 εθνικών ερευνητικών προγραμμάτων, με πιο πρόσφατο το\nSafeSpace – ένα από τα τρία προγράμματα που επιλέχθηκαν το 2019 για χρηματοδότηση από\nτην Ευρωπαϊκή Ένωση μέσω της δράσης Space Weather του Horizon 2020.\nΤο δημοσιευμένο έργο του κ. Δαγκλή περιλαμβάνει 5 βιβλία διαστημικής φυσικής και 100\nάρθρα σε περιοδικά με κριτές με περισσότερες από 5.400 αναφορές."
+        },
+        "nounesis": {
+          "link": "http://www.rrp.demokritos.gr/file/Biomolecular%20Physics/nounesis_english2010.pdf",
+          "name": "Γιώργος Νούνεσης",
+          "bio": "Ο Γιώργος Νούνεσης είναι Διευθυντής Ερευνών στο Εθνικό Κέντρο Έρευνας Φυσικών Επιστημών\n«Δημόκριτος», Διευθυντής και Πρόεδρος του Διοικητικού Συμβουλίου του Κέντρου (2017-2019).\nΑναπτύσσει έντονη δραστηριότητα στην μεταφορά τεχνολογίας επιτυγχάνοντας τις πρώτες μεγάλες\nσυμφωνίες του Δημοκρίτου με διεθνείς επιχειρήσεις, κολοσσούς στην καινοτομία. Σπούδασε Φυσική\nστο Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών και πήρε το Διδακτορικό του στη Σχολή Φυσικής\nκαι Αστρονομίας του University of Minnesota. Ολοκλήρωσε τριετή Μεταδιδακτορική Έρευνα στο Τμήμα\nΧημείας του Massachusetts Institute of Technology (MIT) καθώς και το Executive Program “Innovation\nfor Economic Development” στο Harvard Kennedy School of Government. Πριν την επιστροφή του στην\nΕλλάδα εργάστηκε ως Ερευνητής στο Center for Materials Science and Engineering στο MIT καθώς και\nστο Francis Bitter National Magnet Laboratory επίσης στο ΜΙΤ. Έχει εργαστεί ως Προσκεκλημένος\nΚαθηγητής στο Τμήμα Χημείας του Πανεπιστημίου Bordeaux I και ως Προσκεκλημένος Ερευνητής στο\nCentre de Recherche Paul Pascal στο CNRS της Γαλλίας. Για το επιστημονικό του έργο έχει τιμηθεί από\nτην Αμερικανική Εταιρεία Αναπαραγωγικής Ιατρικής, το Κοινωφελές Ίδρυμα Λάτση, το Εμπειρίκειο\nΊδρυμα, το Department of the Navy των ΗΠΑ και το Graduate School του University of Minnesota."
+        },
+        "karantzalos": {
+          "link": "http://users.ntua.gr/karank",
+          "name": "Κωσταντίνος Καραντζάλος",
+          "bio": "O Κωσταντίνος Καραντζάλος είναι Αναπληρωτής Καθηγητής\nΤηλεπισκόπησης στο Εθνικό Μετσόβιο Πολυτεχνείο. Στα διδακτικά και ερευνητικά του\nενδιαφέροντα περιλαμβάνονται οι Γεωεπιστήμες και οι μέθοδοι Παρατήρησης Γης, τα μεγάλα\nγεωχωρικά δεδομένα, η ανάλυση υπερφασματικών δεδομένων, η όραση υπολογισμών και\nμηχανική μάθηση, με ποικίλες εφαρμογές όπως η παρακολούθηση του περιβάλλοντος και η\nγεωργία ακριβείας. Έχει δημοσιεύσει σε έγκυρα διεθνή επιστημονικά περιοδικά, ενώ έχει\nαποσπάσει αρκετές διακρίσεις για την επιστημονική συνεισφορά του ερευνητικού του έργου.\nΈχει πάνω από 17 χρόνια ερευνητικής εμπειρίας, συμμετοχή σε περισσότερα από 19\nευρωπαϊκά και εθνικά ερευνητικά προγράμματα αριστείας/ ανταγωνιστικότητας. Ο Δρ.\nΚαράντζαλος είναι Senior Member της ΙΕΕΕ, συμμετέχει στην Οργανωτική/ Επιστημονική\nΕπιτροπή έγκυρων διεθνών περιοδικών/ συνεδρίων, ενώ είναι αξιολογητής (Evaluator/ Panel\nMember) για Ευρωπαϊκά και Εθνικά ερευνητικά προγράμματα (H2020, Deutsche\nForschungsgemeinschaft, Israel Science Foundation, Belgian Science Policy Office, Netherlands\nOrganisation for Scientific Research, κ.α.). Σήμερα, ο Δρ. Καράντζαλος συμπροεδρεύει στην\nομάδα εργασίας ‘Hyperspectral Image Processing’ της International Society for Photogrammetry\nand Remote Sensing."
+        },
+        "sergis": {
+          "link": "http://www.academyofathens.gr/sites/default/files/Sergis%20long%20CV.pdf",
+          "name": "Νίκος Σέργης",
+          "bio": "Ο Δρ. Νίκος Σέργης είναι ερευνητής στο πεδίο της Διαστημικής Φυσικής. Από το\n2006 ως το 2020 εργάστηκε στο Γραφείο Διαστημικής Έρευνας και Τεχνολογίας\nτης Ακαδημίας Αθηνών σε συνεργασία με το Applied Physics Laboratory του\nJohns Hopkins University (JHU/APL), ενώ από το 2017 είναι Συνεργάτης\nΕρευνητής του Εθνικού Αστεροσκοπείου Αθηνών (ΕΑΑ/ΙΑΑΔΕΤ). Το ερευνητικό\nτου έργο περιλαμβάνει 77 επιστημονικές εργασίες σε διεθνή επιστημονικά\nπεριοδικά με κριτές με &gt;1600 ετεροαναφορές (h=25) και μεγάλο αριθμό\nπροσκεκλημένων ομιλιών-σεμιναρίων στην Ελλάδα και το εξωτερικό. Το 2009\nκαι το 2018 βραβεύθηκε από τη NASA για τη συμμετοχή του στην αποστολή\nCassini-Huygens και το 2008 από την Συντακτική Επιτροπή του επιστημονικού\nπεριοδικού Annales Geophysicae ως καλύτερος κριτής της χρονιάς. στο πεδίο\nτης Μαγνητοσπφαιρικής Φυσικής. Ο Δρ. Σέργης έχει εμπειρία στη διαχείριση\nερευνητικών προγραμμάτων, ενώ υπηρετεί ως αξιολογητής για προτάσεις που\nυποβάλλονται προς χρηματοδότηση στη NASA, την Ευρωπαϊκή Επιτροπή και σε\nεθνικούς φορείς χωρών της Ευρώπης. Είναι επικεφαλής ή μέλος ερευνητικών\nομάδων στο χώρο της Διαστημικής Επιστήμης και Εφαρμογών, σε συνεργασία\nμε ιδρύματα από χώρες της Ευρώπης και τις ΗΠΑ. Ο Δρ. Σέργης έχει επιβλέψει ή\nσυνεπιβλέψει διδακτορικές, μεταπτυχιακές και προπτυχιακές διατριβές στην\nΕλλάδα (ΕΚΠΑ) και το εξωτερικό. Είναι μέλος της Αμερικανικής Γεωφυσικής\nΈνωσης (AGU), της Ευρωπαϊκής Ένωσης Γεωεπιστημών (EGU) και της Διεθνούς\nΑστρονομικής Ένωσης (IAU)."
+        }
       }
     }
   }
