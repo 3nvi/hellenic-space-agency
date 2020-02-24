@@ -1,8 +1,7 @@
 import React from 'react';
-import config from './gatsby-config';
+import { PageContext } from './src/context/PageContext';
 import i18n from './i18next';
 import { I18nextProvider } from 'react-i18next';
-import Helmet from 'react-helmet';
 
 export const onPreRenderHTML = ({ getHeadComponents, replaceHeadComponents }) => {
   if (process.env.NODE_ENV !== 'production') {
@@ -34,28 +33,10 @@ export const onPreRenderHTML = ({ getHeadComponents, replaceHeadComponents }) =>
  * Wrap all pages with a Translation provider and set the language on SSR time
  */
 export const wrapPageElement = ({ element, props }) => {
-  const { lang, originalPath } = props.pageContext;
+  const { lang } = props.pageContext;
   i18n.changeLanguage(lang);
 
-  if (process.env.NODE_ENV !== 'production') {
-    return element;
-  }
-
-  return (
-    <React.Fragment>
-      <Helmet>
-        <link rel="canonical" href={`${process.env.URL}${originalPath}`} />
-        {config.siteMetadata.supportedLanguages.map(supportedLang => (
-          <link
-            rel="alternate"
-            hrefLang={supportedLang}
-            href={`${process.env.URL}/${supportedLang}${originalPath}`}
-          />
-        ))}
-      </Helmet>
-      {element}
-    </React.Fragment>
-  );
+  return <PageContext.Provider value={props.pageContext}>{element}</PageContext.Provider>;
 };
 
 export const wrapRootElement = ({ element }) => {

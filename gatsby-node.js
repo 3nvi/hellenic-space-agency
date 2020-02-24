@@ -19,6 +19,7 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => 
         context: {
           ...page.context,
           originalPath: page.path,
+          host: process.env.URL,
           lang,
         },
       });
