@@ -17,7 +17,7 @@ const menuLinks = [
   {
     id: 'contact',
     href: '/contact/',
-    isPrimary: true,
+    isPrimary: false,
   },
 ];
 
@@ -66,20 +66,16 @@ const Header: React.FC = () => {
             </ul>
           </nav>
         </div>
-      </header>
-      <ul className="language-selector-container">
-        <li>
+        <div className="language-selector-container">
           <Link aria-label="Change language to greek" to="/el/">
             ΕΛ
           </Link>
-        </li>
-        <span>|</span>
-        <li>
+          <span>|</span>
           <Link aria-label="Change language to english" to="/en/">
             EN
           </Link>
-        </li>
-      </ul>
+        </div>
+      </header>
     </React.Fragment>
   );
 };
