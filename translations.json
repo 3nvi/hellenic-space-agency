@@ -14,6 +14,10 @@
         },
         "welcomeMsg": "Welcome to our landing page"
       },
+      "landing": {
+        "title": "Hellenic Space Agency",
+        "description": "A place to visit the stars from the comfort of your house"
+      },
       "about": {
         "title": "About us",
         "description": "A few words about us",
@@ -55,6 +59,10 @@
           "contact": "Επικοινωνια"
         },
         "welcomeMsg": "Καλωσήρθατε στη αρχική μας σελίδα"
+      },
+      "landing": {
+        "title": "Ελληνικό Κέντρο Διαστήματος",
+        "description": "Δείτε το γαλαξία από την άνεση του σπιτιού σας"
       },
       "about": {
         "title": "Ποιοί Είμαστε",

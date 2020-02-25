@@ -9,12 +9,8 @@ const Banner: React.FC = () => {
     <section id="banner">
       <div className="content">
         <header>
-          <h2>Hellenic Space Agency</h2>
-          <p>
-            Commited to do something really really big.
-            <br />
-            {t('header.welcomeMsg', 'aggilos')}
-          </p>
+          <h2>{t('banner.title')}</h2>
+          <p>{t('banner.description')}</p>
         </header>
         <span className="image">
           <img src={pic01} alt="intro" />
