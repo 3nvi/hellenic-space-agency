@@ -1,7 +1,7 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import Link from './Link';
-import { usePageContext } from '../context/PageContext';
+import LanguagePicker from './LanguagePicker';
 
 interface MenuLink {
   id: string;
@@ -14,19 +14,10 @@ interface MobileMenuProps {
 
 const MobileMenu: React.FC<MobileMenuProps> = ({ menuLinks }) => {
   const { t } = useTranslation();
-  const { originalPath } = usePageContext();
 
   return (
     <div>
-      <div className="language-selector-container">
-        <Link aria-label="Change language to greek" to={originalPath || '/'}>
-          ΕΛ
-        </Link>
-        <span>|</span>
-        <Link aria-label="Change language to english" to={originalPath || '/'}>
-          EN
-        </Link>
-      </div>
+      <LanguagePicker />
       <nav>
         <ul>
           {menuLinks.map(link => (

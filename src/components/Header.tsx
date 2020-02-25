@@ -2,7 +2,7 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import Link from '../components/Link';
 import MobileMenu from './MobileMenu';
-import { usePageContext } from '../context/PageContext';
+import LanguagePicker from './LanguagePicker';
 
 const menuLinks = [
   {
@@ -24,7 +24,6 @@ const menuLinks = [
 
 const Header: React.FC = () => {
   const { t } = useTranslation();
-  const { originalPath } = usePageContext();
   const [isMenuActive, setMenuActive] = React.useState(false);
 
   const [mobileActiveClass, setMobileActiveClass] = React.useState('');
@@ -68,15 +67,7 @@ const Header: React.FC = () => {
             </ul>
           </nav>
         </div>
-        <div className="language-selector-container">
-          <Link aria-label="Change language to greek" to={originalPath || '/'}>
-            ΕΛ
-          </Link>
-          <span>|</span>
-          <Link aria-label="Change language to english" to={originalPath || '/'}>
-            EN
-          </Link>
-        </div>
+        <LanguagePicker />
       </header>
     </React.Fragment>
   );
