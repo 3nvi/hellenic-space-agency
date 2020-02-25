@@ -9,8 +9,8 @@ const Banner: React.FC = () => {
     <section id="banner">
       <div className="content">
         <header>
-          <h2>{t('banner.title')}</h2>
-          <p>{t('banner.description')}</p>
+          <h2>{t('landing.title')}</h2>
+          <p>{t('landing.description')}</p>
         </header>
         <span className="image">
           <img src={pic01} alt="intro" />
