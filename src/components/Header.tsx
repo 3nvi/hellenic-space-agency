@@ -2,6 +2,7 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import Link from '../components/Link';
 import MobileMenu from './MobileMenu';
+import { useLocation } from '@reach/router';
 
 const menuLinks = [
   {
@@ -23,6 +24,7 @@ const menuLinks = [
 
 const Header: React.FC = () => {
   const { t } = useTranslation();
+  const { pathname } = useLocation();
   const [isMenuActive, setMenuActive] = React.useState(false);
 
   const [mobileActiveClass, setMobileActiveClass] = React.useState('');
@@ -67,11 +69,11 @@ const Header: React.FC = () => {
           </nav>
         </div>
         <div className="language-selector-container">
-          <Link aria-label="Change language to greek" to="/el/">
+          <Link aria-label="Change language to greek" to={pathname}>
             ΕΛ
           </Link>
           <span>|</span>
-          <Link aria-label="Change language to english" to="/en/">
+          <Link aria-label="Change language to english" to={pathname}>
             EN
           </Link>
         </div>

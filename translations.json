@@ -12,7 +12,7 @@
           "about": "About",
           "contact": "Contact"
         },
-        "welcomeMsg": "Welcome to React and react-i18next"
+        "welcomeMsg": "Welcome to our landing page"
       },
       "about": {
         "title": "About us",
@@ -54,7 +54,7 @@
           "about": "Ποιοι ειμαστε",
           "contact": "Επικοινωνια"
         },
-        "welcomeMsg": "Καλωσήρθατε στη React"
+        "welcomeMsg": "Καλωσήρθατε στη αρχική μας σελίδα"
       },
       "about": {
         "title": "Ποιοί Είμαστε",
