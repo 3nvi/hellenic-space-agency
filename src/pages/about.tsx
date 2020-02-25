@@ -7,6 +7,7 @@ import daglis from '../assets/images/daglis.jpg';
 import karantzalos from '../assets/images/karantzalos.jpg';
 import SEO from '../components/SEO';
 import { useTranslation } from 'react-i18next';
+import Profile from '../components/Profile';
 
 const About: React.FC = () => {
   const { t } = useTranslation();
@@ -24,7 +25,7 @@ const About: React.FC = () => {
             <a href="#" className="image fit">
               <img src={pic07} alt="" />
             </a>
-            <h3>Dolore Amet Consequat</h3>
+            <h3>ΕΛ.ΚΕ.Δ</h3>
             <p>
               Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi
               justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros.
@@ -47,67 +48,10 @@ const About: React.FC = () => {
             </p>
           </section>
           <article>
-            <section className="profile">
-              <header>
-                <h3>{t('about.daglis.name')}</h3>
-                <a href={t('about.daglis.link')} target="_blank" rel="noopener noreferrer">
-                  {t('about.daglis.link')}
-                </a>
-              </header>
-              <p>
-                <span className="image left">
-                  <img src={daglis} width={300} height={300} alt="Ioannis Daglis Avatar" />
-                </span>
-                {t('about.daglis.bio')}
-              </p>
-            </section>
-            <section className="profile">
-              <header>
-                <h3>{t('about.nounesis.name')}</h3>
-                <a href={t('about.nounesis.link')} target="_blank" rel="noopener noreferrer">
-                  {t('about.nounesis.link')}
-                </a>
-              </header>
-              <p>
-                <span className="image right">
-                  <img src={nounesis} width={300} height={300} alt="George Nounesis Avatar" />
-                </span>
-                {t('about.nounesis.bio')}
-              </p>
-            </section>
-            <section className="profile">
-              <header>
-                <h3>{t('about.karantzalos.name')}</h3>
-                <a href={t('about.karantzalos.link')} target="_blank" rel="noopener noreferrer">
-                  {t('about.karantzalos.link')}
-                </a>
-              </header>
-              <p>
-                <span className="image left">
-                  <img
-                    src={karantzalos}
-                    width={300}
-                    height={300}
-                    alt="Konstantinos Karantzalos Avatar"
-                  />
-                </span>
-                {t('about.karantzalos.bio')}
-              </p>
-            </section>
-            <section className="profile">
-              <header>
-                <h3>{t('about.sergis.name')}</h3>
-                <a href={t('about.sergis.link')} target="_blank" rel="noopener noreferrer">
-                  {t('about.sergis.link')}
-                </a>
-              </header>
-              <p>
-                <span className="image right">
-                  <img src={sergis} width={300} height={300} alt="Nikos Sergis Avatar" />
-                </span>
-                {t('about.sergis.bio')}
-              </p>
-            </section>
+            <Profile tProfileKey="daglis" image={daglis} alignImage="left" />
+            <Profile tProfileKey="nounesis" image={nounesis} alignImage="right" />
+            <Profile tProfileKey="karantzalos" image={karantzalos} alignImage="left" />
+            <Profile tProfileKey="sergis" image={sergis} alignImage="right" />
           </article>
         </div>
       </main>

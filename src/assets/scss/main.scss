@@ -948,6 +948,16 @@ input[type='radio'] {
       width: 100%;
     }
   }
+
+  @include breakpoint('<=small') {
+    &.left,
+    &.right {
+      max-width: none;
+      float: none;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
 }
 
 /* List */
@@ -1865,9 +1875,9 @@ body.is-touch {
 
 /* About */
 .profile {
-  margin-bottom: 5em;
+  margin-bottom: 7.5em;
 
-  a {
+  header > a {
     display: inline-block;
     position: relative;
     top: -1em;
