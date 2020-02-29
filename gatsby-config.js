@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     image: `/assets/images/main.jpg`,
     supportedLanguages: ['el', 'en'],
+    defaultLanguage: 'en',
     // logo: `/assets/images/favicon.png`,
   },
   plugins: [
@@ -43,5 +44,14 @@ module.exports = {
     'gatsby-plugin-sharp',
     'gatsby-plugin-sass',
     'gatsby-plugin-typescript',
+    {
+      resolve: 'gatsby-plugin-netlify',
+      options: {
+        headers: {
+          // contents of the /static/assets folder should not be aggresively cached
+          '/assets/*': ['Cache-Control: public,max-age=86400,stale-while-revalidate=86400'],
+        },
+      },
+    },
   ],
 };
