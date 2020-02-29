@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     image: `/assets/images/main.jpg`,
-    supportedLanguages: ['en', 'el'],
+    supportedLanguages: ['el', 'en'],
     // logo: `/assets/images/favicon.png`,
   },
   plugins: [

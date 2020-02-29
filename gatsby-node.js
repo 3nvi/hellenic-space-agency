@@ -5,10 +5,6 @@ const config = require('./gatsby-config');
  * it will be accessible from https:// .../en/404/ and https:// .../el/404/
  */
 exports.onCreatePage = async ({ page, actions: { createPage, deletePage } }) => {
-  if (process.env.NODE_ENV === 'development') {
-    return;
-  }
-
   await deletePage(page);
 
   await Promise.all(
