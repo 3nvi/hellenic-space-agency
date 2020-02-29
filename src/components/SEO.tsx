@@ -68,6 +68,11 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
       link={[
         {
           rel: 'canonical',
+          href: `${host}/${lang}${originalPath}`,
+        },
+        {
+          rel: 'alternate',
+          hrefLang: 'x-default',
           href: `${host}${originalPath}`,
         },
         ...site.siteMetadata.supportedLanguages.map((supportedLang: string) => ({
