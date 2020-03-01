@@ -45,6 +45,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     'gatsby-plugin-sass',
     'gatsby-plugin-typescript',
+    'gatsby-plugin-sitemap',
     {
       resolve: 'gatsby-plugin-netlify',
       options: {
