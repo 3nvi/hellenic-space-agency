@@ -3,6 +3,7 @@ module.exports = {
     image: `/assets/images/main.jpg`,
     supportedLanguages: ['el', 'en'],
     defaultLanguage: 'en',
+    siteUrl: process.env.URL || 'localhost:8000',
     // logo: `/assets/images/favicon.png`,
   },
   plugins: [

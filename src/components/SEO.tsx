@@ -17,6 +17,7 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
       query {
         site {
           siteMetadata {
+            siteUrl
             image
             supportedLanguages
           }
@@ -25,10 +26,10 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
     `
   );
 
-  const { lang, host, originalPath } = usePageContext();
+  const { lang, originalPath } = usePageContext();
 
   const metaDescription = description || t('siteMetadata.description');
-
+  const host = site.siteMetadata.siteUrl;
   return (
     <Helmet
       htmlAttributes={{
