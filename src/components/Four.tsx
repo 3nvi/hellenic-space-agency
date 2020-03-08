@@ -1,6 +1,7 @@
 import React from 'react';
 import Fade from 'react-reveal/Fade';
 import { useTranslation } from 'react-i18next';
+import Link from './Link';
 
 const Four: React.FC = () => {
   const { t } = useTranslation();
@@ -25,9 +26,9 @@ const Four: React.FC = () => {
           <footer className="major">
             <ul className="actions special">
               <li>
-                <a href="/" className="button">
+                <Link to="/about/" className="button">
                   {t('common.learnMore')}
-                </a>
+                </Link>
               </li>
             </ul>
           </footer>

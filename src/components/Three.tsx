@@ -3,6 +3,7 @@ import pic04 from '../assets/images/pic04.jpg';
 import { Link as ScrollLink } from 'react-scroll';
 import Fade from 'react-reveal/Fade';
 import { useTranslation } from 'react-i18next';
+import Link from './Link';
 
 const Three: React.FC = () => {
   const { t } = useTranslation();
@@ -23,9 +24,9 @@ const Three: React.FC = () => {
           <p>{t('landing.missions.2.details')}</p>
           <ul className="actions">
             <li>
-              <a href="/" className="button">
+              <Link to="/about/" className="button">
                 {t('common.learnMore')}
-              </a>
+              </Link>
             </li>
           </ul>
         </div>
