@@ -4,7 +4,6 @@ module.exports = {
     supportedLanguages: ['el', 'en'],
     defaultLanguage: 'en',
     siteUrl: process.env.URL || 'localhost:8000',
-    // logo: `/assets/images/favicon.png`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -17,7 +16,7 @@ module.exports = {
         background_color: '#663399',
         theme_color: '#663399',
         display: 'minimal-ui',
-        // icon: 'static/assets/images/favicon.png', // This path is relative to the root of the site.
+        icon: 'static/assets/images/favicon.png',
       },
     },
     {
