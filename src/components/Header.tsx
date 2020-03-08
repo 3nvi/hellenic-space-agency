@@ -1,5 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import logo from '../assets/images/logo.jpg';
 import Link from '../components/Link';
 import MobileMenu from './MobileMenu';
 import LanguagePicker from './LanguagePicker';
@@ -52,6 +53,9 @@ const Header: React.FC = () => {
 
       <header id="header">
         <h1 id="logo">
+          <span className="image">
+            <img alt="logo" width={30} height={30} src={logo} />
+          </span>
           <Link to="/">{t('siteMetadata.title')}</Link>
         </h1>
         <div className="navbar-menu">

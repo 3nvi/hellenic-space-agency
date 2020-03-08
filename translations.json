@@ -58,7 +58,7 @@
           "link": "https://www.enveng.tuc.gr/en/prosopiko/kathigites/konstantinos-synolakis/",
           "name": "Konstantinos Synolakis",
           "role": "Member",
-          "bio": "Costas Synolakis studies the impact of natural hazards, and particularly tsunamis and extreme flooding events on beaches. He has led or participated in about 30 scientific expeditions in twenty one countries, practically in all of the world's oceans and seas. His work in Papua New Guinea, Vanuatu, the Aleutian islands, the Marquesas, Sri Lanka, the Maldives, Kenya and Oman was groundbreaking and highly cited.\n\nProfessor Synolakis grew up in Athens, then attended the California Institute of Technology, where he did all his professional degrees. In 1985, he was appointed as assistant professor of Civil and Environmental Engineering at USC. In 1996, he was appointed Professor of Civil, Mechanical, Environmental and Aerospace Engineering at the Viterbi School of Engineering.\n\nIn 1996, Costas Synolakis founded the USC Tsunami Research Center. Its main accomplishments have been : One, the development of MOST, the operational code used by the US-based and Australian based tsunami warning centers for tsunami forecasts, and two, the production of all official State maps for California for evacuation planning. In the aftermath of the 2004 Indonesian tsunami, the TRC for three days, held 70% of USC's went traffic, being then the only university center worldwide focused on tsunamis. In fact, USC shut down the site for a few hours, suspicious that it was subject to a cyber attack - the TRC received 35 million \"hits\" from people interested in tsunamis, worldwide in three days,\n\nIn the aftermath of the Boxing Day tsunami, Professor Synolakis was appointed in the only Chair in Greek universities at the time, on natural hazard mitigation. The Laboratory which he founded studies extreme events such as earthquakes, tsunamis, fires and the impact of waves on beaches, particularly erosion, as well as wildfire evolution. The results the Laboratory has generated from its nearshore field measurements of wind waves and currents, they are being now exploited in Greece to address the problems of coastal erosion and extreme marine-related floods. He holds this appointment in parallel and teaches at TUC whenever he is on leave from USC.\n\nProfessor Synolakis has received both major awards of the American Society of Civil Engineers, the 2015 Moffat and Nichol Coastal Engineering Award and the 2019 International Coastal Engineering Award. In 2014, he received the Sergey Soloviev Medal of the European Geophysical Union.\n\nProfessor Synolakis now holds the Chair of Earth Sciences in the Academy of Athens, and in 2018, he is the President of the Division of Natural Sciences of the Academy. Since 2019, he is the Secretary. The Academy of Athens only has 40 members from all letters, arts, sciences, medicine and engineering discipline, and is the Greek National Academy. He is also a member of the Academia Europae and is the Chair of the National Committee on Climate Change of Greece."
+          "bio": "Costas Synolakis studies the impact of natural hazards, and particularly tsunamis and extreme flooding events on beaches. He has led or participated in about 30 scientific expeditions in twenty one countries, practically in all of the world's oceans and seas. His work in Papua New Guinea, Vanuatu, the Aleutian islands, the Marquesas, Sri Lanka, the Maldives, Kenya and Oman was groundbreaking and highly cited.\n\nProfessor Synolakis grew up in Athens, then attended the California Institute of Technology, where he did all his professional degrees. In 1985, he was appointed as assistant professor of Civil and Environmental Engineering at USC. In 1996, he was appointed Professor of Civil, Mechanical, Environmental and Aerospace Engineering at the Viterbi School of Engineering.\n\nIn 1996, Costas Synolakis founded the USC Tsunami Research Center. In the aftermath of the Boxing Day tsunami, Professor Synolakis was appointed in the only Chair in Greek universities at the time, on natural hazard mitigation. The Laboratory which he founded studies extreme events such as earthquakes, tsunamis, fires and the impact of waves on beaches, particularly erosion, as well as wildfire evolution. He holds this appointment in parallel and teaches at TUC whenever he is on leave from USC.\n\nProfessor Synolakis has received both major awards of the American Society of Civil Engineers, the 2015 Moffat and Nichol Coastal Engineering Award and the 2019 International Coastal Engineering Award. In 2014, he received the Sergey Soloviev Medal of the European Geophysical Union.\n\nProfessor Synolakis now holds the Chair of Earth Sciences in the Academy of Athens, and in 2018, he is the President of the Division of Natural Sciences of the Academy. He is also a member of the Academia Europae and is the Chair of the National Committee on Climate Change of Greece."
         },
         "giannakaki": {
           "link": "https://www.linkedin.com/in/antigoni-giannakaki-355831138/",
@@ -83,14 +83,16 @@
 
       "header": {
         "links": {
-          "home": "Αρχικη",
-          "about": "Ποιοι ειμαστε",
-          "contact": "Επικοινωνια"
+          "home": "Αρχική",
+          "about": "Ποιοί είμαστε",
+          "contact": "Επικοινωνία"
         }
       },
       "landing": {
-        "title": "Ελληνικό Κέντρο Διαστήματος",
-        "description": "υπό τη αιγίδα του Υπουργείου Ψηφιακής Διακυβέρνησης",
+        "mainTitle": "Ελληνικό Κέντρο Διαστήματος",
+        "mainSubtitle": "υπό τη αιγίδα του Υπουργείου Ψηφιακής Διακυβέρνησης",
+        "missionTitle": "Ενημέρωση. Υποστήριξη. Επιμόρφωση.",
+        "missionSubtitle": "σε όλα τα ζητήματα του τομέα του διαστήματος",
         "missions": [
           {
             "title": "Το ΕΛ.ΚΕ.Δ. είναι διάδοχος της ΕΛ.Δ.Ο.",
@@ -109,12 +111,40 @@
             "details": "Σκοπός του ΕΛ.ΚΕ.Δ. είναι η συμμετοχή σε ευρωπαϊκούς και διεθνείς οργανισμούς, πρωτοβουλίες, φόρουμ και δραστηριότητες για θέματα Διαστήματος, ο συντονισμός των εθνικών εκπροσώπων στον τομέα του Διαστήματος, η ανάπτυξη ευρωπαϊκών και διεθνών συνεργασιών, η ανταλλαγή και σύνθεση γνώσεων, καινοτομίας και δράσεων προκειμένου να μεγιστοποιηθεί η ανταποδοτική συμμετοχή της χώρας στους ευρωπαϊκούς και διεθνείς οργανισμούς Διαστήματος, σε ευρωπαϊκά ή διεθνή διαστημικά προγράμματα, καθώς και η συμμετοχή στη σχεδίαση προγραμμάτων για την εξυπηρέτηση εθνικών, επιστημονικών, επιχειρησιακών και αναπτυξιακών αναγκών στις οποίες το Διάστημα έχει πρωταρχικό ρόλο."
           }
         ],
-        "bulletpoints": []
+        "goalsTitle": "Ο ρόλος του ΕΛ.ΚΕ.Δ. είναι πολυποίκιλος",
+        "goalsSubtitle": "Ανάμεσα στις κύριες αρμοδιότητές του είναι τα ακόλουθα",
+        "goals": [
+          {
+            "title": "Ενίσχυση οικονομίας",
+            "details": "Συμβολή στην ανάπτυξη και ενίσχυση της τεχνολογίας και των διαστημικών εφαρμογών, υπηρεσιών και επίγειων υποδομών προς όφελος της εγχώριας βιομηχανίας και έρευνας."
+          },
+          {
+            "title": "Σχεδιασμός Εξοπλισμού",
+            "details": "Υποστήριξη στο σχεδιασμό δορυφόρων, δορυφορικών συστημάτων, υλικών και εξοπλισμού, συμπεριλαμβανομένων των δραστηριοτήτων τηλεπισκόπησης."
+          },
+          {
+            "title": "Εκπαιδευτικός Χαρακτήρας",
+            "details": "Συνεχής επιμόρφωση των φοιτητών, των νέων ερευνητών και των δημόσιων λειτουργών σε θέματα Διαστήματος."
+          },
+          {
+            "title": "Ενημέρωση Κοινού",
+            "details": "Σχεδίαση και η συμμετοχή στην υλοποίηση δράσεων για την κατανόηση των διαστημικών δραστηριοτήτων και εφαρμογών."
+          },
+          {
+            "title": "Μεταλαμπάδευση Γνώσης",
+            "details": "Προώθηση θεμάτων τυποποίησης και η μεταφορά τεχνογνωσίας και καλών πρακτικών στον τομέα των διαστημικών εφαρμογών και υπηρεσιών."
+          },
+          {
+            "title": "Συνεργασία με το Δημόσιο",
+            "details": "Παροχή συνδρομής προς το Δημόσιο αναφορικά με δορυφορικά και διαστημικά θέματα, καθώς και η παροχή συμβουλευτικών υπηρεσιών και η εκπόνηση μελετών προς το Υπουργείο Ψηφιακής Διακυβέρνησης."
+          }
+        ]
       },
       "about": {
-        "title": "Ποιοί Είμαστε",
-        "description": "Λίγα λόγια για εμάς",
-        "content": "Το ΕΛ.ΚΕ.Δ. εποπτεύεται από τον Υπουργό Ψηφιακής Διακυβέρνησης και υπεισέρχεται ως καθολικός διάδοχος στη θέση της ΕΛ.Δ.Ο. στο σύνολο των πάσης φύσεως αρμοδιοτήτων, δικαιωμάτων, υπο-χρεώσεων  και  λοιπών  σχέσεων  της  ΕΛ.Δ.Ο. Σκοπός του είναι η συμμετοχή σε ευρωπαϊκούς και διεθνείς οργανισμούς, πρωτοβουλίες, φόρουμ και δραστηριότητες για θέματα Διαστήματος, ο συντονισμός των εθνικών εκπροσώπων στον τομέα του Διαστήματος, η ανάπτυξη ευρωπαϊκών και διεθνών συνεργασιών, η ανταλλαγή και σύνθεση γνώσεων, καινοτομίας και δράσεων προκειμένου να μεγιστοποιηθεί η ανταποδοτική συμμετοχή της χώρας στους ευρωπαϊκούς και διεθνείς οργανισμούς Διαστήματος, σε ευρωπαϊκά ή διεθνή διαστημικά προγράμματα, καθώς και η συμμετοχή στη σχεδίαση προγραμμάτων για την εξυπηρέτηση εθνικών, επιστημονικών, επιχειρησιακών και αναπτυξιακών αναγκών στις οποίες το Διάστημα έχει πρωταρχικό ρόλο.",
+        "mainTitle": "Ποιοί Είμαστε",
+        "mainSubtitle": "Λίγα λόγια για εμάς",
+        "membersTitle": "Διοικητικό Συμβούλιο και Μέλη",
+        "content": "Το ΕΛ.ΚΕ.Δ. εποπτεύεται από τον Υπουργό Ψηφιακής Διακυβέρνησης και υπεισέρχεται ως καθολικός διάδοχος στη θέση της ΕΛ.Δ.Ο. στο σύνολο των πάσης φύσεως αρμοδιοτήτων, δικαιωμάτων, υπο-χρεώσεων  και  λοιπών  σχέσεων  της  ΕΛ.Δ.Ο. Οι σκοποί του ΕΛ.ΚΕ.Δ. είναι οι ακόλουθοι: \n\n H διαμόρφωση πρότασης για τη στρατηγική στον τομέα του διαστήματος και η εκπόνηση κυλιόμενου-δυναμικού σχεδίου δράσης της διαστημικής στρατηγικής σε συνεργασία με την πανεπιστημιακή και ερευνητική κοινότητα,  τον  Δημόσιο  και  τον  Ιδιωτικό  Τομέα  που  προσδιορίζει στόχους, τομείς συνεργασίας και διαδικασίες για την επίτευξη των στόχων. H συνεργασία,  ο  συντονισμός,  η  υποστήριξη  και  η κινητοποίηση φορέων, υπηρεσιών και νομικών προσώπων του Δημοσίου και του Ιδιωτικού Τομέα για την προώθηση, διάχυση και αξιοποίηση της διαστημικής στρατηγικής της Ελλάδας, καθώς και η συμμετοχή σε ευρωπαϊκούς και διεθνείς οργανισμούς και ομάδες που δραστηριοποιούνται  σε  διαστημικά  θέματα  και  προγράμματα. H προώθηση και συμμετοχή ως συντονιστής δημόσιων φορέων σε έργα και προγράμματα, καθώς και η διαχείριση εθνικών προγραμμάτων και έργων σε τομείς του Διαστήματος, όπως η επιστημονική έρευνα, η τεχνολογία, οι τηλεπικοινωνίες, η ασφάλεια, η οικονομία, το περιβάλλον, η αγροτική ανάπτυξη, οι μεταφορές, η ηλεκτρονική διακυβέρνηση και το εμπόριο. \n\n H συμμετοχή σε ευρωπαϊκούς και διεθνείς οργανισμούς, πρωτοβουλίες, φόρουμ και δραστηριότητες για θέματα Διαστήματος, ο συντονισμός των εθνικών εκπροσώπων στον τομέα του Διαστήματος, η ανάπτυξη ευρωπαϊκών και διεθνών συνεργασιών, η ανταλλαγή και σύνθεση γνώσεων, καινοτομίας και δράσεων προκειμένου να μεγιστοποιηθεί η ανταποδοτική συμμετοχή της χώρας στους ευρωπαϊκούς και διεθνείς οργανισμούς Διαστήματος, σε ευρωπαϊκά ή διεθνή διαστημικά προγράμματα, καθώς και η συμμετοχή στη σχεδίαση προγραμμάτων για την εξυπηρέτηση εθνικών, επιστημονικών, επιχειρησιακών και αναπτυξιακών αναγκών στις οποίες το Διάστημα έχει πρωταρχικό ρόλο. \n\n Η συμβολή στην ανάπτυξη και ενίσχυση της τεχνολογίας και των διαστημικών εφαρμογών, υπηρεσιών και επίγειων υποδομών προς όφελος της εγχώριας βιομηχανίας και έρευνας, καθώς και η υποστήριξη στο σχεδιασμό δορυφόρων, δορυφορικών συστημάτων, υλικών και εξοπλισμού, συμπεριλαμβανομένων των δραστηριοτήτων τηλεπισκόπησης, μέσω και της αξιοποίησης της συμμετοχής της χώρας στους διεθνείς και ευρωπαϊκούς οργανισμούς και προγράμματα, καθώς και στις πάσης φύσεως επιστροφές που δικαιούται η χώρα. \n\n H η συνεργασία με αρμόδιους φορείς και υπηρεσίες για τη συνεχή επιμόρφωση των φοιτητών, των νέων ερευνητών και των δημόσιων λειτουργών σε θέματα Διαστήματος, καθώς και η σχεδίαση και η συμμετοχή στην υλοποίηση δράσεων για την κατανόηση των διαστημικών δραστηριοτήτων και εφαρμογών. \n\n Η προώθηση θεμάτων τυποποίησης και η μεταφορά τεχνογνωσίας και καλών πρακτικών στον τομέα των διαστημικών εφαρμογών και υπηρεσιών \n\n H πειραματική ή εμπορική αξιοποίηση των δικαιωμάτων του Δημοσίου σε δορυφορικά και διαστημικά αντικείμενα, καθώς και η αξιοποίηση των συναφών υπηρεσιών, πόρων και περιουσιακών στοιχείων, κινητών και ακινήτων, κατόπιν σχετικής εκχωρήσεως ή άδειας του Υπουργού Ψηφιακής Διακυβέρνησης \n\n H παροχή συνδρομής προς το Δημόσιο αναφορικά με δορυφορικά και διαστημικά θέματα, καθώς και η παροχή συμβουλευτικών υπηρεσιών και η εκπόνηση μελετών προς το Υπουργείο Ψηφιακής Διακυβέρνησης αναφορικά με τη διαχείριση των δικαιωμάτων και των υποχρεώσεων του Δημοσίου στο Διάστημα, την καταχώριση και αξιολόγηση διαστημικών αντικειμένων, καθώς και την ανάπτυξη δορυφορικών συστημάτων.",
         "daglis": {
           "link": "http://scholar.uoa.gr/iadaglis/home",
           "name": "Ιωάννης Δαγκλής",
