@@ -5,7 +5,6 @@ import pic02 from '../assets/images/pic02.jpg';
 import pic03 from '../assets/images/pic03.jpg';
 import pic04 from '../assets/images/pic04.jpg';
 import pic07 from '../assets/images/pic07.jpg';
-import pic08 from '../assets/images/pic08.jpg';
 
 const Elements: React.FC = () => (
   <Layout>
@@ -575,7 +574,7 @@ const Elements: React.FC = () => (
           <h4>Left &amp; Right</h4>
           <p>
             <span className="image left">
-              <img src={pic08} alt="" />
+              <img src={pic07} alt="" />
             </span>
             Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus
             euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
@@ -597,7 +596,7 @@ const Elements: React.FC = () => (
           </p>
           <p>
             <span className="image right">
-              <img src={pic08} alt="" />
+              <img src={pic07} alt="" />
             </span>
             Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus
             euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu
