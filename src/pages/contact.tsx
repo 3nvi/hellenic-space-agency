@@ -1,105 +1,78 @@
 import React from 'react';
-import { Helmet } from 'react-helmet';
 import Layout from '../components/Layout';
-import pic05 from '../assets/images/pic05.jpg';
-import pic06 from '../assets/images/pic06.jpg';
+import SEO from '../components/SEO';
+import { useTranslation } from 'react-i18next';
 
-const Contact: React.FC = () => (
-  <Layout isHeaderSticky>
-    <Helmet>
-      <title>Left Sidebar</title>
-      <meta name="description" content="Left Sidebar Page" />
-    </Helmet>
+const Contact: React.FC = () => {
+  const { t } = useTranslation();
+  return (
+    <Layout isHeaderSticky>
+      <SEO title={t('contact.mainTitle')} />
 
-    <main className="wrapper style1">
-      <div className="container">
-        <header className="major">
-          <h2>Left Sidebar</h2>
-          <p>Ipsum dolor feugiat aliquam tempus sed magna lorem consequat accumsan</p>
-        </header>
-        <div className="row gtr-150">
-          <div className="col-4 col-12-medium">
-            <section id="sidebar">
-              <section>
-                <h3>Magna Feugiat</h3>
+      <main className="wrapper style1">
+        <div className="container">
+          <header className="major">
+            <h2>{t('contact.mainTitle')}</h2>
+            <p>{t('contact.mainSubtitle')}</p>
+          </header>
+          <div className="row gtr-150 aln-center">
+            <div className="col-6 col-12-medium ">
+              <section id="sidebar">
+                <h3>{t('contact.location')}</h3>
                 <p>
-                  Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a
-                  ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit
-                  ullamcorper commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit..
+                  <address>Βαλτετσίου 35, Χαλανδρι, 15234, Αττική, Ελλάδα</address>
                 </p>
-                <footer>
-                  <ul className="actions">
-                    <li>
-                      <a href="#" className="button">
-                        Learn More
-                      </a>
-                    </li>
-                  </ul>
-                </footer>
-              </section>
-              <hr />
-              <section>
-                <a href="#" className="image fit">
-                  <img src={pic06} alt="" />
-                </a>
-                <h3>Amet Lorem Tempus</h3>
                 <p>
-                  Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a
-                  ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit
-                  ullamcorper sed blandit lorem ipsum dolore.
+                  <a href="mailto:contact@hsa.gr">contact@hsa.gr</a>
+                  <br />
+                  <a href="tel:+302105555555">+30 210 55 55 555</a>
                 </p>
-                <footer>
-                  <ul className="actions">
-                    <li>
-                      <a href="#" className="button">
-                        Learn More
-                      </a>
-                    </li>
-                  </ul>
-                </footer>
               </section>
-            </section>
-          </div>
-          <div className="col-8 col-12-medium imp-medium">
-            <section id="content">
-              <a href="#" className="image fit">
-                <img src={pic05} alt="" />
-              </a>
-              <h3>Dolore Amet Consequat</h3>
-              <p>
-                Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi
-                justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros.
-                Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi
-                tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper,
-                porta cursus justo. Cras vel neque eros. Vestibulum diam.
-              </p>
-              <p>
-                Vestibulum diam quam, mollis at consectetur non, malesuada quis augue. Morbi
-                tincidunt pretium interdum. Morbi mattis elementum orci, nec dictum porta cursus
-                justo. Quisque ultricies lorem in ligula condimentum, et egestas turpis sagittis.
-                Cras ac nunc urna. Nullam eget lobortis purus. Phasellus vitae tortor non est
-                placerat tristique.
-              </p>
-              <h3>Sed Magna Ornare</h3>
-              <p>
-                In vestibulum massa quis arcu lobortis tempus. Nam pretium arcu in odio vulputate
-                luctus. Suspendisse euismod lorem eget lacinia fringilla. Sed sed felis justo. Nunc
-                sodales elit in laoreet aliquam. Nam gravida, nisl sit amet iaculis porttitor, risus
-                nisi rutrum metus.
-              </p>
-              <ul>
-                <li>Faucibus orci lobortis ac adipiscing integer.</li>
-                <li>Col accumsan arcu mi aliquet placerat.</li>
-                <li>Lobortis vestibulum ut magna tempor massa nascetur.</li>
-                <li>Blandit massa non blandit tempor interdum.</li>
-                <li>Lacinia mattis arcu nascetur lobortis.</li>
-              </ul>
-            </section>
+              <section id="content">
+                <iframe
+                  title="Google maps location"
+                  width="100%"
+                  height="275"
+                  frameBorder="0"
+                  style={{ border: 'none', borderRadius: '3px' }}
+                  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB6KD7SuUeUkddpfpkaZ2oylDtkZjTX4es
+    &q=Kapodistrian+Universiry+Physics+Athens"
+                  allowFullScreen
+                />
+              </section>
+            </div>
+            <div className="col-6 col-12-medium ">
+              <section>
+                <h3>{t('contact.contactFormTitle')}</h3>
+                <p>{t('contact.contactFormSubtitle')}</p>
+                <form method="post" action="#">
+                  <div className="row gtr-uniform gtr-50">
+                    <div className="col-6 col-12-xsmall">
+                      <input type="text" name="name" id="name" placeholder="Name" />
+                    </div>
+                    <div className="col-6 col-12-xsmall">
+                      <input type="email" name="email" id="email" placeholder="Email" />
+                    </div>
+                    <div className="col-12">
+                      <textarea
+                        name="message"
+                        id="message"
+                        placeholder="Enter your message"
+                        rows={6}
+                      />
+                    </div>
+                    <div className="col-12">
+                      <input type="submit" value="Send Message" className="primary fit" />
+                    </div>
+                  </div>
+                </form>
+              </section>
+            </div>
           </div>
         </div>
-      </div>
-    </main>
-  </Layout>
-);
+      </main>
+    </Layout>
+  );
+};
 
 export default Contact;
