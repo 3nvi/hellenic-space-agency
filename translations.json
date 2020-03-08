@@ -2,9 +2,9 @@
   "en": {
     "translation": {
       "siteMetadata": {
-        "title": "Hellenic Space Agency",
-        "description": "Hellenic Space Agency website",
-        "keywords": "Hellenic Space Agency,Greek Space Center,Ioannis Daglis,George Nounesis"
+        "title": "Hellenic Space Center",
+        "description": "Hellenic Space Center website",
+        "keywords": "Hellenic Space Center,Greek Space Center,Ioannis Daglis,George Nounesis"
       },
       "header": {
         "links": {
@@ -15,8 +15,8 @@
         "welcomeMsg": "Welcome to our landing page"
       },
       "landing": {
-        "title": "Hellenic Space Agency",
-        "description": "A place to visit the stars from the comfort of your house"
+        "title": "Hellenic Space Center",
+        "description": "supported by the Ministry of Digital Governance"
       },
       "about": {
         "title": "About us",

@@ -1,7 +1,7 @@
 {
   "name": "hellenic-space-agency",
   "private": true,
-  "description": "The public facing website of the Hellenic Space Agency",
+  "description": "The public facing website of the Hellenic Space Center",
   "version": "0.1.0",
   "author": "Aggelos Arvanitakis <agg.arvanitakis@gmail.com>",
   "dependencies": {

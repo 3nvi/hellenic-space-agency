@@ -11,7 +11,7 @@ import SEO from '../components/SEO';
 const Home: React.FC = () => {
   return (
     <Layout>
-      <SEO title="Explore" />
+      <SEO title="Welcome" />
       <Banner />
       <One />
       <Two />

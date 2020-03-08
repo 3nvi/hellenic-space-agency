@@ -1,6 +1,6 @@
 # Hellenic Space Agency
 
-This repo contains all work related to the public facing website of the Hellenic Space Agency
+This repo contains all work related to the public facing website of the Hellenic Space Center
 
 ## Running locally
 
