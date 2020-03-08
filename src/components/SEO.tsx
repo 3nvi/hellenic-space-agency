@@ -65,7 +65,7 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
           property: `og:type`,
           content: `website`,
         },
-      ].filter(Boolean)}
+      ]}
       link={[
         {
           rel: 'canonical',
