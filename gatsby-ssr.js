@@ -1,7 +1,7 @@
 import React from 'react';
 import { PageContext } from './src/context/PageContext';
-import i18n from './i18next';
 import { I18nextProvider } from 'react-i18next';
+import i18n from './i18next';
 
 export const onPreRenderHTML = ({ getHeadComponents, replaceHeadComponents }) => {
   if (process.env.NODE_ENV !== 'production') {
