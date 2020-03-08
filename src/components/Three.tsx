@@ -18,9 +18,9 @@ const Three: React.FC = () => {
       <Fade left big>
         <div className="content">
           <header>
-            <h2>{t('landing.missions.three.title')}</h2>
+            <h2>{t('landing.missions.2.title')}</h2>
           </header>
-          <p>{t('landing.missions.three.details')}</p>
+          <p>{t('landing.missions.2.details')}</p>
           <ul className="actions">
             <li>
               <a href="/" className="button">

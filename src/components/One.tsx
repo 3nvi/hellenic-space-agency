@@ -6,10 +6,10 @@ import { useTranslation } from 'react-i18next';
 
 const One: React.FC = () => {
   const { t } = useTranslation();
-  const [missionTextPartOne, missionTextPartTwo] = t('landing.missions.one.details').split('.');
+  const [missionTextPartOne, missionTextPartTwo] = t('landing.missions.0.details').split('.');
   return (
     <section
-      id="one"
+      id="0"
       className="spotlight style1 bottom inactive"
       style={{ backgroundImage: `url(${pic02})` }}
     >
@@ -22,7 +22,7 @@ const One: React.FC = () => {
             <div className="row">
               <div className="col-4 col-12-medium">
                 <header>
-                  <h2>{t('landing.missions.one.title')}</h2>
+                  <h2>{t('landing.missions.0.title')}</h2>
                 </header>
               </div>
               <div className="col-4 col-12-medium">
