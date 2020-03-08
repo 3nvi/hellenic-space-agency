@@ -19,7 +19,7 @@ const LanguagePicker: React.FC = () => {
   return (
     <div className="language-selector-container">
       {site.siteMetadata.supportedLanguages.map((supportedLang: string, index: number) => (
-        <React.Fragment>
+        <React.Fragment key={supportedLang}>
           {index !== 0 && <span>|</span>}
           <GatsbyLink
             aria-label={`Change language to ${supportedLang}`}
