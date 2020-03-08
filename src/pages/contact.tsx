@@ -19,9 +19,7 @@ const Contact: React.FC = () => {
             <div className="col-6 col-12-medium ">
               <section id="sidebar">
                 <h3>{t('contact.location')}</h3>
-                <p>
-                  <address>Βαλτετσίου 35, Χαλανδρι, 15234, Αττική, Ελλάδα</address>
-                </p>
+                <address>Βαλτετσίου 35, Χαλανδρι, 15234, Αττική, Ελλάδα</address>
                 <p>
                   <a href="mailto:contact@hsa.gr" rel="noopener noreferrer">
                     contact@hsa.gr

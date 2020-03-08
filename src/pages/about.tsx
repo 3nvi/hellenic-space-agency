@@ -16,7 +16,7 @@ const About: React.FC = () => {
   const { t } = useTranslation();
   return (
     <Layout>
-      <SEO title={t('about.title')} />
+      <SEO title={t('about.mainTitle')} />
       <section className="banner" style={{ backgroundImage: `url(${pic07})` }}>
         <div className="content">
           <header className="major">

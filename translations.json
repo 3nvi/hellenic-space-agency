@@ -3,7 +3,8 @@
     "translation": {
       "common": {
         "learnMore": "Learn More",
-        "next": "Next"
+        "next": "Next",
+        "welcome": "Welcome"
       },
       "siteMetadata": {
         "title": "Hellenic Space Center",
@@ -73,7 +74,8 @@
     "translation": {
       "common": {
         "learnMore": "Μάθετε Περισσότερα",
-        "next": "Επόμενο"
+        "next": "Επόμενο",
+        "welcome": "Καλωσήλθατε"
       },
       "siteMetadata": {
         "title": "Ελληνικό Κέντρο Διαστήματος",
