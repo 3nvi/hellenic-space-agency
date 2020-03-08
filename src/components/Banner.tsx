@@ -2,11 +2,12 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import pic01 from '../assets/images/pic01.jpg';
 import { Link as ScrollLink } from 'react-scroll';
+import banner from '../assets/images/banner.jpg';
 
 const Banner: React.FC = () => {
   const { t } = useTranslation();
   return (
-    <section id="banner">
+    <section className="banner" style={{ backgroundImage: `url(${banner})` }}>
       <div className="content">
         <header>
           <h2>{t('landing.title')}</h2>
@@ -25,7 +26,7 @@ const Banner: React.FC = () => {
         duration={1500}
         spy={true}
       >
-        Next
+        {t('commmon.next')}
       </ScrollLink>
     </section>
   );

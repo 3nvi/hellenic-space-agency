@@ -1,6 +1,10 @@
 {
   "en": {
     "translation": {
+      "common": {
+        "learnMore": "Learn More",
+        "next": "Next"
+      },
       "siteMetadata": {
         "title": "Hellenic Space Center",
         "description": "Hellenic Space Center website",
@@ -11,8 +15,7 @@
           "home": "Home",
           "about": "About",
           "contact": "Contact"
-        },
-        "welcomeMsg": "Welcome to our landing page"
+        }
       },
       "landing": {
         "title": "Hellenic Space Center",
@@ -24,28 +27,54 @@
         "daglis": {
           "link": "http://scholar.uoa.gr/iadaglis/home",
           "name": "Ioannis Daglis",
+          "role": "Chairman of the Board",
           "bio": "Ioannis A. Daglis is professor of space physics at the National and Kapodistrian University of Athens (Department of Physics), Head of the Space Physics Group and Director of the Observatory of the University of Athens. Before his appointment at the University of Athens, he was the director of the Institute for Space Applications and Remote Sensing (ISARS) for six years (2006-2012) and the director of the Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing (IAASARS) for one year (2012-2013). His scientific expertise pertains to solar system astrophysics and space applications.\n\nHe has been a co-investigator of the NASA space missions SAC-B, Polar and THEMIS, and of the ESA space missions BepiColombo and Proba-3. He has been the scientific representative of the SREM instrument on the ESA mission Rosetta, and science team member of the NASA missions AMPTE, CRRES, Geotail and of the ESA mission Cluster. "
         },
         "nounesis": {
           "link": "http://www.rrp.demokritos.gr/file/Biomolecular%20Physics/nounesis_english2010.pdf",
           "name": "George Nounesis",
+          "role": "Deputy Chairman of the Board",
           "bio": "George Nounesis was until recently the Director & Chairman of the\nBoard of the National Centre for Scientific Research “Demokritos”\n(2017-2019). During his tenure he is credited with the “Expansion of\nthe NCSRD Infrastructure Project” a 48 MEuros construction project\nco-financed, by the European Investment Bank and the State of\nGreece and also the rapid growth of technology transfer to start ups\nand multinationals. Dr. Nounesis studied Physics at the National and\nKapodistrian University of Athens. He obtained his PhD at the School\nof Physics and Astronomy of the University of Minnesota. He\ncompleted a three-year Postdoctoral training at the Chemistry Department of the Massachusetts\nInstitute of Technology and the Executive Education Program on “Innovation for Economic Development”\nat the Harvard Kennedy School of Government. Prior to returning to Greece he held Research Staff\nappointments at the Center for Materials Science and Engineering at MIT and at the Francis Bitter\nNational Magnet Laboratory. He has spent sabbatical leaves at the Centre de Recherche Paul Pascal at\nCNRS and the Chemistry Department of the University of Bordeaux I as an Invited Professor. His research\nis mainly focused on structural and thermodynamic studies of nano-structured soft materials as well as of\nbiomolecules, primarily proteins. For his work he has received awards and distinctions from the\nAmerican Society for Reproductive Medicine, the John S. Latsis Public Benefit Foundation, the Empirikion\nFoundation, the United States Department of the Navy and the Graduate School of the University of\nMinnesota."
         },
         "karantzalos": {
           "link": "http://users.ntua.gr/karank",
           "name": "Kostantinos Karantzalos",
+          "role": "Member",
           "bio": "Kostantinos Karantzalos is an Associate Professor of Remote Sensing\nat the National Technical University of Athens. His teaching and research interests include\ngeoscience and earth observation, geospatial big data, hyperspectral image analysis, computer\nvision and machine learning with applications e.g. in environmental monitoring and precision\nagriculture. He has several publications in top-rank international journals &amp; conferences and a\nnumber of awards and honors for his research contributions. He has more than 17 years of\nresearch experience, involved with more than 19 EU and national excellence/ competitive\nresearch projects. Dr. Karantzalos, IEEE Senior Member, serves as Scientific/ Program\nCommittee and reviewer for top rank international journals/conferences and as an Evaluator/\nPanel Member for the evaluation of EU and national research programmes (H2020, Deutsche\nForschungsgemeinschaft, Israel Science Foundation, Belgian Science Policy Office, Netherlands\nOrganisation for Scientific Research, etc). Dr. Karantzalos currently Co-chairing the ISPRS\nWorking Group WG III/4 on Hyperspectral Image Processing."
         },
         "sergis": {
           "link": "http://www.academyofathens.gr/sites/default/files/Sergis%20long%20CV.pdf",
           "name": "Nikos Sergis",
+          "role": "Managing Director",
           "bio": "Dr. Sergis is a researcher in Space Physics. Between 2006 and 2020 he worked at\nthe Office of Space Research and Technology at the Academy of Athens in\ncollaboration with JHU/APL. From 2017 he is an Adjunct Researcher at the\nNational Observatory of Athens. His published work includes 77 peer-reviewed\npapers in scientific journals or book chapters, with &gt;1600 citations (h=25) and\nseveral invited seminars in Greece, Europe and the USA. In 2009 and 2018 he\nreceived NASA awards for his contribution in the Cassini mission to Saturn and\nin 2008 he was elected by the Editorial Board of Annales Geophysicae best\nreviewer in the field of Magnetospheric Physics. He has experience in the\nmanagement of research programs and he serves as evaluator for proposals\nsubmitted for funding to NASA, the EC and national funding agencies in Europe.\nHe leads or participates to research groups in Space Science and Applications in\ncollaboration with institutes from Europe and the USA. Dr. Sergis has supervised\nor co-supervised PhD, MSc and undergraduate theses in Greece and abroad. He is\na member of the American Geophysical Union (AGU), the European Geosciences\nUnion (EGU) and the International Astronomical Union (IAU)."
+        },
+        "sotiriadis": {
+          "link": "https://www.ece.ntua.gr/en/staff/184",
+          "name": "Pavlos Sotiriadis",
+          "role": "Member",
+          "bio": "Professor Sotiriadis is the Director of the Electronics Laboratory of the ECE-NTUA leading a team of 25. He received the Diploma in ECE from NTUA (with the highest GPA of 9.91/10), the MSEE from Stanford University and the Ph.D. in EECS from M.I.T. in 2002, both with full scholarships from the Universities. In 2002, he joined the Johns Hopkins University as an Assistant Professor of ECE and collaborated with the Space Department of the Applied Physics Laboratory, Laurel, MD, USA. Then he was involved in two USA based startup technology companies as the CTO. In 2012, he joined the faculty of the ECE of the NTUA.\n\nHis research interests are in the area of circuits and systems, ranging from analog, mixed-signal and RF ASIC design to circuit-system level mathematical modeling, optimization and algorithms, with tele-communication, bio-medical, instrumentation, industrial and commercial applications.\n\nHe has led several projects and has collaborated with major technology companies and national research labs. He has authored and co-authored 150 technical papers, most in IEEE journals and conferences, holds one patent, has contributed chapters to technical books and has given many invited talks in companies, research Labs and top Universities in USA and Europe.\n\nHe has received many awards and distinctions, including the prestigious Guillemin-Cauer Award from the IEEE Circuits and Systems Society and several best paper awards in conferences. As a student, he was awarded scholarships from the Alexander Onassis, Bodossakis, Evgenides, Gerondelis and SSF-Greece Foundations.\n\nProfessor Sotiriadis is an Associate Editor of the IEEE Sensors Journal, was an Associate Editor of the IEEE TCAS-I and TCAS-II journals for several years and has been a member of technical committees of many conferences. He is an active member of several technical committees and international organizations, including the MIT Enterprise Forum supporting Greek high-tech startup entrepreneurship."
+        },
+        "synolakis": {
+          "link": "https://www.enveng.tuc.gr/en/prosopiko/kathigites/konstantinos-synolakis/",
+          "name": "Konstantinos Synolakis",
+          "role": "Member",
+          "bio": "Costas Synolakis studies the impact of natural hazards, and particularly tsunamis and extreme flooding events on beaches. He has led or participated in about 30 scientific expeditions in twenty one countries, practically in all of the world's oceans and seas. His work in Papua New Guinea, Vanuatu, the Aleutian islands, the Marquesas, Sri Lanka, the Maldives, Kenya and Oman was groundbreaking and highly cited.\n\nProfessor Synolakis grew up in Athens, then attended the California Institute of Technology, where he did all his professional degrees. In 1985, he was appointed as assistant professor of Civil and Environmental Engineering at USC. In 1996, he was appointed Professor of Civil, Mechanical, Environmental and Aerospace Engineering at the Viterbi School of Engineering.\n\nIn 1996, Costas Synolakis founded the USC Tsunami Research Center. Its main accomplishments have been : One, the development of MOST, the operational code used by the US-based and Australian based tsunami warning centers for tsunami forecasts, and two, the production of all official State maps for California for evacuation planning. In the aftermath of the 2004 Indonesian tsunami, the TRC for three days, held 70% of USC's went traffic, being then the only university center worldwide focused on tsunamis. In fact, USC shut down the site for a few hours, suspicious that it was subject to a cyber attack - the TRC received 35 million \"hits\" from people interested in tsunamis, worldwide in three days,\n\nIn the aftermath of the Boxing Day tsunami, Professor Synolakis was appointed in the only Chair in Greek universities at the time, on natural hazard mitigation. The Laboratory which he founded studies extreme events such as earthquakes, tsunamis, fires and the impact of waves on beaches, particularly erosion, as well as wildfire evolution. The results the Laboratory has generated from its nearshore field measurements of wind waves and currents, they are being now exploited in Greece to address the problems of coastal erosion and extreme marine-related floods. He holds this appointment in parallel and teaches at TUC whenever he is on leave from USC.\n\nProfessor Synolakis has received both major awards of the American Society of Civil Engineers, the 2015 Moffat and Nichol Coastal Engineering Award and the 2019 International Coastal Engineering Award. In 2014, he received the Sergey Soloviev Medal of the European Geophysical Union.\n\nProfessor Synolakis now holds the Chair of Earth Sciences in the Academy of Athens, and in 2018, he is the President of the Division of Natural Sciences of the Academy. Since 2019, he is the Secretary. The Academy of Athens only has 40 members from all letters, arts, sciences, medicine and engineering discipline, and is the Greek National Academy. He is also a member of the Academia Europae and is the Chair of the National Committee on Climate Change of Greece."
+        },
+        "giannakaki": {
+          "link": "https://www.linkedin.com/in/antigoni-giannakaki-355831138/",
+          "name": "Antigoni Giannakaki",
+          "role": "Member",
+          "bio": "Antigoni Giannakaki is lawyer which help the position of Supervising Senior Lawyer at CPA Law Firm-Member of the Global Network of KPMG-Independent Law Practice Professional (September 2006 -2018 ). She was also a Special Associate of Secretary General of Information System and Administrative Support of Ministry of Finance, Greece (2013-2015) and remains an Associate Lawyer for the Agricultural Bank of Greece."
         }
       }
     }
   },
   "el": {
     "translation": {
+      "common": {
+        "learnMore": "Μάθετε Περισσότερα",
+        "next": "Επόμενο"
+      },
       "siteMetadata": {
         "title": "Ελληνικό Κέντρο Διαστήματος",
         "description": "Επίσημη ιστοσελίδα του Ελληνικού Κέντρου Διαστήματος",
@@ -57,35 +86,79 @@
           "home": "Αρχικη",
           "about": "Ποιοι ειμαστε",
           "contact": "Επικοινωνια"
-        },
-        "welcomeMsg": "Καλωσήρθατε στη αρχική μας σελίδα"
+        }
       },
       "landing": {
         "title": "Ελληνικό Κέντρο Διαστήματος",
-        "description": "Δείτε το γαλαξία από την άνεση του σπιτιού σας"
+        "description": "υπό τη αιγίδα του Υπουργείου Ψηφιακής Διακυβέρνησης",
+        "missions": {
+          "one": {
+            "title": "Το ΕΛ.ΚΕ.Δ. είναι διάδοχος της ΕΛ.Δ.Ο.",
+            "details": "Διαμορφώνει προτάσεις για τη στρατηγική στον τομέα του διαστήματος και την εκπόνηση κυλιόμενου-δυναμικού σχεδίου δράσης της διαστημικής στρατηγικής. Συνεργάζεται με την πανεπιστημιακή και ερευνητική κοινότητα,  τον  Δημόσιο  και  τον  Ιδιωτικό  Τομέα  που  προσδιορίζει στόχους, τομείς συνεργασίας και διαδικασίες για την επίτευξη των στόχων."
+          },
+          "two": {
+            "title": "Γνώμονας η διαστημική στρατηγική της Ελλάδας",
+            "details": "Το ΕΛ.ΚΕ.Δ συνεργάζεται, συντονίζει, υποστηρίζει και  κινητοποιεί φορείς, υπηρεσίες και νομικά πρόσωπα του Δημοσίου και του Ιδιωτικού Τομέα για την προώθηση, διάχυση και αξιοποίηση της διαστημικής στρατηγικής της Ελλάδας, συμμετέχοντας σε ευρωπαϊκούς και διεθνείς οργανισμούς και ομάδες που δραστηριοποιούνται  σε  διαστημικά  θέματα  και  προγράμματα."
+          },
+          "three": {
+            "title": "Διαχείριση εθνικών έργων σε τομείς του Διαστήματος",
+            "details": "Το ΕΛ.ΚΕ.Δ προωθεί και συμμετέχει ως συντονιστής δημόσιων φορέων σε έργα και προγράμματα, καθώς και διαχειρίζεται εθνικά προγράμματα και έργα σε τομείς του Διαστήματος, όπως η επιστημονική έρευνα, η τεχνολογία, οι τηλεπικοινωνίες, η ασφάλεια, η οικονομία, το περιβάλλον, η αγροτική ανάπτυξη, οι μεταφορές, η ηλεκτρονική διακυβέρνηση και το εμπόριο."
+          },
+          "four": {
+            "title": "Διεθνής Παρουσία & Εκπροσώπηση της χώρας μας",
+            "details": "Σκοπός του ΕΛ.ΚΕ.Δ. είναι η συμμετοχή σε ευρωπαϊκούς και διεθνείς οργανισμούς, πρωτοβουλίες, φόρουμ και δραστηριότητες για θέματα Διαστήματος, ο συντονισμός των εθνικών εκπροσώπων στον τομέα του Διαστήματος, η ανάπτυξη ευρωπαϊκών και διεθνών συνεργασιών, η ανταλλαγή και σύνθεση γνώσεων, καινοτομίας και δράσεων προκειμένου να μεγιστοποιηθεί η ανταποδοτική συμμετοχή της χώρας στους ευρωπαϊκούς και διεθνείς οργανισμούς Διαστήματος, σε ευρωπαϊκά ή διεθνή διαστημικά προγράμματα, καθώς και η συμμετοχή στη σχεδίαση προγραμμάτων για την εξυπηρέτηση εθνικών, επιστημονικών, επιχειρησιακών και αναπτυξιακών αναγκών στις οποίες το Διάστημα έχει πρωταρχικό ρόλο."
+          },
+          "five": {
+            "title": "Διεθνής Παρουσία & Εκπροσώπηση της χώρας μας",
+            "details": "Σκοπός του ΕΛ.ΚΕ.Δ. είναι η συμμετοχή σε ευρωπαϊκούς και διεθνείς οργανισμούς, πρωτοβουλίες, φόρουμ και δραστηριότητες για θέματα Διαστήματος, ο συντονισμός των εθνικών εκπροσώπων στον τομέα του Διαστήματος, η ανάπτυξη ευρωπαϊκών και διεθνών συνεργασιών, η ανταλλαγή και σύνθεση γνώσεων, καινοτομίας και δράσεων προκειμένου να μεγιστοποιηθεί η ανταποδοτική συμμετοχή της χώρας στους ευρωπαϊκούς και διεθνείς οργανισμούς Διαστήματος, σε ευρωπαϊκά ή διεθνή διαστημικά προγράμματα, καθώς και η συμμετοχή στη σχεδίαση προγραμμάτων για την εξυπηρέτηση εθνικών, επιστημονικών, επιχειρησιακών και αναπτυξιακών αναγκών στις οποίες το Διάστημα έχει πρωταρχικό ρόλο."
+          }
+        }
       },
       "about": {
         "title": "Ποιοί Είμαστε",
         "description": "Λίγα λόγια για εμάς",
+        "content": "Το ΕΛ.ΚΕ.Δ. εποπτεύεται από τον Υπουργό Ψηφιακής Διακυβέρνησης και υπεισέρχεται ως καθολικός διάδοχος στη θέση της ΕΛ.Δ.Ο. στο σύνολο των πάσης φύσεως αρμοδιοτήτων, δικαιωμάτων, υπο-χρεώσεων  και  λοιπών  σχέσεων  της  ΕΛ.Δ.Ο. Σκοπός του είναι η συμμετοχή σε ευρωπαϊκούς και διεθνείς οργανισμούς, πρωτοβουλίες, φόρουμ και δραστηριότητες για θέματα Διαστήματος, ο συντονισμός των εθνικών εκπροσώπων στον τομέα του Διαστήματος, η ανάπτυξη ευρωπαϊκών και διεθνών συνεργασιών, η ανταλλαγή και σύνθεση γνώσεων, καινοτομίας και δράσεων προκειμένου να μεγιστοποιηθεί η ανταποδοτική συμμετοχή της χώρας στους ευρωπαϊκούς και διεθνείς οργανισμούς Διαστήματος, σε ευρωπαϊκά ή διεθνή διαστημικά προγράμματα, καθώς και η συμμετοχή στη σχεδίαση προγραμμάτων για την εξυπηρέτηση εθνικών, επιστημονικών, επιχειρησιακών και αναπτυξιακών αναγκών στις οποίες το Διάστημα έχει πρωταρχικό ρόλο.",
         "daglis": {
           "link": "http://scholar.uoa.gr/iadaglis/home",
           "name": "Ιωάννης Δαγκλής",
+          "role": "Πρόεδρος Διοικητικού Συμβουλίου",
           "bio": "Ο Ιωάννης Α. Δαγκλής (http://scholar.uoa.gr/iadaglis/home) ειναι Καθηγητής Διαστημικής Φυσικής\nτου Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών. Έχει εργαστεί σε Πανεπιστήμια και\nΕρευνητικά Κέντρα της Γερμανίας, της Ιαπωνίας και των Ηνωμένων Πολιτειών, και διετέλεσε\nΔιευθυντής του Ινστιτούτου Διαστημικών Εφαρμογών στο Εθνικό Αστεροσκοπείο Αθηνών για\nμια οκταετία.\nΟ κ. Δαγκλής είναι Τακτικό Μέλος της Διεθνούς Αστροναυτικής Ακαδημίας και μέλος\nεπιτροπών εμπειρογνωμόνων της NASA, της αντίστοιχης ευρωπαϊκής ESA, της Ευρωπαϊκής\nΕπιτροπής, της Ακαδημίας της Φινλανδίας και άλλων εθνικών οργανισμών έρευνας. Έχει\nσυμμετάσχει στον σχεδιασμό και την επιστημονική ανάλυση των παρατηρήσεων 15\nευρωπαϊκών και αμερικανικών διαστημικών αποστολών και έχει διατελέσει Επιστημονικός\nΥπεύθυνος 21 διεθνών και 8 εθνικών ερευνητικών προγραμμάτων, με πιο πρόσφατο το\nSafeSpace – ένα από τα τρία προγράμματα που επιλέχθηκαν το 2019 για χρηματοδότηση από\nτην Ευρωπαϊκή Ένωση μέσω της δράσης Space Weather του Horizon 2020.\nΤο δημοσιευμένο έργο του κ. Δαγκλή περιλαμβάνει 5 βιβλία διαστημικής φυσικής και 100\nάρθρα σε περιοδικά με κριτές με περισσότερες από 5.400 αναφορές."
         },
         "nounesis": {
           "link": "http://www.rrp.demokritos.gr/file/Biomolecular%20Physics/nounesis_english2010.pdf",
           "name": "Γιώργος Νούνεσης",
+          "role": "Αναπληρωτής Πρόεδρος Διοικητικού Συμβουλίου",
           "bio": "Ο Γιώργος Νούνεσης είναι Διευθυντής Ερευνών στο Εθνικό Κέντρο Έρευνας Φυσικών Επιστημών\n«Δημόκριτος», Διευθυντής και Πρόεδρος του Διοικητικού Συμβουλίου του Κέντρου (2017-2019).\nΑναπτύσσει έντονη δραστηριότητα στην μεταφορά τεχνολογίας επιτυγχάνοντας τις πρώτες μεγάλες\nσυμφωνίες του Δημοκρίτου με διεθνείς επιχειρήσεις, κολοσσούς στην καινοτομία. Σπούδασε Φυσική\nστο Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών και πήρε το Διδακτορικό του στη Σχολή Φυσικής\nκαι Αστρονομίας του University of Minnesota. Ολοκλήρωσε τριετή Μεταδιδακτορική Έρευνα στο Τμήμα\nΧημείας του Massachusetts Institute of Technology (MIT) καθώς και το Executive Program “Innovation\nfor Economic Development” στο Harvard Kennedy School of Government. Πριν την επιστροφή του στην\nΕλλάδα εργάστηκε ως Ερευνητής στο Center for Materials Science and Engineering στο MIT καθώς και\nστο Francis Bitter National Magnet Laboratory επίσης στο ΜΙΤ. Έχει εργαστεί ως Προσκεκλημένος\nΚαθηγητής στο Τμήμα Χημείας του Πανεπιστημίου Bordeaux I και ως Προσκεκλημένος Ερευνητής στο\nCentre de Recherche Paul Pascal στο CNRS της Γαλλίας. Για το επιστημονικό του έργο έχει τιμηθεί από\nτην Αμερικανική Εταιρεία Αναπαραγωγικής Ιατρικής, το Κοινωφελές Ίδρυμα Λάτση, το Εμπειρίκειο\nΊδρυμα, το Department of the Navy των ΗΠΑ και το Graduate School του University of Minnesota."
         },
         "karantzalos": {
           "link": "http://users.ntua.gr/karank",
           "name": "Κωσταντίνος Καραντζάλος",
+          "role": "Μέλος",
           "bio": "O Κωσταντίνος Καραντζάλος είναι Αναπληρωτής Καθηγητής\nΤηλεπισκόπησης στο Εθνικό Μετσόβιο Πολυτεχνείο. Στα διδακτικά και ερευνητικά του\nενδιαφέροντα περιλαμβάνονται οι Γεωεπιστήμες και οι μέθοδοι Παρατήρησης Γης, τα μεγάλα\nγεωχωρικά δεδομένα, η ανάλυση υπερφασματικών δεδομένων, η όραση υπολογισμών και\nμηχανική μάθηση, με ποικίλες εφαρμογές όπως η παρακολούθηση του περιβάλλοντος και η\nγεωργία ακριβείας. Έχει δημοσιεύσει σε έγκυρα διεθνή επιστημονικά περιοδικά, ενώ έχει\nαποσπάσει αρκετές διακρίσεις για την επιστημονική συνεισφορά του ερευνητικού του έργου.\nΈχει πάνω από 17 χρόνια ερευνητικής εμπειρίας, συμμετοχή σε περισσότερα από 19\nευρωπαϊκά και εθνικά ερευνητικά προγράμματα αριστείας/ ανταγωνιστικότητας. Ο Δρ.\nΚαράντζαλος είναι Senior Member της ΙΕΕΕ, συμμετέχει στην Οργανωτική/ Επιστημονική\nΕπιτροπή έγκυρων διεθνών περιοδικών/ συνεδρίων, ενώ είναι αξιολογητής (Evaluator/ Panel\nMember) για Ευρωπαϊκά και Εθνικά ερευνητικά προγράμματα (H2020, Deutsche\nForschungsgemeinschaft, Israel Science Foundation, Belgian Science Policy Office, Netherlands\nOrganisation for Scientific Research, κ.α.). Σήμερα, ο Δρ. Καράντζαλος συμπροεδρεύει στην\nομάδα εργασίας ‘Hyperspectral Image Processing’ της International Society for Photogrammetry\nand Remote Sensing."
         },
         "sergis": {
           "link": "http://www.academyofathens.gr/sites/default/files/Sergis%20long%20CV.pdf",
           "name": "Νίκος Σέργης",
+          "role": "Διευθύνων Σύμβουλος",
           "bio": "Ο Δρ. Νίκος Σέργης είναι ερευνητής στο πεδίο της Διαστημικής Φυσικής. Από το\n2006 ως το 2020 εργάστηκε στο Γραφείο Διαστημικής Έρευνας και Τεχνολογίας\nτης Ακαδημίας Αθηνών σε συνεργασία με το Applied Physics Laboratory του\nJohns Hopkins University (JHU/APL), ενώ από το 2017 είναι Συνεργάτης\nΕρευνητής του Εθνικού Αστεροσκοπείου Αθηνών (ΕΑΑ/ΙΑΑΔΕΤ). Το ερευνητικό\nτου έργο περιλαμβάνει 77 επιστημονικές εργασίες σε διεθνή επιστημονικά\nπεριοδικά με κριτές με &gt;1600 ετεροαναφορές (h=25) και μεγάλο αριθμό\nπροσκεκλημένων ομιλιών-σεμιναρίων στην Ελλάδα και το εξωτερικό. Το 2009\nκαι το 2018 βραβεύθηκε από τη NASA για τη συμμετοχή του στην αποστολή\nCassini-Huygens και το 2008 από την Συντακτική Επιτροπή του επιστημονικού\nπεριοδικού Annales Geophysicae ως καλύτερος κριτής της χρονιάς. στο πεδίο\nτης Μαγνητοσπφαιρικής Φυσικής. Ο Δρ. Σέργης έχει εμπειρία στη διαχείριση\nερευνητικών προγραμμάτων, ενώ υπηρετεί ως αξιολογητής για προτάσεις που\nυποβάλλονται προς χρηματοδότηση στη NASA, την Ευρωπαϊκή Επιτροπή και σε\nεθνικούς φορείς χωρών της Ευρώπης. Είναι επικεφαλής ή μέλος ερευνητικών\nομάδων στο χώρο της Διαστημικής Επιστήμης και Εφαρμογών, σε συνεργασία\nμε ιδρύματα από χώρες της Ευρώπης και τις ΗΠΑ. Ο Δρ. Σέργης έχει επιβλέψει ή\nσυνεπιβλέψει διδακτορικές, μεταπτυχιακές και προπτυχιακές διατριβές στην\nΕλλάδα (ΕΚΠΑ) και το εξωτερικό. Είναι μέλος της Αμερικανικής Γεωφυσικής\nΈνωσης (AGU), της Ευρωπαϊκής Ένωσης Γεωεπιστημών (EGU) και της Διεθνούς\nΑστρονομικής Ένωσης (IAU)."
+        },
+        "sotiriadis": {
+          "link": "https://www.ece.ntua.gr/gr/staff/184",
+          "name": "Παύλος Σωτηριάδης",
+          "role": "Μέλος",
+          "bio": "Ο κ. Σωτηριάδης ανέλαβε τα καθήκοντά του ως επίκουρος καθηγητής στη σχολή των ΗΜΜΥ του Ε.Μ.Π. στις αρχές του 2012, με αντικείμενο την Μικροηλεκτρονική, επιστρέφοντας στην Ελλάδα μετά από δεκαέξι έτη στις Η.Π.Α. όπου διετέλεσε καθηγητής στο τμήμα ΗΜΜΥ του Πανεπιστήμιου Johns Hopkins των Η.Π.Α. και δραστηριοποιήθηκε επιχειρηματικά στον χώρο της ηλεκτρονικής τεχνολογίας.\n\nΈχει δημοσιεύσει 80 πρωτότυπες ερευνητικές εργασίες σε κορυφαία επιστημονικά περιοδικά και παγκόσμια συνέδρια του ΙΕΕΕ, τις περισσότερες ως κύριος ή μοναδικός συγγραφέας. Ειναι Senior Member του ΙΕΕΕ και Associate Editor στο IEEE Sensors Journal και έχει διατελέσει για αρκετά χρόνια Αssociate Εditor στο IEEE transactions on circuits and systems. Είναι μέλος πολλών τεχνικών επιτροπών διεθνών συνεδρίων καθώς και κριτής σε πολλά επιστημονικά περιοδικά και συνέδρια των IEEE και ACM.\n\nΤα επιστημονικά ενδιαφέροντα του κ. Σωτηριάδη περιλαμβάνουν σχεδίαση, βελτιστοποίηση και μαθηματική μοντελοποίηση αναλογικών, RF και μεικτού σήματος κυκλωμάτων, προχωρημένη σύνθεση συχνότητας, κυκλώματα και συστήματα βιο-ιατρικών εφαρμογών και δίκτυα διασύνδεσης σε νανο-τεχνολογίες.\n\nΟ κ. Σωτηριάδης απέκτησε το Διδακτορικό του απο το M.I.T. των Η.Π.Α. όντας μέλος των Microsystems Technology Laboratories και διδακτορικός φοιτητής του καθ. Anantha Chandrakasan, διευθυντή του τμήματος HΜΜΥ του Μ.Ι.Τ. Απέκτησε το Master από το Πανεπιστήμιο Stanford των Η.Π.Α. και το Δίπλωμα του από το Ε.Μ.Π. με βαθμό 9.91, λαμβάνοντας πολλά βραβεία και διακρίσεις."
+        },
+        "synolakis": {
+          "link": "https://www.enveng.tuc.gr/el/prosopiko/kathigites/konstantinos-synolakis/",
+          "name": "Κωσταντίνος Συνολάκης",
+          "role": "Μέλος",
+          "bio": "Γεννήθηκε στην Αθήνα το 1956. Σπούδασε στο Τεχνολογικό Ινστιτούτο της Καλιφόρνιας. Καθηγητής στο Πανεπιστήμιο της Νότιας Καλιφόρνιας (1997) και στο Πανεπιστήμιο Κρήτης (2004). Έρευνες στη σεισμολογία, στην ωκεανογραφία και ιδιαιτέρως στα αποτελέσματα σεισμών και παλιρροϊκών κυμάτων. Ανέπτυξε το υπολογιστικό μοντέλο προσομοίωσης ΜΟSΤ για την πρόγνωση της διάδοσης των παλιρροϊκών κυμάτων.  Εξήγησε τις διαφορές μεταξύ μακρών κυμάτων που προξενούνται από κατολισθήσεις και αυτών που προξενούνται από σεισμούς. Σχεδίασε και ανέπτυξε τους επίσημους χάρτες αντιπλημμυρικής προστασίας της Πολιτείας της Καλιφόρνιας από παλιρροϊκά κύματα. Άρθρο του στο περιοδικό Philosophical Transactions of the Royal Society περιέχει επισκόπηση των γεωφυσικών φαινομένων που σχετίζονται με το πυρηνικό ατύχημα στη Fukushima. Έχει δημοσιεύσει περισσότερες από 110 εργασίες σε επιστημονικά περιοδικά μεγάλης επιρροής (μεταξύ αυτών τα Science, Nature και Philosophical Transactions of the Royal Society), έχει δώσει δεκάδες διαλέξεις και παρουσιάσεις σε επιστημονικά ιδρύματα σε όλο τον κόσμο και έχει επιβλέψει διδακτορικές διατριβές. Βραβείο Mofatt-Nichol στον τομέα της Ακτομηχανικής της Εταιρείας Πολιτικών Μηχανικών ΗΠΑ (2015), βραβείο Soloviev στον τομέα των φυσικών καταστροφών (European Geosciences Union) (2014), βραβείο για την συμβολή του στην πολιτική προστασία της Πολιτείας της Καλιφόρνιας (2001). Έχει βραβευθεί από τον Λευκό Οίκο ως ένας από τους 100 καλύτερους νέους επιστήμονες στις ΗΠΑ (1988). Έχει συντονίσει σημαντικό αριθμό ανταγωνιστικών ερευνητικών προγραμμάτων στον τομέα του. Ίδρυσε το 1995 το πρώτο Tsunami Research Center στις ΗΠΑ, στο Πανεπιστήμιο της Νότιας Καλιφόρνιας. Οι πρόσφατες εργασίες του επικεντρώνονται στις συνέπειες από τη διάβρωση των ακτών στην Ελλάδα λόγω της ανόδου της στάθμης της θάλασσας και άλλων ανθρωπογενών παραγόντων.\nΤακτικό μέλος της Ακαδημίας Αθηνών από το 2016."
+        },
+        "giannakaki": {
+          "link": "https://gdprdsa.gr/2018/educators.html",
+          "name": "Αντιγόνη Γιαννακάκη",
+          "role": "Μέλος",
+          "bio": "Η Αντιγόνη Γιαννακάκη είναι Μέλος του Δικηγορικού Συλλόγου Αθηνών από το έτος 2006. Επαγγελματική Εμπειρία: Από το 2007 μέχρι σήμερα διατηρεί δικηγορικό γραφείο στην Αγία Παρασκευή Αττικής στην οδό Αγίου Ιωάννου αρ 23 Β και έχει πιστοποιηθεί σαν Υπεύθυνη Προστασίας Δεδομένων από την TÜV AUSTRIA HELLAS. Είναι επίσης Εξωτερικός συνεργάτης της Δικηγορικής Εταιρείας Κ. Παπακωστόπουλος και Συνεργάτες (Ανεξάρτητο μέλος του νομικού και φορολογικού δικτύου της KPMG).\n\nΑπό την 14-6-2013 μέχρι την 31-1-2015  υπήρξε  σύμβουλος του Γενικού Γραμματέα Πληροφοριακών Συστημάτων του Υπουργείου Οικονομικών, κου  Τσαβδάρη. Στο πλαίσιο των καθηκόντων της υπήρξε  μέλος νομοπαρασκευαστικών επιτροπών, όπως για τον εκσυγχρονισμό του νομοθετικού πλαισίου του τρόπου πληρωμής των υποθηκοφυλάκων και για την σύνταξη του Προεδρικού Διατάγματος του νέου Οργανισμού του Υπουργείου. Επίσης στο πλαίσιο της ορθής λειτουργίας και χρήσης των πληροφοριακών συστημάτων ασχολήθηκε ενδελεχώς  με θέματα σχετικά με την προστασία δεδομένων προσωπικού χαρακτήρα και το φορολογικό απόρρητο.  Aπό τον Μάιο του 2007 και μέχρι τον Σεπτέμβριο του 2012 υπήρξα εξωτερικός συνεργάτης της Αγροτικής Τράπεζας της Ελλάδος.\n\nΕίναι Απόφοιτος της Νομικής Σχολής του Δημοκρίτειου Πανεπιστημίου Θράκης και κάτοχος του Μεταπτυχιακού Διπλώματος «Το Χρηματοοικονομικό και Θεσμικό Πλαίσιο των Αγορών Χρήματος και Κεφαλαίου» του Πανεπιστημίου Πειραιώς."
         }
       }
     }

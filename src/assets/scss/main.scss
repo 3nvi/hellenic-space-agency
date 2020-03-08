@@ -920,6 +920,7 @@ input[type='radio'] {
   img {
     border-radius: _size(border-radius);
     display: block;
+    object-fit: cover;
   }
 
   &.left {
@@ -1741,10 +1742,9 @@ body .landing {
 
 /* Banner */
 
-#banner {
+.banner {
   background-attachment: fixed;
   background-color: _palette(accent2);
-  background-image: url('../images/banner.jpg');
   background-position: center center;
   background-size: cover;
   box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -1821,7 +1821,7 @@ body .landing {
 }
 
 body.is-touch {
-  #banner {
+  .banner {
     background-attachment: scroll;
   }
 }
@@ -1830,7 +1830,7 @@ body.is-touch {
 
 #footer {
   background: _palette(accent2);
-  padding: $size-wrapper-pad-tb 0;
+  padding: $size-wrapper-pad-lr 0;
   text-align: center;
 
   .icons {
@@ -1872,11 +1872,16 @@ body.is-touch {
 /* About */
 .profile {
   margin-bottom: 7.5em;
+  //display: flex;
 
-  header > a {
+  p {
+    text-align: justify;
+  }
+
+  p ~ a {
+    top: -1em;
     display: inline-block;
     position: relative;
-    top: -1em;
   }
 }
 
@@ -1950,7 +1955,7 @@ body.is-touch {
 
   /* Banner */
 
-  #banner {
+  .banner {
     .content {
       padding: $size-wrapper-pad-tb;
     }
@@ -2032,7 +2037,7 @@ body.is-touch {
 
   /* Banner */
 
-  #banner {
+  .banner {
     background-attachment: scroll;
 
     .goto-next {
@@ -2168,7 +2173,7 @@ body.is-touch {
 
   /* Banner */
 
-  #banner {
+  .banner {
     box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.25);
     min-height: calc(100vh - 44px);
 
@@ -2389,7 +2394,7 @@ body.is-touch {
 
   /* Banner */
 
-  #banner {
+  .banner {
     .content {
       padding: $size-wrapper-pad-tb ($size-wrapper-pad-lr * 1.25) ($size-wrapper-pad-tb * 1.75)
         ($size-wrapper-pad-lr * 1.25);

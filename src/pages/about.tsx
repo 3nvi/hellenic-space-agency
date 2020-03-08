@@ -4,6 +4,9 @@ import pic07 from '../assets/images/pic07.jpg';
 import nounesis from '../assets/images/nounesis.jpg';
 import sergis from '../assets/images/sergis.jpg';
 import daglis from '../assets/images/daglis.jpg';
+import sotiriadis from '../assets/images/sotiriadis.jpg';
+import synolakis from '../assets/images/synolakis.jpg';
+import giannakaki from '../assets/images/giannakaki.jpg';
 import karantzalos from '../assets/images/karantzalos.jpg';
 import SEO from '../components/SEO';
 import { useTranslation } from 'react-i18next';
@@ -12,19 +15,20 @@ import Profile from '../components/Profile';
 const About: React.FC = () => {
   const { t } = useTranslation();
   return (
-    <Layout isHeaderSticky>
+    <Layout>
       <SEO title={t('about.title')} />
-      <main className="wrapper style1">
-        <div className="container">
+      <section className="banner" style={{ backgroundImage: `url(${pic07})` }}>
+        <div className="content">
           <header className="major">
             <h2>{t('about.title')}</h2>
             <p>{t('about.description')}</p>
           </header>
+        </div>
+      </section>
 
+      <main className="wrapper style1">
+        <div className="container">
           <section id="content">
-            <a href="#" className="image fit">
-              <img src={pic07} alt="" />
-            </a>
             <h3>ΕΛ.ΚΕ.Δ</h3>
             <p>
               Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi
@@ -48,10 +52,13 @@ const About: React.FC = () => {
             </p>
           </section>
           <article>
-            <Profile tProfileKey="daglis" image={daglis} alignImage="left" />
-            <Profile tProfileKey="nounesis" image={nounesis} alignImage="right" />
-            <Profile tProfileKey="karantzalos" image={karantzalos} alignImage="left" />
-            <Profile tProfileKey="sergis" image={sergis} alignImage="right" />
+            <Profile tProfileKey="daglis" image={daglis} />
+            <Profile tProfileKey="nounesis" image={nounesis} />
+            <Profile tProfileKey="sergis" image={sergis} />
+            <Profile tProfileKey="karantzalos" image={karantzalos} />
+            <Profile tProfileKey="sotiriadis" image={sotiriadis} />
+            <Profile tProfileKey="synolakis" image={synolakis} />
+            <Profile tProfileKey="giannakaki" image={giannakaki} />
           </article>
         </div>
       </main>
