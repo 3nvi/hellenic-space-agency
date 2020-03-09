@@ -1,4 +1,5 @@
 const config = require('./gatsby-config');
+
 /**
  * Makes sure to create localized paths for each file in the /pages folder.
  * For example, pages/404.js will be converted to /en/404.js and /el/404.js and
@@ -7,6 +8,7 @@ const config = require('./gatsby-config');
 exports.onCreatePage = async ({ page, actions: { createPage, deletePage, createRedirect } }) => {
   const isEnvDevelopment = process.env.NODE_ENV === 'development';
   const originalPath = page.path;
+  const is404 = ['/404/', '/404.html'].some(p => originalPath.includes(p));
 
   // Delete the original page (since we are gonna create localized versions of it) and add a
   // redirect header
@@ -18,12 +20,12 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage, createR
 
       // create a redirect based on the accept-language header
       createRedirect({
-        fromPath: page.path.includes('/404.html') ? '/*' : originalPath,
+        fromPath: is404 ? `/${lang}/*` : originalPath,
         toPath: localizedPath,
         Language: lang,
         isPermanent: false,
         redirectInBrowser: isEnvDevelopment,
-        statusCode: page.path.includes('/404.html') ? 404 : 301,
+        statusCode: is404 ? 404 : 301,
       });
 
       await createPage({
@@ -41,10 +43,10 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage, createR
   // Create a fallback redirect if the language is not supported or the
   // Accept-Language header is missing for some reason
   createRedirect({
-    fromPath: page.path.includes('/404.html') ? '/*' : originalPath,
+    fromPath: is404 ? '/*' : originalPath,
     toPath: `/${config.siteMetadata.defaultLanguage}${page.path}`,
     isPermanent: false,
     redirectInBrowser: isEnvDevelopment,
-    statusCode: page.path.includes('/404.html') ? 404 : 301,
+    statusCode: is404 ? 404 : 301,
   });
 };
