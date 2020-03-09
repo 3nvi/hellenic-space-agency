@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     image: `/assets/images/main.jpg`,
     supportedLanguages: ['el', 'en'],
-    defaultLanguage: 'en',
+    defaultLanguage: 'el',
     siteUrl: process.env.URL || 'localhost:8000',
   },
   plugins: [
