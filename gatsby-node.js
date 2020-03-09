@@ -18,12 +18,12 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage, createR
 
       // create a redirect based on the accept-language header
       createRedirect({
-        fromPath: originalPath,
+        fromPath: page.path.includes('/404.html') ? '/*' : originalPath,
         toPath: localizedPath,
         Language: lang,
         isPermanent: false,
         redirectInBrowser: isEnvDevelopment,
-        statusCode: 301,
+        statusCode: page.path.includes('/404.html') ? 404 : 301,
       });
 
       await createPage({
@@ -41,10 +41,10 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage, createR
   // Create a fallback redirect if the language is not supported or the
   // Accept-Language header is missing for some reason
   createRedirect({
-    fromPath: originalPath,
+    fromPath: page.path.includes('/404.html') ? '/*' : originalPath,
     toPath: `/${config.siteMetadata.defaultLanguage}${page.path}`,
     isPermanent: false,
     redirectInBrowser: isEnvDevelopment,
-    statusCode: 301,
+    statusCode: page.path.includes('/404.html') ? 404 : 301,
   });
 };
