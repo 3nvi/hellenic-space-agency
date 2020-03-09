@@ -67,6 +67,10 @@
           "role": "Member",
           "bio": "Antigoni Giannakaki is lawyer which help the position of Supervising Senior Lawyer at CPA Law Firm-Member of the Global Network of KPMG-Independent Law Practice Professional (September 2006 -2018 ). She was also a Special Associate of Secretary General of Information System and Administrative Support of Ministry of Finance, Greece (2013-2015) and remains an Associate Lawyer for the Agricultural Bank of Greece."
         }
+      },
+      "404": {
+        "mainTitle": "Not Found",
+        "mainSubtitle": "You just hit a route that doesn't exist... the sadness."
       }
     }
   },
@@ -198,6 +202,10 @@
         "contactFormTitle": "Φόρμα Επικοινωνίας",
         "contactFormSubtitle": "Συμπληρώστε την ακόλουθη φόρμα και θα επικοινωνήσουμε μαζί σας το συντομότερο δυνατόν.",
         "location": "Τοποθεσία"
+      },
+      "404": {
+        "mainTitle": "Δεν Βρέθηκε",
+        "mainSubtitle": "Η σελίδα που προσπαθήσατε να επισκεφτείτε δεν υπάρχει..."
       }
     }
   }
