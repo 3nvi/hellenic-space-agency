@@ -2427,3 +2427,9 @@ body.is-touch {
     }
   }
 }
+
+.google-maps {
+  border: none;
+  border-radius: 3px;
+  background-color: _palette(fg-lighter);
+}

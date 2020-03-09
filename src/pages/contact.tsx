@@ -35,8 +35,7 @@ const Contact: React.FC = () => {
                   title="Google maps location"
                   width="100%"
                   height="275"
-                  frameBorder="0"
-                  style={{ border: 'none', borderRadius: '3px' }}
+                  className="google-maps"
                   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB6KD7SuUeUkddpfpkaZ2oylDtkZjTX4es
     &q=Kapodistrian+Universiry+Physics+Athens"
                   allowFullScreen
