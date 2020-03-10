@@ -13,6 +13,9 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage, createR
   // Delete the original page (since we are gonna create localized versions of it) and add a
   // redirect header
   await deletePage(page);
+  if (originalPath === '/404/') {
+    return;
+  }
 
   await Promise.all(
     config.siteMetadata.supportedLanguages.map(async lang => {
