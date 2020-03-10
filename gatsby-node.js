@@ -1,5 +1,7 @@
 const config = require('./gatsby-config');
 
+const excludedPaths = ['/404.html'];
+const notFoundPath = '/404/';
 /**
  * Makes sure to create localized paths for each file in the /pages folder.
  * For example, pages/404.js will be converted to /en/404.js and /el/404.js and
@@ -8,14 +10,15 @@ const config = require('./gatsby-config');
 exports.onCreatePage = async ({ page, actions: { createPage, deletePage, createRedirect } }) => {
   const isEnvDevelopment = process.env.NODE_ENV === 'development';
   const originalPath = page.path;
-  const is404 = ['/404/', '/404.html'].some(p => originalPath.includes(p));
+  const is404 = originalPath.includes(notFoundPath);
+
+  if (excludedPaths.includes(originalPath)) {
+    return;
+  }
 
   // Delete the original page (since we are gonna create localized versions of it) and add a
   // redirect header
   await deletePage(page);
-  if (originalPath === '/404/') {
-    return;
-  }
 
   await Promise.all(
     config.siteMetadata.supportedLanguages.map(async lang => {
@@ -23,12 +26,13 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage, createR
 
       // create a redirect based on the accept-language header
       createRedirect({
-        fromPath: is404 ? `/${lang}/*` : originalPath,
+        // fromPath: is404 ? `/${lang}/*` : originalPath,
+        fromPath: originalPath,
         toPath: localizedPath,
         Language: lang,
         isPermanent: false,
         redirectInBrowser: isEnvDevelopment,
-        statusCode: 301,
+        statusCode: is404 ? 404 : 301,
       });
 
       await createPage({
@@ -45,13 +49,22 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage, createR
 
   // Create a fallback redirect if the language is not supported or the
   // Accept-Language header is missing for some reason
-  if (!is404) {
-    createRedirect({
-      fromPath: is404 ? '/*' : originalPath,
-      toPath: `/${config.siteMetadata.defaultLanguage}${page.path}`,
-      isPermanent: false,
-      redirectInBrowser: isEnvDevelopment,
-      statusCode: is404 ? 404 : 301,
-    });
-  }
+  createRedirect({
+    fromPath: originalPath,
+    toPath: `/${config.siteMetadata.defaultLanguage}${page.path}`,
+    isPermanent: false,
+    redirectInBrowser: isEnvDevelopment,
+    statusCode: is404 ? 404 : 301,
+  });
+};
+
+exports.onPreBuild = ({ actions: { createRedirect } }) => {
+  const isEnvDevelopment = process.env.NODE_ENV === 'development';
+  createRedirect({
+    fromPath: '/*',
+    toPath: notFoundPath,
+    isPermanent: false,
+    redirectInBrowser: isEnvDevelopment,
+    statusCode: 404,
+  });
 };
