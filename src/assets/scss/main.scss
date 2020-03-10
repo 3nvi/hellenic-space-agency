@@ -1694,11 +1694,9 @@ body .landing {
           }
         }
 
-        &.active {
-          > a,
-          > span {
-            color: _palette(accent1);
-          }
+        & > a.active,
+        & > span.active {
+          color: _palette(accent1);
         }
 
         > ul {
@@ -1719,8 +1717,17 @@ body .landing {
   display: flex;
 
   a {
-    border: none;
-    padding: 0 1em;
+    border: 0;
+    color: inherit;
+    display: inline-block;
+    height: inherit;
+    line-height: inherit;
+    outline: 0;
+    padding: 0 0.5em;
+
+    &.active {
+      color: _palette(accent1);
+    }
   }
 
   @include breakpoint('<=small') {

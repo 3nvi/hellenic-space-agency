@@ -9,17 +9,14 @@ const menuLinks = [
   {
     id: 'home',
     href: '/',
-    isPrimary: false,
   },
   {
     id: 'about',
     href: '/about/',
-    isPrimary: false,
   },
   {
     id: 'contact',
     href: '/contact/',
-    isPrimary: false,
   },
 ];
 
@@ -61,7 +58,7 @@ const Header: React.FC = () => {
             <ul style={{ display: 'flex', flex: 1 }}>
               {menuLinks.map(link => (
                 <li key={link.href}>
-                  <Link className={link.isPrimary ? 'button primary' : undefined} to={link.href}>
+                  <Link to={link.href} activeClassName="active">
                     {t(`header.links.${link.id}`)}
                   </Link>
                 </li>

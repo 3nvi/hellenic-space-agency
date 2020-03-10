@@ -23,6 +23,7 @@ const LanguagePicker: React.FC = () => {
           {index !== 0 && <span>|</span>}
           <GatsbyLink
             aria-label={`Change language to ${supportedLang}`}
+            activeClassName="active"
             to={`/${supportedLang}${originalPath}`}
           >
             {supportedLang.toUpperCase()}
