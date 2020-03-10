@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import logo from '../assets/images/logo.jpg';
+// import logo from '../assets/images/logo.png';
 import { Link as ScrollLink } from 'react-scroll';
 import banner from '../assets/images/banner.jpg';
 
@@ -13,9 +13,7 @@ const Banner: React.FC = () => {
           <h2>{t('landing.mainTitle')}</h2>
           <p>{t('landing.mainSubtitle')}</p>
         </header>
-        <span className="image">
-          <img src={logo} alt="logo" />
-        </span>
+        <span className="image">{/*<img src={logo} alt="logo" />*/}</span>
       </div>
       <ScrollLink
         to="one"
