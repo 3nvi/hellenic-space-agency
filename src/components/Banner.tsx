@@ -13,7 +13,7 @@ const Banner: React.FC = () => {
           <h2>{t('landing.mainTitle')}</h2>
           <p>{t('landing.mainSubtitle')}</p>
         </header>
-        <span className="image">{/*<img src={logo} alt="logo" />*/}</span>
+        <span className="image" />
       </div>
       <ScrollLink
         to="one"

@@ -53,7 +53,7 @@ const Header: React.FC = () => {
 
       <header id="header">
         <h1 id="logo">
-          <span className="image">{/*<img alt="logo" width={30} height={30} src={logo} />*/}</span>
+          <span className="image" />
           <Link to="/">{t('siteMetadata.title')}</Link>
         </h1>
         <div className="navbar-menu">
