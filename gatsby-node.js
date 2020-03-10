@@ -42,11 +42,13 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage, createR
 
   // Create a fallback redirect if the language is not supported or the
   // Accept-Language header is missing for some reason
-  createRedirect({
-    fromPath: '/:splat',
-    toPath: `/${config.siteMetadata.defaultLanguage}/:splat`,
-    isPermanent: false,
-    redirectInBrowser: isEnvDevelopment,
-    statusCode: 301,
-  });
+  if (!is404) {
+    createRedirect({
+      fromPath: is404 ? '/*' : originalPath,
+      toPath: `/${config.siteMetadata.defaultLanguage}${page.path}`,
+      isPermanent: false,
+      redirectInBrowser: isEnvDevelopment,
+      statusCode: is404 ? 404 : 301,
+    });
+  }
 };
