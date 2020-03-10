@@ -25,7 +25,7 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage, createR
         Language: lang,
         isPermanent: false,
         redirectInBrowser: isEnvDevelopment,
-        statusCode: is404 ? 404 : 301,
+        statusCode: 301,
       });
 
       await createPage({
