@@ -91,7 +91,6 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
           '@type': 'Organization',
           image: site.siteMetadata.image,
           name: siteName,
-          nationality: 'Greek',
           url: host,
           logo: undefined,
           telephone: undefined,

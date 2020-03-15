@@ -24,7 +24,11 @@ const Profile: React.FC<ProfileProps> = ({ tProfileKey, image }) => {
             image,
             jobTitle: role,
             name,
-            nationality: 'Greek',
+            nationality: {
+              '@context': 'https://schema.org',
+              '@type': 'Country',
+              name: 'Greece',
+            },
             url: link,
           })}
         </script>
