@@ -8,7 +8,7 @@
       },
       "siteMetadata": {
         "title": "Hellenic Space Center",
-        "description": "Hellenic Space Center website",
+        "description": "Hellenic Space Center formulates teh strategy, coordinates the projects and represents Greece in all matters of space",
         "keywords": "Hellenic Space Center,Greek Space Center,Ioannis Daglis,George Nounesis"
       },
       "header": {
@@ -19,12 +19,62 @@
         }
       },
       "landing": {
-        "title": "Hellenic Space Center",
-        "description": "supported by the Ministry of Digital Governance"
+        "mainTitle": "Hellenic Space Center",
+        "mainSubtitle": "Participation, Coordination & Support in the Space sector",
+        "missionTitle": "Inform. Support. Educate.",
+        "missionSubtitle": "in all matters of Space",
+        "missions": [
+          {
+            "title": "H.S.C. defines the space action plan",
+            "details": "Formulates proposals for the space strategy and the creation of a dynamically rolling space action plan. Collaborates with the academic and research community, the public and private sectors, in order to define goals, collaboration sectors and general processes for the achievement of space-related goals."
+          },
+          {
+            "title": "Hellenic space strategy as its core focal pooint",
+            "details": "H.S.C. collaborates, coordinates, supports and mobilizes communities, services and legal entities of both the Public and the Private sectors for the promotion, dissemination and exploitation of the hellenic space strategy, by taking part in european and international organizations that focus on space matters and projects."
+          },
+          {
+            "title": "Management of national projects relating to Space",
+            "details": "H.S.C. promotes and takes part as a coordinator of public bodies in projects and programs, while managing national programs and projects in all space sectors, such as the scientific research, technology, telecommunications, security, economy, environment, agricultural development, transportation, digital governance and commerce."
+          },
+          {
+            "title": "National Presence & Representation",
+            "details": "The purpose of H.S.C. is the participation in european and international organizations, initiatives, forums and activities around space matters, the coordination of the national space representatives, the development of national and international collaborations, the exchange and composition of space-related knowledge, innovation and actions in order to maximize the reciprocal participation of our country in european and national space organizations, european or national programs, as well as the participation in the design of programs in order to serve the national, scientific, business and development purposes where Space plays the key role."
+          }
+        ],
+        "goalsTitle": "The Role of H.S.A. is multiple",
+        "goalsSubtitle": "Among its main responsibilities are the following",
+        "goals": [
+          {
+            "title": "Strengthening of the Economy",
+            "details": "Contribution in the development & reinforcement of technology and space applications, services and facilities to benefit the national industry and research."
+          },
+          {
+            "title": "Equipment Design",
+            "details": "Support in the design of satellites, satellite systems, materials and equipment, including remote sensing activities."
+          },
+          {
+            "title": "Educational Character",
+            "details": "Continuous training of students, young researchers and public officials in all space matters."
+          },
+          {
+            "title": "Public Awareness",
+            "details": "Design and participation in the implementation of actions for the comprehension of space activities and applications."
+          },
+          {
+            "title": "Conveying of Knowledge",
+            "details": "The promotion issues around standardization, as well as transferring know-how and good practices in space applications and services."
+          },
+          {
+            "title": "Cooperation with the Public Sector",
+            "details": "Assistance to the State with regards to satellite and space issues, as well as the provision of consulting services and preparation of studies in order to assist the Ministry of Digital Governance."
+          }
+        ]
       },
       "about": {
-        "title": "About us",
-        "description": "A few words about us",
+        "mainTitle": "About H.S.A.",
+        "mainSubtitle": "Operational Purposes and Human Resources",
+        "membersTitle": "Board of directors",
+        "content": "The purposes of H.S.C. are the following:\n\nDevelopment of a space strategy proposal and a dynamically-rolling action plan for the national space strategy in collaboration with the academic and research community, the Public and Private Sector that identifies targets, areas of cooperation and processes for achieving goals. The co-operation, coordination, support and mobilization of public and private sector bodies, services and legal entities for the promotion, dissemination and exploitation of Greece's space strategy, as well as participation in European and international organizations and groups active in space issues and programs. Promotion and participation as coordinator of public bodies in projects and programs, as well as management of national programs and projects in all space areas, such as scientific research, technology, telecommunications, security, economy, environment, rural development, transport, e-government and commerce.\n\nParticipation in European and international organizations, initiatives, forums and activities on Space issues, coordination of national representatives in the field of Space, development of European and international partnerships, exchange and synthesis of knowledge, innovation and actions to maximize its stakeholder engagement participation in European and international space organizations, European or international space programs, and participation in the design of programs to serve national, scientific, business and development needs in which Space plays a key role.\n\nContribution to the development and enhancement of technology and space applications, services and terrestrial infrastructures for the benefit of domestic industry and research, as well as support in the design and operation of satellites, satellite systems, materials and equipment, including remote sensing activities, participation of the country in international and European organizations and programs, as well as in any kind of returns that the country is entitled to.\n\nCollaboration with relevant agencies and services to continuously train students, young researchers and public officials in Space issues, as well as design and participate in actions to understand space activities and applications.\n\nPromotion of issues that relate to standardization and transferring of know-how and good practices in space applications and services.\n\nThe experimental and commercial exploitation of the State's rights in satellite and space objects, as well as the exploitation of related services, resources and assets, movable and immovable, subject to the assignment or permission of the Minister of Digital Governance.\n\nThe assistance to the State in the area of satellite and space, as well as the provision of advisory services and studies to the Ministry of Digital Governance with regards to space rights and obligations, the registration and evaluation of space objects, and the development of satellite systems.",
         "daglis": {
           "link": "http://scholar.uoa.gr/iadaglis/home",
           "name": "Ioannis Daglis",
@@ -65,8 +115,17 @@
           "link": "https://www.linkedin.com/in/antigoni-giannakaki-355831138/",
           "name": "Antigoni Giannakaki",
           "role": "Member",
-          "bio": "Antigoni Giannakaki is lawyer which help the position of Supervising Senior Lawyer at CPA Law Firm-Member of the Global Network of KPMG-Independent Law Practice Professional (September 2006 -2018 ). She was also a Special Associate of Secretary General of Information System and Administrative Support of Ministry of Finance, Greece (2013-2015) and remains an Associate Lawyer for the Agricultural Bank of Greece."
-        }
+          "bio": "Antigoni Giannakaki is a lawyer which held the position of Supervising Senior Lawyer at CPA Law Firm-Member of the Global Network of KPMG-Independent Law Practice Professional (September 2006 -2018 ). She was also a Special Associate of Secretary General of Information System and Administrative Support of Ministry of Finance, Greece (2013-2015) and remains an Associate Lawyer for the Agricultural Bank of Greece."
+        },
+        "creationDocumentLink": "Establishment Government Gazette",
+        "assignmentsDocumentLink": "Board of Directors Assignment Government Gazette"
+      },
+      "contact": {
+        "mainTitle": "Contact",
+        "mainSubtitle": "Get in touch with us",
+        "contactFormTitle": "Contact Form",
+        "contactFormSubtitle": "Please fill in the form below and we'll get in touch with you as soon as possible",
+        "location": "Location"
       },
       "404": {
         "mainTitle": "Not Found",
@@ -84,7 +143,7 @@
       "siteMetadata": {
         "title": "Ελληνικό Κέντρο Διαστήματος",
         "description": "To Ελληνικό Κέντρο Διαστήματος διαμορφώνει τη στρατηγική, συντονίζει τα έργα, εκπροσωπεί την Ελλάδα σε όλα τα ζητήματα του τομέα του διαστήματος",
-        "keywords": "Ελληνικό Κέντρο Διαστήματος,Υπηρεσία Διαστήματος, Ιωάννης Δαγκλής,Γιώργος Νούνεσης"
+        "keywords": "Ελληνικό Κέντρο Διαστήματος,Υπηρεσία Διαστήματος,Ιωάννης Δαγκλής,Γιώργος Νούνεσης"
       },
 
       "header": {
@@ -150,7 +209,7 @@
         "mainTitle": "Σχετικά με το ΕΛ.ΚΕ.Δ",
         "mainSubtitle": "Λειτουργικοί Σκοποί και Ανθρώπινο Δυναμικό",
         "membersTitle": "Διοικητικό Συμβούλιο",
-        "content": "Οι σκοποί του ΕΛ.ΚΕ.Δ. είναι οι ακόλουθοι: \n\n H διαμόρφωση πρότασης για τη στρατηγική στον τομέα του διαστήματος και η εκπόνηση κυλιόμενου-δυναμικού σχεδίου δράσης της διαστημικής στρατηγικής σε συνεργασία με την πανεπιστημιακή και ερευνητική κοινότητα,  τον  Δημόσιο  και  τον  Ιδιωτικό  Τομέα  που  προσδιορίζει στόχους, τομείς συνεργασίας και διαδικασίες για την επίτευξη των στόχων. H συνεργασία,  ο  συντονισμός,  η  υποστήριξη  και  η κινητοποίηση φορέων, υπηρεσιών και νομικών προσώπων του Δημοσίου και του Ιδιωτικού Τομέα για την προώθηση, διάχυση και αξιοποίηση της διαστημικής στρατηγικής της Ελλάδας, καθώς και η συμμετοχή σε ευρωπαϊκούς και διεθνείς οργανισμούς και ομάδες που δραστηριοποιούνται  σε  διαστημικά  θέματα  και  προγράμματα. H προώθηση και συμμετοχή ως συντονιστής δημόσιων φορέων σε έργα και προγράμματα, καθώς και η διαχείριση εθνικών προγραμμάτων και έργων σε τομείς του Διαστήματος, όπως η επιστημονική έρευνα, η τεχνολογία, οι τηλεπικοινωνίες, η ασφάλεια, η οικονομία, το περιβάλλον, η αγροτική ανάπτυξη, οι μεταφορές, η ηλεκτρονική διακυβέρνηση και το εμπόριο. \n\n H συμμετοχή σε ευρωπαϊκούς και διεθνείς οργανισμούς, πρωτοβουλίες, φόρουμ και δραστηριότητες για θέματα Διαστήματος, ο συντονισμός των εθνικών εκπροσώπων στον τομέα του Διαστήματος, η ανάπτυξη ευρωπαϊκών και διεθνών συνεργασιών, η ανταλλαγή και σύνθεση γνώσεων, καινοτομίας και δράσεων προκειμένου να μεγιστοποιηθεί η ανταποδοτική συμμετοχή της χώρας στους ευρωπαϊκούς και διεθνείς οργανισμούς Διαστήματος, σε ευρωπαϊκά ή διεθνή διαστημικά προγράμματα, καθώς και η συμμετοχή στη σχεδίαση προγραμμάτων για την εξυπηρέτηση εθνικών, επιστημονικών, επιχειρησιακών και αναπτυξιακών αναγκών στις οποίες το Διάστημα έχει πρωταρχικό ρόλο. \n\n Η συμβολή στην ανάπτυξη και ενίσχυση της τεχνολογίας και των διαστημικών εφαρμογών, υπηρεσιών και επίγειων υποδομών προς όφελος της εγχώριας βιομηχανίας και έρευνας, καθώς και η υποστήριξη στο σχεδιασμό δορυφόρων, δορυφορικών συστημάτων, υλικών και εξοπλισμού, συμπεριλαμβανομένων των δραστηριοτήτων τηλεπισκόπησης, μέσω και της αξιοποίησης της συμμετοχής της χώρας στους διεθνείς και ευρωπαϊκούς οργανισμούς και προγράμματα, καθώς και στις πάσης φύσεως επιστροφές που δικαιούται η χώρα. \n\n Η συνεργασία με αρμόδιους φορείς και υπηρεσίες για τη συνεχή επιμόρφωση των φοιτητών, των νέων ερευνητών και των δημόσιων λειτουργών σε θέματα Διαστήματος, καθώς και η σχεδίαση και η συμμετοχή στην υλοποίηση δράσεων για την κατανόηση των διαστημικών δραστηριοτήτων και εφαρμογών. \n\n Η προώθηση θεμάτων τυποποίησης και η μεταφορά τεχνογνωσίας και καλών πρακτικών στον τομέα των διαστημικών εφαρμογών και υπηρεσιών \n\n H πειραματική ή εμπορική αξιοποίηση των δικαιωμάτων του Δημοσίου σε δορυφορικά και διαστημικά αντικείμενα, καθώς και η αξιοποίηση των συναφών υπηρεσιών, πόρων και περιουσιακών στοιχείων, κινητών και ακινήτων, κατόπιν σχετικής εκχωρήσεως ή άδειας του Υπουργού Ψηφιακής Διακυβέρνησης \n\n H παροχή συνδρομής προς το Δημόσιο αναφορικά με δορυφορικά και διαστημικά θέματα, καθώς και η παροχή συμβουλευτικών υπηρεσιών και η εκπόνηση μελετών προς το Υπουργείο Ψηφιακής Διακυβέρνησης αναφορικά με τη διαχείριση των δικαιωμάτων και των υποχρεώσεων του Δημοσίου στο Διάστημα, την καταχώριση και αξιολόγηση διαστημικών αντικειμένων, καθώς και την ανάπτυξη δορυφορικών συστημάτων.",
+        "content": "Οι σκοποί του ΕΛ.ΚΕ.Δ. είναι οι ακόλουθοι: \n\nH διαμόρφωση πρότασης για τη στρατηγική στον τομέα του διαστήματος και η εκπόνηση κυλιόμενου-δυναμικού σχεδίου δράσης της διαστημικής στρατηγικής σε συνεργασία με την πανεπιστημιακή και ερευνητική κοινότητα,  τον  Δημόσιο  και  τον  Ιδιωτικό  Τομέα  που  προσδιορίζει στόχους, τομείς συνεργασίας και διαδικασίες για την επίτευξη των στόχων. H συνεργασία,  ο  συντονισμός,  η  υποστήριξη  και  η κινητοποίηση φορέων, υπηρεσιών και νομικών προσώπων του Δημοσίου και του Ιδιωτικού Τομέα για την προώθηση, διάχυση και αξιοποίηση της διαστημικής στρατηγικής της Ελλάδας, καθώς και η συμμετοχή σε ευρωπαϊκούς και διεθνείς οργανισμούς και ομάδες που δραστηριοποιούνται  σε  διαστημικά  θέματα  και  προγράμματα. H προώθηση και συμμετοχή ως συντονιστής δημόσιων φορέων σε έργα και προγράμματα, καθώς και η διαχείριση εθνικών προγραμμάτων και έργων σε τομείς του Διαστήματος, όπως η επιστημονική έρευνα, η τεχνολογία, οι τηλεπικοινωνίες, η ασφάλεια, η οικονομία, το περιβάλλον, η αγροτική ανάπτυξη, οι μεταφορές, η ηλεκτρονική διακυβέρνηση και το εμπόριο. \n\nH συμμετοχή σε ευρωπαϊκούς και διεθνείς οργανισμούς, πρωτοβουλίες, φόρουμ και δραστηριότητες για θέματα Διαστήματος, ο συντονισμός των εθνικών εκπροσώπων στον τομέα του Διαστήματος, η ανάπτυξη ευρωπαϊκών και διεθνών συνεργασιών, η ανταλλαγή και σύνθεση γνώσεων, καινοτομίας και δράσεων προκειμένου να μεγιστοποιηθεί η ανταποδοτική συμμετοχή της χώρας στους ευρωπαϊκούς και διεθνείς οργανισμούς Διαστήματος, σε ευρωπαϊκά ή διεθνή διαστημικά προγράμματα, καθώς και η συμμετοχή στη σχεδίαση προγραμμάτων για την εξυπηρέτηση εθνικών, επιστημονικών, επιχειρησιακών και αναπτυξιακών αναγκών στις οποίες το Διάστημα έχει πρωταρχικό ρόλο. \n\nΗ συμβολή στην ανάπτυξη και ενίσχυση της τεχνολογίας και των διαστημικών εφαρμογών, υπηρεσιών και επίγειων υποδομών προς όφελος της εγχώριας βιομηχανίας και έρευνας, καθώς και η υποστήριξη στο σχεδιασμό δορυφόρων, δορυφορικών συστημάτων, υλικών και εξοπλισμού, συμπεριλαμβανομένων των δραστηριοτήτων τηλεπισκόπησης, μέσω και της αξιοποίησης της συμμετοχής της χώρας στους διεθνείς και ευρωπαϊκούς οργανισμούς και προγράμματα, καθώς και στις πάσης φύσεως επιστροφές που δικαιούται η χώρα. \n\nΗ συνεργασία με αρμόδιους φορείς και υπηρεσίες για τη συνεχή επιμόρφωση των φοιτητών, των νέων ερευνητών και των δημόσιων λειτουργών σε θέματα Διαστήματος, καθώς και η σχεδίαση και η συμμετοχή στην υλοποίηση δράσεων για την κατανόηση των διαστημικών δραστηριοτήτων και εφαρμογών. \n\nΗ προώθηση θεμάτων τυποποίησης και η μεταφορά τεχνογνωσίας και καλών πρακτικών στον τομέα των διαστημικών εφαρμογών και υπηρεσιών \n\nH πειραματική ή εμπορική αξιοποίηση των δικαιωμάτων του Δημοσίου σε δορυφορικά και διαστημικά αντικείμενα, καθώς και η αξιοποίηση των συναφών υπηρεσιών, πόρων και περιουσιακών στοιχείων, κινητών και ακινήτων, κατόπιν σχετικής εκχωρήσεως ή άδειας του Υπουργού Ψηφιακής Διακυβέρνησης \n\nH παροχή συνδρομής προς το Δημόσιο αναφορικά με δορυφορικά και διαστημικά θέματα, καθώς και η παροχή συμβουλευτικών υπηρεσιών και η εκπόνηση μελετών προς το Υπουργείο Ψηφιακής Διακυβέρνησης αναφορικά με τη διαχείριση των δικαιωμάτων και των υποχρεώσεων του Δημοσίου στο Διάστημα, την καταχώριση και αξιολόγηση διαστημικών αντικειμένων, καθώς και την ανάπτυξη δορυφορικών συστημάτων.",
         "daglis": {
           "link": "http://scholar.uoa.gr/iadaglis/home",
           "name": "Ιωάννης Δαγκλής",
