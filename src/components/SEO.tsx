@@ -28,7 +28,8 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
 
   const { lang, originalPath } = usePageContext();
 
-  const metaDescription = description || t('siteMetadata.description');
+  const siteName = t('siteMetadata.title');
+  const defaultDescription = description || t('siteMetadata.description');
   const host = site.siteMetadata.siteUrl;
   return (
     <Helmet
@@ -36,7 +37,7 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
         lang,
       }}
       title={title}
-      titleTemplate={`%s | ${t('siteMetadata.title')}`}
+      titleTemplate={`%s | ${siteName}`}
       meta={[
         {
           name: `keywords`,
@@ -44,7 +45,7 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
         },
         {
           name: `description`,
-          content: metaDescription,
+          content: defaultDescription,
         },
         {
           property: `og:title`,
@@ -52,7 +53,7 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
         },
         {
           property: `og:description`,
-          content: metaDescription,
+          content: defaultDescription,
         },
         {
           property: `og:image`,
@@ -83,7 +84,22 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
           href: `${host}/${supportedLang}${originalPath}`,
         })),
       ]}
-    />
+    >
+      <script type="application/ld+json">
+        {JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'Organization',
+          image: site.siteMetadata.image,
+          name: siteName,
+          nationality: 'Greek',
+          url: host,
+          logo: undefined,
+          telephone: undefined,
+          address: undefined,
+          email: undefined,
+        })}
+      </script>
+    </Helmet>
   );
 };
 

@@ -1,35 +1,52 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import { Helmet } from 'react-helmet';
+
 interface ProfileProps {
   tProfileKey: string;
   image: string;
 }
+
 const Profile: React.FC<ProfileProps> = ({ tProfileKey, image }) => {
   const { t } = useTranslation();
 
+  const name = t(`about.${tProfileKey}.name`);
+  const role = t(`about.${tProfileKey}.role`);
+  const bio = t(`about.${tProfileKey}.bio`);
+  const link = t(`about.${tProfileKey}.link`);
   return (
-    <section className="profile">
-      <div className="image left">
-        <a href={t(`about.${tProfileKey}.link`)} target="_blank" rel="noopener noreferrer">
-          <img
-            src={image}
-            width={300}
-            height={300}
-            alt={`${t(`about.${tProfileKey}.name`)} Avatar`}
-          />
-        </a>
-      </div>
-      <div>
-        <header>
-          <h3>{t(`about.${tProfileKey}.name`)}</h3>
-          <h4>{t(`about.${tProfileKey}.role`)}</h4>
-        </header>
-        <p>{t(`about.${tProfileKey}.bio`)}</p>
-        <a href={t(`about.${tProfileKey}.link`)} target="_blank" rel="noopener noreferrer">
-          {t(`common.learnMore`)}
-        </a>
-      </div>
-    </section>
+    <React.Fragment>
+      <Helmet>
+        <script type="application/ld+json">
+          {JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'Person',
+            image,
+            jobTitle: role,
+            name,
+            nationality: 'Greek',
+            url: link,
+          })}
+        </script>
+      </Helmet>
+      <section className="profile">
+        <div className="image left">
+          <a href={link} target="_blank" rel="noopener noreferrer">
+            <img src={image} width={300} height={300} alt={`${name} Avatar`} />
+          </a>
+        </div>
+        <div>
+          <header>
+            <h3>{name}</h3>
+            <h4>{role}</h4>
+          </header>
+          <p>{bio}</p>
+          <a href={link} target="_blank" rel="noopener noreferrer">
+            {t(`common.learnMore`)}
+          </a>
+        </div>
+      </section>
+    </React.Fragment>
   );
 };
 
