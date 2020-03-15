@@ -10,8 +10,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
+        name: 'hellenic-space-center',
+        short_name: 'H.S.C.',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',
@@ -33,15 +33,6 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/src/assets/images/`,
-        name: 'images',
-      },
-    },
-    'gatsby-transformer-sharp',
-    'gatsby-plugin-sharp',
     'gatsby-plugin-sass',
     'gatsby-plugin-typescript',
     'gatsby-plugin-sitemap',
