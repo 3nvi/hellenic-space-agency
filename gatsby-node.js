@@ -26,7 +26,6 @@ exports.onCreatePage = async ({ page, actions: { createPage, deletePage, createR
 
       // create a redirect based on the accept-language header
       createRedirect({
-        // fromPath: is404 ? `/${lang}/*` : originalPath,
         fromPath: originalPath,
         toPath: localizedPath,
         Language: lang,
