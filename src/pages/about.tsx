@@ -30,7 +30,7 @@ const About: React.FC = () => {
         <div className="container">
           <section id="content">
             <h2>{t('siteMetadata.title')}</h2>
-            <p style={{ whiteSpace: 'pre-line', textAlign: 'justify' }}>{t('about.content')}</p>
+            <p style={{ whiteSpace: 'pre-line' }}>{t('about.content')}</p>
             <footer>
               <div>
                 <a
