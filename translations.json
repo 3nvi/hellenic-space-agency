@@ -8,7 +8,7 @@
       },
       "siteMetadata": {
         "title": "Hellenic Space Center",
-        "description": "Hellenic Space Center formulates teh strategy, coordinates the projects and represents Greece in all matters of space",
+        "description": "Hellenic Space Center formulates the strategy, coordinates the projects and represents Greece in all matters of space",
         "keywords": "Hellenic Space Center,Greek Space Center,Ioannis Daglis,George Nounesis"
       },
       "header": {
@@ -20,7 +20,6 @@
       },
       "landing": {
         "mainTitle": "Hellenic Space Center",
-        "mainSubtitle": "Participation, Coordination & Support in the Space sector",
         "missionTitle": "Inform. Support. Educate.",
         "missionSubtitle": "in all matters of Space",
         "missions": [
@@ -29,8 +28,8 @@
             "details": "Formulates proposals for the space strategy and the creation of a dynamically rolling space action plan. Collaborates with the academic and research community, the public and private sectors, in order to define goals, collaboration sectors and general processes for the achievement of space-related goals."
           },
           {
-            "title": "Hellenic space strategy as its core focal pooint",
-            "details": "H.S.C. collaborates, coordinates, supports and mobilizes communities, services and legal entities of both the Public and the Private sectors for the promotion, dissemination and exploitation of the hellenic space strategy, by taking part in european and international organizations that focus on space matters and projects."
+            "title": "National space strategy",
+            "details": "The Hellenic Space Centre coordinates, supports and mobilizes communities, services and legal entities of both the Public and the Private sectors for the promotion, dissemination and exploitation of the national Greek space strategy, and participates in European and international organizations that focus on space topics and space projects."
           },
           {
             "title": "Management of national projects relating to Space",
@@ -71,8 +70,8 @@
         ]
       },
       "about": {
-        "mainTitle": "About H.S.A.",
-        "mainSubtitle": "Operational Purposes and Human Resources",
+        "mainTitle": "About H.S.C.",
+        "mainSubtitle": "Mission and Governing Board",
         "membersTitle": "Governing Board",
         "content": "The purposes of H.S.C. are the following:\n\nDevelopment of a space strategy proposal and a dynamically-rolling action plan for the national space strategy in collaboration with the academic and research community, the Public and Private Sector that identifies targets, areas of cooperation and processes for achieving goals. The co-operation, coordination, support and mobilization of public and private sector bodies, services and legal entities for the promotion, dissemination and exploitation of Greece's space strategy, as well as participation in European and international organizations and groups active in space issues and programs. Promotion and participation as coordinator of public bodies in projects and programs, as well as management of national programs and projects in all space areas, such as scientific research, technology, telecommunications, security, economy, environment, rural development, transport, e-government and commerce.\n\nParticipation in European and international organizations, initiatives, forums and activities on Space issues, coordination of national representatives in the field of Space, development of European and international partnerships, exchange and synthesis of knowledge, innovation and actions to maximize its stakeholder engagement participation in European and international space organizations, European or international space programs, and participation in the design of programs to serve national, scientific, business and development needs in which Space plays a key role.\n\nContribution to the development and enhancement of technology and space applications, services and terrestrial infrastructures for the benefit of domestic industry and research, as well as support in the design and operation of satellites, satellite systems, materials and equipment, including remote sensing activities, participation of the country in international and European organizations and programs, as well as in any kind of returns that the country is entitled to.\n\nCollaboration with relevant agencies and services to continuously train students, young researchers and public officials in Space issues, as well as design and participate in actions to understand space activities and applications.\n\nPromotion of issues that relate to standardization and transferring of know-how and good practices in space applications and services.\n\nThe experimental and commercial exploitation of the State's rights in satellite and space objects, as well as the exploitation of related services, resources and assets, movable and immovable, subject to the assignment or permission of the Minister of Digital Governance.\n\nThe assistance to the State in the area of satellite and space, as well as the provision of advisory services and studies to the Ministry of Digital Governance with regards to space rights and obligations, the registration and evaluation of space objects, and the development of satellite systems.",
         "daglis": {
@@ -155,7 +154,6 @@
       },
       "landing": {
         "mainTitle": "Ελληνικό Κέντρο Διαστήματος",
-        "mainSubtitle": "Συνεργασία, συντονισμός & υποστήριξη στον τομέα του Διαστήματος",
         "missionTitle": "Ενημέρωση. Υποστήριξη. Επιμόρφωση.",
         "missionSubtitle": "σε όλα τα ζητήματα του τομέα του Διαστήματος",
         "missions": [
@@ -164,7 +162,7 @@
             "details": "Διαμορφώνει προτάσεις για τη στρατηγική στον τομέα του διαστήματος και την εκπόνηση κυλιόμενου-δυναμικού σχεδίου δράσης της διαστημικής στρατηγικής. Συνεργάζεται με την πανεπιστημιακή και ερευνητική κοινότητα,  τον  Δημόσιο  και  τον  Ιδιωτικό  Τομέα  που  προσδιορίζει στόχους, τομείς συνεργασίας και διαδικασίες για την επίτευξη των στόχων."
           },
           {
-            "title": "Γνώμονας η διαστημική στρατηγική της Ελλάδας",
+            "title": "Εθνική διαστημική στρατηγική",
             "details": "Το ΕΛ.ΚΕ.Δ συνεργάζεται, συντονίζει, υποστηρίζει και  κινητοποιεί φορείς, υπηρεσίες και νομικά πρόσωπα του Δημοσίου και του Ιδιωτικού Τομέα για την προώθηση, διάχυση και αξιοποίηση της διαστημικής στρατηγικής της Ελλάδας, συμμετέχοντας σε ευρωπαϊκούς και διεθνείς οργανισμούς και ομάδες που δραστηριοποιούνται  σε  διαστημικά  θέματα  και  προγράμματα."
           },
           {

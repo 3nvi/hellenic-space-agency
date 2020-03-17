@@ -11,9 +11,7 @@ const Banner: React.FC = () => {
       <div className="content">
         <header>
           <h2>{t('landing.mainTitle')}</h2>
-          <p>{t('landing.mainSubtitle')}</p>
         </header>
-        <span className="image" />
       </div>
       <ScrollLink
         to="one"

@@ -19,7 +19,7 @@ const Contact: React.FC = () => {
             <div className="col-6 col-12-medium ">
               <section id="sidebar">
                 <h3>{t('contact.location')}</h3>
-                <address>Βαλτετσίου 35, Χαλανδρι, 15234, Αττική, Ελλάδα</address>
+                <address>Λεωφ. Κηφισίας 178, Χαλάνδρι, 15231, Ελλάδα</address>
                 <p>
                   <a href="mailto:contact@hsa.gr" rel="noopener noreferrer">
                     contact@hsa.gr
@@ -33,12 +33,11 @@ const Contact: React.FC = () => {
               <section id="content">
                 <iframe
                   title="Google maps location"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3143.557161795617!2d23.780523807534163!3d38.01078851463768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a199b2865b99db%3A0xf74607656ce548c8!2zzpXOu867zrfOvc65zrrPjCDOms6tzr3PhM-Bzr8gzpTOuc6xz4PPhM6uzrzOsc-Ezr_Pgg!5e0!3m2!1sen!2sgr!4v1584473048077!5m2!1sen!2sgr"
                   width="100%"
                   height="275"
                   className="google-maps"
-                  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB6KD7SuUeUkddpfpkaZ2oylDtkZjTX4es
-    &q=Kapodistrian+Universiry+Physics+Athens"
-                  allowFullScreen
+                  aria-hidden="false"
                 />
               </section>
             </div>
