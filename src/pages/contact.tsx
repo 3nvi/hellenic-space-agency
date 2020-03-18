@@ -20,15 +20,6 @@ const Contact: React.FC = () => {
               <section id="sidebar">
                 <h3>{t('contact.location')}</h3>
                 <address>Λεωφ. Κηφισίας 178, Χαλάνδρι, 15231, Ελλάδα</address>
-                <p>
-                  <a href="mailto:contact@hsa.gr" rel="noopener noreferrer">
-                    contact@hsa.gr
-                  </a>
-                  <br />
-                  <a href="tel:+302105555555" rel="noopener noreferrer">
-                    +30 210 55 55 555
-                  </a>
-                </p>
               </section>
               <section id="content">
                 <iframe
