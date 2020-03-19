@@ -24,20 +24,16 @@
         "missionSubtitle": "in all matters of Space",
         "missions": [
           {
-            "title": "H.S.C. defines the space action plan",
-            "details": "Formulates proposals for the space strategy and the creation of a dynamically rolling space action plan. Collaborates with the academic and research community, the public and private sectors, in order to define goals, collaboration sectors and general processes for the achievement of space-related goals."
+            "title": "National space strategy and action plan",
+            "details": "The Hellenic Space Center formulates the elements of the national strategy and the definition of an action plan in the domain of space.\nIn the framework of this responsibility, HSC collaborates with the scientific community, and the public and private sector, to define targets and fields of collaboration."
           },
           {
-            "title": "National space strategy",
-            "details": "The Hellenic Space Centre coordinates, supports and mobilizes communities, services and legal entities of both the Public and the Private sectors for the promotion, dissemination and exploitation of the national Greek space strategy, and participates in European and international organizations that focus on space topics and space projects."
+            "title": "Promotion, dissemination and exploitation of the national space strategy",
+            "details": "In the framework of its responsibility for the promotion, dissemination and exploitation of the national space strategy, the Hellenic Space Centre supports and mobilizes institutions, agencies and legal entities of both the public and the private sectors, participates in European and international organizations and collaborates with corresponding national space agencies."
           },
           {
-            "title": "Management of national projects relating to Space",
-            "details": "H.S.C. promotes and takes part as a coordinator of public bodies in projects and programs, while managing national programs and projects in all space sectors, such as the scientific research, technology, telecommunications, security, economy, environment, agricultural development, transportation, digital governance and commerce."
-          },
-          {
-            "title": "National Presence & Representation",
-            "details": "The purpose of H.S.C. is the participation in european and international organizations, initiatives, forums and activities around space matters, the coordination of the national space representatives, the development of national and international collaborations, the exchange and composition of space-related knowledge, innovation and actions in order to maximize the reciprocal participation of our country in european and national space organizations, european or national programs, as well as the participation in the design of programs in order to serve the national, scientific, business and development purposes where Space plays the key role."
+            "title": "Coordination and management of national space projects",
+            "details": "The Hellenic Space Center coordinates public entities and manages national programs in all space sectors, including scientific research and technology, telecommunications, security, environment, agricultural development, etc."
           }
         ],
         "goalsTitle": "The Role of H.S.A. is multiple",
@@ -158,20 +154,16 @@
         "missionSubtitle": "σε όλα τα ζητήματα του τομέα του Διαστήματος",
         "missions": [
           {
-            "title": "Το ΕΛ.ΚΕ.Δ. ορίζει το διαστημικό σχέδιο δράσης",
-            "details": "Διαμορφώνει προτάσεις για τη στρατηγική στον τομέα του διαστήματος και την εκπόνηση κυλιόμενου-δυναμικού σχεδίου δράσης της διαστημικής στρατηγικής. Συνεργάζεται με την πανεπιστημιακή και ερευνητική κοινότητα,  τον  Δημόσιο  και  τον  Ιδιωτικό  Τομέα  που  προσδιορίζει στόχους, τομείς συνεργασίας και διαδικασίες για την επίτευξη των στόχων."
+            "title": "Εθνική διαστημική στρατηγική και σχέδιο δράσης",
+            "details": "Το ΕΛΚΕΔ διαμορφώνει προτάσεις για την εθνική στρατηγική και για τον καθορισμό σχεδίου δράσης στον τομέα του διαστήματος.\nΣτο πλαίσιο αυτής της ευθύνης συνεργάζεται με την επιστημονική κοινότητα σε Πανεπιστήμια και Ερευνητικά Κέντρα, και με τον ευρύτερο δημόσιο και τον ιδιωτικό τομέα για τον προσδιορισμό στόχων και τομέων συνεργασίας."
           },
           {
-            "title": "Εθνική διαστημική στρατηγική",
-            "details": "Το ΕΛ.ΚΕ.Δ συνεργάζεται, συντονίζει, υποστηρίζει και  κινητοποιεί φορείς, υπηρεσίες και νομικά πρόσωπα του Δημοσίου και του Ιδιωτικού Τομέα για την προώθηση, διάχυση και αξιοποίηση της διαστημικής στρατηγικής της Ελλάδας, συμμετέχοντας σε ευρωπαϊκούς και διεθνείς οργανισμούς και ομάδες που δραστηριοποιούνται  σε  διαστημικά  θέματα  και  προγράμματα."
+            "title": "Προώθηση, διάχυση και αξιοποίηση της εθνικής διαστημικής στρατηγικής",
+            "details": "Στο πλαίσιο της ευθύνης του για την προώθηση, διάχυση και αξιοποίηση της εθνικής διαστημικής στρατηγικής, το ΕΛΚΕΔ \nυποστηρίζει και κινητοποιεί φορείς, υπηρεσίες και νομικά πρόσωπα του Δημοσίου και του Ιδιωτικού Τομέα, συμμετέχει σε ευρωπαϊκούς και διεθνείς οργανισμούς και συνεργάζεται με ομόλογους εθνικούς οργανισμούς διαστημικών δραστηριοτήτων, με γνώμονα το εθνικό όφελος."
           },
           {
-            "title": "Διαχείριση εθνικών έργων σε τομείς του Διαστήματος",
-            "details": "Το ΕΛ.ΚΕ.Δ προωθεί και συμμετέχει ως συντονιστής δημόσιων φορέων σε έργα και προγράμματα, καθώς και διαχειρίζεται εθνικά προγράμματα και έργα σε τομείς του Διαστήματος, όπως η επιστημονική έρευνα, η τεχνολογία, οι τηλεπικοινωνίες, η ασφάλεια, η οικονομία, το περιβάλλον, η αγροτική ανάπτυξη, οι μεταφορές, η ηλεκτρονική διακυβέρνηση και το εμπόριο."
-          },
-          {
-            "title": "Διεθνής Παρουσία & Εκπροσώπηση της χώρας μας",
-            "details": "Σκοπός του ΕΛ.ΚΕ.Δ. είναι η συμμετοχή σε ευρωπαϊκούς και διεθνείς οργανισμούς, πρωτοβουλίες, φόρουμ και δραστηριότητες για θέματα Διαστήματος, ο συντονισμός των εθνικών εκπροσώπων στον τομέα του Διαστήματος, η ανάπτυξη ευρωπαϊκών και διεθνών συνεργασιών, η ανταλλαγή και σύνθεση γνώσεων, καινοτομίας και δράσεων προκειμένου να μεγιστοποιηθεί η ανταποδοτική συμμετοχή της χώρας στους ευρωπαϊκούς και διεθνείς οργανισμούς Διαστήματος, σε ευρωπαϊκά ή διεθνή διαστημικά προγράμματα, καθώς και η συμμετοχή στη σχεδίαση προγραμμάτων για την εξυπηρέτηση εθνικών, επιστημονικών, επιχειρησιακών και αναπτυξιακών αναγκών στις οποίες το Διάστημα έχει πρωταρχικό ρόλο."
+            "title": "Συντονισμός και διαχείριση εθνικών διαστημικών προγραμμάτων",
+            "details": "Το ΕΛ.ΚΕ.Δ συντονίζει δημόσιους φορείς και διαχειρίζεται εθνικά προγράμματα και έργα σε τομείς του Διαστήματος, όπως επιστημονική έρευνα και τεχνολογία, τηλεπικοινωνίες, ασφάλεια, περιβάλλον, αγροτική ανάπτυξη, κ.α."
           }
         ],
         "goalsTitle": "Ο ρόλος του ΕΛ.ΚΕ.Δ. είναι πολυποίκιλος",
