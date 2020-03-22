@@ -37,6 +37,13 @@ module.exports = {
     'gatsby-plugin-typescript',
     'gatsby-plugin-sitemap',
     {
+      resolve: '@3nvi/gatsby-plugin-intl',
+      options: {
+        supportedLanguages: ['el', 'en'],
+        defaultLanguage: 'el',
+      },
+    },
+    {
       resolve: 'gatsby-plugin-netlify',
       options: {
         headers: {
