@@ -1,6 +1,7 @@
 import React from 'react';
 import Layout from '../components/Layout';
 import SEO from '../components/SEO';
+import ContactForm from '../components/ContactForm';
 import { useTranslation } from 'react-i18next';
 
 const Contact: React.FC = () => {
@@ -36,27 +37,7 @@ const Contact: React.FC = () => {
               <section>
                 <h3>{t('contact.contactFormTitle')}</h3>
                 <p>{t('contact.contactFormSubtitle')}</p>
-                <form method="post" action="#">
-                  <div className="row gtr-uniform gtr-50">
-                    <div className="col-6 col-12-xsmall">
-                      <input type="text" name="name" id="name" placeholder="Name" />
-                    </div>
-                    <div className="col-6 col-12-xsmall">
-                      <input type="email" name="email" id="email" placeholder="Email" />
-                    </div>
-                    <div className="col-12">
-                      <textarea
-                        name="message"
-                        id="message"
-                        placeholder="Enter your message"
-                        rows={6}
-                      />
-                    </div>
-                    <div className="col-12">
-                      <input type="submit" value="Send Message" className="primary fit" />
-                    </div>
-                  </div>
-                </form>
+                <ContactForm />
               </section>
             </div>
           </div>

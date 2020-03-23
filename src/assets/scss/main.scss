@@ -2440,3 +2440,9 @@ body.is-touch {
   border-radius: 3px;
   background-color: _palette(fg-lighter);
 }
+
+.visually-hidden {
+  position: absolute;
+  right: 100000px;
+  bottom: 100000px;
+}
