@@ -20,7 +20,7 @@ const ContactForm: React.FC = () => {
       });
       setMessageSent(true);
     } catch (err) {
-      form.submitBtn.disabled = true;
+      form.submitBtn.disabled = false;
       alert(err);
     }
   };
@@ -34,7 +34,7 @@ const ContactForm: React.FC = () => {
       </div>
     </Fade>
   ) : (
-    <form method="post" action="#" onSubmit={handleSubmit}>
+    <form method="post" action="/.netlify/functions/contact" onSubmit={handleSubmit}>
       <div className="row gtr-uniform gtr-50">
         <div className="col-6 col-12-xsmall">
           <label htmlFor="subject" className="visually-hidden">
