@@ -21,6 +21,11 @@ const Contact: React.FC = () => {
               <section id="sidebar">
                 <h3>{t('contact.location')}</h3>
                 <address>Λεωφ. Κηφισίας 178, Χαλάνδρι, 15231, Ελλάδα</address>
+                <p>
+                  <a href="mailto:contact@hsa.gr" rel="noopener noreferrer">
+                    hellenic.space.center@gmail.com
+                  </a>
+                </p>
               </section>
               <section id="content">
                 <iframe
