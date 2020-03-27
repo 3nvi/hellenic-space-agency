@@ -7,7 +7,7 @@ import Three from '../components/Three';
 import Four from '../components/Four';
 import Five from '../components/Five';
 import SEO from '../components/SEO';
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from '@3nvi/gatsby-theme-intl';
 
 const Home: React.FC = () => {
   const { t } = useTranslation();

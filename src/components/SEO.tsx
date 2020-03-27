@@ -1,7 +1,7 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 import Helmet from 'react-helmet';
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from '@3nvi/gatsby-theme-intl';
 
 interface SEOProps {
   title: string;

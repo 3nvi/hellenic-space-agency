@@ -1,7 +1,4 @@
 import React from 'react';
-import { PageContext } from './src/context/PageContext';
-import { I18nextProvider } from 'react-i18next';
-import i18n from './i18next';
 
 export const onPreRenderHTML = ({ getHeadComponents, replaceHeadComponents }) => {
   if (process.env.NODE_ENV !== 'production') {
@@ -27,18 +24,4 @@ export const onPreRenderHTML = ({ getHeadComponents, replaceHeadComponents }) =>
   });
 
   replaceHeadComponents(transformedHeadComponents);
-};
-
-/**
- * Wrap all pages with a Translation provider and set the language on SSR time
- */
-export const wrapPageElement = ({ element, props }) => {
-  const { lang } = props.pageContext;
-  i18n.changeLanguage(lang);
-
-  return <PageContext.Provider value={props.pageContext}>{element}</PageContext.Provider>;
-};
-
-export const wrapRootElement = ({ element }) => {
-  return <I18nextProvider i18n={i18n}>{element}</I18nextProvider>;
 };

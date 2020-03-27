@@ -2,7 +2,7 @@ import React from 'react';
 import Layout from '../components/Layout';
 import SEO from '../components/SEO';
 import ContactForm from '../components/ContactForm';
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from '@3nvi/gatsby-theme-intl';
 
 const Contact: React.FC = () => {
   const { t } = useTranslation();

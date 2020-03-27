@@ -1,6 +1,6 @@
 import React from 'react';
-import { useTranslation } from 'react-i18next';
-import Link from './Link';
+import { useTranslation } from '@3nvi/gatsby-theme-intl';
+import { Link } from '@3nvi/gatsby-theme-intl';
 import LanguagePicker from './LanguagePicker';
 
 interface MenuLink {

@@ -9,7 +9,7 @@ import synolakis from '../assets/images/synolakis.jpg';
 import giannakaki from '../assets/images/giannakaki.jpg';
 import karantzalos from '../assets/images/karantzalos.jpg';
 import SEO from '../components/SEO';
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import Profile from '../components/Profile';
 
 const About: React.FC = () => {

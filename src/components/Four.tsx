@@ -1,7 +1,7 @@
 import React from 'react';
 import Fade from 'react-reveal/Fade';
-import { useTranslation } from 'react-i18next';
-import Link from './Link';
+import { useTranslation } from '@3nvi/gatsby-theme-intl';
+import { Link } from '@3nvi/gatsby-theme-intl';
 
 const Four: React.FC = () => {
   const { t } = useTranslation();

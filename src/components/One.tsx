@@ -2,7 +2,7 @@ import React from 'react';
 import pic02 from '../assets/images/pic02.jpg';
 import { Link as ScrollLink } from 'react-scroll';
 import Fade from 'react-reveal/Fade';
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from '@3nvi/gatsby-theme-intl';
 
 const One: React.FC = () => {
   const { t } = useTranslation();

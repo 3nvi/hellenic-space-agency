@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import Fade from 'react-reveal/Fade';
 
 const ContactForm: React.FC = () => {

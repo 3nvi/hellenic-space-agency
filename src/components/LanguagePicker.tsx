@@ -1,6 +1,6 @@
 import React from 'react';
 import { graphql, Link as GatsbyLink, useStaticQuery } from 'gatsby';
-import { usePageContext } from '../context/PageContext';
+import { usePageContext } from '@3nvi/gatsby-theme-intl';
 
 const LanguagePicker: React.FC = () => {
   const { originalPath } = usePageContext();

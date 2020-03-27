@@ -1,7 +1,7 @@
 import React from 'react';
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from '@3nvi/gatsby-theme-intl';
 // import logo from '../assets/images/logo.png';
-import Link from '../components/Link';
+import { Link } from '@3nvi/gatsby-theme-intl';
 import MobileMenu from './MobileMenu';
 import LanguagePicker from './LanguagePicker';
 

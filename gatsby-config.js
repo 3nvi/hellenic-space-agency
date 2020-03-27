@@ -1,3 +1,5 @@
+const resources = require('./translations.json');
+
 module.exports = {
   siteMetadata: {
     image: `/assets/images/main.jpg`,
@@ -37,8 +39,11 @@ module.exports = {
     'gatsby-plugin-typescript',
     'gatsby-plugin-sitemap',
     {
-      resolve: '@3nvi/gatsby-plugin-intl',
+      resolve: '@3nvi/gatsby-theme-intl',
       options: {
+        i18nextConfig: {
+          resources,
+        },
         supportedLanguages: ['el', 'en'],
         defaultLanguage: 'el',
       },
