@@ -46,6 +46,7 @@ module.exports = {
         },
         supportedLanguages: ['el', 'en'],
         defaultLanguage: 'el',
+        excludedPages: ['/404.html'],
       },
     },
     {
