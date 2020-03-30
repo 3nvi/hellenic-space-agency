@@ -19,8 +19,8 @@ const Contact: React.FC = () => {
           <div className="row gtr-150 aln-center">
             <div className="col-6 col-12-medium ">
               <section id="sidebar">
-                <h3>{t('contact.location')}</h3>
-                <address>Λεωφ. Κηφισίας 178, Χαλάνδρι, 15231, Ελλάδα</address>
+                <h3>{t('contact.addressLabel')}</h3>
+                <address>{t('contact.address')}</address>
                 <p>
                   <a href="mailto:contact@hsa.gr" rel="noopener noreferrer">
                     hellenic.space.center@gmail.com
