@@ -7,14 +7,30 @@ const Footer: React.FC = () => (
       <li>Hellenic Space Center</li>
       <li>
         Photos from{' '}
-        <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer">
-          Nasa
+        <a href="https://www.esa.int/" target="_blank" rel="noopener noreferrer">
+          ESA
         </a>
         ,{' '}
         <a href="https://imgur.com/rzMZRFt" target="_blank" rel="noopener noreferrer">
           Inefect69
         </a>
         ,{' '}
+        <a
+          href="https://www.behance.net/gallery/75350197/Free-HD-Wallpapers"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Gianluca Giacoppo
+        </a>
+        ,{' '}
+        <a
+          href="https://wallpapersafari.com/athens-wallpapers/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Wallpaper Safari
+        </a>{' '}
+        ,
         <a
           href="https://pixabay.com/images/search/planet/"
           target="_blank"

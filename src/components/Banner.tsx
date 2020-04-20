@@ -10,7 +10,7 @@ const Banner: React.FC = () => {
     <section className="banner" style={{ backgroundImage: `url(${banner})` }}>
       <div className="content">
         <header>
-          <h2>{t('landing.mainTitle')}</h2>
+          <h1>{t('landing.mainTitle')}</h1>
         </header>
       </div>
       <ScrollLink

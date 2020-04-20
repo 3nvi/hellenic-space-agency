@@ -1332,16 +1332,6 @@ input[type='button'],
     }
   }
 
-  &:before {
-    background-image: url('../images/overlay.png');
-    content: '';
-    display: block;
-    height: 100%;
-    left: 0;
-    top: 0;
-    width: 100%;
-  }
-
   .image.main {
     display: none;
 
@@ -1755,8 +1745,9 @@ body .landing {
 /* Banner */
 
 .banner {
+  background-blend-mode: multiply;
+  background-color: #aaa;
   background-attachment: fixed;
-  background-color: _palette(accent2);
   background-position: center center;
   background-size: cover;
   box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
@@ -1765,44 +1756,27 @@ body .landing {
   text-align: center;
   z-index: (_misc(max-spotlight) + 1);
 
-  &:before {
-    content: '';
-    display: inline-block;
-    height: 100vh;
-    vertical-align: middle;
-    width: 1%;
-  }
-
-  &:after {
-    @include vendor(
-      'background-image',
-      (
-        'linear-gradient(top, #{_palette(bg-transparent)}, #{_palette(bg-transparent)})',
-        'url("../images/overlay.png");'
-      )
-    );
-    content: '';
-    display: block;
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
-  }
-
   .content {
-    display: inline-block;
+    display: flex;
+    align-items: center;
+    height: 100vh;
     margin-right: 1%;
     max-width: 95%;
     padding: $size-wrapper-pad-tb;
     position: relative;
-    text-align: right;
     vertical-align: middle;
     z-index: 1;
 
     header {
-      display: inline-block;
-      vertical-align: middle;
+      h1 {
+        color: _palette(accent5);
+        font-size: 5em;
+        letter-spacing: -0.05em;
+        text-transform: uppercase;
+        font-weight: bold;
+        max-width: 500px;
+        text-align: left;
+      }
 
       h2 {
         font-size: 2.5em;
@@ -2445,4 +2419,25 @@ body.is-touch {
   position: absolute;
   right: 100000px;
   bottom: 100000px;
+}
+
+#four {
+  background-color: #888;
+  background-blend-mode: multiply;
+
+  @include breakpoint('>=xlarge') {
+    min-height: 100vh;
+
+    section {
+      margin-top: 5em;
+    }
+  }
+}
+
+.flex-center {
+  justify-content: center;
+}
+
+.full-width {
+  width: 100%;
 }

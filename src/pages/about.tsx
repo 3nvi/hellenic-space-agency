@@ -18,7 +18,7 @@ const About: React.FC = () => {
     <Layout>
       <SEO title={t('about.mainTitle')} />
       <section className="banner" style={{ backgroundImage: `url(${pic07})` }}>
-        <div className="content">
+        <div className="content flex-center">
           <header className="major">
             <h2>{t('about.mainTitle')}</h2>
             <p>{t('about.mainSubtitle')}</p>
