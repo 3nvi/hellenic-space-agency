@@ -4,6 +4,7 @@ import Fade from 'react-reveal/Fade';
 import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import { graphql, useStaticQuery } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
+import Img from 'gatsby-image';
 
 const One: React.FC = () => {
   const { t } = useTranslation();
@@ -14,8 +15,8 @@ const One: React.FC = () => {
       query {
         desktop: file(relativePath: { eq: "pic02.jpg" }) {
           childImageSharp {
-            fluid(quality: 50, maxWidth: 1920) {
-              ...GatsbyImageSharpFluid_withWebp_tracedSVG
+            fluid(quality: 20, maxWidth: 1920) {
+              ...GatsbyImageSharpFluid_withWebp
             }
           }
         }
@@ -23,11 +24,16 @@ const One: React.FC = () => {
     `
   );
 
-  const img = data.desktop.childImageSharp.fluid;
+  const fluidImg = data.desktop.childImageSharp.fluid;
   return (
-    <BackgroundImage Tag="section" id="0" className="spotlight style1 bottom inactive" fluid={img}>
+    <BackgroundImage
+      Tag="section"
+      id="0"
+      className="spotlight style1 bottom inactive"
+      fluid={fluidImg}
+    >
       <span className="image fit main">
-        <img width="100%" src={img.src} alt="Blood Moon" />
+        <Img fluid={fluidImg} alt="Blood Moon" />
       </span>
       <Fade bottom big>
         <div className="content">

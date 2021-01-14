@@ -22,7 +22,7 @@ const About: React.FC = () => {
         desktop: file(relativePath: { eq: "pic07.jpg" }) {
           childImageSharp {
             fluid(quality: 30, maxWidth: 1920) {
-              ...GatsbyImageSharpFluid_withWebp_tracedSVG
+              ...GatsbyImageSharpFluid_withWebp
             }
           }
         }

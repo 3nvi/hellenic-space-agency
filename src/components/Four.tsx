@@ -22,7 +22,7 @@ const Four: React.FC = () => {
       query {
         desktop: file(relativePath: { eq: "pic08.jpg" }) {
           childImageSharp {
-            fluid(quality: 30, maxWidth: 1920) {
+            fluid(quality: 4, maxWidth: 1920) {
               ...GatsbyImageSharpFluid_withWebp
             }
           }

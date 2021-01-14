@@ -12,8 +12,8 @@ const Banner: React.FC = () => {
       query {
         desktop: file(relativePath: { eq: "banner.jpg" }) {
           childImageSharp {
-            fluid(quality: 60, maxWidth: 1920) {
-              ...GatsbyImageSharpFluid_withWebp_tracedSVG
+            fluid(quality: 25, maxWidth: 1920) {
+              ...GatsbyImageSharpFluid_withWebp
             }
           }
         }

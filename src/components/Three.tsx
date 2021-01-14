@@ -4,6 +4,7 @@ import Fade from 'react-reveal/Fade';
 import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import { Link } from '@3nvi/gatsby-theme-intl';
 import { graphql, useStaticQuery } from 'gatsby';
+import Img from 'gatsby-image';
 import BackgroundImage from 'gatsby-background-image';
 
 const Three: React.FC = () => {
@@ -23,16 +24,16 @@ const Three: React.FC = () => {
     `
   );
 
-  const img = data.desktop.childImageSharp.fluid;
+  const fluidImage = data.desktop.childImageSharp.fluid;
   return (
     <BackgroundImage
       Tag="section"
       id="three"
       className="spotlight style3 left inactive"
-      fluid={img}
+      fluid={fluidImage}
     >
       <span className="image fit main bottom">
-        <img width="100%" src={img.src} alt="Futuristic Landscape" />
+        <Img fluid={fluidImage} alt="Futuristic Landscape" />
       </span>
       <Fade left big>
         <div className="content">

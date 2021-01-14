@@ -5,6 +5,7 @@ import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import { Link } from '@3nvi/gatsby-theme-intl';
 import { graphql, useStaticQuery } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
+import Img from 'gatsby-image';
 
 const Two: React.FC = () => {
   const { t } = useTranslation();
@@ -14,7 +15,7 @@ const Two: React.FC = () => {
       query {
         desktop: file(relativePath: { eq: "pic03.jpg" }) {
           childImageSharp {
-            fluid(quality: 70, maxWidth: 1920) {
+            fluid(quality: 25, maxWidth: 1920) {
               ...GatsbyImageSharpFluid_withWebp
             }
           }
@@ -23,11 +24,16 @@ const Two: React.FC = () => {
     `
   );
 
-  const img = data.desktop.childImageSharp.fluid;
+  const fluidImg = data.desktop.childImageSharp.fluid;
   return (
-    <BackgroundImage Tag="section" id="two" className="spotlight style2 right inactive" fluid={img}>
+    <BackgroundImage
+      Tag="section"
+      id="two"
+      className="spotlight style2 right inactive"
+      fluid={fluidImg}
+    >
       <span className="image fit main">
-        <img width="100%" src={img.src} alt="Rockets" />
+        <Img fluid={fluidImg} alt="Rockets" />
       </span>
       <Fade right big>
         <div className="content">
