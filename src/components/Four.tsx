@@ -2,7 +2,8 @@ import React from 'react';
 import Fade from 'react-reveal/Fade';
 import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import { Link } from '@3nvi/gatsby-theme-intl';
-import pic08 from '../assets/images/pic08.jpg';
+import { graphql, useStaticQuery } from 'gatsby';
+import BackgroundImage from 'gatsby-background-image';
 
 const Four: React.FC = () => {
   const { t } = useTranslation();
@@ -16,13 +17,28 @@ const Four: React.FC = () => {
     return () => clearInterval(interval);
   }, [goalIndex, setGoalIndex]);
 
+  const data = useStaticQuery(
+    graphql`
+      query {
+        desktop: file(relativePath: { eq: "pic08.jpg" }) {
+          childImageSharp {
+            fluid(quality: 30, maxWidth: 1920) {
+              ...GatsbyImageSharpFluid_withWebp
+            }
+          }
+        }
+      }
+    `
+  );
+
   return (
-    <Fade>
-      <section
-        id="four"
-        className="wrapper style1 special fade-up"
-        style={{ backgroundImage: `url(${pic08})` }}
-      >
+    <BackgroundImage
+      Tag="section"
+      id="four"
+      className="wrapper style1 special fade-up"
+      fluid={data.desktop.childImageSharp.fluid}
+    >
+      <Fade>
         <div className="container">
           <header className="major">
             <h2>{t(`landing.goalsTitle`)}</h2>
@@ -48,8 +64,8 @@ const Four: React.FC = () => {
             </ul>
           </footer>
         </div>
-      </section>
-    </Fade>
+      </Fade>
+    </BackgroundImage>
   );
 };
 

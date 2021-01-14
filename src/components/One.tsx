@@ -1,20 +1,33 @@
 import React from 'react';
-import pic02 from '../assets/images/pic02.jpg';
 import { Link as ScrollLink } from 'react-scroll';
 import Fade from 'react-reveal/Fade';
 import { useTranslation } from '@3nvi/gatsby-theme-intl';
+import { graphql, useStaticQuery } from 'gatsby';
+import BackgroundImage from 'gatsby-background-image';
 
 const One: React.FC = () => {
   const { t } = useTranslation();
   const [missionTextPartOne, missionTextPartTwo] = t('landing.missions.0.details').split('.');
+
+  const data = useStaticQuery(
+    graphql`
+      query {
+        desktop: file(relativePath: { eq: "pic02.jpg" }) {
+          childImageSharp {
+            fluid(quality: 50, maxWidth: 1920) {
+              ...GatsbyImageSharpFluid_withWebp_tracedSVG
+            }
+          }
+        }
+      }
+    `
+  );
+
+  const img = data.desktop.childImageSharp.fluid;
   return (
-    <section
-      id="0"
-      className="spotlight style1 bottom inactive"
-      style={{ backgroundImage: `url(${pic02})` }}
-    >
+    <BackgroundImage Tag="section" id="0" className="spotlight style1 bottom inactive" fluid={img}>
       <span className="image fit main">
-        <img src={pic02} alt="" />
+        <img width="100%" src={img.src} alt="Blood Moon" />
       </span>
       <Fade bottom big>
         <div className="content">
@@ -46,7 +59,7 @@ const One: React.FC = () => {
       >
         {t('common.next')}
       </ScrollLink>
-    </section>
+    </BackgroundImage>
   );
 };
 export default One;

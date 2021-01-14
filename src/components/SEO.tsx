@@ -1,6 +1,6 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
-import Helmet from 'react-helmet';
+import { Helmet } from 'react-helmet';
 import { useTranslation } from '@3nvi/gatsby-theme-intl';
 
 interface SEOProps {

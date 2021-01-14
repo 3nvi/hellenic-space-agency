@@ -1,6 +1,5 @@
 import React from 'react';
 import Layout from '../components/Layout';
-import pic07 from '../assets/images/pic07.jpg';
 import nounesis from '../assets/images/nounesis.jpg';
 import sergis from '../assets/images/sergis.jpg';
 import daglis from '../assets/images/daglis.jpg';
@@ -11,20 +10,37 @@ import karantzalos from '../assets/images/karantzalos.jpg';
 import SEO from '../components/SEO';
 import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import Profile from '../components/Profile';
+import { graphql, useStaticQuery } from 'gatsby';
+import BackgroundImage from 'gatsby-background-image';
 
 const About: React.FC = () => {
   const { t } = useTranslation();
+
+  const data = useStaticQuery(
+    graphql`
+      query {
+        desktop: file(relativePath: { eq: "pic07.jpg" }) {
+          childImageSharp {
+            fluid(quality: 30, maxWidth: 1920) {
+              ...GatsbyImageSharpFluid_withWebp_tracedSVG
+            }
+          }
+        }
+      }
+    `
+  );
+
   return (
     <Layout>
       <SEO title={t('about.mainTitle')} />
-      <section className="banner" style={{ backgroundImage: `url(${pic07})` }}>
+      <BackgroundImage Tag="section" className="banner" fluid={data.desktop.childImageSharp.fluid}>
         <div className="content flex-center">
           <header className="major">
             <h2>{t('about.mainTitle')}</h2>
             <p>{t('about.mainSubtitle')}</p>
           </header>
         </div>
-      </section>
+      </BackgroundImage>
 
       <main className="wrapper style1">
         <div className="container">

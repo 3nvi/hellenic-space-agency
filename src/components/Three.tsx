@@ -1,20 +1,38 @@
 import React from 'react';
-import pic04 from '../assets/images/pic04.jpg';
 import { Link as ScrollLink } from 'react-scroll';
 import Fade from 'react-reveal/Fade';
 import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import { Link } from '@3nvi/gatsby-theme-intl';
+import { graphql, useStaticQuery } from 'gatsby';
+import BackgroundImage from 'gatsby-background-image';
 
 const Three: React.FC = () => {
   const { t } = useTranslation();
+
+  const data = useStaticQuery(
+    graphql`
+      query {
+        desktop: file(relativePath: { eq: "pic04.png" }) {
+          childImageSharp {
+            fluid(quality: 70, maxWidth: 1920) {
+              ...GatsbyImageSharpFluid_withWebp
+            }
+          }
+        }
+      }
+    `
+  );
+
+  const img = data.desktop.childImageSharp.fluid;
   return (
-    <section
+    <BackgroundImage
+      Tag="section"
       id="three"
       className="spotlight style3 left inactive"
-      style={{ backgroundImage: `url(${pic04})` }}
+      fluid={img}
     >
       <span className="image fit main bottom">
-        <img src={pic04} alt="" />
+        <img width="100%" src={img.src} alt="Futuristic Landscape" />
       </span>
       <Fade left big>
         <div className="content">
@@ -42,7 +60,7 @@ const Three: React.FC = () => {
       >
         {t('common.next')}
       </ScrollLink>
-    </section>
+    </BackgroundImage>
   );
 };
 

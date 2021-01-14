@@ -1776,6 +1776,10 @@ body .landing {
         font-weight: bold;
         max-width: 500px;
         text-align: left;
+
+        @include breakpoint('<=small') {
+          font-size: 3em;
+        }
       }
 
       h2 {
@@ -2031,7 +2035,7 @@ body.is-touch {
     }
 
     .content {
-      padding: ($size-wrapper-pad-tb * 2) 0;
+      padding: ($size-wrapper-pad-tb * 2) $size-wrapper-pad-tb;
       text-align: center;
 
       header {
@@ -2422,8 +2426,11 @@ body.is-touch {
 }
 
 #four {
-  background-color: #888;
-  background-blend-mode: multiply;
+  &:after,
+  &:before {
+    background-color: #888;
+    background-blend-mode: multiply;
+  }
 
   @include breakpoint('>=xlarge') {
     min-height: 100vh;

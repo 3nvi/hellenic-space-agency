@@ -1,13 +1,28 @@
 import React from 'react';
 import { useTranslation } from '@3nvi/gatsby-theme-intl';
-// import logo from '../assets/images/logo.png';
 import { Link as ScrollLink } from 'react-scroll';
-import banner from '../assets/images/banner.jpg';
+import { graphql, useStaticQuery } from 'gatsby';
+import BackgroundImage from 'gatsby-background-image';
 
 const Banner: React.FC = () => {
   const { t } = useTranslation();
+
+  const data = useStaticQuery(
+    graphql`
+      query {
+        desktop: file(relativePath: { eq: "banner.jpg" }) {
+          childImageSharp {
+            fluid(quality: 60, maxWidth: 1920) {
+              ...GatsbyImageSharpFluid_withWebp_tracedSVG
+            }
+          }
+        }
+      }
+    `
+  );
+
   return (
-    <section className="banner" style={{ backgroundImage: `url(${banner})` }}>
+    <BackgroundImage Tag="section" className="banner" fluid={data.desktop.childImageSharp.fluid}>
       <div className="content">
         <header>
           <h1>{t('landing.mainTitle')}</h1>
@@ -24,7 +39,7 @@ const Banner: React.FC = () => {
       >
         {t('commmon.next')}
       </ScrollLink>
-    </section>
+    </BackgroundImage>
   );
 };
 

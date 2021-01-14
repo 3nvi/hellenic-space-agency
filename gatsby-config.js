@@ -1,3 +1,4 @@
+const path = require('path');
 const resources = require('./translations.json');
 
 module.exports = {
@@ -22,17 +23,25 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-source-filesystem`,
       options: {
-        fonts: [
-          {
-            family: `Roboto`,
-            variants: [`100`, `300`, `300italic`],
-            formats: ['woff2'],
-            fontDisplay: 'swap',
-            subsets: ['greek'],
-          },
-        ],
+        name: `images`,
+        path: path.join(__dirname, `src`, `assets`, `images`),
+      },
+    },
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-sharp',
+    {
+      resolve: 'gatsby-plugin-preconnect',
+      options: {
+        domains: ['https://fonts.gstatic.com'],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`Roboto:ital,wght@0,100;0,300;1,300`],
+        display: 'swap',
       },
     },
     'gatsby-plugin-sass',
