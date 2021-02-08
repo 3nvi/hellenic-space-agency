@@ -15,6 +15,7 @@
         "links": {
           "home": "Home",
           "about": "About",
+          "news": "News",
           "contact": "Contact"
         }
       },
@@ -128,6 +129,23 @@
         "formEmailLabel": "Your Email address",
         "formBodyLabel": "Your message"
       },
+      "news": {
+        "mainTitle": "News",
+        "mainSubtitle": "Find out about our latest updates",
+        "items": [
+          {
+            "title": "Announcement – Invitation of secondments for the HSC staff",
+            "body": "As part of its staffing efforts, the Hellenic Space Center is launching an open call for interest for the filling of five (5) positions by secondment or permanent employment contract, of employees who currently serve in the General Government and/or the wider Public Sector.\n\nThose interested can find detailed information at the link below.",
+            "date": "2021-02-08T10:12:00.000Z",
+            "attachments": [
+              {
+                "title": "Announcement of Secondments",
+                "url": "https://res.cloudinary.com/front-end-matters/image/upload/v1612782392/hellenic-space-center/%CE%91%CE%9D%CE%91%CE%9A%CE%9F%CE%99%CE%9D%CE%A9%CE%A3%CE%97_%CE%91%CE%A0%CE%9F%CE%A3%CE%A0%CE%91%CE%A3%CE%95%CE%A9%CE%9D_%CE%91%CE%A0_2480_%CE%95%CE%9E_2021-%CE%A5%CF%88%CE%B7%CE%94_29.01.2021_%CE%91%CE%94%CE%91_%CE%A9%CE%A4%CE%A5346%CE%9C%CE%A4%CE%9B%CE%A0-6%CE%9C%CE%91.pdf"
+              }
+            ]
+          }
+        ]
+      },
       "404": {
         "mainTitle": "Not Found",
         "mainSubtitle": "You just hit a route that doesn't exist... the sadness."
@@ -151,6 +169,7 @@
         "links": {
           "home": "Αρχική",
           "about": "Πληροφορίες",
+          "news": "Νέα",
           "contact": "Επικοινωνία"
         }
       },
@@ -263,6 +282,23 @@
         "formSubjectLabel": "Τίτλος",
         "formEmailLabel": "Το Email σας",
         "formBodyLabel": "Το μήνυμα σας"
+      },
+      "news": {
+        "mainTitle": "Νέα",
+        "mainSubtitle": "Ενημερωθείτε για τις τελευταίες μας εξελίξεις",
+        "items": [
+          {
+            "title": "Ανακοίνωση–Πρόσκληση αποσπάσεων για τη στελέχωση του ΕΛΚΕΔ",
+            "body": "Στο πλαίσιο της στελέχωσής του, το Ελληνικό Κέντρο Διαστήματος προχωρά σε ανοιχτή πρόσκληση εκδήλωσης ενδιαφέροντος για την πλήρωση πέντε (5) θέσεων με απόσπαση μόνιμων ή με σύμβαση εργασίας ιδιωτικού δικαίου αορίστου χρόνου (ΙΔΑΧ) υπαλλήλων, που σήμερα υπηρετούν σε φορείς της Γενικής Κυβέρνησης και του ευρύτερου Δημόσιου Τομέα.\n\nΟι ενδιαφερόμενοι μπορούν να βρουν αναλυτικές πληροφορίες στον ακόλουθο σύνδεσμο.",
+            "date": "2021-02-08T10:12:00.000Z",
+            "attachments": [
+              {
+                "title": "Ανακοίνωση Αποσπάσεων",
+                "url": "https://res.cloudinary.com/front-end-matters/image/upload/v1612782392/hellenic-space-center/%CE%91%CE%9D%CE%91%CE%9A%CE%9F%CE%99%CE%9D%CE%A9%CE%A3%CE%97_%CE%91%CE%A0%CE%9F%CE%A3%CE%A0%CE%91%CE%A3%CE%95%CE%A9%CE%9D_%CE%91%CE%A0_2480_%CE%95%CE%9E_2021-%CE%A5%CF%88%CE%B7%CE%94_29.01.2021_%CE%91%CE%94%CE%91_%CE%A9%CE%A4%CE%A5346%CE%9C%CE%A4%CE%9B%CE%A0-6%CE%9C%CE%91.pdf"
+              }
+            ]
+          }
+        ]
       },
       "404": {
         "mainTitle": "Δεν Βρέθηκε",

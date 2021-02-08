@@ -1629,6 +1629,13 @@ body .landing {
 
 #page-wrapper {
   padding-top: 3.5em;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  & > main {
+    flex-grow: 1;
+  }
 }
 
 #header {
@@ -2447,4 +2454,24 @@ body.is-touch {
 
 .full-width {
   width: 100%;
+}
+
+.news-item {
+  header {
+    @include breakpoint('>=large') {
+      @include vendor('display', 'flex');
+      @include vendor('justify-content', 'space-between');
+    }
+
+    time {
+      display: inline-block;
+      font-weight: normal;
+      font-size: 0.75em;
+      margin-bottom: 0.75em;
+    }
+  }
+
+  p {
+    white-space: pre-wrap;
+  }
 }

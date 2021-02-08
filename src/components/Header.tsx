@@ -15,6 +15,10 @@ const menuLinks = [
     href: '/about/',
   },
   {
+    id: 'news',
+    href: '/news/',
+  },
+  {
     id: 'contact',
     href: '/contact/',
   },
