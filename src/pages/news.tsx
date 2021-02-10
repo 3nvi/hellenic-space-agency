@@ -24,10 +24,6 @@ const News: React.FC = () => {
 
       <main className="wrapper style1">
         <div className="container">
-          <header className="major">
-            <h2>{t('news.mainTitle')}</h2>
-            <p>{t('news.mainSubtitle')}</p>
-          </header>
           <article className="row">
             {newsItems.map(item => (
               <React.Fragment key={item.title}>
@@ -45,7 +41,7 @@ const News: React.FC = () => {
                 <section className="news-item col-12">
                   <header className="flex justify-between">
                     <h3>{item.title}</h3>
-                    <time>{new Date(item.date).toLocaleString()}</time>
+                    <time>{new Date(item.date).toLocaleDateString()}</time>
                   </header>
                   <p>{item.body}</p>
                   {item.attachments && (
