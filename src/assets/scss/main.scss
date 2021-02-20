@@ -2457,6 +2457,10 @@ body.is-touch {
 }
 
 .news-item {
+  + .news-item {
+    margin-top: 3em;
+  }
+
   header {
     @include breakpoint('>=large') {
       @include vendor('display', 'flex');
