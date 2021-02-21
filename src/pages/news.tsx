@@ -41,7 +41,7 @@ const News: React.FC = () => {
                 <section className="news-item col-12">
                   <header className="flex justify-between">
                     <h3>{item.title}</h3>
-                    <time>{new Date(item.date).toLocaleDateString()}</time>
+                    <time>{new Date(item.date).toLocaleDateString('el')}</time>
                   </header>
                   <p>{item.body}</p>
                   {item.attachments && (
