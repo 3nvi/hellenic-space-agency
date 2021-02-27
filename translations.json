@@ -206,7 +206,7 @@
             }
           ]
         },
-        "afterword": "<text>Candidates are kindly requested to submit the following to <mail>sec@hsc.gov.gr</mail>:</text><deliverablesList><deliverable>Filled Application Form in <formPdfLink>.pdf</formPdfLink> or <formDocxLink>.docx</formDocxLink> (per position) </deliverable><deliverable>CV</deliverable><deliverable>Motivational Letter</deliverable></deliverablesList><text>according to the instructions and rules described in the relevant <announcementPostLink>Proclamation</announcementPostLink>.</text>",
+        "afterword": "<text>Candidates are kindly requested to submit the following to <mail>sec@hsc.gov.gr</mail>:</text><deliverablesList><deliverable>Filled Application Form in <formPdfLink>.pdf</formPdfLink> or <formDocxLink>.docx</formDocxLink> (per position) </deliverable><deliverable>CV</deliverable><deliverable>Motivational Letter</deliverable></deliverablesList><text><emphasis>according to the instructions and rules</emphasis> described in the relevant <announcementPostLink>Proclamation</announcementPostLink>.</text>",
         "deadline": "Deadline: Monday, 29th March 2021."
       },
       "404": {
@@ -423,7 +423,7 @@
             }
           ]
         },
-        "afterword": "<text>Οι υποψήφιοι καλούνται κατά την πρώτη φάση να υποβάλλουν ηλεκτρονικά στη διεύθυνση <mail>sec@hsc.gov.gr</mail> τα παρακατω:</text><deliverablesList><deliverable>Συμπληρωμένη Αίτηση Υποψηφιότητας σε <formPdfLink>.pdf</formPdfLink> ή <formDocxLink>.docx</formDocxLink> (ανά θέση) </deliverable><deliverable>Βιογραφικό Σημείωμα</deliverable><deliverable>Επιστολή Κινήτρου και Ενδιαφέροντος</deliverable></deliverablesList><text>σύμφωνα με τις οδηγίες και τους κανόνες που περιγράφονται στη σχετική <announcementPostLink>Προκήρυξη</announcementPostLink>.</text>",
+        "afterword": "<text>Οι υποψήφιοι καλούνται κατά την πρώτη φάση να υποβάλλουν ηλεκτρονικά στη διεύθυνση <mail>sec@hsc.gov.gr</mail> τα παρακατω:</text><deliverablesList><deliverable>Συμπληρωμένη Αίτηση Υποψηφιότητας σε <formPdfLink>.pdf</formPdfLink> ή <formDocxLink>.docx</formDocxLink> (ανά θέση) </deliverable><deliverable>Βιογραφικό Σημείωμα</deliverable><deliverable>Επιστολή Κινήτρου και Ενδιαφέροντος</deliverable></deliverablesList><text><emphasis>σύμφωνα με τις οδηγίες και τους κανόνες</emphasis> που περιγράφονται στη σχετική <announcementPostLink>Προκήρυξη</announcementPostLink>.</text>",
         "deadline": "Προθεσμία υποβολής: Δευτέρα 29 Μαρτίου 2021."
       },
       "404": {
