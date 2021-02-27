@@ -16,6 +16,7 @@
           "home": "Home",
           "about": "About",
           "news": "News",
+          "careers": "Careers",
           "contact": "Contact"
         }
       },
@@ -151,6 +152,63 @@
           }
         ]
       },
+      "careers": {
+        "mainTitle": "Jobs",
+        "mainSubtitle": "View the current opening of HSC",
+        "foreword": "As part of its staffing, Hellenic Space Center announces the opening of ten (10) positions of Special Scientific Personnel with a fixed-term employment contract, lasting three years, for the following special scientific domains:",
+        "openings": {
+          "headings": {
+            "sn": "S/N",
+            "position": "Position",
+            "specialty": "Category / Specialty",
+            "spots": "Number of People"
+          },
+          "items": [
+            {
+              "position": "Earth Observation",
+              "specialty": "SCP-Engineering or Science",
+              "spots": 1
+            },
+            {
+              "position": "Legal Services",
+              "specialty": "SCP-Legal",
+              "spots": 1
+            },
+            {
+              "position": "Satellite Communications and Integrated Applications",
+              "specialty": "SCP-Engineering or Science",
+              "spots": 1
+            },
+            {
+              "position": "GNSS Applications",
+              "specialty": "SCP-Engineering or Science",
+              "spots": 1
+            },
+            {
+              "position": "Space Data Systems",
+              "specialty": "SCP-Engineering or Science",
+              "spots": 1
+            },
+            {
+              "position": "Economic Advisor/Expert",
+              "specialty": "SCP-Engineering or Science",
+              "spots": 1
+            },
+            {
+              "position": "Space Sciences and Space Exploration",
+              "specialty": "SCP-Engineering or Science",
+              "spots": 1
+            },
+            {
+              "position": "Space Systems",
+              "specialty": "SCP-Engineering or Science",
+              "spots": 3
+            }
+          ]
+        },
+        "afterword": "<text>Candidates are kindly requested to submit the following to <mail>sec@hsc.gov.gr</mail>:</text><deliverablesList><deliverable>Filled Application Form in <formPdfLink>.pdf</formPdfLink> or <formDocxLink>.docx</formDocxLink> (per position) </deliverable><deliverable>CV</deliverable><deliverable>Motivational Letter</deliverable></deliverablesList><text>according to the instructions and rules described in the relevant <announcementPostLink>Proclamation</announcementPostLink>.</text>",
+        "deadline": "Deadline: Monday, 29th March 2021."
+      },
       "404": {
         "mainTitle": "Not Found",
         "mainSubtitle": "You just hit a route that doesn't exist... the sadness."
@@ -175,6 +233,7 @@
           "home": "Αρχική",
           "about": "Πληροφορίες",
           "news": "Νέα",
+          "careers": "Θέσεις Εργασίας",
           "contact": "Επικοινωνία"
         }
       },
@@ -309,6 +368,63 @@
             ]
           }
         ]
+      },
+      "careers": {
+        "mainTitle": "Θέσεις Εργασίας",
+        "mainSubtitle": "Ενημερωθείτε για τις ανοιχτές θέσεις στο ΕΛΚΕΔ",
+        "foreword": "Στο πλαίσιο της στελέχωσής του, το Ελληνικό Κέντρο Διαστήματος προκηρύσσει την πλήρωση δέκα (10) θέσεων Ειδικού Επιστημονικό Προσωπικού με σύμβαση εργασίας ορισμένου χρόνου, τριετούς διάρκειας, για τα παρακάτω ειδικά επιστημονικά αντικείμενα:",
+        "openings": {
+          "headings": {
+            "sn": "Α/Α",
+            "position": "Θέση",
+            "specialty": "Κατηγορία/Ειδικότητα",
+            "spots": "Αριθμός Ατόμων"
+          },
+          "items": [
+            {
+              "position": "Δορυφορική Παρατήρηση της Γης (Earth Observation)",
+              "specialty": "ΕΕΠ-Μηχανικών ή Θετικών Επιστημών",
+              "spots": 1
+            },
+            {
+              "position": "Νομικός Σύμβουλος (Legal Services)",
+              "specialty": "ΕΕΠ-Νομικών",
+              "spots": 1
+            },
+            {
+              "position": "Δορυφορικές Επικοινωνίες και Ολοκληρωμένες Εφαρμογές (Satellite Communications and Integrated Applications)",
+              "specialty": "ΕΕΠ-Μηχανικών ή Θετικών Επιστημών",
+              "spots": 1
+            },
+            {
+              "position": "Εφαρμογές Δορυφορικού Εντοπισμού και Πλοήγησης (GNSS Applications)",
+              "specialty": "ΕΕΠ-Μηχανικών ή Θετικών Επιστημών",
+              "spots": 1
+            },
+            {
+              "position": "Διαστημικά Συστήματα Δεδομένων (Space Data Systems)",
+              "specialty": "ΕΕΠ-Μηχανικών ή Θετικών Επιστημών",
+              "spots": 1
+            },
+            {
+              "position": "Οικονομικός Σύμβουλος (Economic Advisor/Expert)",
+              "specialty": "ΕΕΠ-Οικονομολόγων",
+              "spots": 1
+            },
+            {
+              "position": "Διαστημικές Επιστήμες και Εξερεύνηση του Διαστήματος (Space Sciences and Space Exploration)",
+              "specialty": "ΕΕΠ-Μηχανικών ή Θετικών Επιστημών",
+              "spots": 1
+            },
+            {
+              "position": "Διαστημικά Συστήματα (Space Systems)",
+              "specialty": "ΕΕΠ-Μηχανικών ή Θετικών Επιστημών",
+              "spots": 3
+            }
+          ]
+        },
+        "afterword": "<text>Οι υποψήφιοι καλούνται κατά την πρώτη φάση να υποβάλλουν ηλεκτρονικά στη διεύθυνση <mail>sec@hsc.gov.gr</mail> τα παρακατω:</text><deliverablesList><deliverable>Συμπληρωμένη Αίτηση Υποψηφιότητας σε <formPdfLink>.pdf</formPdfLink> ή <formDocxLink>.docx</formDocxLink> (ανά θέση) </deliverable><deliverable>Βιογραφικό Σημείωμα</deliverable><deliverable>Επιστολή Κινήτρου και Ενδιαφέροντος</deliverable></deliverablesList><text>σύμφωνα με τις οδηγίες και τους κανόνες που περιγράφονται στη σχετική <announcementPostLink>Προκήρυξη</announcementPostLink>.</text>",
+        "deadline": "Προθεσμία υποβολής: Δευτέρα 29 Μαρτίου 2021."
       },
       "404": {
         "mainTitle": "Δεν Βρέθηκε",
