@@ -1,7 +1,9 @@
 import React from 'react';
+import logo from '../assets/images/logo.png';
 
 const Footer: React.FC = () => (
   <footer id="footer">
+    <img src={logo} width={50} height={50} alt="HSC Logo" />
     <ul className="copyright">
       <li>&copy; All rights reserved.</li>
       <li>Hellenic Space Center</li>

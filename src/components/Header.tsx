@@ -1,9 +1,9 @@
 import React from 'react';
 import { useTranslation } from '@3nvi/gatsby-theme-intl';
-// import logo from '../assets/images/logo.png';
 import { Link } from '@3nvi/gatsby-theme-intl';
 import MobileMenu from './MobileMenu';
 import LanguagePicker from './LanguagePicker';
+import logo from '../assets/images/logo.png';
 
 const menuLinks = [
   {
@@ -44,7 +44,9 @@ const Header: React.FC = () => {
             aria-label="Open mobile menu"
           />
           <span className="title">
-            <Link to="/">{t('siteMetadata.title')}</Link>
+            <Link to="/">
+              <img src={logo} width={40} height={40} alt="HSC Logo" />
+            </Link>
           </span>
         </div>
         <div id="navPanel">
@@ -53,10 +55,9 @@ const Header: React.FC = () => {
       </div>
 
       <header id="header">
-        <h1 id="logo">
-          <span className="image" />
-          <Link to="/">{t('siteMetadata.title')}</Link>
-        </h1>
+        <Link to="/">
+          <img src={logo} width={75} height={75} alt="HSC Logo" />
+        </Link>
         <div className="navbar-menu">
           <nav>
             <ul style={{ display: 'flex', flex: 1 }}>

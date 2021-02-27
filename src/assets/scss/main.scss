@@ -1646,21 +1646,23 @@ body .landing {
   left: 0;
   line-height: 3.5em;
   position: fixed;
-  top: 0;
+  top: 0.25em;
   width: 100%;
   z-index: 100;
 
-  h1 {
+  & > a {
     height: inherit;
+    border: none;
     left: 1.25em;
     line-height: inherit;
     margin: 0;
     position: absolute;
-    top: 0;
+    top: -0.25em;
   }
 
   nav {
     position: absolute;
+    //top: 1em;
     right: 10em;
     top: 0;
 
@@ -1826,6 +1828,10 @@ body.is-touch {
 /* Footer */
 
 #footer {
+  @include vendor('display', 'flex');
+  @include vendor('justify-content', 'center');
+  @include vendor('align-items', 'center');
+
   background: _palette(accent2);
   padding: $size-wrapper-pad-lr 0;
   text-align: center;
@@ -1838,12 +1844,16 @@ body.is-touch {
     }
   }
 
+  img {
+    margin: 0 1em;
+  }
+
   .copyright {
     color: _palette(fg-light);
     font-size: 0.8em;
     line-height: 1em;
-    margin: 2em 0 0 0;
     padding: 0;
+    margin: 0;
     text-align: center;
 
     li {
@@ -2061,6 +2071,18 @@ body.is-touch {
 
   #footer {
     padding: $size-wrapper-pad-tb 0;
+    display: block;
+
+    .copyright {
+      line-height: inherit;
+
+      li {
+        border-left: 0;
+        display: block;
+        margin: 0;
+        padding: 0;
+      }
+    }
   }
 }
 
@@ -2228,6 +2250,10 @@ body.is-touch {
       a {
         color: inherit;
         border: 0;
+      }
+
+      img {
+        vertical-align: middle;
       }
     }
 
@@ -2399,23 +2425,6 @@ body.is-touch {
     .content {
       padding: $size-wrapper-pad-tb ($size-wrapper-pad-lr * 1.25) ($size-wrapper-pad-tb * 1.75)
         ($size-wrapper-pad-lr * 1.25);
-    }
-  }
-
-  /* Footer */
-
-  #footer {
-    padding: $size-wrapper-pad-tb $size-wrapper-pad-lr;
-
-    .copyright {
-      line-height: inherit;
-
-      li {
-        border-left: 0;
-        display: block;
-        margin: 0;
-        padding: 0;
-      }
     }
   }
 }
