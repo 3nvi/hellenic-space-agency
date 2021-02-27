@@ -77,7 +77,7 @@ const Careers: React.FC = () => {
                   text: <p />,
                   deliverablesList: <ol />,
                   deliverable: <li />,
-                  mail: <a href="mailto:info@hsc.gov.gr" rel="noopener noreferrer" />,
+                  mail: <a href="mailto:sec@hsc.gov.gr" rel="noopener noreferrer" />,
                   formPdfLink: (
                     <a
                       href="https://res.cloudinary.com/front-end-matters/image/upload/v1614419553/hellenic-space-center/%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%97_%CE%A5%CE%A0%CE%9F%CE%A8%CE%97%CE%A6%CE%99%CE%9F%CE%A4%CE%97%CE%A4%CE%91%CE%A3.pdf"
