@@ -22,7 +22,7 @@ const Contact: React.FC = () => {
                 <h3>{t('contact.addressLabel')}</h3>
                 <address>{t('contact.address')}</address>
                 <p>
-                  <a href="mailto:contact@hsa.gr" rel="noopener noreferrer">
+                  <a href="mailto:info@hsc.gov.gr" rel="noopener noreferrer">
                     info@hsc.gov.gr
                   </a>
                 </p>
