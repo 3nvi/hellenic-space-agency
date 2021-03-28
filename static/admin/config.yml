@@ -1,0 +1,48 @@
+backend:
+  name: github
+  repo: 3nvi/hellenic-space-agency
+  branch: netlify-cms
+media_folder: static/assets
+public_folder: /assets
+i18n:
+  structure: single_file
+  locales: [en, el]
+  defaultLocale: el
+collections:
+  - label: Pages
+    name: pages
+    i18n: true
+    files:
+      - label: Landing Page
+        name: landing
+        file: site/content/landing.yml
+        i18n: true
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Intro, name: intro, widget: text }
+          - label: Goal
+            name: goal
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string, i18n: true }
+              - { label: Description, name: description, widget: string, i18n: true }
+      - label: About Page
+        name: about
+        file: site/content/about.yml
+        i18n: true
+        fields:
+          - { label: Main Title, name: mainTitle, widget: string, i18n: true }
+          - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
+          - { label: Team Subtitle, name: membersSubtitle, widget: string, i18n: true }
+          - { label: Content, name: content, widget: text, i18n: true }
+          - label: Team
+            name: team
+            widget: list
+            identifier_field: name
+            i18n: true
+            fields:
+              - { label: Name, name: name, widget: string, i18n: true }
+              - { label: Role, name: role, widget: string, i18n: true }
+              - { label: Link, name: link, widget: string, i18n: true }
+              - { label: Bio, name: bio, widget: text, i18n: true }
+              - { label: Avatar, name: avatar, widget: image }
