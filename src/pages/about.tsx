@@ -10,25 +10,11 @@ import karantzalos from '../assets/images/karantzalos.jpg';
 import SEO from '../components/SEO';
 import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import Profile from '../components/Profile';
-import { graphql, useStaticQuery } from 'gatsby';
+import { graphql } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
 
-const About: React.FC = () => {
+const About: React.FC<{ data: any }> = ({ data }) => {
   const { t } = useTranslation();
-
-  const data = useStaticQuery(
-    graphql`
-      query {
-        desktop: file(relativePath: { eq: "pic07.jpg" }) {
-          childImageSharp {
-            fluid(quality: 30, maxWidth: 1920) {
-              ...GatsbyImageSharpFluid_withWebp
-            }
-          }
-        }
-      }
-    `
-  );
 
   return (
     <Layout>
@@ -87,5 +73,45 @@ const About: React.FC = () => {
     </Layout>
   );
 };
+
+export const query = graphql`
+  query AboutPage {
+    contentYaml {
+      el {
+        mainTitle
+        mainSubtitle
+        content
+        membersSubtitle
+        team {
+          avatar
+          bio
+          link
+          name
+          role
+        }
+      }
+      en {
+        content
+        mainSubtitle
+        mainTitle
+        membersSubtitle
+        team {
+          avatar
+          bio
+          link
+          name
+          role
+        }
+      }
+    }
+    desktop: file(relativePath: { eq: "pic07.jpg" }) {
+      childImageSharp {
+        fluid(quality: 30, maxWidth: 1920) {
+          ...GatsbyImageSharpFluid_withWebp
+        }
+      }
+    }
+  }
+`;
 
 export default About;

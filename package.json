@@ -22,6 +22,7 @@
     "gatsby-plugin-typescript": "^2.1.27",
     "gatsby-source-filesystem": "^2.9.0",
     "gatsby-transformer-sharp": "^2.10.1",
+    "gatsby-transformer-yaml": "^2.11.0",
     "i18next": "^19.3.1",
     "netlify-cms-app": "^2.14.32",
     "node-sass": "^4.13.0",
