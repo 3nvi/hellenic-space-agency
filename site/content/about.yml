@@ -1,0 +1,22 @@
+en:
+  mainTitle: Test title
+  mainSubtitle: A funny test subtitle
+  membersSubtitle: Team subtitulo
+  content: We rock
+  team:
+    - name: Agg
+      role: Dev
+      link: https://aggelos.dev
+      bio: Afraid of bees
+      avatar: /assets/jesuschristnymphiosnymfios-vci1190s_2_1024x1024-2x.jpg
+el:
+  mainTitle: Παραδειγματικος τιτλος
+  mainSubtitle: Αστειος υποτιτλος
+  membersSubtitle: Υποτιτλος Ομαδας
+  content: Ειμαστε γαματοι
+  team:
+    - avatar: /assets/jesuschristnymphiosnymfios-vci1190s_2_1024x1024-2x.jpg
+      bio: Φοβαται μελισσες
+      link: https://aggelos.dev
+      role: Προγραμματτιστης
+      name: Αγγελος
