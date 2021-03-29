@@ -13,6 +13,15 @@ collections:
     name: pages
     i18n: true
     files:
+      - label: Site Metadata
+        name: meta
+        file: site/content/meta.yml
+        i18n: true
+        fields:
+          - { label: Title, name: title, widget: string, i18n: true }
+          - { label: Description, name: description, widget: text, i18n: true }
+          - { label: Keywords, name: keywords, widget: string, i18n: true }
+
       - label: Landing Page
         name: landing
         file: site/content/landing.yml
@@ -26,6 +35,7 @@ collections:
             fields:
               - { label: Title, name: title, widget: string, i18n: true }
               - { label: Description, name: description, widget: string, i18n: true }
+
       - label: About Page
         name: about
         file: site/content/about.yml
