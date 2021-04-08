@@ -1,6 +1,14 @@
 declare module '*.jpg';
 declare module '*.png';
 
+declare interface Page<Data = any> {
+  pageContext: {
+    originalPath: string;
+    lang: 'el' | 'en';
+  };
+  data: Data;
+}
+
 declare module 'react-reveal/Fade' {
   type FadeProps = {
     out?: boolean;

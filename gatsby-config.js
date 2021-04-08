@@ -1,11 +1,9 @@
 const path = require('path');
-const resources = require('./translations.json');
+const i18nConfig = require('./i18n.json');
 
 module.exports = {
   siteMetadata: {
     image: `/assets/images/main.jpg`,
-    supportedLanguages: ['el', 'en'],
-    defaultLanguage: 'el',
     siteUrl: process.env.URL || 'localhost:8000',
   },
   plugins: [
@@ -26,6 +24,14 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `assets`,
+        path: path.join(__dirname, `static`, `assets`),
+      },
+    },
+
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `images`,
         path: path.join(__dirname, `src`, `assets`, `images`),
       },
@@ -37,9 +43,37 @@ module.exports = {
         path: path.join(__dirname, `site`, `content`),
       },
     },
+    {
+      resolve: `gatsby-plugin-graphql-codegen`,
+      options: {
+        fileName: `./graphql-types.ts`,
+        codegenConfig: {
+          avoidOptionals: true,
+          maybeValue: 'T',
+        },
+      },
+    },
     `gatsby-transformer-yaml`,
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
+    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          // gatsby-remark-relative-images must go before gatsby-remark-images
+          {
+            resolve: `gatsby-remark-relative-images`,
+            options: {},
+          },
+          {
+            resolve: `gatsby-remark-images`,
+            options: { maxWidth: 1024, withWebp: true },
+          },
+        ],
+      },
+    },
+
     {
       resolve: 'gatsby-plugin-preconnect',
       options: {
@@ -57,13 +91,9 @@ module.exports = {
     'gatsby-plugin-typescript',
     'gatsby-plugin-sitemap',
     {
-      resolve: '@3nvi/gatsby-theme-intl',
+      resolve: '@3nvi/gatsby-plugin-intl',
       options: {
-        i18nextConfig: {
-          resources,
-        },
-        supportedLanguages: ['el', 'en'],
-        defaultLanguage: 'el',
+        ...i18nConfig,
         excludedPages: ['/404.html'],
       },
     },

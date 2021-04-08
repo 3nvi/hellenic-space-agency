@@ -8,22 +8,28 @@ import synolakis from '../assets/images/synolakis.jpg';
 import giannakaki from '../assets/images/giannakaki.jpg';
 import karantzalos from '../assets/images/karantzalos.jpg';
 import SEO from '../components/SEO';
-import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import Profile from '../components/Profile';
 import { graphql } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
+import { AboutPageQuery } from '../../graphql-types';
 
-const About: React.FC<{ data: any }> = ({ data }) => {
-  const { t } = useTranslation();
+const t = (x: string) => x;
 
+const About: React.FC<Page<AboutPageQuery>> = ({ data, pageContext: { lang } }) => {
   return (
     <Layout>
-      <SEO title={t('about.mainTitle')} />
-      <BackgroundImage Tag="section" className="banner" fluid={data.desktop.childImageSharp.fluid}>
+      <SEO title={data.about.childMarkdownRemark.frontmatter['en'].mainTitle} />
+      <BackgroundImage
+        Tag="section"
+        className="banner"
+        fluid={
+          data.about.childMarkdownRemark.frontmatter[lang].team[0].avatar.childImageSharp.fluid
+        }
+      >
         <div className="content flex-center">
           <header className="major">
-            <h2>{t('about.mainTitle')}</h2>
-            <p>{t('about.mainSubtitle')}</p>
+            <h2>{data.about.childMarkdownRemark.frontmatter[lang].mainTitle}</h2>
+            <p>{data.about.childMarkdownRemark.frontmatter[lang].mainSubtitle}</p>
           </header>
         </div>
       </BackgroundImage>
@@ -31,8 +37,10 @@ const About: React.FC<{ data: any }> = ({ data }) => {
       <main className="wrapper style1">
         <div className="container">
           <section id="content">
-            <h2>{t('siteMetadata.title')}</h2>
-            <p style={{ whiteSpace: 'pre-line' }}>{t('about.content')}</p>
+            <h2>{data.meta.childContentYaml[lang].title}</h2>
+            <p style={{ whiteSpace: 'pre-line' }}>
+              {data.about.childMarkdownRemark.frontmatter[lang].content}
+            </p>
             <footer>
               <div>
                 <a
@@ -57,7 +65,7 @@ const About: React.FC<{ data: any }> = ({ data }) => {
           <article>
             <div style={{ margin: '5em auto' }}>
               <header className="major">
-                <h2>{t('about.membersTitle')}</h2>
+                <h2>{data.about.childMarkdownRemark.frontmatter[lang].membersSubtitle}</h2>
               </header>
             </div>
             <Profile tProfileKey="daglis" image={daglis} />
@@ -76,31 +84,57 @@ const About: React.FC<{ data: any }> = ({ data }) => {
 
 export const query = graphql`
   query AboutPage {
-    contentYaml {
-      el {
-        mainTitle
-        mainSubtitle
-        content
-        membersSubtitle
-        team {
-          avatar
-          bio
-          link
-          name
-          role
+    meta: file(name: { eq: "meta" }) {
+      childContentYaml {
+        el {
+          title
+        }
+        en {
+          title
         }
       }
-      en {
-        content
-        mainSubtitle
-        mainTitle
-        membersSubtitle
-        team {
-          avatar
-          bio
-          link
-          name
-          role
+    }
+    about: file(name: { eq: "about" }) {
+      childMarkdownRemark {
+        frontmatter {
+          el {
+            mainTitle
+            mainSubtitle
+            content
+            membersSubtitle
+            team {
+              avatar {
+                childImageSharp {
+                  fluid(quality: 30, maxWidth: 1920) {
+                    ...GatsbyImageSharpFluid_withWebp
+                  }
+                }
+              }
+              bio
+              link
+              name
+              role
+            }
+          }
+          en {
+            mainTitle
+            mainSubtitle
+            content
+            membersSubtitle
+            team {
+              avatar {
+                childImageSharp {
+                  fluid(quality: 30, maxWidth: 1920) {
+                    ...GatsbyImageSharpFluid_withWebp
+                  }
+                }
+              }
+              bio
+              link
+              name
+              role
+            }
+          }
         }
       }
     }

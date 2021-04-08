@@ -1,30 +1,26 @@
 import React from 'react';
-import { graphql, Link as GatsbyLink, useStaticQuery } from 'gatsby';
-import { usePageContext } from '@3nvi/gatsby-theme-intl';
+import { Link as GatsbyLink } from 'gatsby';
+import { useLocation } from '@reach/router';
+import i18nConfig from '../../i18n.json';
 
-const LanguagePicker: React.FC = () => {
-  const { originalPath } = usePageContext();
-  const { site } = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            supportedLanguages
-          }
-        }
-      }
-    `
+// finds the existing locale in the URL and replaces it with another selected locale
+const createLocalizedLink = (url: string, selectedLang: string) =>
+  url.replace(
+    new RegExp(i18nConfig.supportedLanguages.map(lang => `/${lang}/`).join('|')),
+    `/${selectedLang}/`
   );
 
+const LanguagePicker: React.FC = () => {
+  const location = useLocation();
   return (
     <div className="language-selector-container">
-      {site.siteMetadata.supportedLanguages.map((supportedLang: string, index: number) => (
+      {i18nConfig.supportedLanguages.map((supportedLang, index) => (
         <React.Fragment key={supportedLang}>
           {index !== 0 && <span>|</span>}
           <GatsbyLink
             aria-label={`Change language to ${supportedLang}`}
             activeClassName="active"
-            to={`/${supportedLang}${originalPath}`}
+            to={createLocalizedLink(location.pathname, supportedLang)}
           >
             {supportedLang.toUpperCase()}
           </GatsbyLink>

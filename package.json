@@ -20,7 +20,10 @@
     "gatsby-plugin-sharp": "^2.12.1",
     "gatsby-plugin-sitemap": "^2.10.0",
     "gatsby-plugin-typescript": "^2.1.27",
+    "gatsby-remark-images": "^3.11.1",
+    "gatsby-remark-relative-images": "^2.0.2",
     "gatsby-source-filesystem": "^2.9.0",
+    "gatsby-transformer-remark": "^2.16.1",
     "gatsby-transformer-sharp": "^2.10.1",
     "gatsby-transformer-yaml": "^2.11.0",
     "i18next": "^19.3.1",
@@ -51,7 +54,7 @@
     "clean": "gatsby clean"
   },
   "devDependencies": {
-    "@3nvi/gatsby-plugin-intl": "^0.1.12",
+    "@3nvi/gatsby-plugin-intl": "^0.4.13",
     "@3nvi/gatsby-theme-intl": "^0.4.3",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
@@ -67,6 +70,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.18.3",
     "eslint-plugin-react-hooks": "^2.4.0",
+    "gatsby-plugin-graphql-codegen": "^2.7.1",
     "husky": "^3.1.0",
     "lint-staged": "^10.0.7",
     "prettier": "^1.19.1",

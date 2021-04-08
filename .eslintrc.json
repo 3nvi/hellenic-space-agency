@@ -15,7 +15,8 @@
       {
         "ts": "never",
         "tsx": "never",
-        "js": "never"
+        "js": "never",
+        "json": "allow"
       }
     ],
     "@typescript-eslint/no-unused-vars": [
