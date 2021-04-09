@@ -79,84 +79,24 @@ export type ContentYamlEl = {
   title: Maybe<Scalars['String']>;
   description: Maybe<Scalars['String']>;
   keywords: Maybe<Scalars['String']>;
-  mainTitle: Maybe<Scalars['String']>;
-  mainSubtitle: Maybe<Scalars['String']>;
-  membersSubtitle: Maybe<Scalars['String']>;
-  content: Maybe<Scalars['String']>;
-  team: Maybe<Array<Maybe<ContentYamlElTeam>>>;
 };
 
 export type ContentYamlElFilterInput = {
   title: Maybe<StringQueryOperatorInput>;
   description: Maybe<StringQueryOperatorInput>;
   keywords: Maybe<StringQueryOperatorInput>;
-  mainTitle: Maybe<StringQueryOperatorInput>;
-  mainSubtitle: Maybe<StringQueryOperatorInput>;
-  membersSubtitle: Maybe<StringQueryOperatorInput>;
-  content: Maybe<StringQueryOperatorInput>;
-  team: Maybe<ContentYamlElTeamFilterListInput>;
-};
-
-export type ContentYamlElTeam = {
-  avatar: Maybe<Scalars['String']>;
-  bio: Maybe<Scalars['String']>;
-  link: Maybe<Scalars['String']>;
-  role: Maybe<Scalars['String']>;
-  name: Maybe<Scalars['String']>;
-};
-
-export type ContentYamlElTeamFilterInput = {
-  avatar: Maybe<StringQueryOperatorInput>;
-  bio: Maybe<StringQueryOperatorInput>;
-  link: Maybe<StringQueryOperatorInput>;
-  role: Maybe<StringQueryOperatorInput>;
-  name: Maybe<StringQueryOperatorInput>;
-};
-
-export type ContentYamlElTeamFilterListInput = {
-  elemMatch: Maybe<ContentYamlElTeamFilterInput>;
 };
 
 export type ContentYamlEn = {
   title: Maybe<Scalars['String']>;
   description: Maybe<Scalars['String']>;
   keywords: Maybe<Scalars['String']>;
-  mainTitle: Maybe<Scalars['String']>;
-  mainSubtitle: Maybe<Scalars['String']>;
-  membersSubtitle: Maybe<Scalars['String']>;
-  content: Maybe<Scalars['String']>;
-  team: Maybe<Array<Maybe<ContentYamlEnTeam>>>;
 };
 
 export type ContentYamlEnFilterInput = {
   title: Maybe<StringQueryOperatorInput>;
   description: Maybe<StringQueryOperatorInput>;
   keywords: Maybe<StringQueryOperatorInput>;
-  mainTitle: Maybe<StringQueryOperatorInput>;
-  mainSubtitle: Maybe<StringQueryOperatorInput>;
-  membersSubtitle: Maybe<StringQueryOperatorInput>;
-  content: Maybe<StringQueryOperatorInput>;
-  team: Maybe<ContentYamlEnTeamFilterListInput>;
-};
-
-export type ContentYamlEnTeam = {
-  name: Maybe<Scalars['String']>;
-  role: Maybe<Scalars['String']>;
-  link: Maybe<Scalars['String']>;
-  bio: Maybe<Scalars['String']>;
-  avatar: Maybe<Scalars['String']>;
-};
-
-export type ContentYamlEnTeamFilterInput = {
-  name: Maybe<StringQueryOperatorInput>;
-  role: Maybe<StringQueryOperatorInput>;
-  link: Maybe<StringQueryOperatorInput>;
-  bio: Maybe<StringQueryOperatorInput>;
-  avatar: Maybe<StringQueryOperatorInput>;
-};
-
-export type ContentYamlEnTeamFilterListInput = {
-  elemMatch: Maybe<ContentYamlEnTeamFilterInput>;
 };
 
 export type ContentYamlFieldsEnum =
@@ -249,29 +189,9 @@ export type ContentYamlFieldsEnum =
   | 'en___title'
   | 'en___description'
   | 'en___keywords'
-  | 'en___mainTitle'
-  | 'en___mainSubtitle'
-  | 'en___membersSubtitle'
-  | 'en___content'
-  | 'en___team'
-  | 'en___team___name'
-  | 'en___team___role'
-  | 'en___team___link'
-  | 'en___team___bio'
-  | 'en___team___avatar'
   | 'el___title'
   | 'el___description'
-  | 'el___keywords'
-  | 'el___mainTitle'
-  | 'el___mainSubtitle'
-  | 'el___membersSubtitle'
-  | 'el___content'
-  | 'el___team'
-  | 'el___team___avatar'
-  | 'el___team___bio'
-  | 'el___team___link'
-  | 'el___team___role'
-  | 'el___team___name';
+  | 'el___keywords';
 
 export type ContentYamlFilterInput = {
   id: Maybe<StringQueryOperatorInput>;
@@ -1129,29 +1049,9 @@ export type FileFieldsEnum =
   | 'childrenContentYaml___en___title'
   | 'childrenContentYaml___en___description'
   | 'childrenContentYaml___en___keywords'
-  | 'childrenContentYaml___en___mainTitle'
-  | 'childrenContentYaml___en___mainSubtitle'
-  | 'childrenContentYaml___en___membersSubtitle'
-  | 'childrenContentYaml___en___content'
-  | 'childrenContentYaml___en___team'
-  | 'childrenContentYaml___en___team___name'
-  | 'childrenContentYaml___en___team___role'
-  | 'childrenContentYaml___en___team___link'
-  | 'childrenContentYaml___en___team___bio'
-  | 'childrenContentYaml___en___team___avatar'
   | 'childrenContentYaml___el___title'
   | 'childrenContentYaml___el___description'
   | 'childrenContentYaml___el___keywords'
-  | 'childrenContentYaml___el___mainTitle'
-  | 'childrenContentYaml___el___mainSubtitle'
-  | 'childrenContentYaml___el___membersSubtitle'
-  | 'childrenContentYaml___el___content'
-  | 'childrenContentYaml___el___team'
-  | 'childrenContentYaml___el___team___avatar'
-  | 'childrenContentYaml___el___team___bio'
-  | 'childrenContentYaml___el___team___link'
-  | 'childrenContentYaml___el___team___role'
-  | 'childrenContentYaml___el___team___name'
   | 'childContentYaml___id'
   | 'childContentYaml___parent___id'
   | 'childContentYaml___parent___parent___id'
@@ -1193,29 +1093,9 @@ export type FileFieldsEnum =
   | 'childContentYaml___en___title'
   | 'childContentYaml___en___description'
   | 'childContentYaml___en___keywords'
-  | 'childContentYaml___en___mainTitle'
-  | 'childContentYaml___en___mainSubtitle'
-  | 'childContentYaml___en___membersSubtitle'
-  | 'childContentYaml___en___content'
-  | 'childContentYaml___en___team'
-  | 'childContentYaml___en___team___name'
-  | 'childContentYaml___en___team___role'
-  | 'childContentYaml___en___team___link'
-  | 'childContentYaml___en___team___bio'
-  | 'childContentYaml___en___team___avatar'
   | 'childContentYaml___el___title'
   | 'childContentYaml___el___description'
   | 'childContentYaml___el___keywords'
-  | 'childContentYaml___el___mainTitle'
-  | 'childContentYaml___el___mainSubtitle'
-  | 'childContentYaml___el___membersSubtitle'
-  | 'childContentYaml___el___content'
-  | 'childContentYaml___el___team'
-  | 'childContentYaml___el___team___avatar'
-  | 'childContentYaml___el___team___bio'
-  | 'childContentYaml___el___team___link'
-  | 'childContentYaml___el___team___role'
-  | 'childContentYaml___el___team___name'
   | 'id'
   | 'parent___id'
   | 'parent___parent___id'
