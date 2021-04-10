@@ -46,7 +46,7 @@ collections:
           - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
           - { label: Team Subtitle, name: membersSubtitle, widget: string, i18n: true }
           - { label: Content, name: content, widget: markdown, i18n: true }
-          - { label: Background Photo, name: mainBackground, widget: image }
+          - { label: Background Photo, name: mainBackground, widget: image, i18n: false }
           - label: Team
             name: team
             widget: list
