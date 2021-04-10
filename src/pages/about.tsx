@@ -1,19 +1,11 @@
 import React from 'react';
 import Layout from '../components/Layout';
-import nounesis from '../assets/images/nounesis.jpg';
-import sergis from '../assets/images/sergis.jpg';
-import daglis from '../assets/images/daglis.jpg';
-import sotiriadis from '../assets/images/sotiriadis.jpg';
-import synolakis from '../assets/images/synolakis.jpg';
-import giannakaki from '../assets/images/giannakaki.jpg';
-import karantzalos from '../assets/images/karantzalos.jpg';
 import SEO from '../components/SEO';
 import Profile from '../components/Profile';
 import { graphql } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
-import { AboutPageQuery } from '../../graphql-types';
-
-const t = (x: string) => x;
+import Markdown from '../components/Markdown';
+import { AboutPageQuery, MarkdownRemarkFrontmatterElTeam } from '../../graphql-types';
 
 const About: React.FC<Page<AboutPageQuery>> = ({ data, pageContext: { lang } }) => {
   return (
@@ -23,7 +15,7 @@ const About: React.FC<Page<AboutPageQuery>> = ({ data, pageContext: { lang } }) 
         Tag="section"
         className="banner"
         fluid={
-          data.about.childMarkdownRemark.frontmatter[lang].team[0].avatar.childImageSharp.fluid
+          data.about.childMarkdownRemark.frontmatter['en'].mainBackground.childImageSharp.fluid
         }
       >
         <div className="content flex-center">
@@ -33,34 +25,10 @@ const About: React.FC<Page<AboutPageQuery>> = ({ data, pageContext: { lang } }) 
           </header>
         </div>
       </BackgroundImage>
-
       <main className="wrapper style1">
         <div className="container">
           <section id="content">
-            <h2>{data.meta.childContentYaml[lang].title}</h2>
-            <p style={{ whiteSpace: 'pre-line' }}>
-              {data.about.childMarkdownRemark.frontmatter[lang].content}
-            </p>
-            <footer>
-              <div>
-                <a
-                  href="/assets/documents/ELKED_creation.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  {t('about.creationDocumentLink')}
-                </a>
-              </div>
-              <div>
-                <a
-                  href="/assets/documents/ELKED_assignments.pdf"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  {t('about.assignmentsDocumentLink')}
-                </a>
-              </div>
-            </footer>
+            <Markdown>{data.about.childMarkdownRemark.frontmatter[lang].content}</Markdown>
           </section>
           <article>
             <div style={{ margin: '5em auto' }}>
@@ -68,13 +36,9 @@ const About: React.FC<Page<AboutPageQuery>> = ({ data, pageContext: { lang } }) 
                 <h2>{data.about.childMarkdownRemark.frontmatter[lang].membersSubtitle}</h2>
               </header>
             </div>
-            <Profile tProfileKey="daglis" image={daglis} />
-            <Profile tProfileKey="nounesis" image={nounesis} />
-            <Profile tProfileKey="sergis" image={sergis} />
-            <Profile tProfileKey="karantzalos" image={karantzalos} />
-            <Profile tProfileKey="sotiriadis" image={sotiriadis} />
-            <Profile tProfileKey="synolakis" image={synolakis} />
-            <Profile tProfileKey="giannakaki" image={giannakaki} />
+            {data.about.childMarkdownRemark.frontmatter[lang].team.map(member => (
+              <Profile key={member.name} member={member as MarkdownRemarkFrontmatterElTeam} />
+            ))}
           </article>
         </div>
       </main>
@@ -84,16 +48,6 @@ const About: React.FC<Page<AboutPageQuery>> = ({ data, pageContext: { lang } }) 
 
 export const query = graphql`
   query AboutPage {
-    meta: file(name: { eq: "meta" }) {
-      childContentYaml {
-        el {
-          title
-        }
-        en {
-          title
-        }
-      }
-    }
     about: file(name: { eq: "about" }) {
       childMarkdownRemark {
         frontmatter {
@@ -104,11 +58,7 @@ export const query = graphql`
             membersSubtitle
             team {
               avatar {
-                childImageSharp {
-                  fluid(quality: 30, maxWidth: 1920) {
-                    ...GatsbyImageSharpFluid_withWebp
-                  }
-                }
+                publicURL
               }
               bio
               link
@@ -117,17 +67,20 @@ export const query = graphql`
             }
           }
           en {
+            mainBackground {
+              childImageSharp {
+                fluid(quality: 50, maxWidth: 1920) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
             mainTitle
             mainSubtitle
             content
             membersSubtitle
             team {
               avatar {
-                childImageSharp {
-                  fluid(quality: 30, maxWidth: 1920) {
-                    ...GatsbyImageSharpFluid_withWebp
-                  }
-                }
+                publicURL
               }
               bio
               link
@@ -135,13 +88,6 @@ export const query = graphql`
               role
             }
           }
-        }
-      }
-    }
-    desktop: file(relativePath: { eq: "pic07.jpg" }) {
-      childImageSharp {
-        fluid(quality: 30, maxWidth: 1920) {
-          ...GatsbyImageSharpFluid_withWebp
         }
       }
     }

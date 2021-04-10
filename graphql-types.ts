@@ -41,185 +41,6 @@ export type BooleanQueryOperatorInput = {
   nin: Maybe<Array<Maybe<Scalars['Boolean']>>>;
 };
 
-export type ContentYaml = Node & {
-  id: Scalars['ID'];
-  parent: Maybe<Node>;
-  children: Array<Node>;
-  internal: Internal;
-  en: Maybe<ContentYamlEn>;
-  el: Maybe<ContentYamlEl>;
-};
-
-export type ContentYamlConnection = {
-  totalCount: Scalars['Int'];
-  edges: Array<ContentYamlEdge>;
-  nodes: Array<ContentYaml>;
-  pageInfo: PageInfo;
-  distinct: Array<Scalars['String']>;
-  group: Array<ContentYamlGroupConnection>;
-};
-
-export type ContentYamlConnectionDistinctArgs = {
-  field: ContentYamlFieldsEnum;
-};
-
-export type ContentYamlConnectionGroupArgs = {
-  skip: Maybe<Scalars['Int']>;
-  limit: Maybe<Scalars['Int']>;
-  field: ContentYamlFieldsEnum;
-};
-
-export type ContentYamlEdge = {
-  next: Maybe<ContentYaml>;
-  node: ContentYaml;
-  previous: Maybe<ContentYaml>;
-};
-
-export type ContentYamlEl = {
-  title: Maybe<Scalars['String']>;
-  description: Maybe<Scalars['String']>;
-  keywords: Maybe<Scalars['String']>;
-};
-
-export type ContentYamlElFilterInput = {
-  title: Maybe<StringQueryOperatorInput>;
-  description: Maybe<StringQueryOperatorInput>;
-  keywords: Maybe<StringQueryOperatorInput>;
-};
-
-export type ContentYamlEn = {
-  title: Maybe<Scalars['String']>;
-  description: Maybe<Scalars['String']>;
-  keywords: Maybe<Scalars['String']>;
-};
-
-export type ContentYamlEnFilterInput = {
-  title: Maybe<StringQueryOperatorInput>;
-  description: Maybe<StringQueryOperatorInput>;
-  keywords: Maybe<StringQueryOperatorInput>;
-};
-
-export type ContentYamlFieldsEnum =
-  | 'id'
-  | 'parent___id'
-  | 'parent___parent___id'
-  | 'parent___parent___parent___id'
-  | 'parent___parent___parent___children'
-  | 'parent___parent___children'
-  | 'parent___parent___children___id'
-  | 'parent___parent___children___children'
-  | 'parent___parent___internal___content'
-  | 'parent___parent___internal___contentDigest'
-  | 'parent___parent___internal___description'
-  | 'parent___parent___internal___fieldOwners'
-  | 'parent___parent___internal___ignoreType'
-  | 'parent___parent___internal___mediaType'
-  | 'parent___parent___internal___owner'
-  | 'parent___parent___internal___type'
-  | 'parent___children'
-  | 'parent___children___id'
-  | 'parent___children___parent___id'
-  | 'parent___children___parent___children'
-  | 'parent___children___children'
-  | 'parent___children___children___id'
-  | 'parent___children___children___children'
-  | 'parent___children___internal___content'
-  | 'parent___children___internal___contentDigest'
-  | 'parent___children___internal___description'
-  | 'parent___children___internal___fieldOwners'
-  | 'parent___children___internal___ignoreType'
-  | 'parent___children___internal___mediaType'
-  | 'parent___children___internal___owner'
-  | 'parent___children___internal___type'
-  | 'parent___internal___content'
-  | 'parent___internal___contentDigest'
-  | 'parent___internal___description'
-  | 'parent___internal___fieldOwners'
-  | 'parent___internal___ignoreType'
-  | 'parent___internal___mediaType'
-  | 'parent___internal___owner'
-  | 'parent___internal___type'
-  | 'children'
-  | 'children___id'
-  | 'children___parent___id'
-  | 'children___parent___parent___id'
-  | 'children___parent___parent___children'
-  | 'children___parent___children'
-  | 'children___parent___children___id'
-  | 'children___parent___children___children'
-  | 'children___parent___internal___content'
-  | 'children___parent___internal___contentDigest'
-  | 'children___parent___internal___description'
-  | 'children___parent___internal___fieldOwners'
-  | 'children___parent___internal___ignoreType'
-  | 'children___parent___internal___mediaType'
-  | 'children___parent___internal___owner'
-  | 'children___parent___internal___type'
-  | 'children___children'
-  | 'children___children___id'
-  | 'children___children___parent___id'
-  | 'children___children___parent___children'
-  | 'children___children___children'
-  | 'children___children___children___id'
-  | 'children___children___children___children'
-  | 'children___children___internal___content'
-  | 'children___children___internal___contentDigest'
-  | 'children___children___internal___description'
-  | 'children___children___internal___fieldOwners'
-  | 'children___children___internal___ignoreType'
-  | 'children___children___internal___mediaType'
-  | 'children___children___internal___owner'
-  | 'children___children___internal___type'
-  | 'children___internal___content'
-  | 'children___internal___contentDigest'
-  | 'children___internal___description'
-  | 'children___internal___fieldOwners'
-  | 'children___internal___ignoreType'
-  | 'children___internal___mediaType'
-  | 'children___internal___owner'
-  | 'children___internal___type'
-  | 'internal___content'
-  | 'internal___contentDigest'
-  | 'internal___description'
-  | 'internal___fieldOwners'
-  | 'internal___ignoreType'
-  | 'internal___mediaType'
-  | 'internal___owner'
-  | 'internal___type'
-  | 'en___title'
-  | 'en___description'
-  | 'en___keywords'
-  | 'el___title'
-  | 'el___description'
-  | 'el___keywords';
-
-export type ContentYamlFilterInput = {
-  id: Maybe<StringQueryOperatorInput>;
-  parent: Maybe<NodeFilterInput>;
-  children: Maybe<NodeFilterListInput>;
-  internal: Maybe<InternalFilterInput>;
-  en: Maybe<ContentYamlEnFilterInput>;
-  el: Maybe<ContentYamlElFilterInput>;
-};
-
-export type ContentYamlFilterListInput = {
-  elemMatch: Maybe<ContentYamlFilterInput>;
-};
-
-export type ContentYamlGroupConnection = {
-  totalCount: Scalars['Int'];
-  edges: Array<ContentYamlEdge>;
-  nodes: Array<ContentYaml>;
-  pageInfo: PageInfo;
-  field: Scalars['String'];
-  fieldValue: Maybe<Scalars['String']>;
-};
-
-export type ContentYamlSortInput = {
-  fields: Maybe<Array<Maybe<ContentYamlFieldsEnum>>>;
-  order: Maybe<Array<Maybe<SortOrderEnum>>>;
-};
-
 export type DateQueryOperatorInput = {
   eq: Maybe<Scalars['Date']>;
   ne: Maybe<Scalars['Date']>;
@@ -574,10 +395,6 @@ export type File = Node & {
   childrenMarkdownRemark: Maybe<Array<Maybe<MarkdownRemark>>>;
   /** Returns the first child node of type MarkdownRemark or null if there are no children of given type on this node */
   childMarkdownRemark: Maybe<MarkdownRemark>;
-  /** Returns all children nodes filtered by type ContentYaml */
-  childrenContentYaml: Maybe<Array<Maybe<ContentYaml>>>;
-  /** Returns the first child node of type ContentYaml or null if there are no children of given type on this node */
-  childContentYaml: Maybe<ContentYaml>;
   id: Scalars['ID'];
   parent: Maybe<Node>;
   children: Array<Node>;
@@ -1007,95 +824,6 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___internal___mediaType'
   | 'childMarkdownRemark___internal___owner'
   | 'childMarkdownRemark___internal___type'
-  | 'childrenContentYaml'
-  | 'childrenContentYaml___id'
-  | 'childrenContentYaml___parent___id'
-  | 'childrenContentYaml___parent___parent___id'
-  | 'childrenContentYaml___parent___parent___children'
-  | 'childrenContentYaml___parent___children'
-  | 'childrenContentYaml___parent___children___id'
-  | 'childrenContentYaml___parent___children___children'
-  | 'childrenContentYaml___parent___internal___content'
-  | 'childrenContentYaml___parent___internal___contentDigest'
-  | 'childrenContentYaml___parent___internal___description'
-  | 'childrenContentYaml___parent___internal___fieldOwners'
-  | 'childrenContentYaml___parent___internal___ignoreType'
-  | 'childrenContentYaml___parent___internal___mediaType'
-  | 'childrenContentYaml___parent___internal___owner'
-  | 'childrenContentYaml___parent___internal___type'
-  | 'childrenContentYaml___children'
-  | 'childrenContentYaml___children___id'
-  | 'childrenContentYaml___children___parent___id'
-  | 'childrenContentYaml___children___parent___children'
-  | 'childrenContentYaml___children___children'
-  | 'childrenContentYaml___children___children___id'
-  | 'childrenContentYaml___children___children___children'
-  | 'childrenContentYaml___children___internal___content'
-  | 'childrenContentYaml___children___internal___contentDigest'
-  | 'childrenContentYaml___children___internal___description'
-  | 'childrenContentYaml___children___internal___fieldOwners'
-  | 'childrenContentYaml___children___internal___ignoreType'
-  | 'childrenContentYaml___children___internal___mediaType'
-  | 'childrenContentYaml___children___internal___owner'
-  | 'childrenContentYaml___children___internal___type'
-  | 'childrenContentYaml___internal___content'
-  | 'childrenContentYaml___internal___contentDigest'
-  | 'childrenContentYaml___internal___description'
-  | 'childrenContentYaml___internal___fieldOwners'
-  | 'childrenContentYaml___internal___ignoreType'
-  | 'childrenContentYaml___internal___mediaType'
-  | 'childrenContentYaml___internal___owner'
-  | 'childrenContentYaml___internal___type'
-  | 'childrenContentYaml___en___title'
-  | 'childrenContentYaml___en___description'
-  | 'childrenContentYaml___en___keywords'
-  | 'childrenContentYaml___el___title'
-  | 'childrenContentYaml___el___description'
-  | 'childrenContentYaml___el___keywords'
-  | 'childContentYaml___id'
-  | 'childContentYaml___parent___id'
-  | 'childContentYaml___parent___parent___id'
-  | 'childContentYaml___parent___parent___children'
-  | 'childContentYaml___parent___children'
-  | 'childContentYaml___parent___children___id'
-  | 'childContentYaml___parent___children___children'
-  | 'childContentYaml___parent___internal___content'
-  | 'childContentYaml___parent___internal___contentDigest'
-  | 'childContentYaml___parent___internal___description'
-  | 'childContentYaml___parent___internal___fieldOwners'
-  | 'childContentYaml___parent___internal___ignoreType'
-  | 'childContentYaml___parent___internal___mediaType'
-  | 'childContentYaml___parent___internal___owner'
-  | 'childContentYaml___parent___internal___type'
-  | 'childContentYaml___children'
-  | 'childContentYaml___children___id'
-  | 'childContentYaml___children___parent___id'
-  | 'childContentYaml___children___parent___children'
-  | 'childContentYaml___children___children'
-  | 'childContentYaml___children___children___id'
-  | 'childContentYaml___children___children___children'
-  | 'childContentYaml___children___internal___content'
-  | 'childContentYaml___children___internal___contentDigest'
-  | 'childContentYaml___children___internal___description'
-  | 'childContentYaml___children___internal___fieldOwners'
-  | 'childContentYaml___children___internal___ignoreType'
-  | 'childContentYaml___children___internal___mediaType'
-  | 'childContentYaml___children___internal___owner'
-  | 'childContentYaml___children___internal___type'
-  | 'childContentYaml___internal___content'
-  | 'childContentYaml___internal___contentDigest'
-  | 'childContentYaml___internal___description'
-  | 'childContentYaml___internal___fieldOwners'
-  | 'childContentYaml___internal___ignoreType'
-  | 'childContentYaml___internal___mediaType'
-  | 'childContentYaml___internal___owner'
-  | 'childContentYaml___internal___type'
-  | 'childContentYaml___en___title'
-  | 'childContentYaml___en___description'
-  | 'childContentYaml___en___keywords'
-  | 'childContentYaml___el___title'
-  | 'childContentYaml___el___description'
-  | 'childContentYaml___el___keywords'
   | 'id'
   | 'parent___id'
   | 'parent___parent___id'
@@ -1222,8 +950,6 @@ export type FileFilterInput = {
   childImageSharp: Maybe<ImageSharpFilterInput>;
   childrenMarkdownRemark: Maybe<MarkdownRemarkFilterListInput>;
   childMarkdownRemark: Maybe<MarkdownRemarkFilterInput>;
-  childrenContentYaml: Maybe<ContentYamlFilterListInput>;
-  childContentYaml: Maybe<ContentYamlFilterInput>;
   id: Maybe<StringQueryOperatorInput>;
   parent: Maybe<NodeFilterInput>;
   children: Maybe<NodeFilterListInput>;
@@ -1908,10 +1634,48 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___membersSubtitle'
   | 'frontmatter___en___content'
   | 'frontmatter___en___team'
+  | 'frontmatter___en___team___link'
   | 'frontmatter___en___team___name'
   | 'frontmatter___en___team___role'
-  | 'frontmatter___en___team___link'
   | 'frontmatter___en___team___bio'
+  | 'frontmatter___en___mainBackground___sourceInstanceName'
+  | 'frontmatter___en___mainBackground___absolutePath'
+  | 'frontmatter___en___mainBackground___relativePath'
+  | 'frontmatter___en___mainBackground___extension'
+  | 'frontmatter___en___mainBackground___size'
+  | 'frontmatter___en___mainBackground___prettySize'
+  | 'frontmatter___en___mainBackground___modifiedTime'
+  | 'frontmatter___en___mainBackground___accessTime'
+  | 'frontmatter___en___mainBackground___changeTime'
+  | 'frontmatter___en___mainBackground___birthTime'
+  | 'frontmatter___en___mainBackground___root'
+  | 'frontmatter___en___mainBackground___dir'
+  | 'frontmatter___en___mainBackground___base'
+  | 'frontmatter___en___mainBackground___ext'
+  | 'frontmatter___en___mainBackground___name'
+  | 'frontmatter___en___mainBackground___relativeDirectory'
+  | 'frontmatter___en___mainBackground___dev'
+  | 'frontmatter___en___mainBackground___mode'
+  | 'frontmatter___en___mainBackground___nlink'
+  | 'frontmatter___en___mainBackground___uid'
+  | 'frontmatter___en___mainBackground___gid'
+  | 'frontmatter___en___mainBackground___rdev'
+  | 'frontmatter___en___mainBackground___ino'
+  | 'frontmatter___en___mainBackground___atimeMs'
+  | 'frontmatter___en___mainBackground___mtimeMs'
+  | 'frontmatter___en___mainBackground___ctimeMs'
+  | 'frontmatter___en___mainBackground___atime'
+  | 'frontmatter___en___mainBackground___mtime'
+  | 'frontmatter___en___mainBackground___ctime'
+  | 'frontmatter___en___mainBackground___birthtime'
+  | 'frontmatter___en___mainBackground___birthtimeMs'
+  | 'frontmatter___en___mainBackground___blksize'
+  | 'frontmatter___en___mainBackground___blocks'
+  | 'frontmatter___en___mainBackground___publicURL'
+  | 'frontmatter___en___mainBackground___childrenImageSharp'
+  | 'frontmatter___en___mainBackground___childrenMarkdownRemark'
+  | 'frontmatter___en___mainBackground___id'
+  | 'frontmatter___en___mainBackground___children'
   | 'frontmatter___el___mainTitle'
   | 'frontmatter___el___mainSubtitle'
   | 'frontmatter___el___membersSubtitle'
@@ -2092,6 +1856,7 @@ export type MarkdownRemarkFrontmatterEn = {
   membersSubtitle: Maybe<Scalars['String']>;
   content: Maybe<Scalars['String']>;
   team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnTeam>>>;
+  mainBackground: Maybe<File>;
 };
 
 export type MarkdownRemarkFrontmatterEnFilterInput = {
@@ -2100,20 +1865,21 @@ export type MarkdownRemarkFrontmatterEnFilterInput = {
   membersSubtitle: Maybe<StringQueryOperatorInput>;
   content: Maybe<StringQueryOperatorInput>;
   team: Maybe<MarkdownRemarkFrontmatterEnTeamFilterListInput>;
+  mainBackground: Maybe<FileFilterInput>;
 };
 
 export type MarkdownRemarkFrontmatterEnTeam = {
+  link: Maybe<Scalars['String']>;
   name: Maybe<Scalars['String']>;
   role: Maybe<Scalars['String']>;
-  link: Maybe<Scalars['String']>;
   bio: Maybe<Scalars['String']>;
   avatar: Maybe<File>;
 };
 
 export type MarkdownRemarkFrontmatterEnTeamFilterInput = {
+  link: Maybe<StringQueryOperatorInput>;
   name: Maybe<StringQueryOperatorInput>;
   role: Maybe<StringQueryOperatorInput>;
-  link: Maybe<StringQueryOperatorInput>;
   bio: Maybe<StringQueryOperatorInput>;
   avatar: Maybe<FileFilterInput>;
 };
@@ -2221,8 +1987,6 @@ export type Query = {
   allImageSharp: ImageSharpConnection;
   markdownRemark: Maybe<MarkdownRemark>;
   allMarkdownRemark: MarkdownRemarkConnection;
-  contentYaml: Maybe<ContentYaml>;
-  allContentYaml: ContentYamlConnection;
   siteBuildMetadata: Maybe<SiteBuildMetadata>;
   allSiteBuildMetadata: SiteBuildMetadataConnection;
   sitePlugin: Maybe<SitePlugin>;
@@ -2268,8 +2032,6 @@ export type QueryFileArgs = {
   childImageSharp: Maybe<ImageSharpFilterInput>;
   childrenMarkdownRemark: Maybe<MarkdownRemarkFilterListInput>;
   childMarkdownRemark: Maybe<MarkdownRemarkFilterInput>;
-  childrenContentYaml: Maybe<ContentYamlFilterListInput>;
-  childContentYaml: Maybe<ContentYamlFilterInput>;
   id: Maybe<StringQueryOperatorInput>;
   parent: Maybe<NodeFilterInput>;
   children: Maybe<NodeFilterListInput>;
@@ -2333,6 +2095,8 @@ export type QueryAllDirectoryArgs = {
 export type QuerySiteArgs = {
   buildTime: Maybe<DateQueryOperatorInput>;
   siteMetadata: Maybe<SiteSiteMetadataFilterInput>;
+  port: Maybe<IntQueryOperatorInput>;
+  host: Maybe<StringQueryOperatorInput>;
   polyfill: Maybe<BooleanQueryOperatorInput>;
   pathPrefix: Maybe<StringQueryOperatorInput>;
   id: Maybe<StringQueryOperatorInput>;
@@ -2418,22 +2182,6 @@ export type QueryAllMarkdownRemarkArgs = {
   limit: Maybe<Scalars['Int']>;
 };
 
-export type QueryContentYamlArgs = {
-  id: Maybe<StringQueryOperatorInput>;
-  parent: Maybe<NodeFilterInput>;
-  children: Maybe<NodeFilterListInput>;
-  internal: Maybe<InternalFilterInput>;
-  en: Maybe<ContentYamlEnFilterInput>;
-  el: Maybe<ContentYamlElFilterInput>;
-};
-
-export type QueryAllContentYamlArgs = {
-  filter: Maybe<ContentYamlFilterInput>;
-  sort: Maybe<ContentYamlSortInput>;
-  skip: Maybe<Scalars['Int']>;
-  limit: Maybe<Scalars['Int']>;
-};
-
 export type QuerySiteBuildMetadataArgs = {
   id: Maybe<StringQueryOperatorInput>;
   parent: Maybe<NodeFilterInput>;
@@ -2475,6 +2223,8 @@ export type QueryAllSitePluginArgs = {
 export type Site = Node & {
   buildTime: Maybe<Scalars['Date']>;
   siteMetadata: Maybe<SiteSiteMetadata>;
+  port: Maybe<Scalars['Int']>;
+  host: Maybe<Scalars['String']>;
   polyfill: Maybe<Scalars['Boolean']>;
   pathPrefix: Maybe<Scalars['String']>;
   id: Scalars['ID'];
@@ -2672,6 +2422,8 @@ export type SiteFieldsEnum =
   | 'siteMetadata___description'
   | 'siteMetadata___image'
   | 'siteMetadata___siteUrl'
+  | 'port'
+  | 'host'
   | 'polyfill'
   | 'pathPrefix'
   | 'id'
@@ -2764,6 +2516,8 @@ export type SiteFieldsEnum =
 export type SiteFilterInput = {
   buildTime: Maybe<DateQueryOperatorInput>;
   siteMetadata: Maybe<SiteSiteMetadataFilterInput>;
+  port: Maybe<IntQueryOperatorInput>;
+  host: Maybe<StringQueryOperatorInput>;
   polyfill: Maybe<BooleanQueryOperatorInput>;
   pathPrefix: Maybe<StringQueryOperatorInput>;
   id: Maybe<StringQueryOperatorInput>;
@@ -2994,6 +2748,7 @@ export type SitePageFieldsEnum =
   | 'pluginCreator___pluginOptions___fileName'
   | 'pluginCreator___pluginOptions___codegenConfig___avoidOptionals'
   | 'pluginCreator___pluginOptions___codegenConfig___maybeValue'
+  | 'pluginCreator___pluginOptions___documentPaths'
   | 'pluginCreator___pluginOptions___base64Width'
   | 'pluginCreator___pluginOptions___stripMetadata'
   | 'pluginCreator___pluginOptions___defaultQuality'
@@ -3245,6 +3000,7 @@ export type SitePluginFieldsEnum =
   | 'pluginOptions___fileName'
   | 'pluginOptions___codegenConfig___avoidOptionals'
   | 'pluginOptions___codegenConfig___maybeValue'
+  | 'pluginOptions___documentPaths'
   | 'pluginOptions___base64Width'
   | 'pluginOptions___stripMetadata'
   | 'pluginOptions___defaultQuality'
@@ -3403,6 +3159,7 @@ export type SitePluginPluginOptions = {
   path: Maybe<Scalars['String']>;
   fileName: Maybe<Scalars['String']>;
   codegenConfig: Maybe<SitePluginPluginOptionsCodegenConfig>;
+  documentPaths: Maybe<Array<Maybe<Scalars['String']>>>;
   base64Width: Maybe<Scalars['Int']>;
   stripMetadata: Maybe<Scalars['Boolean']>;
   defaultQuality: Maybe<Scalars['Int']>;
@@ -3462,6 +3219,7 @@ export type SitePluginPluginOptionsFilterInput = {
   path: Maybe<StringQueryOperatorInput>;
   fileName: Maybe<StringQueryOperatorInput>;
   codegenConfig: Maybe<SitePluginPluginOptionsCodegenConfigFilterInput>;
+  documentPaths: Maybe<StringQueryOperatorInput>;
   base64Width: Maybe<IntQueryOperatorInput>;
   stripMetadata: Maybe<BooleanQueryOperatorInput>;
   defaultQuality: Maybe<IntQueryOperatorInput>;
@@ -3656,12 +3414,6 @@ export type Unnamed_6_Query = {
 export type AboutPageQueryVariables = Exact<{ [key: string]: never }>;
 
 export type AboutPageQuery = {
-  meta: Maybe<{
-    childContentYaml: Maybe<{
-      el: Maybe<Pick<ContentYamlEl, 'title'>>;
-      en: Maybe<Pick<ContentYamlEn, 'title'>>;
-    }>;
-  }>;
   about: Maybe<{
     childMarkdownRemark: Maybe<{
       frontmatter: Maybe<{
@@ -3674,11 +3426,7 @@ export type AboutPageQuery = {
               Array<
                 Maybe<
                   Pick<MarkdownRemarkFrontmatterElTeam, 'bio' | 'link' | 'name' | 'role'> & {
-                    avatar: Maybe<{
-                      childImageSharp: Maybe<{
-                        fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment>;
-                      }>;
-                    }>;
+                    avatar: Maybe<Pick<File, 'publicURL'>>;
                   }
                 >
               >
@@ -3690,15 +3438,14 @@ export type AboutPageQuery = {
             MarkdownRemarkFrontmatterEn,
             'mainTitle' | 'mainSubtitle' | 'content' | 'membersSubtitle'
           > & {
+            mainBackground: Maybe<{
+              childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }>;
+            }>;
             team: Maybe<
               Array<
                 Maybe<
                   Pick<MarkdownRemarkFrontmatterEnTeam, 'bio' | 'link' | 'name' | 'role'> & {
-                    avatar: Maybe<{
-                      childImageSharp: Maybe<{
-                        fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment>;
-                      }>;
-                    }>;
+                    avatar: Maybe<Pick<File, 'publicURL'>>;
                   }
                 >
               >
@@ -3707,9 +3454,6 @@ export type AboutPageQuery = {
         >;
       }>;
     }>;
-  }>;
-  desktop: Maybe<{
-    childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }>;
   }>;
 };
 
