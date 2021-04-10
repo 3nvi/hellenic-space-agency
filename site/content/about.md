@@ -61,6 +61,43 @@ en:
 
         He received the NASA Group Achievement Award for his contribution to the Global Geospace Science program and the ESA Individual Achievement Award for his contribution to the Cluster mission.
       avatar: /assets/daglis.jpg
+    - link: http://www.academyofathens.gr/sites/default/files/Sergis%20long%20CV.pdf
+      name: Nick Sergis
+      role: Chief Executive Officer
+      bio: >-
+        Dr. Sergis is a researcher in Space Physics. Between 2006 and 2020 he
+        worked at
+
+        the Office of Space Research and Technology at the Academy of Athens in
+
+        collaboration with JHU/APL. Since 2017 he is also an Adjunct Researcher at the
+
+        National Observatory of Athens. His published work includes 77 peer-reviewed
+
+        papers in scientific journals or book chapters, with over 1700 citations (h=25)
+
+        and several invited seminars in Greece, Europe and the USA. In 2009 and 2018
+
+        he received NASA awards for his contribution in the Cassini mission to Saturn
+
+        and in 2008 he was elected by the Editorial Board of Annales Geophysicae as
+
+        best reviewer in the field of Magnetospheric Physics. He has experience in the
+
+        management of research programs and he serves as evaluator for proposals
+
+        submitted for funding to NASA, the EC and national funding agencies in Europe.
+
+        He leads or participates to research groups in Space Science and Applications in
+
+        collaboration with institutes from Europe and the USA. Dr. Sergis has supervised
+
+        or co-supervised PhD, MSc and undergraduate theses in Greece and abroad. He is
+
+        a member of the American Geophysical Union (AGU), the European Geosciences
+
+        Union (EGU) and the International Astronomical Union (IAU).
+      avatar: /assets/sergis.jpg
     - name: George Nounesis
       link: http://www.rrp.demokritos.gr/file/Biomolecular%20Physics/nounesis_english2010.pdf
       role: Vice-President
@@ -111,43 +148,6 @@ en:
         Group WG III/4 on Hyperspectral Image Processing.
       role: Member of Governing Board
       avatar: /assets/karantzalos.jpg
-    - link: http://www.academyofathens.gr/sites/default/files/Sergis%20long%20CV.pdf
-      name: Nick Sergis
-      role: Chief Executive Officer
-      bio: >-
-        Dr. Sergis is a researcher in Space Physics. Between 2006 and 2020 he
-        worked at
-
-        the Office of Space Research and Technology at the Academy of Athens in
-
-        collaboration with JHU/APL. Since 2017 he is also an Adjunct Researcher at the
-
-        National Observatory of Athens. His published work includes 77 peer-reviewed
-
-        papers in scientific journals or book chapters, with over 1700 citations (h=25)
-
-        and several invited seminars in Greece, Europe and the USA. In 2009 and 2018
-
-        he received NASA awards for his contribution in the Cassini mission to Saturn
-
-        and in 2008 he was elected by the Editorial Board of Annales Geophysicae as
-
-        best reviewer in the field of Magnetospheric Physics. He has experience in the
-
-        management of research programs and he serves as evaluator for proposals
-
-        submitted for funding to NASA, the EC and national funding agencies in Europe.
-
-        He leads or participates to research groups in Space Science and Applications in
-
-        collaboration with institutes from Europe and the USA. Dr. Sergis has supervised
-
-        or co-supervised PhD, MSc and undergraduate theses in Greece and abroad. He is
-
-        a member of the American Geophysical Union (AGU), the European Geosciences
-
-        Union (EGU) and the International Astronomical Union (IAU).
-      avatar: /assets/sergis.jpg
     - name: Pavlos Sotiriadis
       role: Member of Governing Board
       link: https://www.ece.ntua.gr/en/staff/184
@@ -247,9 +247,261 @@ el:
 
     H παροχή συνδρομής προς το Δημόσιο αναφορικά με δορυφορικά και διαστημικά θέματα, καθώς και η παροχή συμβουλευτικών υπηρεσιών και η εκπόνηση μελετών προς το Υπουργείο Ψηφιακής Διακυβέρνησης αναφορικά με τη διαχείριση των δικαιωμάτων και των υποχρεώσεων του Δημοσίου στο Διάστημα, την καταχώριση και αξιολόγηση διαστημικών αντικειμένων, καθώς και την ανάπτυξη δορυφορικών συστημάτων.
   team:
-    - name: hgj
-      role: nbm
-      link: nb
-      bio: lknkjn
-      avatar: /assets/jesuschristnymphiosnymfios-vci1190s_2_1024x1024-2x.jpg
+    - name: Ιωάννης Α. Δαγκλής
+      role: Πρόεδρος
+      link: http://scholar.uoa.gr/iadaglis/home
+      bio: >-
+        Ο Ιωάννης Α. Δαγκλής  ειναι Καθηγητής Διαστημικής Φυσικής
+
+        του Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών. Έχει εργαστεί σε Πανεπιστήμια και
+
+        Ερευνητικά Κέντρα της Γερμανίας, της Ιαπωνίας και των Ηνωμένων Πολιτειών, και διετέλεσε
+
+        Διευθυντής του Ινστιτούτου Διαστημικών Εφαρμογών στο Εθνικό Αστεροσκοπείο Αθηνών για
+
+        μια οκταετία.
+
+        Ο κ. Δαγκλής είναι Τακτικό Μέλος της Διεθνούς Αστροναυτικής Ακαδημίας και μέλος
+
+        επιτροπών εμπειρογνωμόνων της NASA, της αντίστοιχης ευρωπαϊκής ESA, της Ευρωπαϊκής
+
+        Επιτροπής, της Ακαδημίας της Φινλανδίας και άλλων εθνικών οργανισμών έρευνας. Έχει
+
+        συμμετάσχει στον σχεδιασμό και την επιστημονική ανάλυση των παρατηρήσεων 15
+
+        ευρωπαϊκών και αμερικανικών διαστημικών αποστολών και έχει διατελέσει Επιστημονικός
+
+        Υπεύθυνος 21 διεθνών και 8 εθνικών ερευνητικών προγραμμάτων, με πιο πρόσφατο το
+
+        SafeSpace – ένα από τα τρία προγράμματα που επιλέχθηκαν το 2019 για χρηματοδότηση από
+
+        την Ευρωπαϊκή Ένωση μέσω της δράσης Space Weather του Horizon 2020.
+
+        Το δημοσιευμένο έργο του κ. Δαγκλή περιλαμβάνει 5 βιβλία διαστημικής φυσικής και 100
+
+        άρθρα σε περιοδικά με κριτές με περισσότερες από 5.400 αναφορές.
+      avatar: /assets/daglis.jpg
+    - link: http://www.academyofathens.gr/sites/default/files/Sergis%20long%20CV.pdf
+      name: Νίκος Σέργης
+      role: Διευθύνων Σύμβουλος
+      bio: >-
+        Ο Δρ. Νίκος Σέργης είναι ερευνητής στο πεδίο της Διαστημικής Φυσικής.
+        Από το
+
+        2006 ως το 2020 εργάστηκε στο Γραφείο Διαστημικής Έρευνας και Τεχνολογίας
+
+        της Ακαδημίας Αθηνών σε συνεργασία με το Applied Physics Laboratory του
+
+        Johns Hopkins University (JHU/APL), ενώ από το 2017 είναι Συνεργάτης
+
+        Ερευνητής του Εθνικού Αστεροσκοπείου Αθηνών (ΕΑΑ/ΙΑΑΔΕΤ). Το ερευνητικό
+
+        του έργο περιλαμβάνει 77 επιστημονικές εργασίες σε διεθνή περιοδικά με κριτές
+
+        με περισσότερες από 1700 ετεροαναφορές (h=25) και μεγάλο αριθμό
+
+        προσκεκλημένων ομιλιών-σεμιναρίων στην Ελλάδα και το εξωτερικό. Το 2009
+
+        και το 2018 βραβεύθηκε από τη NASA για τη συμμετοχή του στην αποστολή
+
+        Cassini-Huygens και το 2008 από την Συντακτική Επιτροπή του επιστημονικού
+
+        περιοδικού Annales Geophysicae ως καλύτερος κριτής της χρονιάς στο πεδίο της
+
+        Μαγνητοσπφαιρικής Φυσικής. Ο Δρ. Σέργης έχει εμπειρία στη διαχείριση
+
+        ερευνητικών προγραμμάτων, ενώ υπηρετεί ως αξιολογητής για προτάσεις που
+
+        υποβάλλονται προς χρηματοδότηση στη NASA, την Ευρωπαϊκή Επιτροπή και σε
+
+        εθνικούς φορείς χωρών της Ευρώπης. Είναι επικεφαλής ή μέλος ερευνητικών
+
+        ομάδων στο χώρο της Διαστημικής Επιστήμης και Εφαρμογών, σε συνεργασία
+
+        με ιδρύματα από την Ευρώπη και τις ΗΠΑ. Ο Δρ. Σέργης έχει επιβλέψει ή
+
+        συνεπιβλέψει διδακτορικές διατριβές, μεταπτυχιακές και προπτυχιακές
+
+        εργασίες στην Ελλάδα (ΕΚΠΑ) και το εξωτερικό. Είναι μέλος της Αμερικανικής
+
+        Γεωφυσικής Ένωσης (AGU), της Ευρωπαϊκής Ένωσης Γεωεπιστημών (EGU) και
+
+        της Διεθνούς Αστρονομικής Ένωσης (IAU).
+      avatar: /assets/sergis.jpg
+    - role: Αναπληρωτής Πρόεδρος
+      link: http://www.rrp.demokritos.gr/file/Biomolecular%20Physics/nounesis_english2010.pdf
+      name: Γιώργος Νούνεσης
+      bio: >-
+        Ο Γιώργος Νούνεσης είναι Διευθυντής Ερευνών στο Εθνικό Κέντρο Έρευνας
+        Φυσικών Επιστημών
+
+        «Δημόκριτος», Διευθυντής και Πρόεδρος του Διοικητικού Συμβουλίου του Κέντρου (2017-2019).
+
+        Αναπτύσσει έντονη δραστηριότητα στην μεταφορά τεχνολογίας επιτυγχάνοντας τις πρώτες μεγάλες
+
+        συμφωνίες του Δημοκρίτου με διεθνείς επιχειρήσεις, κολοσσούς στην καινοτομία. Σπούδασε Φυσική
+
+        στο Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών και πήρε το Διδακτορικό του στη Σχολή Φυσικής
+
+        και Αστρονομίας του University of Minnesota. Ολοκλήρωσε τριετή Μεταδιδακτορική Έρευνα στο Τμήμα
+
+        Χημείας του Massachusetts Institute of Technology (MIT) καθώς και το Executive Program “Innovation
+
+        for Economic Development” στο Harvard Kennedy School of Government. Πριν την επιστροφή του στην
+
+        Ελλάδα εργάστηκε ως Ερευνητής στο Center for Materials Science and Engineering στο MIT καθώς και
+
+        στο Francis Bitter National Magnet Laboratory επίσης στο ΜΙΤ. Έχει εργαστεί ως Προσκεκλημένος
+
+        Καθηγητής στο Τμήμα Χημείας του Πανεπιστημίου Bordeaux I και ως Προσκεκλημένος Ερευνητής στο
+
+        Centre de Recherche Paul Pascal στο CNRS της Γαλλίας. Για το επιστημονικό του έργο έχει τιμηθεί από
+
+        την Αμερικανική Εταιρεία Αναπαραγωγικής Ιατρικής, το Κοινωφελές Ίδρυμα Λάτση, το Εμπειρίκειο
+
+        Ίδρυμα, το Department of the Navy των ΗΠΑ και το Graduate School του University of Minnesota.
+      avatar: /assets/nounesis.jpg
+    - name: Κωσταντίνος Καράντζαλος
+      role: Μέλος
+      link: http://users.ntua.gr/karank
+      bio: >-
+        O Κωσταντίνος Καράντζαλος είναι Αναπληρωτής Καθηγητής
+
+        Τηλεπισκόπησης στο Εθνικό Μετσόβιο Πολυτεχνείο. Στα διδακτικά και ερευνητικά του
+
+        ενδιαφέροντα περιλαμβάνονται οι Γεωεπιστήμες και οι μέθοδοι Παρατήρησης Γης, τα μεγάλα
+
+        γεωχωρικά δεδομένα, η ανάλυση υπερφασματικών δεδομένων, η όραση υπολογισμών και
+
+        μηχανική μάθηση, με ποικίλες εφαρμογές όπως η παρακολούθηση του περιβάλλοντος και η
+
+        γεωργία ακριβείας. Έχει δημοσιεύσει σε έγκυρα διεθνή επιστημονικά περιοδικά, ενώ έχει
+
+        αποσπάσει αρκετές διακρίσεις για την επιστημονική συνεισφορά του ερευνητικού του έργου.
+
+        Έχει πάνω από 17 χρόνια ερευνητικής εμπειρίας, συμμετοχή σε περισσότερα από 19
+
+        ευρωπαϊκά και εθνικά ερευνητικά προγράμματα αριστείας/ ανταγωνιστικότητας. Ο Δρ.
+
+        Καράντζαλος είναι Senior Member της ΙΕΕΕ, συμμετέχει στην Οργανωτική/ Επιστημονική
+
+        Επιτροπή έγκυρων διεθνών περιοδικών/ συνεδρίων, ενώ είναι αξιολογητής (Evaluator/ Panel
+
+        Member) για Ευρωπαϊκά και Εθνικά ερευνητικά προγράμματα (H2020, Deutsche
+
+        Forschungsgemeinschaft, Israel Science Foundation, Belgian Science Policy Office, Netherlands
+
+        Organisation for Scientific Research, κ.α.). Σήμερα, ο Δρ. Καράντζαλος συμπροεδρεύει στην
+
+        ομάδα εργασίας ‘Hyperspectral Image Processing’ της International Society for Photogrammetry
+
+        and Remote Sensing.
+      avatar: /assets/karantzalos.jpg
+    - name: Παύλος Σωτηριάδης
+      role: Μέλος
+      link: https://www.ece.ntua.gr/gr/staff/184
+      bio: >-
+        Ο Καθηγητής κ. Παύλος-Πέτρος Σωτηριάδης είναι διευθυντής του Εργαστηρίου
+        Ηλεκτρονικής
+
+        της Σχολής ΗΜΜΥ του ΕΜΠ και ηγείται ερευνητικής ομάδας 25 ατόμων. Έλαβε το δίπλωμα από
+
+        την ίδια σχολή με βαθμό 9.91, το MSEE από το Stanford University (1996) και το Ph.D. από το
+
+        Massachusetts Institute of Technology (2002) με επιβλέποντα τον Καθηγητή Anantha
+
+        Chandrakasan (Dean of Engineering, MIT) στο εργαστήριο Microsystems Technology
+
+        Laboratories. Εξελέγη Επίκουρος Καθηγητής στο τμήμα ΗΜΜΥ του Johns Hopkins University
+
+        (2002) και συνεργάστηκε με το Space Department του Applied Physics Laboratory, MD, USA.
+
+        Συμμετείχε επίσης ως CTO σε δύο τεχνολογικές startup εταιρείες στις ΗΠΑ. Το 2012 εντάχθηκε
+
+        στο δυναμικό της Σχολής ΗΜΜΥ του ΕΜΠ. Τα ερευνητικά του ενδιαφέροντα εστιάζονται στην
+
+        περιοχή των κυκλωμάτων και των συστημάτων και εκτείνονται από τη σχεδίαση αναλογικών,
+
+        μικτού σήματος και RF ολοκληρωμένων κυκλωμάτων μέχρι τη μαθηματική μοντελοποίηση, τη
+
+        βελτιστοποίηση και την ανάπτυξη αλγορίθμων σε κυκλώματα για τηλεπικοινωνιακές,
+
+        βιοϊατρικές, μετρητικές, βιομηχανικές και εμπορικές εφαρμογές. Έχει ηγηθεί πολλών
+
+        ερευνητικών προγραμμάτων σε συνεργασία τόσο με κρατικά ερευνητικά εργαστήρια όσο και
+
+        μεγάλες εταιρείες στο χώρο της μικροηλεκτρονικής. Είναι συγγραφέας σε 150 ερευνητικές
+
+        εργασίες, οι περισσότερες δημοσιευμένες σε περιοδικά και συνέδρια της ΙΕΕΕ. Είναι κάτοχος
+
+        μίας πατέντας, έχει συνεισφέρει σε τεχνικά βιβλία και έχει δώσει πολλές προσκεκλημένες
+
+        ομιλίες σε εταιρείες, ερευνητικά κέντρα και πανεπιστήμια στις ΗΠΑ και στην Ευρώπη. Έχει
+
+        λάβει πολλά βραβεία και διακρίσεις, συμπεριλαμβανομένου του Guillemin-Cauer Award από
+
+        την IEEE Circuits and Systems Society, και βραβεία καλύτερης εργασίας σε συνέδρια. Κατά τη
+
+        διάρκεια των σπουδών του έλαβε υποτροφίες από τα ιδρύματα Ωνάση, Μποδοσάκη,
+
+        Ευγενίδου, Γεροντέλη και από το Ίδρυμα Κρατικών Υποτροφιών. Διατελεί χρέη Associate Editor
+
+        στο Sensors Journal της IEEE, ήταν για μεγάλο χρονικό διάστημα Associate Editor στα περιοδικά
+
+        TCAS-I και TCAS-II της IEEE, καθώς και μέλος επιτροπών σε περισσότερα από 50 συνέδρια. Είναι
+
+        ενεργό μέλος τεχνικών επιτροπών σε παγκόσμιους οργανισμούς, καθώς και του MIT Enterprise
+
+        Forum, το οποίο υποστηρίζει την ελληνική επιχειρηματικότητα στο χώρο της τεχνολογίας.
+      avatar: /assets/sotiriadis.jpg
+    - link: https://www.enveng.tuc.gr/el/prosopiko/kathigites/konstantinos-synolakis/
+      name: Κωσταντίνος Συνολάκης
+      role: Μέλος
+      bio: Ο Κώστας Συνολάκης γεννήθηκε στην Αθήνα το 1956. Σπούδασε στο Τεχνολογικό
+        Ινστιτούτο της Καλιφόρνιας. Ειναι Καθηγητής στο Πανεπιστήμιο της Νότιας
+        Καλιφόρνιας (1985) και στο Πανεπιστήμιο Κρήτης (2004). Έρευνες σε
+        υδροδυναμική, γεωφυσική,  ωκεανογραφία, και διαχείρηση
+        κρίσεων.  Ανέπτυξε το υπολογιστικό μοντέλο προσομοίωσης ΜΟSΤ για την
+        πρόγνωση της διάδοσης των παλιρροϊκών κυμάτων. Το μοντέλλο αυτό
+        χρησιμοποιείται υπηρεσιακά απο την ΝΟΑΑ. Εξήγησε τις διαφορές μεταξύ
+        μακρών κυμάτων που προξενούνται από κατολισθήσεις και αυτών που
+        προξενούνται από σεισμούς. Σχεδίασε και ανέπτυξε τους επίσημους χάρτες
+        αντιπλημμυρικής προστασίας της Πολιτείας της Καλιφόρνιας από παλιρροϊκά
+        κύματα.  Έχει δημοσιεύσει περισσότερες από 110 εργασίες σε επιστημονικά
+        περιοδικά μεγάλης επιρροής (μεταξύ αυτών τα Science, Nature, Physical
+        Review Letters, και Philosophical Transactions of the Royal Society),
+        έχει δώσει δεκάδες διαλέξεις και παρουσιάσεις σε επιστημονικά ιδρύματα
+        σε όλο τον κόσμο και έχει επιβλέψει διδακτορικές διατριβές. Βραβείο
+        Mofatt-Nichol στον τομέα της Ακτομηχανικής της Εταιρείας Πολιτικών
+        Μηχανικών ΗΠΑ (2015), βραβείο Soloviev στον τομέα των φυσικών
+        καταστροφών (European Geosciences Union) (2014), βραβείο για την συμβολή
+        του στην πολιτική προστασία της Πολιτείας της Καλιφόρνιας (2001) και το
+        Διεθνές Βραβείο Ακτομηχανικής (2019). Έχει βραβευθεί από τον Λευκό Οίκο
+        ως ένας από τους 100 καλύτερους νέους επιστήμονες στις ΗΠΑ (1988). Έχει
+        συντονίσει σημαντικό αριθμό ανταγωνιστικών ερευνητικών προγραμμάτων στον
+        τομέα του. Ίδρυσε το 1995 το πρώτο Tsunami Research Center στις ΗΠΑ, στο
+        Πανεπιστήμιο της Νότιας Καλιφόρνιας. Οι πρόσφατες εργασίες του
+        επικεντρώνονται στις συνέπειες από τη διάβρωση των ακτών στην Ελλάδα
+        λόγω της ανόδου της στάθμης της θάλασσας και άλλων ανθρωπογενών
+        παραγόντων, των συνεπειών της κλιματικής αλλαγής, και στην διαχείρηση
+        κρισεων. Τακτικό μέλος της Ακαδημίας Αθηνών από το 2016.
+      avatar: /assets/synolakis.jpg
+    - link: https://gdprdsa.gr/2018/educators.html
+      name: Αντιγόνη Γιαννακάκη
+      role: Μέλος
+      bio: >-
+        Η Αντιγόνη Γιαννακάκη είναι Μέλος του Δικηγορικού Συλλόγου Αθηνών από το
+        έτος 2006. Επαγγελματική Εμπειρία: Από το 2007 μέχρι σήμερα διατηρεί
+        δικηγορικό γραφείο στην Αγία Παρασκευή Αττικής στην οδό Αγίου Ιωάννου αρ
+        23 Β και έχει πιστοποιηθεί σαν Υπεύθυνη Προστασίας Δεδομένων από την TÜV
+        AUSTRIA HELLAS. Είναι επίσης Εξωτερικός συνεργάτης της Δικηγορικής
+        Εταιρείας Κ. Παπακωστόπουλος και Συνεργάτες (Ανεξάρτητο μέλος του
+        νομικού και φορολογικού δικτύου της KPMG).
+
+
+        Από την 14-6-2013 μέχρι την 31-1-2015  υπήρξε  σύμβουλος του Γενικού Γραμματέα Πληροφοριακών Συστημάτων του Υπουργείου Οικονομικών, κου  Τσαβδάρη. Στο πλαίσιο των καθηκόντων της υπήρξε  μέλος νομοπαρασκευαστικών επιτροπών, όπως για τον εκσυγχρονισμό του νομοθετικού πλαισίου του τρόπου πληρωμής των υποθηκοφυλάκων και για την σύνταξη του Προεδρικού Διατάγματος του νέου Οργανισμού του Υπουργείου. Επίσης στο πλαίσιο της ορθής λειτουργίας και χρήσης των πληροφοριακών συστημάτων ασχολήθηκε ενδελεχώς  με θέματα σχετικά με την προστασία δεδομένων προσωπικού χαρακτήρα και το φορολογικό απόρρητο.  Aπό τον Μάιο του 2007 και μέχρι τον Σεπτέμβριο του 2012 υπήρξε εξωτερικός συνεργάτης της Αγροτικής Τράπεζας της Ελλάδος.
+
+
+        Είναι Απόφοιτος της Νομικής Σχολής του Δημοκρίτειου Πανεπιστημίου Θράκης και κάτοχος του Μεταπτυχιακού Διπλώματος «Το Χρηματοοικονομικό και Θεσμικό Πλαίσιο των Αγορών Χρήματος και Κεφαλαίου» του Πανεπιστημίου Πειραιώς.
+      avatar: /assets/giannakaki.jpg
 ---
