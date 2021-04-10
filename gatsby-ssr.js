@@ -1,4 +1,6 @@
 import React from 'react';
+import { PageContext } from './src/context/PageContext';
+import config from './gatsby-config';
 
 export const onPreRenderHTML = ({ getHeadComponents, replaceHeadComponents }) => {
   if (process.env.NODE_ENV !== 'production') {
@@ -24,4 +26,22 @@ export const onPreRenderHTML = ({ getHeadComponents, replaceHeadComponents }) =>
   });
 
   replaceHeadComponents(transformedHeadComponents);
+};
+
+export const wrapPageElement = ({ element, props }) => {
+  const { excludedPages, supportedLanguages, defaultLanguage } = config.plugins.find(
+    plugin => plugin.resolve === '@3nvi/gatsby-plugin-intl'
+  ).options;
+
+  // if page should be excluded do nothing
+  if (excludedPages.includes(props.location.pathname)) {
+    return element;
+  }
+
+  const contextValue = Object.assign({}, props.pageContext, {
+    supportedLanguages,
+    defaultLanguage,
+  });
+
+  return <PageContext.Provider value={contextValue}>{element}</PageContext.Provider>;
 };

@@ -1,10 +1,9 @@
 import React from 'react';
 import axios from 'axios';
-import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import Fade from 'react-reveal/Fade';
 
+const t = (x: string) => x;
 const ContactForm: React.FC = () => {
-  const { t } = useTranslation();
   const [isMessageSent, setMessageSent] = React.useState(false);
 
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {

@@ -1,9 +1,8 @@
 import React from 'react';
 import Fade from 'react-reveal/Fade';
-import { useTranslation } from '@3nvi/gatsby-theme-intl';
+const t = (x: string) => x;
 
 const Five: React.FC = () => {
-  const { t } = useTranslation();
   return (
     <section id="five" className="wrapper style2 special fade inactive">
       <Fade duration={2500}>

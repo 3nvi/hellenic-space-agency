@@ -1,5 +1,4 @@
 import React from 'react';
-import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import { Helmet } from 'react-helmet';
 
 interface ProfileProps {
@@ -7,9 +6,8 @@ interface ProfileProps {
   image: string;
 }
 
+const t = (x: string) => x;
 const Profile: React.FC<ProfileProps> = ({ tProfileKey, image }) => {
-  const { t } = useTranslation();
-
   const name = t(`about.${tProfileKey}.name`);
   const role = t(`about.${tProfileKey}.role`);
   const bio = t(`about.${tProfileKey}.bio`);

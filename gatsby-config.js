@@ -1,5 +1,4 @@
 const path = require('path');
-const i18nConfig = require('./i18n.json');
 
 module.exports = {
   siteMetadata: {
@@ -93,7 +92,8 @@ module.exports = {
     {
       resolve: '@3nvi/gatsby-plugin-intl',
       options: {
-        ...i18nConfig,
+        supportedLanguages: ['el', 'en'],
+        defaultLanguage: 'el',
         excludedPages: ['/404.html'],
       },
     },

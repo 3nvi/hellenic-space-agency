@@ -2,10 +2,9 @@ import React from 'react';
 import Layout from '../components/Layout';
 import SEO from '../components/SEO';
 import ContactForm from '../components/ContactForm';
-import { useTranslation } from '@3nvi/gatsby-theme-intl';
+const t = (x: string) => x;
 
 const Contact: React.FC = () => {
-  const { t } = useTranslation();
   return (
     <Layout isHeaderSticky>
       <SEO title={t('contact.mainTitle')} />

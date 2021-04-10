@@ -1,16 +1,14 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 import { Helmet } from 'react-helmet';
-import { useTranslation } from '@3nvi/gatsby-theme-intl';
 
+const t = (x: string) => x;
 interface SEOProps {
   title: string;
   description?: string;
 }
 
 const SEO: React.FC<SEOProps> = ({ title, description }) => {
-  const { t } = useTranslation();
-
   const { site } = useStaticQuery(
     graphql`
       query {

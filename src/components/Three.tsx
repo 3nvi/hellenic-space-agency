@@ -1,15 +1,13 @@
 import React from 'react';
 import { Link as ScrollLink } from 'react-scroll';
 import Fade from 'react-reveal/Fade';
-import { useTranslation } from '@3nvi/gatsby-theme-intl';
-import { Link } from '@3nvi/gatsby-theme-intl';
+import Link from '../components/Link';
 import { graphql, useStaticQuery } from 'gatsby';
 import Img from 'gatsby-image';
 import BackgroundImage from 'gatsby-background-image';
 
+const t = (x: string) => x;
 const Three: React.FC = () => {
-  const { t } = useTranslation();
-
   const data = useStaticQuery(
     graphql`
       query {

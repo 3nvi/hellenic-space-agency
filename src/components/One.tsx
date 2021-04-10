@@ -1,13 +1,12 @@
 import React from 'react';
 import { Link as ScrollLink } from 'react-scroll';
 import Fade from 'react-reveal/Fade';
-import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import { graphql, useStaticQuery } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
 import Img from 'gatsby-image';
 
+const t = (x: string) => x;
 const One: React.FC = () => {
-  const { t } = useTranslation();
   const [missionTextPartOne, missionTextPartTwo] = t('landing.missions.0.details').split('.');
 
   const data = useStaticQuery(

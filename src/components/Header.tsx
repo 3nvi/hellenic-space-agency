@@ -1,10 +1,10 @@
 import React from 'react';
-import { useTranslation } from '@3nvi/gatsby-theme-intl';
-import { Link } from '@3nvi/gatsby-theme-intl';
+import Link from '../components/Link';
 import MobileMenu from './MobileMenu';
 import LanguagePicker from './LanguagePicker';
 import logo from '../assets/images/logo.png';
 
+const t = (x: string) => x;
 const menuLinks = [
   {
     id: 'home',
@@ -29,7 +29,6 @@ const menuLinks = [
 ];
 
 const Header: React.FC = () => {
-  const { t } = useTranslation();
   const [isMenuActive, setMenuActive] = React.useState(false);
 
   const [mobileActiveClass, setMobileActiveClass] = React.useState('');

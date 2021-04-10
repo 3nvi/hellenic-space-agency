@@ -1,12 +1,11 @@
 import React from 'react';
 import Fade from 'react-reveal/Fade';
-import { useTranslation } from '@3nvi/gatsby-theme-intl';
-import { Link } from '@3nvi/gatsby-theme-intl';
+import Link from '../components/Link';
 import { graphql, useStaticQuery } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
 
+const t = (x: string) => x;
 const Four: React.FC = () => {
-  const { t } = useTranslation();
   const [goalIndex, setGoalIndex] = React.useState(0);
 
   React.useEffect(() => {

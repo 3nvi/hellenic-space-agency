@@ -1,7 +1,8 @@
 import React from 'react';
-import { useTranslation } from '@3nvi/gatsby-theme-intl';
-import { Link } from '@3nvi/gatsby-theme-intl';
+import Link from '../components/Link';
 import LanguagePicker from './LanguagePicker';
+
+const t = (x: string) => x;
 
 interface MenuLink {
   id: string;
@@ -13,8 +14,6 @@ interface MobileMenuProps {
 }
 
 const MobileMenu: React.FC<MobileMenuProps> = ({ menuLinks }) => {
-  const { t } = useTranslation();
-
   return (
     <div>
       <LanguagePicker />

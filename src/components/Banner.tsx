@@ -1,12 +1,10 @@
 import React from 'react';
-import { useTranslation } from '@3nvi/gatsby-theme-intl';
 import { Link as ScrollLink } from 'react-scroll';
 import { graphql, useStaticQuery } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
 
+const t = (x: string) => x;
 const Banner: React.FC = () => {
-  const { t } = useTranslation();
-
   const data = useStaticQuery(
     graphql`
       query {
