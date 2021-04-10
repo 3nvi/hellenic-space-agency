@@ -1,6 +1,6 @@
 import React from 'react';
 
-interface PageContext {
+export interface PageContext {
   supportedLanguages: string[];
   siteUrl: string;
   originalPath: string;
@@ -9,6 +9,6 @@ interface PageContext {
 }
 
 // @ts-ignore
-export const PageContext = React.createContext<PageContext>({});
+const PageContext = React.createContext<PageContext>({});
 
-export const usePageContext = () => React.useContext<PageContext>(PageContext);
+export default PageContext;

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link as GatsbyLink } from 'gatsby';
-import { usePageContext } from '../context/PageContext';
+import usePageContext from '../hooks/usePageContext';
 
 const LanguagePicker: React.FC = () => {
   const { supportedLanguages, originalPath } = usePageContext();

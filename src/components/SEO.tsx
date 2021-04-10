@@ -1,6 +1,8 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 import { Helmet } from 'react-helmet';
+import useTranslation from '../hooks/useTranslation';
+import { GetSeoDataQuery } from '../../graphql-types';
 
 const t = (x: string) => x;
 interface SEOProps {
@@ -9,21 +11,36 @@ interface SEOProps {
 }
 
 const SEO: React.FC<SEOProps> = ({ title, description }) => {
-  const { site } = useStaticQuery(
+  const { site, meta } = useStaticQuery<GetSeoDataQuery>(
     graphql`
-      query {
+      query getSEOData {
         site {
           siteMetadata {
             siteUrl
             image
           }
         }
+        meta: file(name: { eq: "meta" }) {
+          childMarkdownRemark {
+            frontmatter {
+              el {
+                title
+                description
+              }
+              en {
+                title
+                description
+              }
+            }
+          }
+        }
       }
     `
   );
+  const translatedData = useTranslation(meta);
 
-  const siteName = t('siteMetadata.title');
-  const defaultDescription = description || t('siteMetadata.description');
+  const siteName = translatedData.title;
+  const defaultDescription = description || translatedData.description;
   const host = site.siteMetadata.siteUrl;
   return (
     <Helmet

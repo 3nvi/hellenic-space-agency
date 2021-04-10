@@ -42,7 +42,7 @@ module.exports = {
         path: path.join(__dirname, `site`, `content`),
       },
     },
-    {
+    process.env.NODE_ENV === 'development' && {
       resolve: `gatsby-plugin-graphql-codegen`,
       options: {
         fileName: `./graphql-types.ts`,
@@ -52,7 +52,6 @@ module.exports = {
         },
       },
     },
-    `gatsby-transformer-yaml`,
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     {
@@ -105,5 +104,5 @@ module.exports = {
         },
       },
     },
-  ],
+  ].filter(Boolean),
 };

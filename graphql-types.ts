@@ -698,11 +698,17 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark'
   | 'childrenMarkdownRemark___id'
   | 'childrenMarkdownRemark___frontmatter___title'
+  | 'childrenMarkdownRemark___frontmatter___en___title'
+  | 'childrenMarkdownRemark___frontmatter___en___description'
+  | 'childrenMarkdownRemark___frontmatter___en___keywords'
   | 'childrenMarkdownRemark___frontmatter___en___mainTitle'
   | 'childrenMarkdownRemark___frontmatter___en___mainSubtitle'
   | 'childrenMarkdownRemark___frontmatter___en___membersSubtitle'
   | 'childrenMarkdownRemark___frontmatter___en___content'
   | 'childrenMarkdownRemark___frontmatter___en___team'
+  | 'childrenMarkdownRemark___frontmatter___el___title'
+  | 'childrenMarkdownRemark___frontmatter___el___description'
+  | 'childrenMarkdownRemark___frontmatter___el___keywords'
   | 'childrenMarkdownRemark___frontmatter___el___mainTitle'
   | 'childrenMarkdownRemark___frontmatter___el___mainSubtitle'
   | 'childrenMarkdownRemark___frontmatter___el___membersSubtitle'
@@ -762,11 +768,17 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___internal___type'
   | 'childMarkdownRemark___id'
   | 'childMarkdownRemark___frontmatter___title'
+  | 'childMarkdownRemark___frontmatter___en___title'
+  | 'childMarkdownRemark___frontmatter___en___description'
+  | 'childMarkdownRemark___frontmatter___en___keywords'
   | 'childMarkdownRemark___frontmatter___en___mainTitle'
   | 'childMarkdownRemark___frontmatter___en___mainSubtitle'
   | 'childMarkdownRemark___frontmatter___en___membersSubtitle'
   | 'childMarkdownRemark___frontmatter___en___content'
   | 'childMarkdownRemark___frontmatter___en___team'
+  | 'childMarkdownRemark___frontmatter___el___title'
+  | 'childMarkdownRemark___frontmatter___el___description'
+  | 'childMarkdownRemark___frontmatter___el___keywords'
   | 'childMarkdownRemark___frontmatter___el___mainTitle'
   | 'childMarkdownRemark___frontmatter___el___mainSubtitle'
   | 'childMarkdownRemark___frontmatter___el___membersSubtitle'
@@ -1629,6 +1641,9 @@ export type MarkdownRemarkEdge = {
 export type MarkdownRemarkFieldsEnum =
   | 'id'
   | 'frontmatter___title'
+  | 'frontmatter___en___title'
+  | 'frontmatter___en___description'
+  | 'frontmatter___en___keywords'
   | 'frontmatter___en___mainTitle'
   | 'frontmatter___en___mainSubtitle'
   | 'frontmatter___en___membersSubtitle'
@@ -1676,6 +1691,9 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___mainBackground___childrenMarkdownRemark'
   | 'frontmatter___en___mainBackground___id'
   | 'frontmatter___en___mainBackground___children'
+  | 'frontmatter___el___title'
+  | 'frontmatter___el___description'
+  | 'frontmatter___el___keywords'
   | 'frontmatter___el___mainTitle'
   | 'frontmatter___el___mainSubtitle'
   | 'frontmatter___el___membersSubtitle'
@@ -1815,6 +1833,9 @@ export type MarkdownRemarkFrontmatter = {
 };
 
 export type MarkdownRemarkFrontmatterEl = {
+  title: Maybe<Scalars['String']>;
+  description: Maybe<Scalars['String']>;
+  keywords: Maybe<Scalars['String']>;
   mainTitle: Maybe<Scalars['String']>;
   mainSubtitle: Maybe<Scalars['String']>;
   membersSubtitle: Maybe<Scalars['String']>;
@@ -1823,6 +1844,9 @@ export type MarkdownRemarkFrontmatterEl = {
 };
 
 export type MarkdownRemarkFrontmatterElFilterInput = {
+  title: Maybe<StringQueryOperatorInput>;
+  description: Maybe<StringQueryOperatorInput>;
+  keywords: Maybe<StringQueryOperatorInput>;
   mainTitle: Maybe<StringQueryOperatorInput>;
   mainSubtitle: Maybe<StringQueryOperatorInput>;
   membersSubtitle: Maybe<StringQueryOperatorInput>;
@@ -1851,6 +1875,9 @@ export type MarkdownRemarkFrontmatterElTeamFilterListInput = {
 };
 
 export type MarkdownRemarkFrontmatterEn = {
+  title: Maybe<Scalars['String']>;
+  description: Maybe<Scalars['String']>;
+  keywords: Maybe<Scalars['String']>;
   mainTitle: Maybe<Scalars['String']>;
   mainSubtitle: Maybe<Scalars['String']>;
   membersSubtitle: Maybe<Scalars['String']>;
@@ -1860,6 +1887,9 @@ export type MarkdownRemarkFrontmatterEn = {
 };
 
 export type MarkdownRemarkFrontmatterEnFilterInput = {
+  title: Maybe<StringQueryOperatorInput>;
+  description: Maybe<StringQueryOperatorInput>;
+  keywords: Maybe<StringQueryOperatorInput>;
   mainTitle: Maybe<StringQueryOperatorInput>;
   mainSubtitle: Maybe<StringQueryOperatorInput>;
   membersSubtitle: Maybe<StringQueryOperatorInput>;
@@ -2748,7 +2778,6 @@ export type SitePageFieldsEnum =
   | 'pluginCreator___pluginOptions___fileName'
   | 'pluginCreator___pluginOptions___codegenConfig___avoidOptionals'
   | 'pluginCreator___pluginOptions___codegenConfig___maybeValue'
-  | 'pluginCreator___pluginOptions___documentPaths'
   | 'pluginCreator___pluginOptions___base64Width'
   | 'pluginCreator___pluginOptions___stripMetadata'
   | 'pluginCreator___pluginOptions___defaultQuality'
@@ -3000,7 +3029,6 @@ export type SitePluginFieldsEnum =
   | 'pluginOptions___fileName'
   | 'pluginOptions___codegenConfig___avoidOptionals'
   | 'pluginOptions___codegenConfig___maybeValue'
-  | 'pluginOptions___documentPaths'
   | 'pluginOptions___base64Width'
   | 'pluginOptions___stripMetadata'
   | 'pluginOptions___defaultQuality'
@@ -3159,7 +3187,6 @@ export type SitePluginPluginOptions = {
   path: Maybe<Scalars['String']>;
   fileName: Maybe<Scalars['String']>;
   codegenConfig: Maybe<SitePluginPluginOptionsCodegenConfig>;
-  documentPaths: Maybe<Array<Maybe<Scalars['String']>>>;
   base64Width: Maybe<Scalars['Int']>;
   stripMetadata: Maybe<Scalars['Boolean']>;
   defaultQuality: Maybe<Scalars['Int']>;
@@ -3219,7 +3246,6 @@ export type SitePluginPluginOptionsFilterInput = {
   path: Maybe<StringQueryOperatorInput>;
   fileName: Maybe<StringQueryOperatorInput>;
   codegenConfig: Maybe<SitePluginPluginOptionsCodegenConfigFilterInput>;
-  documentPaths: Maybe<StringQueryOperatorInput>;
   base64Width: Maybe<IntQueryOperatorInput>;
   stripMetadata: Maybe<BooleanQueryOperatorInput>;
   defaultQuality: Maybe<IntQueryOperatorInput>;
@@ -3389,23 +3415,31 @@ export type Unnamed_3_Query = {
   }>;
 };
 
+export type GetSeoDataQueryVariables = Exact<{ [key: string]: never }>;
+
+export type GetSeoDataQuery = {
+  site: Maybe<{ siteMetadata: Maybe<Pick<SiteSiteMetadata, 'siteUrl' | 'image'>> }>;
+  meta: Maybe<{
+    childMarkdownRemark: Maybe<{
+      frontmatter: Maybe<{
+        el: Maybe<Pick<MarkdownRemarkFrontmatterEl, 'title' | 'description'>>;
+        en: Maybe<Pick<MarkdownRemarkFrontmatterEn, 'title' | 'description'>>;
+      }>;
+    }>;
+  }>;
+};
+
 export type Unnamed_4_QueryVariables = Exact<{ [key: string]: never }>;
 
 export type Unnamed_4_Query = {
-  site: Maybe<{ siteMetadata: Maybe<Pick<SiteSiteMetadata, 'siteUrl' | 'image'>> }>;
-};
-
-export type Unnamed_5_QueryVariables = Exact<{ [key: string]: never }>;
-
-export type Unnamed_5_Query = {
   desktop: Maybe<{
     childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }>;
   }>;
 };
 
-export type Unnamed_6_QueryVariables = Exact<{ [key: string]: never }>;
+export type Unnamed_5_QueryVariables = Exact<{ [key: string]: never }>;
 
-export type Unnamed_6_Query = {
+export type Unnamed_5_Query = {
   desktop: Maybe<{
     childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }>;
   }>;

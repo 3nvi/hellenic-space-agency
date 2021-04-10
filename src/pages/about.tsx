@@ -6,11 +6,13 @@ import { graphql } from 'gatsby';
 import BackgroundImage from 'gatsby-background-image';
 import Markdown from '../components/Markdown';
 import { AboutPageQuery, MarkdownRemarkFrontmatterElTeam } from '../../graphql-types';
+import useTranslation from '../hooks/useTranslation';
 
-const About: React.FC<Page<AboutPageQuery>> = ({ data, pageContext: { lang } }) => {
+const About: React.FC<Page<AboutPageQuery>> = ({ data }) => {
+  const translatedData = useTranslation(data.about);
   return (
     <Layout>
-      <SEO title={data.about.childMarkdownRemark.frontmatter['en'].mainTitle} />
+      <SEO title={translatedData.mainTitle} />
       <BackgroundImage
         Tag="section"
         className="banner"
@@ -20,23 +22,23 @@ const About: React.FC<Page<AboutPageQuery>> = ({ data, pageContext: { lang } }) 
       >
         <div className="content flex-center">
           <header className="major">
-            <h2>{data.about.childMarkdownRemark.frontmatter[lang].mainTitle}</h2>
-            <p>{data.about.childMarkdownRemark.frontmatter[lang].mainSubtitle}</p>
+            <h2>{translatedData.mainTitle}</h2>
+            <p>{translatedData.mainSubtitle}</p>
           </header>
         </div>
       </BackgroundImage>
       <main className="wrapper style1">
         <div className="container">
           <section id="content">
-            <Markdown>{data.about.childMarkdownRemark.frontmatter[lang].content}</Markdown>
+            <Markdown>{translatedData.content}</Markdown>
           </section>
           <article>
             <div style={{ margin: '5em auto' }}>
               <header className="major">
-                <h2>{data.about.childMarkdownRemark.frontmatter[lang].membersSubtitle}</h2>
+                <h2>{translatedData.membersSubtitle}</h2>
               </header>
             </div>
-            {data.about.childMarkdownRemark.frontmatter[lang].team.map(member => (
+            {translatedData.team.map(member => (
               <Profile key={member.name} member={member as MarkdownRemarkFrontmatterElTeam} />
             ))}
           </article>

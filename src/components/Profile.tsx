@@ -1,12 +1,15 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
+import commonTranslations from '../../i18n.common.json';
 import { MarkdownRemarkFrontmatterElTeam } from '../../graphql-types';
+import usePageContext from '../hooks/usePageContext';
 
 interface ProfileProps {
   member: MarkdownRemarkFrontmatterElTeam;
 }
 
 const Profile: React.FC<ProfileProps> = ({ member }) => {
+  const { lang } = usePageContext();
   return (
     <React.Fragment>
       <Helmet>
@@ -44,7 +47,7 @@ const Profile: React.FC<ProfileProps> = ({ member }) => {
           </header>
           <p>{member.bio}</p>
           <a href={member.link} target="_blank" rel="noopener noreferrer">
-            Learn more
+            {commonTranslations[lang as 'el' | 'en'].learnMore}
           </a>
         </div>
       </section>
