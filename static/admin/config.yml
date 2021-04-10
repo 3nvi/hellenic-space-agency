@@ -11,16 +11,16 @@ i18n:
 collections:
   - label: Pages
     name: pages
-    #    i18n: true
+    i18n: true
     extension: markdown
     files:
       - label: Site Metadata
         name: meta
         file: site/content/meta.md
-        #        i18n: true
+        i18n: true
         fields:
           - { label: Title, name: title, widget: string, i18n: true }
-          - { label: Description, name: description, widget: text }
+          - { label: Description, name: description, widget: text, i18n: true }
           - { label: Keywords, name: keywords, widget: string, i18n: true }
 
       - label: Landing Page
