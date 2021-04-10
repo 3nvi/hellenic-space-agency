@@ -215,7 +215,7 @@ en:
         and Administrative Support of Ministry of Finance, Greece (2013-2015)
         and remains an Associate Lawyer for the Agricultural Bank of Greece.
       avatar: /assets/giannakaki.jpg
-  mainBackground: /assets/jesuschristnymphiosnymfios-vci1190s_2_1024x1024-2x.jpg
+  mainBackground: /assets/pic07.jpg
 el:
   mainTitle: Σχετικά με το ΕΛ.ΚΕ.Δ
   mainSubtitle: Λειτουργικοί Σκοποί και Ανθρώπινο Δυναμικό
