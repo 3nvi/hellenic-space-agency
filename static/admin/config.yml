@@ -17,10 +17,10 @@ collections:
       - label: Site Metadata
         name: meta
         file: site/content/meta.md
-        i18n: true
+        i18n: false
         fields:
           - { label: Title, name: title, widget: string, i18n: true }
-          - { label: Description, name: description, widget: text, i18n: true }
+          - { label: Description, name: description, widget: text, i18n: false }
           - { label: Keywords, name: keywords, widget: string, i18n: true }
 
       - label: Landing Page
