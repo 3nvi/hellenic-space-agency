@@ -1,5 +1,5 @@
 import React from 'react';
-import { PageContext } from './src/context/PageContext';
+import PageContext from './src/context/PageContext';
 import config from './gatsby-config';
 
 export const onPreRenderHTML = ({ getHeadComponents, replaceHeadComponents }) => {
