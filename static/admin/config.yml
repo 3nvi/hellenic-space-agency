@@ -58,3 +58,20 @@ collections:
               - { label: Link, name: link, widget: string, i18n: true }
               - { label: Bio, name: bio, widget: text, i18n: true }
               - { label: Avatar, name: avatar, widget: image }
+
+      - label: Contact
+        name: contact
+        file: site/content/contact.md
+        i18n: true
+        fields:
+          - { label: Main Title, name: mainTitle, widget: string, i18n: true }
+          - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
+          - { label: Contact Form Title, name: contactFormTitle, widget: string, i18n: true }
+          - { label: Contact Form Subtitle, name: contactFormSubtitle, widget: string, i18n: true }
+          - { label: Address Label, name: addressLabel, widget: string, i18n: true }
+          - { label: Address, name: address, widget: string, i18n: true }
+          - { label: Form Success Message, name: formSuccessMessage, widget: string, i18n: true }
+          - { label: Form Submit Message, name: formSubmitMessage, widget: string, i18n: true }
+          - { label: Form Subject Label, name: formSubjectLabel, widget: string, i18n: true }
+          - { label: Form Email Label, name: formEmailLabel, widget: string, i18n: true }
+          - { label: Form Body Label, name: formBodyLabel, widget: string, i18n: true }
