@@ -59,7 +59,7 @@ collections:
               - { label: Bio, name: bio, widget: text, i18n: true }
               - { label: Avatar, name: avatar, widget: image }
 
-      - label: Contact
+      - label: Contact Page
         name: contact
         file: site/content/contact.md
         i18n: true
