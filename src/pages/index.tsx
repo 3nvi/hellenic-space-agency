@@ -7,12 +7,13 @@ import Three from '../components/Three';
 import Four from '../components/Four';
 import Five from '../components/Five';
 import SEO from '../components/SEO';
-const t = (x: string) => x;
+import useTranslatedHelpers from '../hooks/useTranslatedHelpers';
 
 const Home: React.FC = () => {
+  const { welcome } = useTranslatedHelpers();
   return (
     <Layout>
-      <SEO title={t('common.welcome')} />
+      <SEO title={welcome} />
       <Banner />
       <One />
       <Two />
