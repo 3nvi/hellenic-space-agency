@@ -59,6 +59,22 @@ collections:
               - { label: Bio, name: bio, widget: text, i18n: true }
               - { label: Avatar, name: avatar, widget: image }
 
+      - label: News Page
+        name: news
+        file: site/content/news.md
+        i18n: true
+        fields:
+          - { label: Main Title, name: mainTitle, widget: string, i18n: true }
+          - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
+          - label: News
+            name: news
+            widget: list
+            i18n: true
+            fields:
+              - { label: Title, name: title, widget: string, i18n: true }
+              - { label: Body, name: body, widget: markdown, i18n: true }
+              - { label: Date, name: date, widget: date, i18n: false }
+
       - label: Contact Page
         name: contact
         file: site/content/contact.md
