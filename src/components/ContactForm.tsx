@@ -1,10 +1,38 @@
 import React from 'react';
 import axios from 'axios';
 import Fade from 'react-reveal/Fade';
+import { graphql, useStaticQuery } from 'gatsby';
+import { ContactFormQuery } from '../../graphql-types';
+import useTranslation from '../hooks/useTranslation';
 
-const t = (x: string) => x;
 const ContactForm: React.FC = () => {
+  const data = useStaticQuery<ContactFormQuery>(graphql`
+    query ContactForm {
+      contactForm: file(name: { eq: "contact" }) {
+        childMarkdownRemark {
+          frontmatter {
+            el {
+              formSuccessMessage
+              formSubmitMessage
+              formSubjectLabel
+              formEmailLabel
+              formBodyLabel
+            }
+            en {
+              formSuccessMessage
+              formSubmitMessage
+              formSubjectLabel
+              formEmailLabel
+              formBodyLabel
+            }
+          }
+        }
+      }
+    }
+  `);
+
   const [isMessageSent, setMessageSent] = React.useState(false);
+  const translatedData = useTranslation(data.contactForm);
 
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
@@ -28,7 +56,7 @@ const ContactForm: React.FC = () => {
     <Fade duration={2500}>
       <div className="wrapper style2">
         <div className="container">
-          <p className="align-center">{t('contact.formSuccessMessage')}</p>
+          <p className="align-center">{translatedData.formSuccessMessage}</p>
         </div>
       </div>
     </Fade>
@@ -37,38 +65,38 @@ const ContactForm: React.FC = () => {
       <div className="row gtr-uniform gtr-50">
         <div className="col-6 col-12-xsmall">
           <label htmlFor="subject" className="visually-hidden">
-            {t('contact.formSubjectLabel')}
+            {translatedData.formSubjectLabel}
           </label>
           <input
             type="text"
             name="subject"
             id="subject"
-            placeholder={t('contact.formSubjectLabel')}
+            placeholder={translatedData.formSubjectLabel}
             required
             aria-required
           />
         </div>
         <div className="col-6 col-12-xsmall">
           <label htmlFor="email" className="visually-hidden">
-            {t('contact.formEmailLabel')}
+            {translatedData.formEmailLabel}
           </label>
           <input
             type="email"
             name="email"
             id="email"
-            placeholder={t('contact.formEmailLabel')}
+            placeholder={translatedData.formEmailLabel}
             required
             aria-required
           />
         </div>
         <div className="col-12">
           <label htmlFor="body" className="visually-hidden">
-            {t('contact.formBodyLabel')}
+            {translatedData.formBodyLabel}
           </label>
           <textarea
             name="body"
             id="body"
-            placeholder={t('contact.formBodyLabel')}
+            placeholder={translatedData.formBodyLabel}
             rows={6}
             required
             aria-required
@@ -78,7 +106,7 @@ const ContactForm: React.FC = () => {
           <input
             type="submit"
             name="submitBtn"
-            value={t('contact.formSubmitMessage')!}
+            value={translatedData.formSubmitMessage}
             className="primary fit"
           />
         </div>

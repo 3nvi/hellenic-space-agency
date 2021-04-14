@@ -2,24 +2,27 @@ import React from 'react';
 import Layout from '../components/Layout';
 import SEO from '../components/SEO';
 import ContactForm from '../components/ContactForm';
-const t = (x: string) => x;
+import { graphql } from 'gatsby';
+import useTranslation from '../hooks/useTranslation';
+import { ContactPageQuery } from '../../graphql-types';
 
-const Contact: React.FC = () => {
+const Contact: React.FC<Page<ContactPageQuery>> = ({ data }) => {
+  const translatedData = useTranslation(data.contact);
   return (
     <Layout isHeaderSticky>
-      <SEO title={t('contact.mainTitle')} />
+      <SEO title={translatedData.mainTitle} />
 
       <main className="wrapper style1">
         <div className="container">
           <header className="major">
-            <h2>{t('contact.mainTitle')}</h2>
-            <p>{t('contact.mainSubtitle')}</p>
+            <h2>{translatedData.mainTitle}</h2>
+            <p>{translatedData.mainSubtitle}</p>
           </header>
           <div className="row gtr-150 aln-center">
             <div className="col-6 col-12-medium ">
               <section id="sidebar">
-                <h3>{t('contact.addressLabel')}</h3>
-                <address>{t('contact.address')}</address>
+                <h3>{translatedData.addressLabel}</h3>
+                <address>{translatedData.address}</address>
                 <p>
                   <a href="mailto:info@hsc.gov.gr" rel="noopener noreferrer">
                     info@hsc.gov.gr
@@ -39,8 +42,8 @@ const Contact: React.FC = () => {
             </div>
             <div className="col-6 col-12-medium ">
               <section>
-                <h3>{t('contact.contactFormTitle')}</h3>
-                <p>{t('contact.contactFormSubtitle')}</p>
+                <h3>{translatedData.contactFormTitle}</h3>
+                <p>{translatedData.contactFormSubtitle}</p>
                 <ContactForm />
               </section>
             </div>
@@ -50,5 +53,32 @@ const Contact: React.FC = () => {
     </Layout>
   );
 };
+
+export const query = graphql`
+  query ContactPage {
+    contact: file(name: { eq: "contact" }) {
+      childMarkdownRemark {
+        frontmatter {
+          el {
+            mainTitle
+            mainSubtitle
+            contactFormTitle
+            contactFormSubtitle
+            addressLabel
+            address
+          }
+          en {
+            mainTitle
+            mainSubtitle
+            contactFormTitle
+            contactFormSubtitle
+            addressLabel
+            address
+          }
+        }
+      }
+    }
+  }
+`;
 
 export default Contact;
