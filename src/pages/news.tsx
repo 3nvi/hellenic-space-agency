@@ -12,7 +12,6 @@ const News: React.FC<Page<NewsPageQuery>> = ({ data }) => {
   return (
     <Layout isHeaderSticky>
       <SEO title={translatedData.mainTitle} />
-
       <main className="wrapper style1">
         <div className="container">
           <article className="row">

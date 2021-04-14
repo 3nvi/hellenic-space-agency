@@ -3628,6 +3628,19 @@ export type Unnamed_5_Query = {
   }>;
 };
 
+export type NotFoundPageQueryVariables = Exact<{ [key: string]: never }>;
+
+export type NotFoundPageQuery = {
+  notFound: Maybe<{
+    childMarkdownRemark: Maybe<{
+      frontmatter: Maybe<{
+        el: Maybe<Pick<MarkdownRemarkFrontmatterEl, 'mainTitle' | 'mainSubtitle'>>;
+        en: Maybe<Pick<MarkdownRemarkFrontmatterEn, 'mainTitle' | 'mainSubtitle'>>;
+      }>;
+    }>;
+  }>;
+};
+
 export type AboutPageQueryVariables = Exact<{ [key: string]: never }>;
 
 export type AboutPageQuery = {

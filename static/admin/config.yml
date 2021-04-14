@@ -91,3 +91,11 @@ collections:
           - { label: Form Subject Label, name: formSubjectLabel, widget: string, i18n: true }
           - { label: Form Email Label, name: formEmailLabel, widget: string, i18n: true }
           - { label: Form Body Label, name: formBodyLabel, widget: string, i18n: true }
+
+      - label: 404 Page
+        name: notFound
+        file: site/content/404.md
+        i18n: true
+        fields:
+          - { label: Main Title, name: mainTitle, widget: string, i18n: true }
+          - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
