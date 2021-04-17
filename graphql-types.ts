@@ -700,10 +700,7 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___title'
   | 'childrenMarkdownRemark___frontmatter___en___mainTitle'
   | 'childrenMarkdownRemark___frontmatter___en___mainSubtitle'
-  | 'childrenMarkdownRemark___frontmatter___en___items'
-  | 'childrenMarkdownRemark___frontmatter___en___title'
-  | 'childrenMarkdownRemark___frontmatter___en___description'
-  | 'childrenMarkdownRemark___frontmatter___en___keywords'
+  | 'childrenMarkdownRemark___frontmatter___en___content'
   | 'childrenMarkdownRemark___frontmatter___en___contactFormTitle'
   | 'childrenMarkdownRemark___frontmatter___en___contactFormSubtitle'
   | 'childrenMarkdownRemark___frontmatter___en___addressLabel'
@@ -714,14 +711,14 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___en___formEmailLabel'
   | 'childrenMarkdownRemark___frontmatter___en___formBodyLabel'
   | 'childrenMarkdownRemark___frontmatter___en___membersSubtitle'
-  | 'childrenMarkdownRemark___frontmatter___en___content'
   | 'childrenMarkdownRemark___frontmatter___en___team'
+  | 'childrenMarkdownRemark___frontmatter___en___title'
+  | 'childrenMarkdownRemark___frontmatter___en___description'
+  | 'childrenMarkdownRemark___frontmatter___en___keywords'
+  | 'childrenMarkdownRemark___frontmatter___en___items'
   | 'childrenMarkdownRemark___frontmatter___el___mainTitle'
   | 'childrenMarkdownRemark___frontmatter___el___mainSubtitle'
-  | 'childrenMarkdownRemark___frontmatter___el___items'
-  | 'childrenMarkdownRemark___frontmatter___el___title'
-  | 'childrenMarkdownRemark___frontmatter___el___description'
-  | 'childrenMarkdownRemark___frontmatter___el___keywords'
+  | 'childrenMarkdownRemark___frontmatter___el___content'
   | 'childrenMarkdownRemark___frontmatter___el___contactFormTitle'
   | 'childrenMarkdownRemark___frontmatter___el___contactFormSubtitle'
   | 'childrenMarkdownRemark___frontmatter___el___addressLabel'
@@ -732,8 +729,11 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___el___formEmailLabel'
   | 'childrenMarkdownRemark___frontmatter___el___formBodyLabel'
   | 'childrenMarkdownRemark___frontmatter___el___membersSubtitle'
-  | 'childrenMarkdownRemark___frontmatter___el___content'
   | 'childrenMarkdownRemark___frontmatter___el___team'
+  | 'childrenMarkdownRemark___frontmatter___el___title'
+  | 'childrenMarkdownRemark___frontmatter___el___description'
+  | 'childrenMarkdownRemark___frontmatter___el___keywords'
+  | 'childrenMarkdownRemark___frontmatter___el___items'
   | 'childrenMarkdownRemark___excerpt'
   | 'childrenMarkdownRemark___rawMarkdownBody'
   | 'childrenMarkdownRemark___fileAbsolutePath'
@@ -790,10 +790,7 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___title'
   | 'childMarkdownRemark___frontmatter___en___mainTitle'
   | 'childMarkdownRemark___frontmatter___en___mainSubtitle'
-  | 'childMarkdownRemark___frontmatter___en___items'
-  | 'childMarkdownRemark___frontmatter___en___title'
-  | 'childMarkdownRemark___frontmatter___en___description'
-  | 'childMarkdownRemark___frontmatter___en___keywords'
+  | 'childMarkdownRemark___frontmatter___en___content'
   | 'childMarkdownRemark___frontmatter___en___contactFormTitle'
   | 'childMarkdownRemark___frontmatter___en___contactFormSubtitle'
   | 'childMarkdownRemark___frontmatter___en___addressLabel'
@@ -804,14 +801,14 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___en___formEmailLabel'
   | 'childMarkdownRemark___frontmatter___en___formBodyLabel'
   | 'childMarkdownRemark___frontmatter___en___membersSubtitle'
-  | 'childMarkdownRemark___frontmatter___en___content'
   | 'childMarkdownRemark___frontmatter___en___team'
+  | 'childMarkdownRemark___frontmatter___en___title'
+  | 'childMarkdownRemark___frontmatter___en___description'
+  | 'childMarkdownRemark___frontmatter___en___keywords'
+  | 'childMarkdownRemark___frontmatter___en___items'
   | 'childMarkdownRemark___frontmatter___el___mainTitle'
   | 'childMarkdownRemark___frontmatter___el___mainSubtitle'
-  | 'childMarkdownRemark___frontmatter___el___items'
-  | 'childMarkdownRemark___frontmatter___el___title'
-  | 'childMarkdownRemark___frontmatter___el___description'
-  | 'childMarkdownRemark___frontmatter___el___keywords'
+  | 'childMarkdownRemark___frontmatter___el___content'
   | 'childMarkdownRemark___frontmatter___el___contactFormTitle'
   | 'childMarkdownRemark___frontmatter___el___contactFormSubtitle'
   | 'childMarkdownRemark___frontmatter___el___addressLabel'
@@ -822,8 +819,11 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___el___formEmailLabel'
   | 'childMarkdownRemark___frontmatter___el___formBodyLabel'
   | 'childMarkdownRemark___frontmatter___el___membersSubtitle'
-  | 'childMarkdownRemark___frontmatter___el___content'
   | 'childMarkdownRemark___frontmatter___el___team'
+  | 'childMarkdownRemark___frontmatter___el___title'
+  | 'childMarkdownRemark___frontmatter___el___description'
+  | 'childMarkdownRemark___frontmatter___el___keywords'
+  | 'childMarkdownRemark___frontmatter___el___items'
   | 'childMarkdownRemark___excerpt'
   | 'childMarkdownRemark___rawMarkdownBody'
   | 'childMarkdownRemark___fileAbsolutePath'
@@ -1683,13 +1683,7 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___title'
   | 'frontmatter___en___mainTitle'
   | 'frontmatter___en___mainSubtitle'
-  | 'frontmatter___en___items'
-  | 'frontmatter___en___items___title'
-  | 'frontmatter___en___items___body'
-  | 'frontmatter___en___items___date'
-  | 'frontmatter___en___title'
-  | 'frontmatter___en___description'
-  | 'frontmatter___en___keywords'
+  | 'frontmatter___en___content'
   | 'frontmatter___en___contactFormTitle'
   | 'frontmatter___en___contactFormSubtitle'
   | 'frontmatter___en___addressLabel'
@@ -1700,7 +1694,6 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___formEmailLabel'
   | 'frontmatter___en___formBodyLabel'
   | 'frontmatter___en___membersSubtitle'
-  | 'frontmatter___en___content'
   | 'frontmatter___en___team'
   | 'frontmatter___en___team___link'
   | 'frontmatter___en___team___name'
@@ -1744,15 +1737,16 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___mainBackground___childrenMarkdownRemark'
   | 'frontmatter___en___mainBackground___id'
   | 'frontmatter___en___mainBackground___children'
+  | 'frontmatter___en___title'
+  | 'frontmatter___en___description'
+  | 'frontmatter___en___keywords'
+  | 'frontmatter___en___items'
+  | 'frontmatter___en___items___title'
+  | 'frontmatter___en___items___body'
+  | 'frontmatter___en___items___date'
   | 'frontmatter___el___mainTitle'
   | 'frontmatter___el___mainSubtitle'
-  | 'frontmatter___el___items'
-  | 'frontmatter___el___items___title'
-  | 'frontmatter___el___items___body'
-  | 'frontmatter___el___items___date'
-  | 'frontmatter___el___title'
-  | 'frontmatter___el___description'
-  | 'frontmatter___el___keywords'
+  | 'frontmatter___el___content'
   | 'frontmatter___el___contactFormTitle'
   | 'frontmatter___el___contactFormSubtitle'
   | 'frontmatter___el___addressLabel'
@@ -1763,12 +1757,18 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___el___formEmailLabel'
   | 'frontmatter___el___formBodyLabel'
   | 'frontmatter___el___membersSubtitle'
-  | 'frontmatter___el___content'
   | 'frontmatter___el___team'
   | 'frontmatter___el___team___name'
   | 'frontmatter___el___team___role'
   | 'frontmatter___el___team___link'
   | 'frontmatter___el___team___bio'
+  | 'frontmatter___el___title'
+  | 'frontmatter___el___description'
+  | 'frontmatter___el___keywords'
+  | 'frontmatter___el___items'
+  | 'frontmatter___el___items___title'
+  | 'frontmatter___el___items___body'
+  | 'frontmatter___el___items___date'
   | 'excerpt'
   | 'rawMarkdownBody'
   | 'fileAbsolutePath'
@@ -1901,10 +1901,7 @@ export type MarkdownRemarkFrontmatter = {
 export type MarkdownRemarkFrontmatterEl = {
   mainTitle: Maybe<Scalars['String']>;
   mainSubtitle: Maybe<Scalars['String']>;
-  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElItems>>>;
-  title: Maybe<Scalars['String']>;
-  description: Maybe<Scalars['String']>;
-  keywords: Maybe<Scalars['String']>;
+  content: Maybe<Scalars['String']>;
   contactFormTitle: Maybe<Scalars['String']>;
   contactFormSubtitle: Maybe<Scalars['String']>;
   addressLabel: Maybe<Scalars['String']>;
@@ -1915,17 +1912,17 @@ export type MarkdownRemarkFrontmatterEl = {
   formEmailLabel: Maybe<Scalars['String']>;
   formBodyLabel: Maybe<Scalars['String']>;
   membersSubtitle: Maybe<Scalars['String']>;
-  content: Maybe<Scalars['String']>;
   team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElTeam>>>;
+  title: Maybe<Scalars['String']>;
+  description: Maybe<Scalars['String']>;
+  keywords: Maybe<Scalars['String']>;
+  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElItems>>>;
 };
 
 export type MarkdownRemarkFrontmatterElFilterInput = {
   mainTitle: Maybe<StringQueryOperatorInput>;
   mainSubtitle: Maybe<StringQueryOperatorInput>;
-  items: Maybe<MarkdownRemarkFrontmatterElItemsFilterListInput>;
-  title: Maybe<StringQueryOperatorInput>;
-  description: Maybe<StringQueryOperatorInput>;
-  keywords: Maybe<StringQueryOperatorInput>;
+  content: Maybe<StringQueryOperatorInput>;
   contactFormTitle: Maybe<StringQueryOperatorInput>;
   contactFormSubtitle: Maybe<StringQueryOperatorInput>;
   addressLabel: Maybe<StringQueryOperatorInput>;
@@ -1936,8 +1933,11 @@ export type MarkdownRemarkFrontmatterElFilterInput = {
   formEmailLabel: Maybe<StringQueryOperatorInput>;
   formBodyLabel: Maybe<StringQueryOperatorInput>;
   membersSubtitle: Maybe<StringQueryOperatorInput>;
-  content: Maybe<StringQueryOperatorInput>;
   team: Maybe<MarkdownRemarkFrontmatterElTeamFilterListInput>;
+  title: Maybe<StringQueryOperatorInput>;
+  description: Maybe<StringQueryOperatorInput>;
+  keywords: Maybe<StringQueryOperatorInput>;
+  items: Maybe<MarkdownRemarkFrontmatterElItemsFilterListInput>;
 };
 
 export type MarkdownRemarkFrontmatterElItems = {
@@ -1986,10 +1986,7 @@ export type MarkdownRemarkFrontmatterElTeamFilterListInput = {
 export type MarkdownRemarkFrontmatterEn = {
   mainTitle: Maybe<Scalars['String']>;
   mainSubtitle: Maybe<Scalars['String']>;
-  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnItems>>>;
-  title: Maybe<Scalars['String']>;
-  description: Maybe<Scalars['String']>;
-  keywords: Maybe<Scalars['String']>;
+  content: Maybe<Scalars['String']>;
   contactFormTitle: Maybe<Scalars['String']>;
   contactFormSubtitle: Maybe<Scalars['String']>;
   addressLabel: Maybe<Scalars['String']>;
@@ -2000,18 +1997,18 @@ export type MarkdownRemarkFrontmatterEn = {
   formEmailLabel: Maybe<Scalars['String']>;
   formBodyLabel: Maybe<Scalars['String']>;
   membersSubtitle: Maybe<Scalars['String']>;
-  content: Maybe<Scalars['String']>;
   team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnTeam>>>;
   mainBackground: Maybe<File>;
+  title: Maybe<Scalars['String']>;
+  description: Maybe<Scalars['String']>;
+  keywords: Maybe<Scalars['String']>;
+  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnItems>>>;
 };
 
 export type MarkdownRemarkFrontmatterEnFilterInput = {
   mainTitle: Maybe<StringQueryOperatorInput>;
   mainSubtitle: Maybe<StringQueryOperatorInput>;
-  items: Maybe<MarkdownRemarkFrontmatterEnItemsFilterListInput>;
-  title: Maybe<StringQueryOperatorInput>;
-  description: Maybe<StringQueryOperatorInput>;
-  keywords: Maybe<StringQueryOperatorInput>;
+  content: Maybe<StringQueryOperatorInput>;
   contactFormTitle: Maybe<StringQueryOperatorInput>;
   contactFormSubtitle: Maybe<StringQueryOperatorInput>;
   addressLabel: Maybe<StringQueryOperatorInput>;
@@ -2022,9 +2019,12 @@ export type MarkdownRemarkFrontmatterEnFilterInput = {
   formEmailLabel: Maybe<StringQueryOperatorInput>;
   formBodyLabel: Maybe<StringQueryOperatorInput>;
   membersSubtitle: Maybe<StringQueryOperatorInput>;
-  content: Maybe<StringQueryOperatorInput>;
   team: Maybe<MarkdownRemarkFrontmatterEnTeamFilterListInput>;
   mainBackground: Maybe<FileFilterInput>;
+  title: Maybe<StringQueryOperatorInput>;
+  description: Maybe<StringQueryOperatorInput>;
+  keywords: Maybe<StringQueryOperatorInput>;
+  items: Maybe<MarkdownRemarkFrontmatterEnItemsFilterListInput>;
 };
 
 export type MarkdownRemarkFrontmatterEnItems = {
@@ -2300,15 +2300,15 @@ export type QuerySitePageArgs = {
   internalComponentName: Maybe<StringQueryOperatorInput>;
   componentChunkName: Maybe<StringQueryOperatorInput>;
   matchPath: Maybe<StringQueryOperatorInput>;
+  id: Maybe<StringQueryOperatorInput>;
+  parent: Maybe<NodeFilterInput>;
+  children: Maybe<NodeFilterListInput>;
+  internal: Maybe<InternalFilterInput>;
   isCreatedByStatefulCreatePages: Maybe<BooleanQueryOperatorInput>;
   context: Maybe<SitePageContextFilterInput>;
   pluginCreator: Maybe<SitePluginFilterInput>;
   pluginCreatorId: Maybe<StringQueryOperatorInput>;
   componentPath: Maybe<StringQueryOperatorInput>;
-  id: Maybe<StringQueryOperatorInput>;
-  parent: Maybe<NodeFilterInput>;
-  children: Maybe<NodeFilterListInput>;
-  internal: Maybe<InternalFilterInput>;
 };
 
 export type QueryAllSitePageArgs = {
@@ -2723,15 +2723,15 @@ export type SitePage = Node & {
   internalComponentName: Scalars['String'];
   componentChunkName: Scalars['String'];
   matchPath: Maybe<Scalars['String']>;
+  id: Scalars['ID'];
+  parent: Maybe<Node>;
+  children: Array<Node>;
+  internal: Internal;
   isCreatedByStatefulCreatePages: Maybe<Scalars['Boolean']>;
   context: Maybe<SitePageContext>;
   pluginCreator: Maybe<SitePlugin>;
   pluginCreatorId: Maybe<Scalars['String']>;
   componentPath: Maybe<Scalars['String']>;
-  id: Scalars['ID'];
-  parent: Maybe<Node>;
-  children: Array<Node>;
-  internal: Internal;
 };
 
 export type SitePageConnection = {
@@ -2775,6 +2775,92 @@ export type SitePageFieldsEnum =
   | 'internalComponentName'
   | 'componentChunkName'
   | 'matchPath'
+  | 'id'
+  | 'parent___id'
+  | 'parent___parent___id'
+  | 'parent___parent___parent___id'
+  | 'parent___parent___parent___children'
+  | 'parent___parent___children'
+  | 'parent___parent___children___id'
+  | 'parent___parent___children___children'
+  | 'parent___parent___internal___content'
+  | 'parent___parent___internal___contentDigest'
+  | 'parent___parent___internal___description'
+  | 'parent___parent___internal___fieldOwners'
+  | 'parent___parent___internal___ignoreType'
+  | 'parent___parent___internal___mediaType'
+  | 'parent___parent___internal___owner'
+  | 'parent___parent___internal___type'
+  | 'parent___children'
+  | 'parent___children___id'
+  | 'parent___children___parent___id'
+  | 'parent___children___parent___children'
+  | 'parent___children___children'
+  | 'parent___children___children___id'
+  | 'parent___children___children___children'
+  | 'parent___children___internal___content'
+  | 'parent___children___internal___contentDigest'
+  | 'parent___children___internal___description'
+  | 'parent___children___internal___fieldOwners'
+  | 'parent___children___internal___ignoreType'
+  | 'parent___children___internal___mediaType'
+  | 'parent___children___internal___owner'
+  | 'parent___children___internal___type'
+  | 'parent___internal___content'
+  | 'parent___internal___contentDigest'
+  | 'parent___internal___description'
+  | 'parent___internal___fieldOwners'
+  | 'parent___internal___ignoreType'
+  | 'parent___internal___mediaType'
+  | 'parent___internal___owner'
+  | 'parent___internal___type'
+  | 'children'
+  | 'children___id'
+  | 'children___parent___id'
+  | 'children___parent___parent___id'
+  | 'children___parent___parent___children'
+  | 'children___parent___children'
+  | 'children___parent___children___id'
+  | 'children___parent___children___children'
+  | 'children___parent___internal___content'
+  | 'children___parent___internal___contentDigest'
+  | 'children___parent___internal___description'
+  | 'children___parent___internal___fieldOwners'
+  | 'children___parent___internal___ignoreType'
+  | 'children___parent___internal___mediaType'
+  | 'children___parent___internal___owner'
+  | 'children___parent___internal___type'
+  | 'children___children'
+  | 'children___children___id'
+  | 'children___children___parent___id'
+  | 'children___children___parent___children'
+  | 'children___children___children'
+  | 'children___children___children___id'
+  | 'children___children___children___children'
+  | 'children___children___internal___content'
+  | 'children___children___internal___contentDigest'
+  | 'children___children___internal___description'
+  | 'children___children___internal___fieldOwners'
+  | 'children___children___internal___ignoreType'
+  | 'children___children___internal___mediaType'
+  | 'children___children___internal___owner'
+  | 'children___children___internal___type'
+  | 'children___internal___content'
+  | 'children___internal___contentDigest'
+  | 'children___internal___description'
+  | 'children___internal___fieldOwners'
+  | 'children___internal___ignoreType'
+  | 'children___internal___mediaType'
+  | 'children___internal___owner'
+  | 'children___internal___type'
+  | 'internal___content'
+  | 'internal___contentDigest'
+  | 'internal___description'
+  | 'internal___fieldOwners'
+  | 'internal___ignoreType'
+  | 'internal___mediaType'
+  | 'internal___owner'
+  | 'internal___type'
   | 'isCreatedByStatefulCreatePages'
   | 'context___originalPath'
   | 'context___lang'
@@ -2893,93 +2979,7 @@ export type SitePageFieldsEnum =
   | 'pluginCreator___packageJson___peerDependencies___version'
   | 'pluginCreator___packageJson___keywords'
   | 'pluginCreatorId'
-  | 'componentPath'
-  | 'id'
-  | 'parent___id'
-  | 'parent___parent___id'
-  | 'parent___parent___parent___id'
-  | 'parent___parent___parent___children'
-  | 'parent___parent___children'
-  | 'parent___parent___children___id'
-  | 'parent___parent___children___children'
-  | 'parent___parent___internal___content'
-  | 'parent___parent___internal___contentDigest'
-  | 'parent___parent___internal___description'
-  | 'parent___parent___internal___fieldOwners'
-  | 'parent___parent___internal___ignoreType'
-  | 'parent___parent___internal___mediaType'
-  | 'parent___parent___internal___owner'
-  | 'parent___parent___internal___type'
-  | 'parent___children'
-  | 'parent___children___id'
-  | 'parent___children___parent___id'
-  | 'parent___children___parent___children'
-  | 'parent___children___children'
-  | 'parent___children___children___id'
-  | 'parent___children___children___children'
-  | 'parent___children___internal___content'
-  | 'parent___children___internal___contentDigest'
-  | 'parent___children___internal___description'
-  | 'parent___children___internal___fieldOwners'
-  | 'parent___children___internal___ignoreType'
-  | 'parent___children___internal___mediaType'
-  | 'parent___children___internal___owner'
-  | 'parent___children___internal___type'
-  | 'parent___internal___content'
-  | 'parent___internal___contentDigest'
-  | 'parent___internal___description'
-  | 'parent___internal___fieldOwners'
-  | 'parent___internal___ignoreType'
-  | 'parent___internal___mediaType'
-  | 'parent___internal___owner'
-  | 'parent___internal___type'
-  | 'children'
-  | 'children___id'
-  | 'children___parent___id'
-  | 'children___parent___parent___id'
-  | 'children___parent___parent___children'
-  | 'children___parent___children'
-  | 'children___parent___children___id'
-  | 'children___parent___children___children'
-  | 'children___parent___internal___content'
-  | 'children___parent___internal___contentDigest'
-  | 'children___parent___internal___description'
-  | 'children___parent___internal___fieldOwners'
-  | 'children___parent___internal___ignoreType'
-  | 'children___parent___internal___mediaType'
-  | 'children___parent___internal___owner'
-  | 'children___parent___internal___type'
-  | 'children___children'
-  | 'children___children___id'
-  | 'children___children___parent___id'
-  | 'children___children___parent___children'
-  | 'children___children___children'
-  | 'children___children___children___id'
-  | 'children___children___children___children'
-  | 'children___children___internal___content'
-  | 'children___children___internal___contentDigest'
-  | 'children___children___internal___description'
-  | 'children___children___internal___fieldOwners'
-  | 'children___children___internal___ignoreType'
-  | 'children___children___internal___mediaType'
-  | 'children___children___internal___owner'
-  | 'children___children___internal___type'
-  | 'children___internal___content'
-  | 'children___internal___contentDigest'
-  | 'children___internal___description'
-  | 'children___internal___fieldOwners'
-  | 'children___internal___ignoreType'
-  | 'children___internal___mediaType'
-  | 'children___internal___owner'
-  | 'children___internal___type'
-  | 'internal___content'
-  | 'internal___contentDigest'
-  | 'internal___description'
-  | 'internal___fieldOwners'
-  | 'internal___ignoreType'
-  | 'internal___mediaType'
-  | 'internal___owner'
-  | 'internal___type';
+  | 'componentPath';
 
 export type SitePageFilterInput = {
   path: Maybe<StringQueryOperatorInput>;
@@ -2987,15 +2987,15 @@ export type SitePageFilterInput = {
   internalComponentName: Maybe<StringQueryOperatorInput>;
   componentChunkName: Maybe<StringQueryOperatorInput>;
   matchPath: Maybe<StringQueryOperatorInput>;
+  id: Maybe<StringQueryOperatorInput>;
+  parent: Maybe<NodeFilterInput>;
+  children: Maybe<NodeFilterListInput>;
+  internal: Maybe<InternalFilterInput>;
   isCreatedByStatefulCreatePages: Maybe<BooleanQueryOperatorInput>;
   context: Maybe<SitePageContextFilterInput>;
   pluginCreator: Maybe<SitePluginFilterInput>;
   pluginCreatorId: Maybe<StringQueryOperatorInput>;
   componentPath: Maybe<StringQueryOperatorInput>;
-  id: Maybe<StringQueryOperatorInput>;
-  parent: Maybe<NodeFilterInput>;
-  children: Maybe<NodeFilterListInput>;
-  internal: Maybe<InternalFilterInput>;
 };
 
 export type SitePageGroupConnection = {
@@ -3682,6 +3682,19 @@ export type AboutPageQuery = {
             >;
           }
         >;
+      }>;
+    }>;
+  }>;
+};
+
+export type CareersPageQueryVariables = Exact<{ [key: string]: never }>;
+
+export type CareersPageQuery = {
+  careers: Maybe<{
+    childMarkdownRemark: Maybe<{
+      frontmatter: Maybe<{
+        el: Maybe<Pick<MarkdownRemarkFrontmatterEl, 'mainTitle' | 'mainSubtitle' | 'content'>>;
+        en: Maybe<Pick<MarkdownRemarkFrontmatterEn, 'mainTitle' | 'mainSubtitle' | 'content'>>;
       }>;
     }>;
   }>;

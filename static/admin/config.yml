@@ -75,6 +75,15 @@ collections:
               - { label: Body, name: body, widget: markdown, i18n: true }
               - { label: Date, name: date, widget: date, i18n: false }
 
+      - label: Careers Page
+        name: careers
+        file: site/content/careers.md
+        i18n: true
+        fields:
+          - { label: Main Title, name: mainTitle, widget: string, i18n: true }
+          - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
+          - { label: Content, name: content, widget: markdown, i18n: true }
+
       - label: Contact Page
         name: contact
         file: site/content/contact.md
