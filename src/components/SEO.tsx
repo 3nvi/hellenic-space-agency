@@ -4,7 +4,6 @@ import { Helmet } from 'react-helmet';
 import useTranslation from '../hooks/useTranslation';
 import { GetSeoDataQuery } from '../../graphql-types';
 
-const t = (x: string) => x;
 interface SEOProps {
   title: string;
   description?: string;
@@ -26,10 +25,12 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
               el {
                 title
                 description
+                keywords
               }
               en {
                 title
                 description
+                keywords
               }
             }
           }
@@ -49,7 +50,7 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
       meta={[
         {
           name: `keywords`,
-          content: t('siteMetadata.keywords'),
+          content: translatedData.keywords,
         },
         {
           name: `description`,

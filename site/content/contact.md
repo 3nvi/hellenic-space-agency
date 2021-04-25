@@ -1,5 +1,6 @@
 ---
 en:
+  navigationLabel: Contact
   mainTitle: Contact
   mainSubtitle: Get in touch with us
   contactFormTitle: Contact Form
@@ -13,6 +14,7 @@ en:
   formBodyLabel: Your message
 
 el:
+  navigationLabel: Επικοινωνία
   mainTitle: Επικοινωνία
   mainSubtitle: Ελάτε σε επαφή μαζί μας
   contactFormTitle: Φόρμα Επικοινωνίας

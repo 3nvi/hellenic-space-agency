@@ -1,5 +1,6 @@
 ---
 en:
+  navigationLabel: About
   mainTitle: About H.S.C.
   mainSubtitle: Mission and Governing Board
   membersSubtitle: Governing Board
@@ -217,6 +218,7 @@ en:
       avatar: /assets/giannakaki.jpg
   mainBackground: /assets/pic07.jpg
 el:
+  navigationLabel: Πληροφορίες
   mainTitle: Σχετικά με το ΕΛ.ΚΕ.Δ
   mainSubtitle: Λειτουργικοί Σκοποί και Ανθρώπινο Δυναμικό
   membersSubtitle: Διοικητικό Συμβούλιο

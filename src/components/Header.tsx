@@ -1,32 +1,8 @@
 import React from 'react';
 import Link from '../components/Link';
-import MobileMenu from './MobileMenu';
 import LanguagePicker from './LanguagePicker';
 import logo from '../assets/images/logo.png';
-
-const t = (x: string) => x;
-const menuLinks = [
-  {
-    id: 'home',
-    href: '/',
-  },
-  {
-    id: 'about',
-    href: '/about/',
-  },
-  {
-    id: 'news',
-    href: '/news/',
-  },
-  {
-    id: 'careers',
-    href: '/careers/',
-  },
-  {
-    id: 'contact',
-    href: '/contact/',
-  },
-];
+import Navigation from './Navigation';
 
 const Header: React.FC = () => {
   const [isMenuActive, setMenuActive] = React.useState(false);
@@ -53,7 +29,10 @@ const Header: React.FC = () => {
           </span>
         </div>
         <div id="navPanel">
-          <MobileMenu menuLinks={menuLinks} />
+          <div>
+            <LanguagePicker />
+            <Navigation orientation="vertical" />
+          </div>
         </div>
       </div>
 
@@ -62,17 +41,7 @@ const Header: React.FC = () => {
           <img src={logo} width={75} height={75} alt="HSC Logo" />
         </Link>
         <div className="navbar-menu">
-          <nav>
-            <ul style={{ display: 'flex', flex: 1 }}>
-              {menuLinks.map(link => (
-                <li key={link.href}>
-                  <Link to={link.href} activeClassName="active">
-                    {t(`header.links.${link.id}`)}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </nav>
+          <Navigation orientation="horizontal" />
         </div>
         <LanguagePicker />
       </header>

@@ -28,25 +28,38 @@ collections:
         file: site/content/landing.md
         i18n: true
         fields:
-          - { label: Title, name: title, widget: string }
-          - { label: Intro, name: intro, widget: text }
+          - { label: Navigation Label, name: navigationLabel, widget: string }
+          - { label: Title, name: mainTitle, widget: string }
+          - { label: Background Photo, name: mainBackground, widget: image, i18n: true }
+          - label: Mission
+            name: mission
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string, i18n: true }
+              - { label: Details, name: details, widget: text, i18n: true }
+              - { label: Background Photo, name: background, widget: image, i18n: true }
+          - { label: Goals Title, name: goalsTitle, widget: string, i18n: true }
+          - { label: Goals Subtitle, name: goalsSubtitle, widget: string, i18n: true }
+          - { label: Goals Background Photo, name: goalsbackground, widget: image, i18n: true }
           - label: Goal
             name: goal
             widget: list
             fields:
               - { label: Title, name: title, widget: string, i18n: true }
-              - { label: Description, name: description, widget: string, i18n: true }
+              - { label: Details, name: details, widget: text, i18n: true }
+          - { label: Lower Banner, name: banner, widget: markdown, i18n: true }
 
       - label: About Page
         name: about
         file: site/content/about.md
         i18n: true
         fields:
+          - { label: Navigation Label, name: navigationLabel, widget: string }
           - { label: Main Title, name: mainTitle, widget: string, i18n: true }
           - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
           - { label: Team Subtitle, name: membersSubtitle, widget: string, i18n: true }
           - { label: Content, name: content, widget: markdown, i18n: true }
-          - { label: Background Photo, name: mainBackground, widget: image, i18n: false }
+          - { label: Background Photo, name: mainBackground, widget: image, i18n: true }
           - label: Team
             name: team
             widget: list
@@ -64,6 +77,7 @@ collections:
         file: site/content/news.md
         i18n: true
         fields:
+          - { label: Navigation Label, name: navigationLabel, widget: string }
           - { label: Main Title, name: mainTitle, widget: string, i18n: true }
           - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
           - label: News
@@ -80,6 +94,7 @@ collections:
         file: site/content/careers.md
         i18n: true
         fields:
+          - { label: Navigation Label, name: navigationLabel, widget: string }
           - { label: Main Title, name: mainTitle, widget: string, i18n: true }
           - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
           - { label: Content, name: content, widget: markdown, i18n: true }
@@ -89,6 +104,7 @@ collections:
         file: site/content/contact.md
         i18n: true
         fields:
+          - { label: Navigation Label, name: navigationLabel, widget: string }
           - { label: Main Title, name: mainTitle, widget: string, i18n: true }
           - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
           - { label: Contact Form Title, name: contactFormTitle, widget: string, i18n: true }

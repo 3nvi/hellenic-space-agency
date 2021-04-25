@@ -1,5 +1,6 @@
 ---
 en:
+  navigationLabel: News
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
@@ -19,6 +20,7 @@ en:
       date: 2021-02-08T10:12:00.000Z
 
 el:
+  navigationLabel: Νέα
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:

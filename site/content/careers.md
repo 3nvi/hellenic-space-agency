@@ -1,5 +1,6 @@
 ---
 el:
+  navigationLabel: Θέσεις Εργασίας
   mainTitle: Θέσεις Εργασίας
   mainSubtitle: Ενημερωθείτε για τις ανοιχτές θέσεις στο ΕΛΚΕΔ
   content: >-
@@ -44,6 +45,7 @@ el:
     **Προθεσμία υποβολής: Δευτέρα 29 Μαρτίου 2021.**
 
 en:
+  navigationLabel: Careers
   mainTitle: Careers
   mainSubtitle: View the current job openings of HSC
   content: >-
