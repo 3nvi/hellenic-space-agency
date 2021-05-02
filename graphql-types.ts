@@ -18,6 +18,16 @@ export type Scalars = {
   JSON: any;
 };
 
+
+
+
+
+
+
+
+
+
+
 export type AvifOptions = {
   quality: Maybe<Scalars['Int']>;
   lossless: Maybe<Scalars['Boolean']>;
@@ -40,6 +50,7 @@ export type BooleanQueryOperatorInput = {
   in: Maybe<Array<Maybe<Scalars['Boolean']>>>;
   nin: Maybe<Array<Maybe<Scalars['Boolean']>>>;
 };
+
 
 export type DateQueryOperatorInput = {
   eq: Maybe<Scalars['Date']>;
@@ -94,12 +105,14 @@ export type Directory = Node & {
   internal: Internal;
 };
 
+
 export type DirectoryModifiedTimeArgs = {
   formatString: Maybe<Scalars['String']>;
   fromNow: Maybe<Scalars['Boolean']>;
   difference: Maybe<Scalars['String']>;
   locale: Maybe<Scalars['String']>;
 };
+
 
 export type DirectoryAccessTimeArgs = {
   formatString: Maybe<Scalars['String']>;
@@ -108,12 +121,14 @@ export type DirectoryAccessTimeArgs = {
   locale: Maybe<Scalars['String']>;
 };
 
+
 export type DirectoryChangeTimeArgs = {
   formatString: Maybe<Scalars['String']>;
   fromNow: Maybe<Scalars['Boolean']>;
   difference: Maybe<Scalars['String']>;
   locale: Maybe<Scalars['String']>;
 };
+
 
 export type DirectoryBirthTimeArgs = {
   formatString: Maybe<Scalars['String']>;
@@ -122,6 +137,7 @@ export type DirectoryBirthTimeArgs = {
   locale: Maybe<Scalars['String']>;
 };
 
+
 export type DirectoryAtimeArgs = {
   formatString: Maybe<Scalars['String']>;
   fromNow: Maybe<Scalars['Boolean']>;
@@ -129,12 +145,14 @@ export type DirectoryAtimeArgs = {
   locale: Maybe<Scalars['String']>;
 };
 
+
 export type DirectoryMtimeArgs = {
   formatString: Maybe<Scalars['String']>;
   fromNow: Maybe<Scalars['Boolean']>;
   difference: Maybe<Scalars['String']>;
   locale: Maybe<Scalars['String']>;
 };
+
 
 export type DirectoryCtimeArgs = {
   formatString: Maybe<Scalars['String']>;
@@ -152,9 +170,11 @@ export type DirectoryConnection = {
   group: Array<DirectoryGroupConnection>;
 };
 
+
 export type DirectoryConnectionDistinctArgs = {
   field: DirectoryFieldsEnum;
 };
+
 
 export type DirectoryConnectionGroupArgs = {
   skip: Maybe<Scalars['Int']>;
@@ -401,12 +421,14 @@ export type File = Node & {
   internal: Internal;
 };
 
+
 export type FileModifiedTimeArgs = {
   formatString: Maybe<Scalars['String']>;
   fromNow: Maybe<Scalars['Boolean']>;
   difference: Maybe<Scalars['String']>;
   locale: Maybe<Scalars['String']>;
 };
+
 
 export type FileAccessTimeArgs = {
   formatString: Maybe<Scalars['String']>;
@@ -415,12 +437,14 @@ export type FileAccessTimeArgs = {
   locale: Maybe<Scalars['String']>;
 };
 
+
 export type FileChangeTimeArgs = {
   formatString: Maybe<Scalars['String']>;
   fromNow: Maybe<Scalars['Boolean']>;
   difference: Maybe<Scalars['String']>;
   locale: Maybe<Scalars['String']>;
 };
+
 
 export type FileBirthTimeArgs = {
   formatString: Maybe<Scalars['String']>;
@@ -429,6 +453,7 @@ export type FileBirthTimeArgs = {
   locale: Maybe<Scalars['String']>;
 };
 
+
 export type FileAtimeArgs = {
   formatString: Maybe<Scalars['String']>;
   fromNow: Maybe<Scalars['Boolean']>;
@@ -436,12 +461,14 @@ export type FileAtimeArgs = {
   locale: Maybe<Scalars['String']>;
 };
 
+
 export type FileMtimeArgs = {
   formatString: Maybe<Scalars['String']>;
   fromNow: Maybe<Scalars['Boolean']>;
   difference: Maybe<Scalars['String']>;
   locale: Maybe<Scalars['String']>;
 };
+
 
 export type FileCtimeArgs = {
   formatString: Maybe<Scalars['String']>;
@@ -459,9 +486,11 @@ export type FileConnection = {
   group: Array<FileGroupConnection>;
 };
 
+
 export type FileConnectionDistinctArgs = {
   field: FileFieldsEnum;
 };
+
 
 export type FileConnectionGroupArgs = {
   skip: Maybe<Scalars['Int']>;
@@ -700,14 +729,8 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___title'
   | 'childrenMarkdownRemark___frontmatter___en___mainTitle'
   | 'childrenMarkdownRemark___frontmatter___en___mainSubtitle'
-  | 'childrenMarkdownRemark___frontmatter___en___title'
-  | 'childrenMarkdownRemark___frontmatter___en___description'
-  | 'childrenMarkdownRemark___frontmatter___en___keywords'
   | 'childrenMarkdownRemark___frontmatter___en___navigationLabel'
-  | 'childrenMarkdownRemark___frontmatter___en___items'
-  | 'childrenMarkdownRemark___frontmatter___en___membersSubtitle'
   | 'childrenMarkdownRemark___frontmatter___en___content'
-  | 'childrenMarkdownRemark___frontmatter___en___team'
   | 'childrenMarkdownRemark___frontmatter___en___contactFormTitle'
   | 'childrenMarkdownRemark___frontmatter___en___contactFormSubtitle'
   | 'childrenMarkdownRemark___frontmatter___en___addressLabel'
@@ -717,21 +740,21 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___en___formSubjectLabel'
   | 'childrenMarkdownRemark___frontmatter___en___formEmailLabel'
   | 'childrenMarkdownRemark___frontmatter___en___formBodyLabel'
+  | 'childrenMarkdownRemark___frontmatter___en___items'
+  | 'childrenMarkdownRemark___frontmatter___en___title'
+  | 'childrenMarkdownRemark___frontmatter___en___description'
+  | 'childrenMarkdownRemark___frontmatter___en___keywords'
   | 'childrenMarkdownRemark___frontmatter___en___missions'
   | 'childrenMarkdownRemark___frontmatter___en___goalsTitle'
   | 'childrenMarkdownRemark___frontmatter___en___goalsSubtitle'
   | 'childrenMarkdownRemark___frontmatter___en___goals'
   | 'childrenMarkdownRemark___frontmatter___en___banner'
+  | 'childrenMarkdownRemark___frontmatter___en___membersSubtitle'
+  | 'childrenMarkdownRemark___frontmatter___en___team'
   | 'childrenMarkdownRemark___frontmatter___el___mainTitle'
   | 'childrenMarkdownRemark___frontmatter___el___mainSubtitle'
-  | 'childrenMarkdownRemark___frontmatter___el___title'
-  | 'childrenMarkdownRemark___frontmatter___el___description'
-  | 'childrenMarkdownRemark___frontmatter___el___keywords'
   | 'childrenMarkdownRemark___frontmatter___el___navigationLabel'
-  | 'childrenMarkdownRemark___frontmatter___el___items'
-  | 'childrenMarkdownRemark___frontmatter___el___membersSubtitle'
   | 'childrenMarkdownRemark___frontmatter___el___content'
-  | 'childrenMarkdownRemark___frontmatter___el___team'
   | 'childrenMarkdownRemark___frontmatter___el___contactFormTitle'
   | 'childrenMarkdownRemark___frontmatter___el___contactFormSubtitle'
   | 'childrenMarkdownRemark___frontmatter___el___addressLabel'
@@ -741,11 +764,17 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___el___formSubjectLabel'
   | 'childrenMarkdownRemark___frontmatter___el___formEmailLabel'
   | 'childrenMarkdownRemark___frontmatter___el___formBodyLabel'
+  | 'childrenMarkdownRemark___frontmatter___el___items'
+  | 'childrenMarkdownRemark___frontmatter___el___title'
+  | 'childrenMarkdownRemark___frontmatter___el___description'
+  | 'childrenMarkdownRemark___frontmatter___el___keywords'
   | 'childrenMarkdownRemark___frontmatter___el___missions'
   | 'childrenMarkdownRemark___frontmatter___el___goalsTitle'
   | 'childrenMarkdownRemark___frontmatter___el___goalsSubtitle'
   | 'childrenMarkdownRemark___frontmatter___el___goals'
   | 'childrenMarkdownRemark___frontmatter___el___banner'
+  | 'childrenMarkdownRemark___frontmatter___el___membersSubtitle'
+  | 'childrenMarkdownRemark___frontmatter___el___team'
   | 'childrenMarkdownRemark___excerpt'
   | 'childrenMarkdownRemark___rawMarkdownBody'
   | 'childrenMarkdownRemark___fileAbsolutePath'
@@ -802,14 +831,8 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___title'
   | 'childMarkdownRemark___frontmatter___en___mainTitle'
   | 'childMarkdownRemark___frontmatter___en___mainSubtitle'
-  | 'childMarkdownRemark___frontmatter___en___title'
-  | 'childMarkdownRemark___frontmatter___en___description'
-  | 'childMarkdownRemark___frontmatter___en___keywords'
   | 'childMarkdownRemark___frontmatter___en___navigationLabel'
-  | 'childMarkdownRemark___frontmatter___en___items'
-  | 'childMarkdownRemark___frontmatter___en___membersSubtitle'
   | 'childMarkdownRemark___frontmatter___en___content'
-  | 'childMarkdownRemark___frontmatter___en___team'
   | 'childMarkdownRemark___frontmatter___en___contactFormTitle'
   | 'childMarkdownRemark___frontmatter___en___contactFormSubtitle'
   | 'childMarkdownRemark___frontmatter___en___addressLabel'
@@ -819,21 +842,21 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___en___formSubjectLabel'
   | 'childMarkdownRemark___frontmatter___en___formEmailLabel'
   | 'childMarkdownRemark___frontmatter___en___formBodyLabel'
+  | 'childMarkdownRemark___frontmatter___en___items'
+  | 'childMarkdownRemark___frontmatter___en___title'
+  | 'childMarkdownRemark___frontmatter___en___description'
+  | 'childMarkdownRemark___frontmatter___en___keywords'
   | 'childMarkdownRemark___frontmatter___en___missions'
   | 'childMarkdownRemark___frontmatter___en___goalsTitle'
   | 'childMarkdownRemark___frontmatter___en___goalsSubtitle'
   | 'childMarkdownRemark___frontmatter___en___goals'
   | 'childMarkdownRemark___frontmatter___en___banner'
+  | 'childMarkdownRemark___frontmatter___en___membersSubtitle'
+  | 'childMarkdownRemark___frontmatter___en___team'
   | 'childMarkdownRemark___frontmatter___el___mainTitle'
   | 'childMarkdownRemark___frontmatter___el___mainSubtitle'
-  | 'childMarkdownRemark___frontmatter___el___title'
-  | 'childMarkdownRemark___frontmatter___el___description'
-  | 'childMarkdownRemark___frontmatter___el___keywords'
   | 'childMarkdownRemark___frontmatter___el___navigationLabel'
-  | 'childMarkdownRemark___frontmatter___el___items'
-  | 'childMarkdownRemark___frontmatter___el___membersSubtitle'
   | 'childMarkdownRemark___frontmatter___el___content'
-  | 'childMarkdownRemark___frontmatter___el___team'
   | 'childMarkdownRemark___frontmatter___el___contactFormTitle'
   | 'childMarkdownRemark___frontmatter___el___contactFormSubtitle'
   | 'childMarkdownRemark___frontmatter___el___addressLabel'
@@ -843,11 +866,17 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___el___formSubjectLabel'
   | 'childMarkdownRemark___frontmatter___el___formEmailLabel'
   | 'childMarkdownRemark___frontmatter___el___formBodyLabel'
+  | 'childMarkdownRemark___frontmatter___el___items'
+  | 'childMarkdownRemark___frontmatter___el___title'
+  | 'childMarkdownRemark___frontmatter___el___description'
+  | 'childMarkdownRemark___frontmatter___el___keywords'
   | 'childMarkdownRemark___frontmatter___el___missions'
   | 'childMarkdownRemark___frontmatter___el___goalsTitle'
   | 'childMarkdownRemark___frontmatter___el___goalsSubtitle'
   | 'childMarkdownRemark___frontmatter___el___goals'
   | 'childMarkdownRemark___frontmatter___el___banner'
+  | 'childMarkdownRemark___frontmatter___el___membersSubtitle'
+  | 'childMarkdownRemark___frontmatter___el___team'
   | 'childMarkdownRemark___excerpt'
   | 'childMarkdownRemark___rawMarkdownBody'
   | 'childMarkdownRemark___fileAbsolutePath'
@@ -1070,13 +1099,31 @@ export type ImageCropFocus =
   | 'ENTROPY'
   | 'ATTENTION';
 
-export type ImageFit = 'COVER' | 'CONTAIN' | 'FILL' | 'INSIDE' | 'OUTSIDE';
+export type ImageFit =
+  | 'COVER'
+  | 'CONTAIN'
+  | 'FILL'
+  | 'INSIDE'
+  | 'OUTSIDE';
 
-export type ImageFormat = 'NO_CHANGE' | 'AUTO' | 'JPG' | 'PNG' | 'WEBP' | 'AVIF';
+export type ImageFormat =
+  | 'NO_CHANGE'
+  | 'AUTO'
+  | 'JPG'
+  | 'PNG'
+  | 'WEBP'
+  | 'AVIF';
 
-export type ImageLayout = 'FIXED' | 'FLUID' | 'CONSTRAINED';
+export type ImageLayout =
+  | 'FIXED'
+  | 'FLUID'
+  | 'CONSTRAINED';
 
-export type ImagePlaceholder = 'DOMINANT_COLOR' | 'TRACED_SVG' | 'BLURRED' | 'NONE';
+export type ImagePlaceholder =
+  | 'DOMINANT_COLOR'
+  | 'TRACED_SVG'
+  | 'BLURRED'
+  | 'NONE';
 
 export type ImageSharp = Node & {
   fixed: Maybe<ImageSharpFixed>;
@@ -1093,6 +1140,7 @@ export type ImageSharp = Node & {
   children: Array<Node>;
   internal: Internal;
 };
+
 
 export type ImageSharpFixedArgs = {
   width: Maybe<Scalars['Int']>;
@@ -1116,6 +1164,7 @@ export type ImageSharpFixedArgs = {
   trim?: Maybe<Scalars['Float']>;
 };
 
+
 export type ImageSharpResolutionsArgs = {
   width: Maybe<Scalars['Int']>;
   height: Maybe<Scalars['Int']>;
@@ -1137,6 +1186,7 @@ export type ImageSharpResolutionsArgs = {
   rotate?: Maybe<Scalars['Int']>;
   trim?: Maybe<Scalars['Float']>;
 };
+
 
 export type ImageSharpFluidArgs = {
   maxWidth: Maybe<Scalars['Int']>;
@@ -1162,6 +1212,7 @@ export type ImageSharpFluidArgs = {
   srcSetBreakpoints?: Maybe<Array<Maybe<Scalars['Int']>>>;
 };
 
+
 export type ImageSharpSizesArgs = {
   maxWidth: Maybe<Scalars['Int']>;
   maxHeight: Maybe<Scalars['Int']>;
@@ -1186,6 +1237,7 @@ export type ImageSharpSizesArgs = {
   srcSetBreakpoints?: Maybe<Array<Maybe<Scalars['Int']>>>;
 };
 
+
 export type ImageSharpGatsbyImageDataArgs = {
   layout?: Maybe<ImageLayout>;
   maxWidth: Maybe<Scalars['Int']>;
@@ -1206,6 +1258,7 @@ export type ImageSharpGatsbyImageDataArgs = {
   transformOptions: Maybe<TransformOptions>;
   background?: Maybe<Scalars['String']>;
 };
+
 
 export type ImageSharpResizeArgs = {
   width: Maybe<Scalars['Int']>;
@@ -1238,9 +1291,11 @@ export type ImageSharpConnection = {
   group: Array<ImageSharpGroupConnection>;
 };
 
+
 export type ImageSharpConnectionDistinctArgs = {
   field: ImageSharpFieldsEnum;
 };
+
 
 export type ImageSharpConnectionGroupArgs = {
   skip: Maybe<Scalars['Int']>;
@@ -1608,6 +1663,7 @@ export type JpgOptions = {
   progressive: Maybe<Scalars['Boolean']>;
 };
 
+
 export type JsonQueryOperatorInput = {
   eq: Maybe<Scalars['JSON']>;
   ne: Maybe<Scalars['JSON']>;
@@ -1617,7 +1673,10 @@ export type JsonQueryOperatorInput = {
   glob: Maybe<Scalars['JSON']>;
 };
 
-export type MarkdownExcerptFormats = 'PLAIN' | 'HTML' | 'MARKDOWN';
+export type MarkdownExcerptFormats =
+  | 'PLAIN'
+  | 'HTML'
+  | 'MARKDOWN';
 
 export type MarkdownHeading = {
   id: Maybe<Scalars['String']>;
@@ -1635,7 +1694,13 @@ export type MarkdownHeadingFilterListInput = {
   elemMatch: Maybe<MarkdownHeadingFilterInput>;
 };
 
-export type MarkdownHeadingLevels = 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6';
+export type MarkdownHeadingLevels =
+  | 'h1'
+  | 'h2'
+  | 'h3'
+  | 'h4'
+  | 'h5'
+  | 'h6';
 
 export type MarkdownRemark = Node & {
   id: Scalars['ID'];
@@ -1655,20 +1720,24 @@ export type MarkdownRemark = Node & {
   internal: Internal;
 };
 
+
 export type MarkdownRemarkExcerptArgs = {
   pruneLength?: Maybe<Scalars['Int']>;
   truncate?: Maybe<Scalars['Boolean']>;
   format?: Maybe<MarkdownExcerptFormats>;
 };
 
+
 export type MarkdownRemarkExcerptAstArgs = {
   pruneLength?: Maybe<Scalars['Int']>;
   truncate?: Maybe<Scalars['Boolean']>;
 };
 
+
 export type MarkdownRemarkHeadingsArgs = {
   depth: Maybe<MarkdownHeadingLevels>;
 };
+
 
 export type MarkdownRemarkTableOfContentsArgs = {
   absolute?: Maybe<Scalars['Boolean']>;
@@ -1686,9 +1755,11 @@ export type MarkdownRemarkConnection = {
   group: Array<MarkdownRemarkGroupConnection>;
 };
 
+
 export type MarkdownRemarkConnectionDistinctArgs = {
   field: MarkdownRemarkFieldsEnum;
 };
+
 
 export type MarkdownRemarkConnectionGroupArgs = {
   skip: Maybe<Scalars['Int']>;
@@ -1707,21 +1778,62 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___title'
   | 'frontmatter___en___mainTitle'
   | 'frontmatter___en___mainSubtitle'
-  | 'frontmatter___en___title'
-  | 'frontmatter___en___description'
-  | 'frontmatter___en___keywords'
   | 'frontmatter___en___navigationLabel'
+  | 'frontmatter___en___content'
+  | 'frontmatter___en___contactFormTitle'
+  | 'frontmatter___en___contactFormSubtitle'
+  | 'frontmatter___en___addressLabel'
+  | 'frontmatter___en___address'
+  | 'frontmatter___en___formSuccessMessage'
+  | 'frontmatter___en___formSubmitMessage'
+  | 'frontmatter___en___formSubjectLabel'
+  | 'frontmatter___en___formEmailLabel'
+  | 'frontmatter___en___formBodyLabel'
   | 'frontmatter___en___items'
   | 'frontmatter___en___items___title'
   | 'frontmatter___en___items___body'
   | 'frontmatter___en___items___date'
-  | 'frontmatter___en___membersSubtitle'
-  | 'frontmatter___en___content'
-  | 'frontmatter___en___team'
-  | 'frontmatter___en___team___link'
-  | 'frontmatter___en___team___name'
-  | 'frontmatter___en___team___role'
-  | 'frontmatter___en___team___bio'
+  | 'frontmatter___en___title'
+  | 'frontmatter___en___description'
+  | 'frontmatter___en___keywords'
+  | 'frontmatter___en___logo___sourceInstanceName'
+  | 'frontmatter___en___logo___absolutePath'
+  | 'frontmatter___en___logo___relativePath'
+  | 'frontmatter___en___logo___extension'
+  | 'frontmatter___en___logo___size'
+  | 'frontmatter___en___logo___prettySize'
+  | 'frontmatter___en___logo___modifiedTime'
+  | 'frontmatter___en___logo___accessTime'
+  | 'frontmatter___en___logo___changeTime'
+  | 'frontmatter___en___logo___birthTime'
+  | 'frontmatter___en___logo___root'
+  | 'frontmatter___en___logo___dir'
+  | 'frontmatter___en___logo___base'
+  | 'frontmatter___en___logo___ext'
+  | 'frontmatter___en___logo___name'
+  | 'frontmatter___en___logo___relativeDirectory'
+  | 'frontmatter___en___logo___dev'
+  | 'frontmatter___en___logo___mode'
+  | 'frontmatter___en___logo___nlink'
+  | 'frontmatter___en___logo___uid'
+  | 'frontmatter___en___logo___gid'
+  | 'frontmatter___en___logo___rdev'
+  | 'frontmatter___en___logo___ino'
+  | 'frontmatter___en___logo___atimeMs'
+  | 'frontmatter___en___logo___mtimeMs'
+  | 'frontmatter___en___logo___ctimeMs'
+  | 'frontmatter___en___logo___atime'
+  | 'frontmatter___en___logo___mtime'
+  | 'frontmatter___en___logo___ctime'
+  | 'frontmatter___en___logo___birthtime'
+  | 'frontmatter___en___logo___birthtimeMs'
+  | 'frontmatter___en___logo___blksize'
+  | 'frontmatter___en___logo___blocks'
+  | 'frontmatter___en___logo___publicURL'
+  | 'frontmatter___en___logo___childrenImageSharp'
+  | 'frontmatter___en___logo___childrenMarkdownRemark'
+  | 'frontmatter___en___logo___id'
+  | 'frontmatter___en___logo___children'
   | 'frontmatter___en___mainBackground___sourceInstanceName'
   | 'frontmatter___en___mainBackground___absolutePath'
   | 'frontmatter___en___mainBackground___relativePath'
@@ -1760,15 +1872,6 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___mainBackground___childrenMarkdownRemark'
   | 'frontmatter___en___mainBackground___id'
   | 'frontmatter___en___mainBackground___children'
-  | 'frontmatter___en___contactFormTitle'
-  | 'frontmatter___en___contactFormSubtitle'
-  | 'frontmatter___en___addressLabel'
-  | 'frontmatter___en___address'
-  | 'frontmatter___en___formSuccessMessage'
-  | 'frontmatter___en___formSubmitMessage'
-  | 'frontmatter___en___formSubjectLabel'
-  | 'frontmatter___en___formEmailLabel'
-  | 'frontmatter___en___formBodyLabel'
   | 'frontmatter___en___missions'
   | 'frontmatter___en___missions___title'
   | 'frontmatter___en___missions___details'
@@ -1816,23 +1919,16 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___goals___title'
   | 'frontmatter___en___goals___details'
   | 'frontmatter___en___banner'
+  | 'frontmatter___en___membersSubtitle'
+  | 'frontmatter___en___team'
+  | 'frontmatter___en___team___link'
+  | 'frontmatter___en___team___name'
+  | 'frontmatter___en___team___role'
+  | 'frontmatter___en___team___bio'
   | 'frontmatter___el___mainTitle'
   | 'frontmatter___el___mainSubtitle'
-  | 'frontmatter___el___title'
-  | 'frontmatter___el___description'
-  | 'frontmatter___el___keywords'
   | 'frontmatter___el___navigationLabel'
-  | 'frontmatter___el___items'
-  | 'frontmatter___el___items___title'
-  | 'frontmatter___el___items___body'
-  | 'frontmatter___el___items___date'
-  | 'frontmatter___el___membersSubtitle'
   | 'frontmatter___el___content'
-  | 'frontmatter___el___team'
-  | 'frontmatter___el___team___name'
-  | 'frontmatter___el___team___role'
-  | 'frontmatter___el___team___link'
-  | 'frontmatter___el___team___bio'
   | 'frontmatter___el___contactFormTitle'
   | 'frontmatter___el___contactFormSubtitle'
   | 'frontmatter___el___addressLabel'
@@ -1842,6 +1938,51 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___el___formSubjectLabel'
   | 'frontmatter___el___formEmailLabel'
   | 'frontmatter___el___formBodyLabel'
+  | 'frontmatter___el___items'
+  | 'frontmatter___el___items___title'
+  | 'frontmatter___el___items___body'
+  | 'frontmatter___el___items___date'
+  | 'frontmatter___el___title'
+  | 'frontmatter___el___description'
+  | 'frontmatter___el___keywords'
+  | 'frontmatter___el___logo___sourceInstanceName'
+  | 'frontmatter___el___logo___absolutePath'
+  | 'frontmatter___el___logo___relativePath'
+  | 'frontmatter___el___logo___extension'
+  | 'frontmatter___el___logo___size'
+  | 'frontmatter___el___logo___prettySize'
+  | 'frontmatter___el___logo___modifiedTime'
+  | 'frontmatter___el___logo___accessTime'
+  | 'frontmatter___el___logo___changeTime'
+  | 'frontmatter___el___logo___birthTime'
+  | 'frontmatter___el___logo___root'
+  | 'frontmatter___el___logo___dir'
+  | 'frontmatter___el___logo___base'
+  | 'frontmatter___el___logo___ext'
+  | 'frontmatter___el___logo___name'
+  | 'frontmatter___el___logo___relativeDirectory'
+  | 'frontmatter___el___logo___dev'
+  | 'frontmatter___el___logo___mode'
+  | 'frontmatter___el___logo___nlink'
+  | 'frontmatter___el___logo___uid'
+  | 'frontmatter___el___logo___gid'
+  | 'frontmatter___el___logo___rdev'
+  | 'frontmatter___el___logo___ino'
+  | 'frontmatter___el___logo___atimeMs'
+  | 'frontmatter___el___logo___mtimeMs'
+  | 'frontmatter___el___logo___ctimeMs'
+  | 'frontmatter___el___logo___atime'
+  | 'frontmatter___el___logo___mtime'
+  | 'frontmatter___el___logo___ctime'
+  | 'frontmatter___el___logo___birthtime'
+  | 'frontmatter___el___logo___birthtimeMs'
+  | 'frontmatter___el___logo___blksize'
+  | 'frontmatter___el___logo___blocks'
+  | 'frontmatter___el___logo___publicURL'
+  | 'frontmatter___el___logo___childrenImageSharp'
+  | 'frontmatter___el___logo___childrenMarkdownRemark'
+  | 'frontmatter___el___logo___id'
+  | 'frontmatter___el___logo___children'
   | 'frontmatter___el___mainBackground___sourceInstanceName'
   | 'frontmatter___el___mainBackground___absolutePath'
   | 'frontmatter___el___mainBackground___relativePath'
@@ -1927,6 +2068,12 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___el___goals___title'
   | 'frontmatter___el___goals___details'
   | 'frontmatter___el___banner'
+  | 'frontmatter___el___membersSubtitle'
+  | 'frontmatter___el___team'
+  | 'frontmatter___el___team___name'
+  | 'frontmatter___el___team___role'
+  | 'frontmatter___el___team___link'
+  | 'frontmatter___el___team___bio'
   | 'excerpt'
   | 'rawMarkdownBody'
   | 'fileAbsolutePath'
@@ -2059,14 +2206,8 @@ export type MarkdownRemarkFrontmatter = {
 export type MarkdownRemarkFrontmatterEl = {
   mainTitle: Maybe<Scalars['String']>;
   mainSubtitle: Maybe<Scalars['String']>;
-  title: Maybe<Scalars['String']>;
-  description: Maybe<Scalars['String']>;
-  keywords: Maybe<Scalars['String']>;
   navigationLabel: Maybe<Scalars['String']>;
-  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElItems>>>;
-  membersSubtitle: Maybe<Scalars['String']>;
   content: Maybe<Scalars['String']>;
-  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElTeam>>>;
   contactFormTitle: Maybe<Scalars['String']>;
   contactFormSubtitle: Maybe<Scalars['String']>;
   addressLabel: Maybe<Scalars['String']>;
@@ -2076,6 +2217,11 @@ export type MarkdownRemarkFrontmatterEl = {
   formSubjectLabel: Maybe<Scalars['String']>;
   formEmailLabel: Maybe<Scalars['String']>;
   formBodyLabel: Maybe<Scalars['String']>;
+  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElItems>>>;
+  title: Maybe<Scalars['String']>;
+  description: Maybe<Scalars['String']>;
+  keywords: Maybe<Scalars['String']>;
+  logo: Maybe<File>;
   mainBackground: Maybe<File>;
   missions: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElMissions>>>;
   goalsTitle: Maybe<Scalars['String']>;
@@ -2083,19 +2229,15 @@ export type MarkdownRemarkFrontmatterEl = {
   goalsBackground: Maybe<File>;
   goals: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElGoals>>>;
   banner: Maybe<Scalars['String']>;
+  membersSubtitle: Maybe<Scalars['String']>;
+  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElTeam>>>;
 };
 
 export type MarkdownRemarkFrontmatterElFilterInput = {
   mainTitle: Maybe<StringQueryOperatorInput>;
   mainSubtitle: Maybe<StringQueryOperatorInput>;
-  title: Maybe<StringQueryOperatorInput>;
-  description: Maybe<StringQueryOperatorInput>;
-  keywords: Maybe<StringQueryOperatorInput>;
   navigationLabel: Maybe<StringQueryOperatorInput>;
-  items: Maybe<MarkdownRemarkFrontmatterElItemsFilterListInput>;
-  membersSubtitle: Maybe<StringQueryOperatorInput>;
   content: Maybe<StringQueryOperatorInput>;
-  team: Maybe<MarkdownRemarkFrontmatterElTeamFilterListInput>;
   contactFormTitle: Maybe<StringQueryOperatorInput>;
   contactFormSubtitle: Maybe<StringQueryOperatorInput>;
   addressLabel: Maybe<StringQueryOperatorInput>;
@@ -2105,6 +2247,11 @@ export type MarkdownRemarkFrontmatterElFilterInput = {
   formSubjectLabel: Maybe<StringQueryOperatorInput>;
   formEmailLabel: Maybe<StringQueryOperatorInput>;
   formBodyLabel: Maybe<StringQueryOperatorInput>;
+  items: Maybe<MarkdownRemarkFrontmatterElItemsFilterListInput>;
+  title: Maybe<StringQueryOperatorInput>;
+  description: Maybe<StringQueryOperatorInput>;
+  keywords: Maybe<StringQueryOperatorInput>;
+  logo: Maybe<FileFilterInput>;
   mainBackground: Maybe<FileFilterInput>;
   missions: Maybe<MarkdownRemarkFrontmatterElMissionsFilterListInput>;
   goalsTitle: Maybe<StringQueryOperatorInput>;
@@ -2112,6 +2259,8 @@ export type MarkdownRemarkFrontmatterElFilterInput = {
   goalsBackground: Maybe<FileFilterInput>;
   goals: Maybe<MarkdownRemarkFrontmatterElGoalsFilterListInput>;
   banner: Maybe<StringQueryOperatorInput>;
+  membersSubtitle: Maybe<StringQueryOperatorInput>;
+  team: Maybe<MarkdownRemarkFrontmatterElTeamFilterListInput>;
 };
 
 export type MarkdownRemarkFrontmatterElGoals = {
@@ -2133,6 +2282,7 @@ export type MarkdownRemarkFrontmatterElItems = {
   body: Maybe<Scalars['String']>;
   date: Maybe<Scalars['Date']>;
 };
+
 
 export type MarkdownRemarkFrontmatterElItemsDateArgs = {
   formatString: Maybe<Scalars['String']>;
@@ -2190,15 +2340,8 @@ export type MarkdownRemarkFrontmatterElTeamFilterListInput = {
 export type MarkdownRemarkFrontmatterEn = {
   mainTitle: Maybe<Scalars['String']>;
   mainSubtitle: Maybe<Scalars['String']>;
-  title: Maybe<Scalars['String']>;
-  description: Maybe<Scalars['String']>;
-  keywords: Maybe<Scalars['String']>;
   navigationLabel: Maybe<Scalars['String']>;
-  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnItems>>>;
-  membersSubtitle: Maybe<Scalars['String']>;
   content: Maybe<Scalars['String']>;
-  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnTeam>>>;
-  mainBackground: Maybe<File>;
   contactFormTitle: Maybe<Scalars['String']>;
   contactFormSubtitle: Maybe<Scalars['String']>;
   addressLabel: Maybe<Scalars['String']>;
@@ -2208,26 +2351,27 @@ export type MarkdownRemarkFrontmatterEn = {
   formSubjectLabel: Maybe<Scalars['String']>;
   formEmailLabel: Maybe<Scalars['String']>;
   formBodyLabel: Maybe<Scalars['String']>;
+  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnItems>>>;
+  title: Maybe<Scalars['String']>;
+  description: Maybe<Scalars['String']>;
+  keywords: Maybe<Scalars['String']>;
+  logo: Maybe<File>;
+  mainBackground: Maybe<File>;
   missions: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnMissions>>>;
   goalsTitle: Maybe<Scalars['String']>;
   goalsSubtitle: Maybe<Scalars['String']>;
   goalsBackground: Maybe<File>;
   goals: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnGoals>>>;
   banner: Maybe<Scalars['String']>;
+  membersSubtitle: Maybe<Scalars['String']>;
+  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnTeam>>>;
 };
 
 export type MarkdownRemarkFrontmatterEnFilterInput = {
   mainTitle: Maybe<StringQueryOperatorInput>;
   mainSubtitle: Maybe<StringQueryOperatorInput>;
-  title: Maybe<StringQueryOperatorInput>;
-  description: Maybe<StringQueryOperatorInput>;
-  keywords: Maybe<StringQueryOperatorInput>;
   navigationLabel: Maybe<StringQueryOperatorInput>;
-  items: Maybe<MarkdownRemarkFrontmatterEnItemsFilterListInput>;
-  membersSubtitle: Maybe<StringQueryOperatorInput>;
   content: Maybe<StringQueryOperatorInput>;
-  team: Maybe<MarkdownRemarkFrontmatterEnTeamFilterListInput>;
-  mainBackground: Maybe<FileFilterInput>;
   contactFormTitle: Maybe<StringQueryOperatorInput>;
   contactFormSubtitle: Maybe<StringQueryOperatorInput>;
   addressLabel: Maybe<StringQueryOperatorInput>;
@@ -2237,12 +2381,20 @@ export type MarkdownRemarkFrontmatterEnFilterInput = {
   formSubjectLabel: Maybe<StringQueryOperatorInput>;
   formEmailLabel: Maybe<StringQueryOperatorInput>;
   formBodyLabel: Maybe<StringQueryOperatorInput>;
+  items: Maybe<MarkdownRemarkFrontmatterEnItemsFilterListInput>;
+  title: Maybe<StringQueryOperatorInput>;
+  description: Maybe<StringQueryOperatorInput>;
+  keywords: Maybe<StringQueryOperatorInput>;
+  logo: Maybe<FileFilterInput>;
+  mainBackground: Maybe<FileFilterInput>;
   missions: Maybe<MarkdownRemarkFrontmatterEnMissionsFilterListInput>;
   goalsTitle: Maybe<StringQueryOperatorInput>;
   goalsSubtitle: Maybe<StringQueryOperatorInput>;
   goalsBackground: Maybe<FileFilterInput>;
   goals: Maybe<MarkdownRemarkFrontmatterEnGoalsFilterListInput>;
   banner: Maybe<StringQueryOperatorInput>;
+  membersSubtitle: Maybe<StringQueryOperatorInput>;
+  team: Maybe<MarkdownRemarkFrontmatterEnTeamFilterListInput>;
 };
 
 export type MarkdownRemarkFrontmatterEnGoals = {
@@ -2264,6 +2416,7 @@ export type MarkdownRemarkFrontmatterEnItems = {
   body: Maybe<Scalars['String']>;
   date: Maybe<Scalars['Date']>;
 };
+
 
 export type MarkdownRemarkFrontmatterEnItemsDateArgs = {
   formatString: Maybe<Scalars['String']>;
@@ -2423,6 +2576,7 @@ export type Query = {
   allSitePlugin: SitePluginConnection;
 };
 
+
 export type QueryFileArgs = {
   sourceInstanceName: Maybe<StringQueryOperatorInput>;
   absolutePath: Maybe<StringQueryOperatorInput>;
@@ -2468,12 +2622,14 @@ export type QueryFileArgs = {
   internal: Maybe<InternalFilterInput>;
 };
 
+
 export type QueryAllFileArgs = {
   filter: Maybe<FileFilterInput>;
   sort: Maybe<FileSortInput>;
   skip: Maybe<Scalars['Int']>;
   limit: Maybe<Scalars['Int']>;
 };
+
 
 export type QueryDirectoryArgs = {
   sourceInstanceName: Maybe<StringQueryOperatorInput>;
@@ -2515,12 +2671,14 @@ export type QueryDirectoryArgs = {
   internal: Maybe<InternalFilterInput>;
 };
 
+
 export type QueryAllDirectoryArgs = {
   filter: Maybe<DirectoryFilterInput>;
   sort: Maybe<DirectorySortInput>;
   skip: Maybe<Scalars['Int']>;
   limit: Maybe<Scalars['Int']>;
 };
+
 
 export type QuerySiteArgs = {
   buildTime: Maybe<DateQueryOperatorInput>;
@@ -2535,12 +2693,14 @@ export type QuerySiteArgs = {
   internal: Maybe<InternalFilterInput>;
 };
 
+
 export type QueryAllSiteArgs = {
   filter: Maybe<SiteFilterInput>;
   sort: Maybe<SiteSortInput>;
   skip: Maybe<Scalars['Int']>;
   limit: Maybe<Scalars['Int']>;
 };
+
 
 export type QuerySitePageArgs = {
   path: Maybe<StringQueryOperatorInput>;
@@ -2559,12 +2719,14 @@ export type QuerySitePageArgs = {
   componentPath: Maybe<StringQueryOperatorInput>;
 };
 
+
 export type QueryAllSitePageArgs = {
   filter: Maybe<SitePageFilterInput>;
   sort: Maybe<SitePageSortInput>;
   skip: Maybe<Scalars['Int']>;
   limit: Maybe<Scalars['Int']>;
 };
+
 
 export type QueryImageSharpArgs = {
   fixed: Maybe<ImageSharpFixedFilterInput>;
@@ -2580,12 +2742,14 @@ export type QueryImageSharpArgs = {
   internal: Maybe<InternalFilterInput>;
 };
 
+
 export type QueryAllImageSharpArgs = {
   filter: Maybe<ImageSharpFilterInput>;
   sort: Maybe<ImageSharpSortInput>;
   skip: Maybe<Scalars['Int']>;
   limit: Maybe<Scalars['Int']>;
 };
+
 
 export type QueryMarkdownRemarkArgs = {
   id: Maybe<StringQueryOperatorInput>;
@@ -2605,12 +2769,14 @@ export type QueryMarkdownRemarkArgs = {
   internal: Maybe<InternalFilterInput>;
 };
 
+
 export type QueryAllMarkdownRemarkArgs = {
   filter: Maybe<MarkdownRemarkFilterInput>;
   sort: Maybe<MarkdownRemarkSortInput>;
   skip: Maybe<Scalars['Int']>;
   limit: Maybe<Scalars['Int']>;
 };
+
 
 export type QuerySiteBuildMetadataArgs = {
   id: Maybe<StringQueryOperatorInput>;
@@ -2620,12 +2786,14 @@ export type QuerySiteBuildMetadataArgs = {
   buildTime: Maybe<DateQueryOperatorInput>;
 };
 
+
 export type QueryAllSiteBuildMetadataArgs = {
   filter: Maybe<SiteBuildMetadataFilterInput>;
   sort: Maybe<SiteBuildMetadataSortInput>;
   skip: Maybe<Scalars['Int']>;
   limit: Maybe<Scalars['Int']>;
 };
+
 
 export type QuerySitePluginArgs = {
   id: Maybe<StringQueryOperatorInput>;
@@ -2642,6 +2810,7 @@ export type QuerySitePluginArgs = {
   pluginFilepath: Maybe<StringQueryOperatorInput>;
   packageJson: Maybe<SitePluginPackageJsonFilterInput>;
 };
+
 
 export type QueryAllSitePluginArgs = {
   filter: Maybe<SitePluginFilterInput>;
@@ -2663,6 +2832,7 @@ export type Site = Node & {
   internal: Internal;
 };
 
+
 export type SiteBuildTimeArgs = {
   formatString: Maybe<Scalars['String']>;
   fromNow: Maybe<Scalars['Boolean']>;
@@ -2677,6 +2847,7 @@ export type SiteBuildMetadata = Node & {
   internal: Internal;
   buildTime: Maybe<Scalars['Date']>;
 };
+
 
 export type SiteBuildMetadataBuildTimeArgs = {
   formatString: Maybe<Scalars['String']>;
@@ -2694,9 +2865,11 @@ export type SiteBuildMetadataConnection = {
   group: Array<SiteBuildMetadataGroupConnection>;
 };
 
+
 export type SiteBuildMetadataConnectionDistinctArgs = {
   field: SiteBuildMetadataFieldsEnum;
 };
+
 
 export type SiteBuildMetadataConnectionGroupArgs = {
   skip: Maybe<Scalars['Int']>;
@@ -2830,9 +3003,11 @@ export type SiteConnection = {
   group: Array<SiteGroupConnection>;
 };
 
+
 export type SiteConnectionDistinctArgs = {
   field: SiteFieldsEnum;
 };
+
 
 export type SiteConnectionGroupArgs = {
   skip: Maybe<Scalars['Int']>;
@@ -2850,7 +3025,6 @@ export type SiteFieldsEnum =
   | 'buildTime'
   | 'siteMetadata___title'
   | 'siteMetadata___description'
-  | 'siteMetadata___image'
   | 'siteMetadata___siteUrl'
   | 'port'
   | 'host'
@@ -2991,9 +3165,11 @@ export type SitePageConnection = {
   group: Array<SitePageGroupConnection>;
 };
 
+
 export type SitePageConnectionDistinctArgs = {
   field: SitePageFieldsEnum;
 };
+
 
 export type SitePageConnectionGroupArgs = {
   skip: Maybe<Scalars['Int']>;
@@ -3285,9 +3461,11 @@ export type SitePluginConnection = {
   group: Array<SitePluginGroupConnection>;
 };
 
+
 export type SitePluginConnectionDistinctArgs = {
   field: SitePluginFieldsEnum;
 };
+
 
 export type SitePluginConnectionGroupArgs = {
   skip: Maybe<Scalars['Int']>;
@@ -3751,14 +3929,12 @@ export type SitePluginSortInput = {
 export type SiteSiteMetadata = {
   title: Maybe<Scalars['String']>;
   description: Maybe<Scalars['String']>;
-  image: Maybe<Scalars['String']>;
   siteUrl: Maybe<Scalars['String']>;
 };
 
 export type SiteSiteMetadataFilterInput = {
   title: Maybe<StringQueryOperatorInput>;
   description: Maybe<StringQueryOperatorInput>;
-  image: Maybe<StringQueryOperatorInput>;
   siteUrl: Maybe<StringQueryOperatorInput>;
 };
 
@@ -3767,7 +3943,9 @@ export type SiteSortInput = {
   order: Maybe<Array<Maybe<SortOrderEnum>>>;
 };
 
-export type SortOrderEnum = 'ASC' | 'DESC';
+export type SortOrderEnum =
+  | 'ASC'
+  | 'DESC';
 
 export type StringQueryOperatorInput = {
   eq: Maybe<Scalars['String']>;
@@ -3791,386 +3969,140 @@ export type WebPOptions = {
   quality: Maybe<Scalars['Int']>;
 };
 
-export type ContactFormQueryVariables = Exact<{ [key: string]: never }>;
+export type ContactFormQueryVariables = Exact<{ [key: string]: never; }>;
 
-export type ContactFormQuery = {
-  contactForm: Maybe<{
-    childMarkdownRemark: Maybe<{
-      frontmatter: Maybe<{
-        el: Maybe<
-          Pick<
-            MarkdownRemarkFrontmatterEl,
-            | 'formSuccessMessage'
-            | 'formSubmitMessage'
-            | 'formSubjectLabel'
-            | 'formEmailLabel'
-            | 'formBodyLabel'
-          >
-        >;
-        en: Maybe<
-          Pick<
-            MarkdownRemarkFrontmatterEn,
-            | 'formSuccessMessage'
-            | 'formSubmitMessage'
-            | 'formSubjectLabel'
-            | 'formEmailLabel'
-            | 'formBodyLabel'
-          >
-        >;
-      }>;
-    }>;
-  }>;
-};
 
-export type NavigationLabelDataFragment = {
-  childMarkdownRemark: Maybe<{
-    frontmatter: Maybe<{
-      el: Maybe<Pick<MarkdownRemarkFrontmatterEl, 'navigationLabel'>>;
-      en: Maybe<Pick<MarkdownRemarkFrontmatterEn, 'navigationLabel'>>;
-    }>;
-  }>;
-};
+export type ContactFormQuery = { contactForm: Maybe<{ childMarkdownRemark: Maybe<{ frontmatter: Maybe<{ el: Maybe<Pick<MarkdownRemarkFrontmatterEl, 'formSuccessMessage' | 'formSubmitMessage' | 'formSubjectLabel' | 'formEmailLabel' | 'formBodyLabel'>>, en: Maybe<Pick<MarkdownRemarkFrontmatterEn, 'formSuccessMessage' | 'formSubmitMessage' | 'formSubjectLabel' | 'formEmailLabel' | 'formBodyLabel'>> }> }> }> };
 
-export type GetNavigationLabelsQueryVariables = Exact<{ [key: string]: never }>;
+export type NavigationLabelDataFragment = { childMarkdownRemark: Maybe<{ frontmatter: Maybe<{ el: Maybe<Pick<MarkdownRemarkFrontmatterEl, 'navigationLabel'>>, en: Maybe<Pick<MarkdownRemarkFrontmatterEn, 'navigationLabel'>> }> }> };
 
-export type GetNavigationLabelsQuery = {
-  landing: Maybe<NavigationLabelDataFragment>;
-  about: Maybe<NavigationLabelDataFragment>;
-  news: Maybe<NavigationLabelDataFragment>;
-  careers: Maybe<NavigationLabelDataFragment>;
-  contact: Maybe<NavigationLabelDataFragment>;
-};
+export type GetNavigationLabelsQueryVariables = Exact<{ [key: string]: never; }>;
 
-export type GetSeoDataQueryVariables = Exact<{ [key: string]: never }>;
 
-export type GetSeoDataQuery = {
-  site: Maybe<{ siteMetadata: Maybe<Pick<SiteSiteMetadata, 'siteUrl' | 'image'>> }>;
-  meta: Maybe<{
-    childMarkdownRemark: Maybe<{
-      frontmatter: Maybe<{
-        el: Maybe<Pick<MarkdownRemarkFrontmatterEl, 'title' | 'description' | 'keywords'>>;
-        en: Maybe<Pick<MarkdownRemarkFrontmatterEn, 'title' | 'description' | 'keywords'>>;
-      }>;
-    }>;
-  }>;
-};
+export type GetNavigationLabelsQuery = { landing: Maybe<NavigationLabelDataFragment>, about: Maybe<NavigationLabelDataFragment>, news: Maybe<NavigationLabelDataFragment>, careers: Maybe<NavigationLabelDataFragment>, contact: Maybe<NavigationLabelDataFragment> };
 
-export type NotFoundPageQueryVariables = Exact<{ [key: string]: never }>;
+export type GetSeoDataQueryVariables = Exact<{ [key: string]: never; }>;
 
-export type NotFoundPageQuery = {
-  notFound: Maybe<{
-    childMarkdownRemark: Maybe<{
-      frontmatter: Maybe<{
-        el: Maybe<Pick<MarkdownRemarkFrontmatterEl, 'mainTitle' | 'mainSubtitle'>>;
-        en: Maybe<Pick<MarkdownRemarkFrontmatterEn, 'mainTitle' | 'mainSubtitle'>>;
-      }>;
-    }>;
-  }>;
-};
 
-export type AboutPageQueryVariables = Exact<{ [key: string]: never }>;
+export type GetSeoDataQuery = { site: Maybe<{ siteMetadata: Maybe<Pick<SiteSiteMetadata, 'siteUrl'>> }>, meta: Maybe<{ childMarkdownRemark: Maybe<{ frontmatter: Maybe<{ el: Maybe<(
+          Pick<MarkdownRemarkFrontmatterEl, 'title' | 'description' | 'keywords'>
+          & { logo: Maybe<Pick<File, 'publicURL'>> }
+        )>, en: Maybe<(
+          Pick<MarkdownRemarkFrontmatterEn, 'title' | 'description' | 'keywords'>
+          & { logo: Maybe<Pick<File, 'publicURL'>> }
+        )> }> }> }> };
 
-export type AboutPageQuery = {
-  about: Maybe<{
-    childMarkdownRemark: Maybe<{
-      frontmatter: Maybe<{
-        el: Maybe<
-          Pick<
-            MarkdownRemarkFrontmatterEl,
-            'mainTitle' | 'mainSubtitle' | 'content' | 'membersSubtitle'
-          > & {
-            team: Maybe<
-              Array<
-                Maybe<
-                  Pick<MarkdownRemarkFrontmatterElTeam, 'bio' | 'link' | 'name' | 'role'> & {
-                    avatar: Maybe<Pick<File, 'publicURL'>>;
-                  }
-                >
-              >
-            >;
-          }
-        >;
-        en: Maybe<
-          Pick<
-            MarkdownRemarkFrontmatterEn,
-            'mainTitle' | 'mainSubtitle' | 'content' | 'membersSubtitle'
-          > & {
-            mainBackground: Maybe<{
-              childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }>;
-            }>;
-            team: Maybe<
-              Array<
-                Maybe<
-                  Pick<MarkdownRemarkFrontmatterEnTeam, 'bio' | 'link' | 'name' | 'role'> & {
-                    avatar: Maybe<Pick<File, 'publicURL'>>;
-                  }
-                >
-              >
-            >;
-          }
-        >;
-      }>;
-    }>;
-  }>;
-};
+export type GetLogoQueryVariables = Exact<{ [key: string]: never; }>;
 
-export type CareersPageQueryVariables = Exact<{ [key: string]: never }>;
 
-export type CareersPageQuery = {
-  careers: Maybe<{
-    childMarkdownRemark: Maybe<{
-      frontmatter: Maybe<{
-        el: Maybe<Pick<MarkdownRemarkFrontmatterEl, 'mainTitle' | 'mainSubtitle' | 'content'>>;
-        en: Maybe<Pick<MarkdownRemarkFrontmatterEn, 'mainTitle' | 'mainSubtitle' | 'content'>>;
-      }>;
-    }>;
-  }>;
-};
+export type GetLogoQuery = { meta: Maybe<{ childMarkdownRemark: Maybe<{ frontmatter: Maybe<{ el: Maybe<{ logo: Maybe<Pick<File, 'publicURL'>> }>, en: Maybe<{ logo: Maybe<Pick<File, 'publicURL'>> }> }> }> }> };
 
-export type ContactPageQueryVariables = Exact<{ [key: string]: never }>;
+export type NotFoundPageQueryVariables = Exact<{ [key: string]: never; }>;
 
-export type ContactPageQuery = {
-  contact: Maybe<{
-    childMarkdownRemark: Maybe<{
-      frontmatter: Maybe<{
-        el: Maybe<
-          Pick<
-            MarkdownRemarkFrontmatterEl,
-            | 'mainTitle'
-            | 'mainSubtitle'
-            | 'contactFormTitle'
-            | 'contactFormSubtitle'
-            | 'addressLabel'
-            | 'address'
-          >
-        >;
-        en: Maybe<
-          Pick<
-            MarkdownRemarkFrontmatterEn,
-            | 'mainTitle'
-            | 'mainSubtitle'
-            | 'contactFormTitle'
-            | 'contactFormSubtitle'
-            | 'addressLabel'
-            | 'address'
-          >
-        >;
-      }>;
-    }>;
-  }>;
-};
 
-export type LandingPageQueryVariables = Exact<{ [key: string]: never }>;
+export type NotFoundPageQuery = { notFound: Maybe<{ childMarkdownRemark: Maybe<{ frontmatter: Maybe<{ el: Maybe<Pick<MarkdownRemarkFrontmatterEl, 'mainTitle' | 'mainSubtitle'>>, en: Maybe<Pick<MarkdownRemarkFrontmatterEn, 'mainTitle' | 'mainSubtitle'>> }> }> }> };
 
-export type LandingPageQuery = {
-  landing: Maybe<{
-    childMarkdownRemark: Maybe<{
-      frontmatter: Maybe<{
-        en: Maybe<
-          Pick<
-            MarkdownRemarkFrontmatterEn,
-            'mainTitle' | 'goalsTitle' | 'goalsSubtitle' | 'banner'
-          > & {
-            mainBackground: Maybe<{
-              childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }>;
-            }>;
-            missions: Maybe<
-              Array<
-                Maybe<
-                  Pick<MarkdownRemarkFrontmatterEnMissions, 'title' | 'details'> & {
-                    background: Maybe<{
-                      childImageSharp: Maybe<{
-                        fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment>;
-                      }>;
-                    }>;
-                  }
-                >
-              >
-            >;
-            goalsBackground: Maybe<{
-              childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }>;
-            }>;
-            goals: Maybe<Array<Maybe<Pick<MarkdownRemarkFrontmatterEnGoals, 'title' | 'details'>>>>;
-          }
-        >;
-        el: Maybe<
-          Pick<
-            MarkdownRemarkFrontmatterEl,
-            'mainTitle' | 'goalsTitle' | 'goalsSubtitle' | 'banner'
-          > & {
-            mainBackground: Maybe<{
-              childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }>;
-            }>;
-            missions: Maybe<
-              Array<
-                Maybe<
-                  Pick<MarkdownRemarkFrontmatterElMissions, 'title' | 'details'> & {
-                    background: Maybe<{
-                      childImageSharp: Maybe<{
-                        fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment>;
-                      }>;
-                    }>;
-                  }
-                >
-              >
-            >;
-            goalsBackground: Maybe<{
-              childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }>;
-            }>;
-            goals: Maybe<Array<Maybe<Pick<MarkdownRemarkFrontmatterElGoals, 'title' | 'details'>>>>;
-          }
-        >;
-      }>;
-    }>;
-  }>;
-};
+export type AboutPageQueryVariables = Exact<{ [key: string]: never; }>;
 
-export type NewsPageQueryVariables = Exact<{ [key: string]: never }>;
 
-export type NewsPageQuery = {
-  news: Maybe<{
-    childMarkdownRemark: Maybe<{
-      frontmatter: Maybe<{
-        el: Maybe<
-          Pick<MarkdownRemarkFrontmatterEl, 'mainTitle' | 'mainSubtitle'> & {
-            items: Maybe<
-              Array<Maybe<Pick<MarkdownRemarkFrontmatterElItems, 'title' | 'body' | 'date'>>>
-            >;
-          }
-        >;
-        en: Maybe<
-          Pick<MarkdownRemarkFrontmatterEn, 'mainTitle' | 'mainSubtitle'> & {
-            items: Maybe<
-              Array<Maybe<Pick<MarkdownRemarkFrontmatterEnItems, 'title' | 'body' | 'date'>>>
-            >;
-          }
-        >;
-      }>;
-    }>;
-  }>;
-};
+export type AboutPageQuery = { about: Maybe<{ childMarkdownRemark: Maybe<{ frontmatter: Maybe<{ el: Maybe<(
+          Pick<MarkdownRemarkFrontmatterEl, 'mainTitle' | 'mainSubtitle' | 'content' | 'membersSubtitle'>
+          & { team: Maybe<Array<Maybe<(
+            Pick<MarkdownRemarkFrontmatterElTeam, 'bio' | 'link' | 'name' | 'role'>
+            & { avatar: Maybe<Pick<File, 'publicURL'>> }
+          )>>> }
+        )>, en: Maybe<(
+          Pick<MarkdownRemarkFrontmatterEn, 'mainTitle' | 'mainSubtitle' | 'content' | 'membersSubtitle'>
+          & { mainBackground: Maybe<{ childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }> }>, team: Maybe<Array<Maybe<(
+            Pick<MarkdownRemarkFrontmatterEnTeam, 'bio' | 'link' | 'name' | 'role'>
+            & { avatar: Maybe<Pick<File, 'publicURL'>> }
+          )>>> }
+        )> }> }> }> };
 
-export type GatsbyImageSharpFixedFragment = Pick<
-  ImageSharpFixed,
-  'base64' | 'width' | 'height' | 'src' | 'srcSet'
->;
+export type CareersPageQueryVariables = Exact<{ [key: string]: never; }>;
 
-export type GatsbyImageSharpFixed_TracedSvgFragment = Pick<
-  ImageSharpFixed,
-  'tracedSVG' | 'width' | 'height' | 'src' | 'srcSet'
->;
 
-export type GatsbyImageSharpFixed_WithWebpFragment = Pick<
-  ImageSharpFixed,
-  'base64' | 'width' | 'height' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp'
->;
+export type CareersPageQuery = { careers: Maybe<{ childMarkdownRemark: Maybe<{ frontmatter: Maybe<{ el: Maybe<Pick<MarkdownRemarkFrontmatterEl, 'mainTitle' | 'mainSubtitle' | 'content'>>, en: Maybe<Pick<MarkdownRemarkFrontmatterEn, 'mainTitle' | 'mainSubtitle' | 'content'>> }> }> }> };
 
-export type GatsbyImageSharpFixed_WithWebp_TracedSvgFragment = Pick<
-  ImageSharpFixed,
-  'tracedSVG' | 'width' | 'height' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp'
->;
+export type ContactPageQueryVariables = Exact<{ [key: string]: never; }>;
 
-export type GatsbyImageSharpFixed_NoBase64Fragment = Pick<
-  ImageSharpFixed,
-  'width' | 'height' | 'src' | 'srcSet'
->;
 
-export type GatsbyImageSharpFixed_WithWebp_NoBase64Fragment = Pick<
-  ImageSharpFixed,
-  'width' | 'height' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp'
->;
+export type ContactPageQuery = { contact: Maybe<{ childMarkdownRemark: Maybe<{ frontmatter: Maybe<{ el: Maybe<Pick<MarkdownRemarkFrontmatterEl, 'mainTitle' | 'mainSubtitle' | 'contactFormTitle' | 'contactFormSubtitle' | 'addressLabel' | 'address'>>, en: Maybe<Pick<MarkdownRemarkFrontmatterEn, 'mainTitle' | 'mainSubtitle' | 'contactFormTitle' | 'contactFormSubtitle' | 'addressLabel' | 'address'>> }> }> }> };
 
-export type GatsbyImageSharpFluidFragment = Pick<
-  ImageSharpFluid,
-  'base64' | 'aspectRatio' | 'src' | 'srcSet' | 'sizes'
->;
+export type LandingPageQueryVariables = Exact<{ [key: string]: never; }>;
 
-export type GatsbyImageSharpFluidLimitPresentationSizeFragment = {
-  maxHeight: ImageSharpFluid['presentationHeight'];
-  maxWidth: ImageSharpFluid['presentationWidth'];
-};
 
-export type GatsbyImageSharpFluid_TracedSvgFragment = Pick<
-  ImageSharpFluid,
-  'tracedSVG' | 'aspectRatio' | 'src' | 'srcSet' | 'sizes'
->;
+export type LandingPageQuery = { landing: Maybe<{ childMarkdownRemark: Maybe<{ frontmatter: Maybe<{ en: Maybe<(
+          Pick<MarkdownRemarkFrontmatterEn, 'mainTitle' | 'goalsTitle' | 'goalsSubtitle' | 'banner'>
+          & { mainBackground: Maybe<{ childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }> }>, missions: Maybe<Array<Maybe<(
+            Pick<MarkdownRemarkFrontmatterEnMissions, 'title' | 'details'>
+            & { background: Maybe<{ childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }> }> }
+          )>>>, goalsBackground: Maybe<{ childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }> }>, goals: Maybe<Array<Maybe<Pick<MarkdownRemarkFrontmatterEnGoals, 'title' | 'details'>>>> }
+        )>, el: Maybe<(
+          Pick<MarkdownRemarkFrontmatterEl, 'mainTitle' | 'goalsTitle' | 'goalsSubtitle' | 'banner'>
+          & { mainBackground: Maybe<{ childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }> }>, missions: Maybe<Array<Maybe<(
+            Pick<MarkdownRemarkFrontmatterElMissions, 'title' | 'details'>
+            & { background: Maybe<{ childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }> }> }
+          )>>>, goalsBackground: Maybe<{ childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }> }>, goals: Maybe<Array<Maybe<Pick<MarkdownRemarkFrontmatterElGoals, 'title' | 'details'>>>> }
+        )> }> }> }> };
 
-export type GatsbyImageSharpFluid_WithWebpFragment = Pick<
-  ImageSharpFluid,
-  'base64' | 'aspectRatio' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp' | 'sizes'
->;
+export type NewsPageQueryVariables = Exact<{ [key: string]: never; }>;
 
-export type GatsbyImageSharpFluid_WithWebp_TracedSvgFragment = Pick<
-  ImageSharpFluid,
-  'tracedSVG' | 'aspectRatio' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp' | 'sizes'
->;
 
-export type GatsbyImageSharpFluid_NoBase64Fragment = Pick<
-  ImageSharpFluid,
-  'aspectRatio' | 'src' | 'srcSet' | 'sizes'
->;
+export type NewsPageQuery = { news: Maybe<{ childMarkdownRemark: Maybe<{ frontmatter: Maybe<{ el: Maybe<(
+          Pick<MarkdownRemarkFrontmatterEl, 'mainTitle' | 'mainSubtitle'>
+          & { items: Maybe<Array<Maybe<Pick<MarkdownRemarkFrontmatterElItems, 'title' | 'body' | 'date'>>>> }
+        )>, en: Maybe<(
+          Pick<MarkdownRemarkFrontmatterEn, 'mainTitle' | 'mainSubtitle'>
+          & { items: Maybe<Array<Maybe<Pick<MarkdownRemarkFrontmatterEnItems, 'title' | 'body' | 'date'>>>> }
+        )> }> }> }> };
 
-export type GatsbyImageSharpFluid_WithWebp_NoBase64Fragment = Pick<
-  ImageSharpFluid,
-  'aspectRatio' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp' | 'sizes'
->;
+export type GatsbyImageSharpFixedFragment = Pick<ImageSharpFixed, 'base64' | 'width' | 'height' | 'src' | 'srcSet'>;
 
-export type GatsbyImageSharpResolutionsFragment = Pick<
-  ImageSharpResolutions,
-  'base64' | 'width' | 'height' | 'src' | 'srcSet'
->;
+export type GatsbyImageSharpFixed_TracedSvgFragment = Pick<ImageSharpFixed, 'tracedSVG' | 'width' | 'height' | 'src' | 'srcSet'>;
 
-export type GatsbyImageSharpResolutions_TracedSvgFragment = Pick<
-  ImageSharpResolutions,
-  'tracedSVG' | 'width' | 'height' | 'src' | 'srcSet'
->;
+export type GatsbyImageSharpFixed_WithWebpFragment = Pick<ImageSharpFixed, 'base64' | 'width' | 'height' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp'>;
 
-export type GatsbyImageSharpResolutions_WithWebpFragment = Pick<
-  ImageSharpResolutions,
-  'base64' | 'width' | 'height' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp'
->;
+export type GatsbyImageSharpFixed_WithWebp_TracedSvgFragment = Pick<ImageSharpFixed, 'tracedSVG' | 'width' | 'height' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp'>;
 
-export type GatsbyImageSharpResolutions_WithWebp_TracedSvgFragment = Pick<
-  ImageSharpResolutions,
-  'tracedSVG' | 'width' | 'height' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp'
->;
+export type GatsbyImageSharpFixed_NoBase64Fragment = Pick<ImageSharpFixed, 'width' | 'height' | 'src' | 'srcSet'>;
 
-export type GatsbyImageSharpResolutions_NoBase64Fragment = Pick<
-  ImageSharpResolutions,
-  'width' | 'height' | 'src' | 'srcSet'
->;
+export type GatsbyImageSharpFixed_WithWebp_NoBase64Fragment = Pick<ImageSharpFixed, 'width' | 'height' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp'>;
 
-export type GatsbyImageSharpResolutions_WithWebp_NoBase64Fragment = Pick<
-  ImageSharpResolutions,
-  'width' | 'height' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp'
->;
+export type GatsbyImageSharpFluidFragment = Pick<ImageSharpFluid, 'base64' | 'aspectRatio' | 'src' | 'srcSet' | 'sizes'>;
 
-export type GatsbyImageSharpSizesFragment = Pick<
-  ImageSharpSizes,
-  'base64' | 'aspectRatio' | 'src' | 'srcSet' | 'sizes'
->;
+export type GatsbyImageSharpFluidLimitPresentationSizeFragment = { maxHeight: ImageSharpFluid['presentationHeight'], maxWidth: ImageSharpFluid['presentationWidth'] };
 
-export type GatsbyImageSharpSizes_TracedSvgFragment = Pick<
-  ImageSharpSizes,
-  'tracedSVG' | 'aspectRatio' | 'src' | 'srcSet' | 'sizes'
->;
+export type GatsbyImageSharpFluid_TracedSvgFragment = Pick<ImageSharpFluid, 'tracedSVG' | 'aspectRatio' | 'src' | 'srcSet' | 'sizes'>;
 
-export type GatsbyImageSharpSizes_WithWebpFragment = Pick<
-  ImageSharpSizes,
-  'base64' | 'aspectRatio' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp' | 'sizes'
->;
+export type GatsbyImageSharpFluid_WithWebpFragment = Pick<ImageSharpFluid, 'base64' | 'aspectRatio' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp' | 'sizes'>;
 
-export type GatsbyImageSharpSizes_WithWebp_TracedSvgFragment = Pick<
-  ImageSharpSizes,
-  'tracedSVG' | 'aspectRatio' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp' | 'sizes'
->;
+export type GatsbyImageSharpFluid_WithWebp_TracedSvgFragment = Pick<ImageSharpFluid, 'tracedSVG' | 'aspectRatio' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp' | 'sizes'>;
 
-export type GatsbyImageSharpSizes_NoBase64Fragment = Pick<
-  ImageSharpSizes,
-  'aspectRatio' | 'src' | 'srcSet' | 'sizes'
->;
+export type GatsbyImageSharpFluid_NoBase64Fragment = Pick<ImageSharpFluid, 'aspectRatio' | 'src' | 'srcSet' | 'sizes'>;
 
-export type GatsbyImageSharpSizes_WithWebp_NoBase64Fragment = Pick<
-  ImageSharpSizes,
-  'aspectRatio' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp' | 'sizes'
->;
+export type GatsbyImageSharpFluid_WithWebp_NoBase64Fragment = Pick<ImageSharpFluid, 'aspectRatio' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp' | 'sizes'>;
+
+export type GatsbyImageSharpResolutionsFragment = Pick<ImageSharpResolutions, 'base64' | 'width' | 'height' | 'src' | 'srcSet'>;
+
+export type GatsbyImageSharpResolutions_TracedSvgFragment = Pick<ImageSharpResolutions, 'tracedSVG' | 'width' | 'height' | 'src' | 'srcSet'>;
+
+export type GatsbyImageSharpResolutions_WithWebpFragment = Pick<ImageSharpResolutions, 'base64' | 'width' | 'height' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp'>;
+
+export type GatsbyImageSharpResolutions_WithWebp_TracedSvgFragment = Pick<ImageSharpResolutions, 'tracedSVG' | 'width' | 'height' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp'>;
+
+export type GatsbyImageSharpResolutions_NoBase64Fragment = Pick<ImageSharpResolutions, 'width' | 'height' | 'src' | 'srcSet'>;
+
+export type GatsbyImageSharpResolutions_WithWebp_NoBase64Fragment = Pick<ImageSharpResolutions, 'width' | 'height' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp'>;
+
+export type GatsbyImageSharpSizesFragment = Pick<ImageSharpSizes, 'base64' | 'aspectRatio' | 'src' | 'srcSet' | 'sizes'>;
+
+export type GatsbyImageSharpSizes_TracedSvgFragment = Pick<ImageSharpSizes, 'tracedSVG' | 'aspectRatio' | 'src' | 'srcSet' | 'sizes'>;
+
+export type GatsbyImageSharpSizes_WithWebpFragment = Pick<ImageSharpSizes, 'base64' | 'aspectRatio' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp' | 'sizes'>;
+
+export type GatsbyImageSharpSizes_WithWebp_TracedSvgFragment = Pick<ImageSharpSizes, 'tracedSVG' | 'aspectRatio' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp' | 'sizes'>;
+
+export type GatsbyImageSharpSizes_NoBase64Fragment = Pick<ImageSharpSizes, 'aspectRatio' | 'src' | 'srcSet' | 'sizes'>;
+
+export type GatsbyImageSharpSizes_WithWebp_NoBase64Fragment = Pick<ImageSharpSizes, 'aspectRatio' | 'src' | 'srcSet' | 'srcWebp' | 'srcSetWebp' | 'sizes'>;

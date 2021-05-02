@@ -910,7 +910,7 @@ input[type='radio'] {
     position: absolute;
     left: 0;
     top: 0;
-    background-image: url('../images/overlay.png');
+    background-image: url('../icons/overlay.png');
     width: 100%;
     height: 100%;
     z-index: 1;
@@ -1298,7 +1298,7 @@ input[type='button'],
   cursor: pointer;
 
   &:before {
-    background-image: url('../images/arrow.svg');
+    background-image: url('../icons/arrow.svg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -2271,7 +2271,7 @@ body.is-touch {
 
       &:before {
         background-color: _palette(accent1);
-        background-image: url('../images/menu-icon.svg');
+        background-image: url('../icons/menu-icon.svg');
         background-position: center center;
         background-repeat: no-repeat;
         background-size: contain;

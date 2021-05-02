@@ -16,7 +16,6 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
         site {
           siteMetadata {
             siteUrl
-            image
           }
         }
         meta: file(name: { eq: "meta" }) {
@@ -26,11 +25,17 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
                 title
                 description
                 keywords
+                logo {
+                  publicURL
+                }
               }
               en {
                 title
                 description
                 keywords
+                logo {
+                  publicURL
+                }
               }
             }
           }
@@ -66,7 +71,7 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
         },
         {
           property: `og:image`,
-          content: site.siteMetadata.image,
+          content: translatedData.logo.publicURL,
         },
         {
           property: `og:type`,
@@ -78,7 +83,7 @@ const SEO: React.FC<SEOProps> = ({ title, description }) => {
         {JSON.stringify({
           '@context': 'https://schema.org',
           '@type': 'Organization',
-          image: site.siteMetadata.image,
+          image: translatedData.logo.publicURL,
           name: siteName,
           url: host,
           logo: undefined,

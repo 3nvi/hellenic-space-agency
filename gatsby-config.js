@@ -2,7 +2,6 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    image: `/assets/images/main.jpg`,
     siteUrl: process.env.URL || 'localhost:8000',
   },
   plugins: [
@@ -17,7 +16,7 @@ module.exports = {
         background_color: '#663399',
         theme_color: '#663399',
         display: 'minimal-ui',
-        icon: 'static/assets/images/favicon.png',
+        icon: 'static/assets/logo.png',
       },
     },
     {
@@ -25,14 +24,6 @@ module.exports = {
       options: {
         name: `assets`,
         path: path.join(__dirname, `static`, `assets`),
-      },
-    },
-
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `images`,
-        path: path.join(__dirname, `src`, `assets`, `images`),
       },
     },
     {
