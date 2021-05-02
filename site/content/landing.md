@@ -20,10 +20,10 @@ el:
       background: /assets/pic03.jpg
     - title: Συντονισμός φορέων και διαχείριση διαστημικών προγραμμάτων
       details: Το ΕΛ.ΚΕ.Δ συντονίζει δημόσιους φορείς και διαχειρίζεται εθνικά προγράμματα και έργα σε τομείς του Διαστήματος, όπως επιστημονική έρευνα και τεχνολογία, τηλεπικοινωνίες, ασφάλεια, περιβάλλον, αγροτική ανάπτυξη, κ.α.
-      background: /assets/pic04.png
+      background: /assets/pic04.jpg
   goalsTitle: Ο ρόλος του ΕΛ.ΚΕ.Δ. είναι πολυποίκιλος
   goalsSubtitle: Ανάμεσα στις κύριες αρμοδιότητές του περιλαμβάνονται οι ακόλουθες
-  goalsBackground: /assets/pic02.jpg
+  goalsBackground: /assets/pic08.jpg
   goals:
     - title: Ενίσχυση της οικονομίας
       details: >-
@@ -75,10 +75,10 @@ en:
       background: /assets/pic03.jpg
     - title: Coordination and management of national space projects
       details: The Hellenic Space Center coordinates public entities and manages national programs in all space sectors, including scientific research and technology, telecommunications, security, environment, agricultural development, etc.
-      background: /assets/pic04.png
+      background: /assets/pic04.jpg
   goalsTitle: The Role of H.S.C. is multiple,
   goalsSubtitle: Among its main responsibilities are the following,
-  goalsBackground: /assets/pic02.jpg
+  goalsBackground: /assets/pic08.jpg
   goals:
     - title: Strengthening of the Economy
       details: Contribution in the development & reinforcement of technology and space applications, services and facilities to benefit the national industry and research.

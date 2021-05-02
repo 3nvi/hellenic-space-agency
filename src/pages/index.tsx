@@ -206,6 +206,13 @@ const Landing: React.FC<Page<LandingPageQuery>> = ({ data }) => {
 };
 
 export const query = graphql`
+  fragment BackgroundImageFluid on File {
+    childImageSharp {
+      fluid(quality: 70, maxWidth: 1920) {
+        ...GatsbyImageSharpFluid_withWebp
+      }
+    }
+  }
   query LandingPage {
     landing: file(name: { eq: "landing" }) {
       childMarkdownRemark {
@@ -213,31 +220,19 @@ export const query = graphql`
           en {
             mainTitle
             mainBackground {
-              childImageSharp {
-                fluid(quality: 25, maxWidth: 1920) {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
-              }
+              ...BackgroundImageFluid
             }
             missions {
               title
               details
               background {
-                childImageSharp {
-                  fluid(quality: 50, maxWidth: 1920) {
-                    ...GatsbyImageSharpFluid_withWebp
-                  }
-                }
+                ...BackgroundImageFluid
               }
             }
             goalsTitle
             goalsSubtitle
             goalsBackground {
-              childImageSharp {
-                fluid(quality: 4, maxWidth: 1920) {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
-              }
+              ...BackgroundImageFluid
             }
             goals {
               title
@@ -248,31 +243,19 @@ export const query = graphql`
           el {
             mainTitle
             mainBackground {
-              childImageSharp {
-                fluid(quality: 25, maxWidth: 1920) {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
-              }
+              ...BackgroundImageFluid
             }
             missions {
               title
               details
               background {
-                childImageSharp {
-                  fluid(quality: 50, maxWidth: 1920) {
-                    ...GatsbyImageSharpFluid_withWebp
-                  }
-                }
+                ...BackgroundImageFluid
               }
             }
             goalsTitle
             goalsSubtitle
             goalsBackground {
-              childImageSharp {
-                fluid(quality: 4, maxWidth: 1920) {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
-              }
+              ...BackgroundImageFluid
             }
             goals {
               title

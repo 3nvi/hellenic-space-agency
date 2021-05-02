@@ -16,9 +16,7 @@ const About: React.FC<Page<AboutPageQuery>> = ({ data }) => {
       <BackgroundImage
         Tag="section"
         className="banner"
-        fluid={
-          data.about.childMarkdownRemark.frontmatter['en'].mainBackground.childImageSharp.fluid
-        }
+        fluid={translatedData.mainBackground.childImageSharp.fluid}
       >
         <div className="content flex-center">
           <header className="major">
@@ -67,11 +65,18 @@ export const query = graphql`
               name
               role
             }
+            mainBackground {
+              childImageSharp {
+                fluid(quality: 70, maxWidth: 1920) {
+                  ...GatsbyImageSharpFluid_withWebp
+                }
+              }
+            }
           }
           en {
             mainBackground {
               childImageSharp {
-                fluid(quality: 50, maxWidth: 1920) {
+                fluid(quality: 70, maxWidth: 1920) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
