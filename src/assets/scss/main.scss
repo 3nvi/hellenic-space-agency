@@ -1663,7 +1663,6 @@ body .landing {
 
   nav {
     position: absolute;
-    //top: 1em;
     right: 10em;
     top: 0;
 
@@ -1674,10 +1673,8 @@ body .landing {
         display: inline-block;
         margin-left: 1em;
 
-        a,
-        span {
+        a {
           border: 0;
-          color: inherit;
           display: inline-block;
           height: inherit;
           line-height: inherit;
@@ -1693,15 +1690,6 @@ body .landing {
             margin-right: 0.5em;
           }
         }
-
-        & > a.active,
-        & > span.active {
-          color: _palette(accent1);
-        }
-
-        > ul {
-          /*display: none;*/
-        }
       }
     }
   }
@@ -1710,6 +1698,17 @@ body .landing {
     position: relative;
     top: 10px;
     margin-right: 10px;
+  }
+}
+
+nav ul li {
+  a {
+    color: inherit;
+
+    &[aria-current='page'],
+    &.active {
+      color: _palette(accent1);
+    }
   }
 }
 
@@ -2308,23 +2307,13 @@ body.is-touch {
     .link {
       border: 0;
       border-top: solid 1px transparentize(_palette(border), 0.25);
-      color: _palette(fg);
       display: block;
       height: 3em;
       line-height: 3em;
       text-decoration: none;
 
-      &:hover {
-        color: inherit !important;
-      }
-
       &:first-child {
         border-top: 0;
-      }
-
-      &.depth-0 {
-        color: _palette(fg-bold);
-        font-weight: _font(weight-bold);
       }
 
       .indent-1 {

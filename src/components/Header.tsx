@@ -6,16 +6,11 @@ import useGetLogo from '../hooks/useGetLogo';
 
 const Header: React.FC = () => {
   const [isMenuActive, setMenuActive] = React.useState(false);
-  const [mobileActiveClass, setMobileActiveClass] = React.useState('');
+
   const logo = useGetLogo();
-
-  React.useEffect(() => {
-    setMobileActiveClass(isMenuActive ? 'navPanel-visible' : '');
-  }, [isMenuActive]);
-
   return (
     <React.Fragment>
-      <div className={`navbar-menu ${mobileActiveClass}`}>
+      <div className={`navbar-menu ${isMenuActive ? 'navPanel-visible' : ''}`}>
         <div id="titleBar">
           <button
             onClick={() => setMenuActive(!isMenuActive)}
