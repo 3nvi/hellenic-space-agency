@@ -42,7 +42,7 @@ collections:
               - { label: Background Photo, name: background, widget: image, i18n: true }
           - { label: Goals Title, name: goalsTitle, widget: string, i18n: true }
           - { label: Goals Subtitle, name: goalsSubtitle, widget: string, i18n: true }
-          - { label: Goals Background Photo, name: goalsbackground, widget: image, i18n: true }
+          - { label: Goals Background Photo, name: goalsΒackground, widget: image, i18n: true }
           - label: Goal
             name: goals
             widget: list
