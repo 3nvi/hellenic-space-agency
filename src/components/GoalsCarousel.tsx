@@ -20,7 +20,7 @@ const GoalsCarousel: React.FC<GoalsCarouselProps> = ({ goals }) => {
   const goal = goals[goalIndex];
   return (
     <Fade delay={200}>
-      <section className="align-center">
+      <section className="full-width align-center">
         <h3>{goal.title}</h3>
         <p>{goal.details}</p>
       </section>

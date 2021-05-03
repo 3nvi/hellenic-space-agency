@@ -13,8 +13,9 @@ en:
       body: >-
         As part of its staffing efforts the Hellenic Space Center has launched an open call of interest 
         for filling five (5) positions by secondment of employees who currently serve in the General
-        Government and/or the wider Public Sector. Those interested can find detailed information at the link below:
+        Government and/or the wider Public Sector. 
 
+        Those interested can find detailed information at the link below:
 
         [Announcement of Secondments](https://res.cloudinary.com/front-end-matters/image/upload/v1612782392/hellenic-space-center/%CE%91%CE%9D%CE%91%CE%9A%CE%9F%CE%99%CE%9D%CE%A9%CE%A3%CE%97_%CE%91%CE%A0%CE%9F%CE%A3%CE%A0%CE%91%CE%A3%CE%95%CE%A9%CE%9D_%CE%91%CE%A0_2480_%CE%95%CE%9E_2021-%CE%A5%CF%88%CE%B7%CE%94_29.01.2021_%CE%91%CE%94%CE%91_%CE%A9%CE%A4%CE%A5346%CE%9C%CE%A4%CE%9B%CE%A0-6%CE%9C%CE%91.pdf)
       date: 2021-02-08T10:12:00.000Z
@@ -34,8 +35,9 @@ el:
         Στο πλαίσιο της στελέχωσής του, το Ελληνικό Κέντρο Διαστήματος προχωρά σε ανοιχτή πρόσκληση
         εκδήλωσης ενδιαφέροντος για την πλήρωση πέντε (5) θέσεων με απόσπαση μόνιμων ή με σύμβαση εργασίας
         ιδιωτικού δικαίου αορίστου χρόνου (ΙΔΑΧ) υπαλλήλων, που σήμερα υπηρετούν σε φορείς της Γενικής
-        Κυβέρνησης και του ευρύτερου Δημόσιου Τομέα. Οι ενδιαφερόμενοι μπορούν να βρουν αναλυτικές πληροφορίες στον ακόλουθο σύνδεσμο.
+        Κυβέρνησης και του ευρύτερου Δημόσιου Τομέα. 
 
+        Οι ενδιαφερόμενοι μπορούν να βρουν αναλυτικές πληροφορίες στον ακόλουθο σύνδεσμο.
 
         [Ανακοίνωση Αποσπάσεων](https://res.cloudinary.com/front-end-matters/image/upload/v1612782392/hellenic-space-center/%CE%91%CE%9D%CE%91%CE%9A%CE%9F%CE%99%CE%9D%CE%A9%CE%A3%CE%97_%CE%91%CE%A0%CE%9F%CE%A3%CE%A0%CE%91%CE%A3%CE%95%CE%A9%CE%9D_%CE%91%CE%A0_2480_%CE%95%CE%9E_2021-%CE%A5%CF%88%CE%B7%CE%94_29.01.2021_%CE%91%CE%94%CE%91_%CE%A9%CE%A4%CE%A5346%CE%9C%CE%A4%CE%9B%CE%A0-6%CE%9C%CE%91.pdf)
       date: 2021-02-08T10:12:00.000Z

@@ -26,7 +26,7 @@ el:
 
     | 7 | Διαστημικές Επιστήμες και Εξερεύνηση του Διαστήματος (Space Sciences and Space Exploration) | ΕΕΠ-Μηχανικών ή Θετικών Επιστημών | 1 |  
 
-    | 8 | Διαστημικά Συστήματα (Space Systems) | ΕΕΠ-Μηχανικών ή Θετικών Επιστημώ | 3 |
+    | 8 | Διαστημικά Συστήματα (Space Systems) | ΕΕΠ-Μηχανικών ή Θετικών Επιστημών | 3 |
 
 
     Οι υποψήφιοι καλούνται κατά την πρώτη φάση να υποβάλλουν ηλεκτρονικά στη διεύθυνση [sec@hsc.gov.gr](mailto:sec@hsc.gov.gr)
@@ -74,7 +74,7 @@ en:
     | 8 | Space Systems | SCP-Engineering or Science | 3 |
 
 
-    Candidates are kindly requested to submit the following to:
+    Candidates are kindly requested to submit the following to [sec@hsc.gov.gr](mailto:sec@hsc.gov.gr):
 
     1. Filled Application Form in [.pdf](https://res.cloudinary.com/front-end-matters/image/upload/v1614419553/hellenic-space-center/%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%97_%CE%A5%CE%A0%CE%9F%CE%A8%CE%97%CE%A6%CE%99%CE%9F%CE%A4%CE%97%CE%A4%CE%91%CE%A3.pdf) or [.docx](https://res.cloudinary.com/front-end-matters/raw/upload/v1614419558/hellenic-space-center/%CE%91%CE%99%CE%A4%CE%97%CE%A3%CE%97_%CE%A5%CE%A0%CE%9F%CE%A8%CE%97%CE%A6%CE%99%CE%9F%CE%A4%CE%97%CE%A4%CE%91%CE%A3.docx) (per position)
 
