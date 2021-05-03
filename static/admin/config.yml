@@ -82,13 +82,13 @@ collections:
           - { label: Main Title, name: mainTitle, widget: string, i18n: true }
           - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
           - label: News
-            name: news
+            name: items
             widget: list
             i18n: true
             fields:
               - { label: Title, name: title, widget: string, i18n: true }
               - { label: Body, name: body, widget: markdown, i18n: true }
-              - { label: Date, name: date, widget: date, i18n: false }
+              - { label: Date, name: date, widget: date, i18n: true }
 
       - label: Careers Page
         name: careers
