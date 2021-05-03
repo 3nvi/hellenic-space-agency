@@ -5,6 +5,7 @@ import ContactForm from '../components/ContactForm';
 import { graphql } from 'gatsby';
 import useTranslation from '../hooks/useTranslation';
 import { ContactPageQuery } from '../../graphql-types';
+import Markdown from '../components/Markdown';
 
 const Contact: React.FC<Page<ContactPageQuery>> = ({ data }) => {
   const translatedData = useTranslation(data.contact);
@@ -21,13 +22,7 @@ const Contact: React.FC<Page<ContactPageQuery>> = ({ data }) => {
           <div className="row gtr-150 aln-center">
             <div className="col-6 col-12-medium ">
               <section id="sidebar">
-                <h3>{translatedData.addressLabel}</h3>
-                <address>{translatedData.address}</address>
-                <p>
-                  <a href="mailto:info@hsc.gov.gr" rel="noopener noreferrer">
-                    info@hsc.gov.gr
-                  </a>
-                </p>
+                <Markdown>{translatedData.mapHeader}</Markdown>
               </section>
               <section id="content">
                 <iframe
@@ -42,8 +37,7 @@ const Contact: React.FC<Page<ContactPageQuery>> = ({ data }) => {
             </div>
             <div className="col-6 col-12-medium ">
               <section>
-                <h3>{translatedData.contactFormTitle}</h3>
-                <p>{translatedData.contactFormSubtitle}</p>
+                <Markdown>{translatedData.contactFormHeader}</Markdown>
                 <ContactForm />
               </section>
             </div>
@@ -62,18 +56,14 @@ export const query = graphql`
           el {
             mainTitle
             mainSubtitle
-            contactFormTitle
-            contactFormSubtitle
-            addressLabel
-            address
+            contactFormHeader
+            mapHeader
           }
           en {
             mainTitle
             mainSubtitle
-            contactFormTitle
-            contactFormSubtitle
-            addressLabel
-            address
+            contactFormHeader
+            mapHeader
           }
         }
       }
