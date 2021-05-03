@@ -29,7 +29,7 @@ collections:
         file: site/content/landing.md
         i18n: true
         fields:
-          - { label: Navigation Label, name: navigationLabel, widget: string }
+          - { label: Navigation Label, name: navigationLabel, widget: string, i18n: true }
           - { label: Title, name: mainTitle, widget: string }
           - { label: Background Photo, name: mainBackground, widget: image, i18n: true }
           - label: Mission
@@ -55,7 +55,7 @@ collections:
         file: site/content/about.md
         i18n: true
         fields:
-          - { label: Navigation Label, name: navigationLabel, widget: string }
+          - { label: Navigation Label, name: navigationLabel, widget: string, i18n: true }
           - { label: Main Title, name: mainTitle, widget: string, i18n: true }
           - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
           - { label: Team Subtitle, name: membersSubtitle, widget: string, i18n: true }
@@ -78,7 +78,7 @@ collections:
         file: site/content/news.md
         i18n: true
         fields:
-          - { label: Navigation Label, name: navigationLabel, widget: string }
+          - { label: Navigation Label, name: navigationLabel, widget: string, i18n: true }
           - { label: Main Title, name: mainTitle, widget: string, i18n: true }
           - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
           - label: News
@@ -95,7 +95,7 @@ collections:
         file: site/content/careers.md
         i18n: true
         fields:
-          - { label: Navigation Label, name: navigationLabel, widget: string }
+          - { label: Navigation Label, name: navigationLabel, widget: string, i18n: true }
           - { label: Main Title, name: mainTitle, widget: string, i18n: true }
           - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
           - { label: Content, name: content, widget: markdown, i18n: true }
@@ -105,7 +105,7 @@ collections:
         file: site/content/contact.md
         i18n: true
         fields:
-          - { label: Navigation Label, name: navigationLabel, widget: string }
+          - { label: Navigation Label, name: navigationLabel, widget: string, i18n: true }
           - { label: Main Title, name: mainTitle, widget: string, i18n: true }
           - { label: Main Subtitle, name: mainSubtitle, widget: string, i18n: true }
           - { label: Contact Form Title, name: contactFormTitle, widget: string, i18n: true }
