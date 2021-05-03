@@ -19,7 +19,7 @@ const Header: React.FC = () => {
           />
           <span className="title">
             <Link to="/">
-              <img src={logo.publicURL} width={40} height={40} alt="HSC Logo" />
+              <img src={logo.publicURL} height={40} alt="HSC Logo" />
             </Link>
           </span>
         </div>
@@ -33,7 +33,7 @@ const Header: React.FC = () => {
 
       <header id="header">
         <Link to="/">
-          <img src={logo.publicURL} width={75} height={75} alt="HSC Logo" />
+          <img src={logo.publicURL} height={60} alt="HSC Logo" />
         </Link>
         <div className="navbar-menu">
           <Navigation orientation="horizontal" />

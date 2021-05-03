@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
           </a>
           ,{' '}
           <a href="https://imgur.com/rzMZRFt" target="_blank" rel="noopener noreferrer">
-            Inefect69m
+            Inefect69
           </a>
           ,{' '}
           <a

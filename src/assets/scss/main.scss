@@ -1647,7 +1647,7 @@ body .landing {
   left: 0;
   line-height: 3.5em;
   position: fixed;
-  top: 0.25em;
+  top: 0;
   width: 100%;
   z-index: 100;
 
@@ -1659,6 +1659,11 @@ body .landing {
     margin: 0;
     position: absolute;
     top: -0.25em;
+  }
+
+  img {
+    vertical-align: middle;
+    vertical-align: -webkit-baseline-middle;
   }
 
   nav {
