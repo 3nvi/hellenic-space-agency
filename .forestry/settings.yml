@@ -33,7 +33,7 @@ upload_dir: static/assets
 public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":filename:"
+file_template: 'assets/:filename:'
 build:
   preview_output_directory: public
   install_dependencies_command: npm install
