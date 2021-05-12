@@ -21,6 +21,10 @@ fields:
   - type: textarea
     name: content
     label: content
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: field_group_list
     name: team
     label: team
@@ -62,6 +66,10 @@ fields:
   - type: textarea
     name: content
     label: content
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: field_group_list
     name: team
     label: team
