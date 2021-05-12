@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Pages
+- type: document
+  path: site/content/404.md
+  label: '404'
+  match: "**/*"
 - type: document
   path: site/content/meta.md
   label: Site Metadata
