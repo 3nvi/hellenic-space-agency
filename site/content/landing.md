@@ -57,7 +57,7 @@ el:
 en:
   navigationLabel: Home
   mainTitle: Hellenic Space Center
-  mainBackground: "/assets/pic01.jpg"
+  mainBackground: "/assets/sergis.jpg"
   missions:
   - title: National space strategy and action plan
     details: The Hellenic Space Center formulates the elements of the national strategy
