@@ -92,3 +92,5 @@ fields:
   - type: file
     name: mainBackground
     label: mainBackground
+pages:
+- site/content/about.md
