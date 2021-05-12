@@ -2,7 +2,7 @@
 el:
   navigationLabel: Αρχική
   mainTitle: Ελληνικο Ιδρυμα Διαστηματος
-  mainBackground: "/assets/pic01.jpg"
+  mainBackground: "/static/sergis.jpg"
   missions:
   - title: Εθνική Διαστημική Πολιτική και Στρατηγικό Σχέδιο Δράσης
     details: Σε συνεργασία με την πολιτική ηγεσία, το Ελληνικό Κέντρο Διαστήματος
