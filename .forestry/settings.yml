@@ -7,10 +7,8 @@ sections:
 - type: document
   path: site/content/meta.md
   label: Site Metadata
-  match: "**/*"
-  read_only: false
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: static/assets
+public_path: "/static"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
