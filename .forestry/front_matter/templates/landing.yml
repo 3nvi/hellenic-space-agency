@@ -47,8 +47,14 @@ fields:
     - type: textarea
       name: details
       label: details
-  - type: text
-    name: banner
+  - name: banner
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: banner
 - type: field_group
   name: en
@@ -95,6 +101,12 @@ fields:
     - type: textarea
       name: details
       label: details
-  - type: text
-    name: banner
+  - name: banner
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: banner
