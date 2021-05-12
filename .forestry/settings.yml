@@ -5,14 +5,14 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: site/content/about.md
-  label: About
-  match: "**/*"
-- type: document
   path: site/content/meta.md
   label: Site Metadata
 - type: heading
   label: Pages
+- type: document
+  path: site/content/about.md
+  label: About
+  match: "**/*"
 - type: document
   path: site/content/news.md
   label: News
