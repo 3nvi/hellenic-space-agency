@@ -14,7 +14,6 @@ sections:
 - type: document
   path: site/content/landing.md
   label: Landing
-  match: "**/*"
 - type: document
   path: site/content/about.md
   label: About
