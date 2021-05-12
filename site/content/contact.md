@@ -15,7 +15,10 @@ en:
   formSubjectLabel: Subject
   formEmailLabel: Your Email address
   formBodyLabel: Your message
-  contactformheader: ''
+  contactformheader: |-
+    ### Contact Form
+
+    Please fill in the form below and we'll get in touch with you as soon as possible
 el:
   navigationLabel: Επικοινωνία
   mainTitle: Επικοινωνία
