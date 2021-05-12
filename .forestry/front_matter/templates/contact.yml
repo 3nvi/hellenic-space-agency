@@ -15,8 +15,14 @@ fields:
   - type: text
     name: mainSubtitle
     label: mainSubtitle
-  - type: text
-    name: contactFormHeader
+  - name: contactformheader
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
     label: contactFormHeader
   - type: textarea
     name: mapHeader
