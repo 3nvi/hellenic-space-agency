@@ -18,6 +18,7 @@ fields:
   - type: file
     name: logo
     label: logo
+    description: The logo shown inside the site and on the browser tab
 - type: field_group
   name: el
   label: el
