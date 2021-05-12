@@ -1,6 +1,6 @@
 ---
 label: Careers
-hide_body: false
+hide_body: true
 fields:
 - type: field_group
   name: el
