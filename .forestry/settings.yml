@@ -12,7 +12,6 @@ sections:
 - type: document
   path: site/content/news.md
   label: News
-  match: "**/*"
 - type: document
   path: site/content/careers.md
   label: Careers
