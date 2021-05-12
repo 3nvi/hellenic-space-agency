@@ -44,6 +44,8 @@ fields:
     - type: file
       name: avatar
       label: avatar
+    config:
+      labelField: name
   - type: file
     name: mainBackground
     label: mainBackground
@@ -89,6 +91,8 @@ fields:
     - type: file
       name: avatar
       label: avatar
+    config:
+      labelField: name
   - type: file
     name: mainBackground
     label: mainBackground
