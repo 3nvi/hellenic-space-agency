@@ -62,3 +62,5 @@ fields:
     - type: datetime
       name: date
       label: date
+pages:
+- site/content/news.md
