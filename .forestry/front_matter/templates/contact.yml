@@ -27,6 +27,10 @@ fields:
   - type: textarea
     name: mapHeader
     label: mapHeader
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   - type: text
     name: formSuccessMessage
     label: formSuccessMessage
