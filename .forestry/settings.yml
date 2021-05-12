@@ -12,7 +12,6 @@ sections:
 - type: document
   path: site/content/about.md
   label: About
-  match: "**/*"
 - type: document
   path: site/content/news.md
   label: News

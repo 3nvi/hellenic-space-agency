@@ -1,0 +1,86 @@
+---
+label: About
+hide_body: true
+fields:
+- type: field_group
+  name: en
+  label: en
+  fields:
+  - type: text
+    name: navigationLabel
+    label: navigationLabel
+  - type: text
+    name: mainTitle
+    label: mainTitle
+  - type: text
+    name: mainSubtitle
+    label: mainSubtitle
+  - type: text
+    name: membersSubtitle
+    label: membersSubtitle
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group_list
+    name: team
+    label: team
+    fields:
+    - type: text
+      name: link
+      label: link
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: role
+      label: role
+    - type: textarea
+      name: bio
+      label: bio
+    - type: file
+      name: avatar
+      label: avatar
+  - type: file
+    name: mainBackground
+    label: mainBackground
+- type: field_group
+  name: el
+  label: el
+  fields:
+  - type: text
+    name: navigationLabel
+    label: navigationLabel
+  - type: text
+    name: mainTitle
+    label: mainTitle
+  - type: text
+    name: mainSubtitle
+    label: mainSubtitle
+  - type: text
+    name: membersSubtitle
+    label: membersSubtitle
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group_list
+    name: team
+    label: team
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: role
+      label: role
+    - type: text
+      name: link
+      label: link
+    - type: textarea
+      name: bio
+      label: bio
+    - type: file
+      name: avatar
+      label: avatar
+  - type: file
+    name: mainBackground
+    label: mainBackground
