@@ -16,6 +16,10 @@ sections:
   path: site/content/careers.md
   label: Careers
 - type: document
+  path: site/content/contact.md
+  label: Contact
+  match: "**/*"
+- type: document
   path: site/content/404.md
   label: '404'
 upload_dir: static/assets
