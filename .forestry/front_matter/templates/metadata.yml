@@ -35,3 +35,5 @@ fields:
   - type: file
     name: logo
     label: logo
+pages:
+- site/content/meta.md
