@@ -2,4 +2,4 @@
 ## redirected by our `/*` catch-all redirect. We need that because there's no `admin` page under
 ## `/src/pages` since `/admin` is created for us internally via gatsby-plugin-netlify-cms
 
-/admin              /admin/
+/admin              /admin
