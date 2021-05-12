@@ -12,7 +12,6 @@ sections:
 - type: document
   path: site/content/careers.md
   label: Careers
-  match: "**/*"
 - type: document
   path: site/content/404.md
   label: '404'
