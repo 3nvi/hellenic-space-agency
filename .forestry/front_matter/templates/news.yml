@@ -25,6 +25,10 @@ fields:
     - type: textarea
       name: body
       label: body
+      config:
+        wysiwyg: true
+        schema:
+          format: markdown
     - type: datetime
       name: date
       label: date
@@ -51,6 +55,10 @@ fields:
     - type: textarea
       name: body
       label: body
+      config:
+        wysiwyg: true
+        schema:
+          format: markdown
     - type: datetime
       name: date
       label: date
