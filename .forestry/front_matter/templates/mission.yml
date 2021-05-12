@@ -1,4 +1,23 @@
 ---
 label: Mission
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: details
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Details
+- name: background
+  type: file
+  config:
+    maxSize: 64
+  label: Background Photo
