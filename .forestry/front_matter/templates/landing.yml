@@ -110,3 +110,5 @@ fields:
       schema:
         format: markdown
     label: banner
+pages:
+- site/content/landing.md
