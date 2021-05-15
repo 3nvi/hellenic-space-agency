@@ -2,7 +2,7 @@
 el:
   navigationLabel: Αρχική
   mainTitle: Ελληνικο Κεντρο Διαστηματος
-  mainBackground: "/assets/daglis.jpg"
+  mainBackground: "/assets/pic01.jpg"
   missions:
   - title: Εθνική Διαστημική Πολιτική και Στρατηγικό Σχέδιο Δράσης
     details: Σε συνεργασία με την πολιτική ηγεσία, το Ελληνικό Κέντρο Διαστήματος
