@@ -1,5 +1,5 @@
 const nodemailer = require('nodemailer');
-const { OAuth2 } = require('googleapis');
+const { google } = require('googleapis');
 
 const OAUTH_PLAYGROUND = 'https://developers.google.com/oauthplayground';
 
@@ -8,7 +8,7 @@ exports.handler = function(event, context, callback) {
     return callback(null, { statusCode: 405, body: 'Method Not Allowed' });
   }
 
-  const oauth2Client = new OAuth2(
+  const oauth2Client = new google.auth.OAuth2(
     process.env.MAILING_SERVICE_CLIENT_ID,
     process.env.MAILING_SERVICE_CLIENT_SECRET,
     OAUTH_PLAYGROUND
