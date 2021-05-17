@@ -22,7 +22,7 @@ exports.handler = function(event, context, callback) {
     service: 'gmail',
     auth: {
       type: 'OAuth2',
-      user: process.env.CONTACT_EMAIL,
+      user: process.env.SENDER_EMAIL,
       clientId: process.env.MAILING_SERVICE_CLIENT_ID,
       clientSecret: process.env.MAILING_SERVICE_CLIENT_SECRET,
       refreshToken: process.env.MAILING_SERVICE_REFRESH_TOKEN,
