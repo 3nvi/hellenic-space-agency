@@ -33,7 +33,7 @@ exports.handler = function(event, context, callback) {
   const { email, subject, body } = JSON.parse(event.body);
   transporter.sendMail(
     {
-      from: process.env.CONTACT_EMAIL,
+      from: process.env.SENDER_EMAIL,
       to: process.env.DESTINATION_EMAILS,
       subject: `Contact form submission from ${email}: ${subject}`,
       text: body,
