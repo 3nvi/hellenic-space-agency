@@ -13,7 +13,7 @@ en:
       deadline: July 19 2021.\n\nTake a look at this year’s Challenges and Prizes:
       [https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/](https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/
       \"https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/\")"
-    date: 
+    date: 2021-05-25T21:00:00Z
   - title: Copernicus Masters Competition
     body: |-
       The [Copernicus Masters](https://copernicus-masters.com/) is the global innovation competition at the forefront of Earth observation (EO) data utilization. It awards innovators fostering new solutions and concepts that showcase the benefits of the European Copernicus services to our everyday life.
