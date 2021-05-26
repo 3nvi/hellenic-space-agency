@@ -4,11 +4,11 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
-  - title: Call for applications for Inter-institutional Master Studies Program -
-      Space Technologies, Applications and SeRvices (STAR)
+  - title: Call for applications for the Inter-institutional Master's Degree Program
+      - Space Technologies, Applications and SeRvices (STAR)
     body: "The Department of Informatics and Telecommunications of the National and
-      Kapodistrian University of Athens is currently accepting applications for its
-      Inter-institutional Master Studies Program \"Space Technologies, Applications
+      Kapodistrian University of Athens is currently accepting applications for the
+      Inter-institutional Master's Degree Program \"Space Technologies, Applications
       and SeRvices (STAR)\".  \n  \nApplication deadline: June 11 2021.\n\nFind the
       call [here](http://star.uoa.gr/prokhryksh2021.pdf) (in greek). Official website:
       [http://star.uoa.gr/](http://star.uoa.gr/index_english.php \"http://star.uoa.gr/\")"
