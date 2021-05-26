@@ -29,7 +29,7 @@ el:
       ΤΕΧΝΟΛΟΓΙΕΣ, ΕΦΑΡΜΟΓΕΣ και ΥΠΗΡΕΣΙΕΣ» (Space Technologies, Applications and
       seRvices - STAR).  \n  \nΠροθεσμία αιτήσεων: 17/5-11/6/2021.  \nΔιαβάστε την
       προκήρυξη [εδώ](http://star.uoa.gr/prokhryksh2021.pdf).  \nΕπίσημη ιστοσελίδα:
-      [http://star.uoa.gr/](http://star.uoa.gr/ \"http://star.uoa.gr/\")"
+      [http://star.uoa.gr/](http://star.uoa.gr/ \"http://star.uoa.gr/\") "
     date: 2021-05-26T09:12:51Z
   - title: Προσεχής προκήρυξη για πρόσληψη Ειδικού Επιστημονικού Προσωπικού
     body: Στο πλαίσιο της στελέχωσής του, το Ελληνικό Κέντρο Διαστήματος θα δημοσιοποιήσει
