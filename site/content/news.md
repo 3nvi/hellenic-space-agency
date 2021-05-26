@@ -30,6 +30,14 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Διαγωνισμός Copernicus Masters
+    body: |-
+      To [Copernicus Masters](https://copernicus-masters.com/) είναι ένας παγκόσμιος διαγωνισμός καινοτομίας στην πρώτη γραμμή της αξιοποίησης δεδομένων δορυφορικής παρατήρησης της Γης (Earth Observation - EO). Επιβραβεύει τους πρωτοπόρους που υιοθετούν νέες λύσεις και ιδέες οι οποίες επιδεικνύουν τα οφέλη των ευρωπαϊκών εφαρμογών Copernicus στην καθημερινή ζωή.
+
+      Λήξη προθεσμίας υποβολής αιτήσεων: 19/7/2021.
+
+      Δείτε τις Προκλήσεις και τα Έπαθλα της φετινής χρονιάς στη σελίδα: [https://copernicus-masters.com/.../copernicus-prize-greece/](https://copernicus-masters.com/.../copernicus-prize-greece/ "https://copernicus-masters.com/.../copernicus-prize-greece/")
+    date: 
   - title: Προκήρυξη Διιδρυματικού Προγράμματος Μεταπτυχιακών Σπουδών - «ΔΙΑΣΤΗΜΙΚΕΣ
       ΤΕΧΝΟΛΟΓΙΕΣ, ΕΦΑΡΜΟΓΕΣ και ΥΠΗΡΕΣΙΕΣ» (STAR)
     body: "Το Τμήμα Πληροφορικής και Τηλεπικοινωνιών του Εθνικού και Καποδιστριακού
