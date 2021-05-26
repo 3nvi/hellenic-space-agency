@@ -12,7 +12,7 @@ en:
       and SeRvices (STAR)\".  \n  \nApplication deadline: June 11 2021.\n\nFind the
       call [here](http://star.uoa.gr/prokhryksh2021.pdf) (in greek). Official website:
       [http://star.uoa.gr/](http://star.uoa.gr/index_english.php \"http://star.uoa.gr/\")"
-    date: 
+    date: 2021-05-25T21:00:00Z
   - title: Upcoming announcement for the recruitment of Special Scientific Staff
     body: Τhe Hellenic Space Center will soon post an announcement concerning the
       hiring of Specialised Scientific Staff. The announcement and the required application
