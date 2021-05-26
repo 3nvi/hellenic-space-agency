@@ -8,7 +8,7 @@ en:
     body: Τhe Hellenic Space Center will soon post an announcement concerning the
       hiring of Specialised Scientific Staff. The announcement and the required application
       forms (in Greek) will be available on the HSC website.
-    date: 2021-02-19T10:12:00Z
+    date: 2021-02-19T10:12:00.000+00:00
   - title: Announcement – Invitation of secondments for the HSC staff
     body: "As part of its staffing efforts the Hellenic Space Center has launched
       an open call of interest  for filling five (5) positions by secondment of employees
@@ -21,6 +21,16 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: 'Προκήρυξη Διιδρυματικού Προγράμματος Μεταπτυχιακών Σπουδών - ΔΙΑΣΤΗΜΙΚΕΣ
+      ΤΕΧΝΟΛΟΓΙΕΣ, ΕΦΑΡΜΟΓΕΣ και ΥΠΗΡΕΣΙΕΣ (STAR) '
+    body: "Το Τμήμα Πληροφορικής και Τηλεπικοινωνιών του Εθνικού και Καποδιστριακού
+      Πανεπιστημίου Αθηνών δέχεται αιτήσεις για σπουδές στο εγκεκριμένο σύμφωνα με
+      τον Ν. 4485/17 Διιδρυματικό Πρόγραμμα Μεταπτυχιακών Σπουδών (ΔΠΜΣ) «ΔΙΑΣΤΗΜΙΚΕΣ
+      ΤΕΧΝΟΛΟΓΙΕΣ, ΕΦΑΡΜΟΓΕΣ και ΥΠΗΡΕΣΙΕΣ» (Space Technologies, Applications and
+      seRvices - STAR).   \n  \nΠροθεσμία αιτήσεων: 17/5-11/6/2021.  \nΔιαβάστε την
+      προκήρυξη [εδώ](http://star.uoa.gr/prokhryksh2021.pdf).  \nΕπίσημη ιστοσελίδα:
+      [http://star.uoa.gr/](http://star.uoa.gr/ \"http://star.uoa.gr/\")"
+    date: 2021-05-26T09:12:51Z
   - title: Προσεχής προκήρυξη για πρόσληψη Ειδικού Επιστημονικού Προσωπικού
     body: Στο πλαίσιο της στελέχωσής του, το Ελληνικό Κέντρο Διαστήματος θα δημοσιοποιήσει
       τις προσεχείς ημέρες προκήρυξη για την πρόσληψη Ειδικού Επιστημονικό Προσωπικού.
