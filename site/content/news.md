@@ -5,7 +5,7 @@ en:
   mainSubtitle: Find out about our latest updates
   items:
   - title: Call for applications for the Inter-institutional Master's Degree Program
-      - Space Technologies, Applications and SeRvices (STAR)
+      - "Space Technologies, Applications and SeRvices (STAR)"
     body: "The Department of Informatics and Telecommunications of the National and
       Kapodistrian University of Athens is currently accepting applications for the
       Inter-institutional Master's Degree Program \"Space Technologies, Applications
