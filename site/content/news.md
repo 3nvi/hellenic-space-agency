@@ -63,7 +63,7 @@ el:
       Λήξη προθεσμίας υποβολής αιτήσεων: 19/7/2021.
 
       Δείτε τις Προκλήσεις και τα Έπαθλα της φετινής χρονιάς στη σελίδα: [https://copernicus-masters.com/.../copernicus-prize-greece/](https://copernicus-masters.com/.../copernicus-prize-greece/ "https://copernicus-masters.com/.../copernicus-prize-greece/")
-    date: 
+    date: 2021-05-25T21:00:00Z
   - title: Προκήρυξη Διιδρυματικού Προγράμματος Μεταπτυχιακών Σπουδών - «ΔΙΑΣΤΗΜΙΚΕΣ
       ΤΕΧΝΟΛΟΓΙΕΣ, ΕΦΑΡΜΟΓΕΣ και ΥΠΗΡΕΣΙΕΣ» (STAR)
     body: "Το Τμήμα Πληροφορικής και Τηλεπικοινωνιών του Εθνικού και Καποδιστριακού
