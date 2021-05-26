@@ -4,6 +4,14 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Copernicus Masters Competition
+    body: |-
+      The [Copernicus Masters](https://copernicus-masters.com/) is the global innovation competition at the forefront of Earth observation (EO) data utilization. It awards innovators fostering new solutions and concepts that showcase the benefits of the European Copernicus services to our everyday life.
+
+      Application deadline: July 19 2021.
+
+      Take a look at this year’s Challenges and Prizes: [https://copernicus-masters.com/copernicus-prizes/copernicus-prize-greece/](https://copernicus-masters.com/copernicus-prizes/copernicus-prize-greece/ "https://copernicus-masters.com/copernicus-prizes/copernicus-prize-greece/")
+    date: 
   - title: Call for applications for the Inter-institutional Master's Degree Program
       - "Space Technologies, Applications and SeRvices (STAR)"
     body: "The Department of Informatics and Telecommunications of the National and
