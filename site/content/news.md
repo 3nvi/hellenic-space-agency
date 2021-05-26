@@ -4,6 +4,16 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Galileo Masters Competition
+    body: "The [Galileo Masters](https://galileo-masters.eu/) is the global innovation
+      competition scouting for cutting-edge solutions using satellite navigation data.
+      From April onwards, with the support of our global space network of more than
+      89 partners, we are looking for the best GNSS solutions and business cases in
+      the field of e.g. agriculture, healthcare, cyber security, environment. \n\nApplication
+      deadline: July 19 2021.\n\nTake a look at this year’s Challenges and Prizes:
+      [https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/](https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/
+      \"https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/\")"
+    date: 
   - title: Copernicus Masters Competition
     body: |-
       The [Copernicus Masters](https://copernicus-masters.com/) is the global innovation competition at the forefront of Earth observation (EO) data utilization. It awards innovators fostering new solutions and concepts that showcase the benefits of the European Copernicus services to our everyday life.
