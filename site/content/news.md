@@ -21,7 +21,7 @@ en:
       Application deadline: July 19 2021.
 
       Take a look at this year’s Challenges and Prizes: [https://copernicus-masters.com/copernicus-prizes/copernicus-prize-greece/](https://copernicus-masters.com/copernicus-prizes/copernicus-prize-greece/ "https://copernicus-masters.com/copernicus-prizes/copernicus-prize-greece/")
-    date: 
+    date: 2021-05-25T21:00:00Z
   - title: Call for applications for the Inter-institutional Master's Degree Program
       - "Space Technologies, Applications and SeRvices (STAR)"
     body: "The Department of Informatics and Telecommunications of the National and
