@@ -55,7 +55,7 @@ el:
       Λήξη προθεσμίας υποβολής αιτήσεων: 19/7/2021.
 
       Δείτε τις Προκλήσεις και τα Έπαθλα της φετινής χρονιάς στη σελίδα: [https://galileo-masters.eu/galileo.../galileo-prize-greece/](https://galileo-masters.eu/galileo.../galileo-prize-greece/ "https://galileo-masters.eu/galileo.../galileo-prize-greece/")
-    date: 
+    date: 2021-05-25T21:00:00Z
   - title: Διαγωνισμός Copernicus Masters
     body: |-
       To [Copernicus Masters](https://copernicus-masters.com/) είναι ένας παγκόσμιος διαγωνισμός καινοτομίας στην πρώτη γραμμή της αξιοποίησης δεδομένων δορυφορικής παρατήρησης της Γης (Earth Observation - EO). Επιβραβεύει τους πρωτοπόρους που υιοθετούν νέες λύσεις και ιδέες οι οποίες επιδεικνύουν τα οφέλη των ευρωπαϊκών εφαρμογών Copernicus στην καθημερινή ζωή.
