@@ -54,7 +54,7 @@ el:
 
       Λήξη προθεσμίας υποβολής αιτήσεων: 19/7/2021.
 
-      Δείτε τις Προκλήσεις και τα Έπαθλα της φετινής χρονιάς στη σελίδα: [https://galileo-masters.eu/galileo.../galileo-prize-greece/](https://galileo-masters.eu/galileo.../galileo-prize-greece/ "https://galileo-masters.eu/galileo.../galileo-prize-greece/")
+      Δείτε τις Προκλήσεις και τα Έπαθλα της φετινής χρονιάς στη σελίδα: [https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/](https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/ "https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/")
     date: 2021-05-25T21:00:00Z
   - title: Διαγωνισμός Copernicus Masters
     body: |-
