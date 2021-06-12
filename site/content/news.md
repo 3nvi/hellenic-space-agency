@@ -13,7 +13,7 @@ en:
       deadline: July 19 2021.\n\nTake a look at this year’s Challenges and Prizes:
       [https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/](https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/
       \"https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/\")"
-    date: 2021-05-25T21:00:00Z
+    date: 2021-05-25T21:00:00.000+00:00
   - title: Copernicus Masters Competition
     body: |-
       The [Copernicus Masters](https://copernicus-masters.com/) is the global innovation competition at the forefront of Earth observation (EO) data utilization. It awards innovators fostering new solutions and concepts that showcase the benefits of the European Copernicus services to our everyday life.
@@ -21,7 +21,7 @@ en:
       Application deadline: July 19 2021.
 
       Take a look at this year’s Challenges and Prizes: [https://copernicus-masters.com/copernicus-prizes/copernicus-prize-greece/](https://copernicus-masters.com/copernicus-prizes/copernicus-prize-greece/ "https://copernicus-masters.com/copernicus-prizes/copernicus-prize-greece/")
-    date: 2021-05-25T21:00:00Z
+    date: 2021-05-25T21:00:00.000+00:00
   - title: Call for applications for the Inter-institutional Master's Degree Program
       - "Space Technologies, Applications and SeRvices (STAR)"
     body: "The Department of Informatics and Telecommunications of the National and
@@ -30,7 +30,7 @@ en:
       and SeRvices (STAR)\".  \n  \nApplication deadline: June 11 2021.\n\nFind the
       call [here](http://star.uoa.gr/prokhryksh2021.pdf) (in greek). Official website:
       [http://star.uoa.gr/](http://star.uoa.gr/index_english.php \"http://star.uoa.gr/\")"
-    date: 2021-05-25T21:00:00Z
+    date: 2021-05-25T21:00:00.000+00:00
   - title: Upcoming announcement for the recruitment of Special Scientific Staff
     body: Τhe Hellenic Space Center will soon post an announcement concerning the
       hiring of Specialised Scientific Staff. The announcement and the required application
@@ -48,6 +48,11 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στην IAF
+    body: 'Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής, συμμετέχει σε στρογγυλή
+      τράπεζα της [International Astronomical Federation (IAF)](https://www.iafastro.org/)
+      για την εξερεύνηση του διαστήματος και τους κινδύνους της. [Μάθετε περισσότερα](https://www.iafastro.org/events/global-series-conferences/glex-2021/plenary-programme/thursday-17-june-2021/human-roads-to-outer-space-real-and-imaginary-dangers.html) '
+    date: 2021-06-12T10:03:31Z
   - title: Διαγωνισμός Galileo Masters
     body: |-
       Το [Galileo Masters](https://galileo-masters.eu/) είναι ένας παγκόσμιος διαγωνισμός καινοτομίας που αναζητά λύσεις αιχμής χρησιμοποιώντας δορυφορικά δεδομένα πλοήγησης. Από τον Απρίλιο, με την υποστήριξη του παγκοσμίου διαστημικού δικτύου συνεργασίας περισσότερων από 89 συνεργατών, αναζητώνται οι καλύτερες εφαρμογές δορυφορικού εντοπισμού και πλοήγησης (Global Navigation Satellite System - GNSS) και επιχειρηματικές ιδέες στον τομέα της γεωργίας, της υγείας, της διαδικτυακής ασφάλειας, του περιβάλλοντος, κ.ά.
@@ -55,7 +60,7 @@ el:
       Λήξη προθεσμίας υποβολής αιτήσεων: 19/7/2021.
 
       Δείτε τις Προκλήσεις και τα Έπαθλα της φετινής χρονιάς στη σελίδα: [https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/](https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/ "https://galileo-masters.eu/galileo-prizes/galileo-prize-greece/")
-    date: 2021-05-25T21:00:00Z
+    date: 2021-05-25T21:00:00.000+00:00
   - title: Διαγωνισμός Copernicus Masters
     body: |-
       To [Copernicus Masters](https://copernicus-masters.com/) είναι ένας παγκόσμιος διαγωνισμός καινοτομίας στην πρώτη γραμμή της αξιοποίησης δεδομένων δορυφορικής παρατήρησης της Γης (Earth Observation - EO). Επιβραβεύει τους πρωτοπόρους που υιοθετούν νέες λύσεις και ιδέες οι οποίες επιδεικνύουν τα οφέλη των ευρωπαϊκών εφαρμογών Copernicus στην καθημερινή ζωή.
@@ -63,7 +68,7 @@ el:
       Λήξη προθεσμίας υποβολής αιτήσεων: 19/7/2021.
 
       Δείτε τις Προκλήσεις και τα Έπαθλα της φετινής χρονιάς στη σελίδα: [https://copernicus-masters.com/copernicus-prizes/copernicus-prize-greece/](https://copernicus-masters.com/copernicus-prizes/copernicus-prize-greece/ "https://copernicus-masters.com/copernicus-prizes/copernicus-prize-greece/")
-    date: 2021-05-25T21:00:00Z
+    date: 2021-05-25T21:00:00.000+00:00
   - title: Προκήρυξη Διιδρυματικού Προγράμματος Μεταπτυχιακών Σπουδών - «ΔΙΑΣΤΗΜΙΚΕΣ
       ΤΕΧΝΟΛΟΓΙΕΣ, ΕΦΑΡΜΟΓΕΣ και ΥΠΗΡΕΣΙΕΣ» (STAR)
     body: "Το Τμήμα Πληροφορικής και Τηλεπικοινωνιών του Εθνικού και Καποδιστριακού
@@ -73,7 +78,7 @@ el:
       seRvices - STAR).  \n  \nΛήξη προθεσμίας υποβολής αιτήσεων: 11/6/2021.   \nΔιαβάστε
       την προκήρυξη [εδώ](http://star.uoa.gr/prokhryksh2021.pdf). Επίσημη ιστοσελίδα:
       [http://star.uoa.gr/](http://star.uoa.gr/ \"http://star.uoa.gr/\") "
-    date: 2021-05-26T09:12:51Z
+    date: 2021-05-26T09:12:51.000+00:00
   - title: Προσεχής προκήρυξη για πρόσληψη Ειδικού Επιστημονικού Προσωπικού
     body: Στο πλαίσιο της στελέχωσής του, το Ελληνικό Κέντρο Διαστήματος θα δημοσιοποιήσει
       τις προσεχείς ημέρες προκήρυξη για την πρόσληψη Ειδικού Επιστημονικό Προσωπικού.
