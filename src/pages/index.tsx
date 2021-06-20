@@ -11,6 +11,7 @@ import Link from '../components/Link';
 import { Link as ScrollLink } from 'react-scroll/modules';
 import BackgroundImage from 'gatsby-background-image';
 import Markdown from '../components/Markdown';
+import LatestNews from '../components/LatestNews';
 import { LandingPageQuery } from '../../graphql-types';
 
 const Landing: React.FC<Page<LandingPageQuery>> = ({ data }) => {
@@ -38,6 +39,9 @@ const Landing: React.FC<Page<LandingPageQuery>> = ({ data }) => {
           <header>
             <h1>{mainTitle}</h1>
           </header>
+          <div className="latest-news-wrapper">
+            <LatestNews />
+          </div>
         </div>
         <ScrollLink
           to="one"
