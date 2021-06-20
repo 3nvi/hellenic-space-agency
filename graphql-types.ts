@@ -708,18 +708,19 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___en___formSubjectLabel'
   | 'childrenMarkdownRemark___frontmatter___en___formEmailLabel'
   | 'childrenMarkdownRemark___frontmatter___en___formBodyLabel'
-  | 'childrenMarkdownRemark___frontmatter___en___content'
-  | 'childrenMarkdownRemark___frontmatter___en___items'
+  | 'childrenMarkdownRemark___frontmatter___en___contactformheader'
   | 'childrenMarkdownRemark___frontmatter___en___missions'
   | 'childrenMarkdownRemark___frontmatter___en___goalsTitle'
   | 'childrenMarkdownRemark___frontmatter___en___goalsSubtitle'
   | 'childrenMarkdownRemark___frontmatter___en___goals'
   | 'childrenMarkdownRemark___frontmatter___en___banner'
+  | 'childrenMarkdownRemark___frontmatter___en___membersSubtitle'
+  | 'childrenMarkdownRemark___frontmatter___en___content'
+  | 'childrenMarkdownRemark___frontmatter___en___team'
   | 'childrenMarkdownRemark___frontmatter___en___title'
   | 'childrenMarkdownRemark___frontmatter___en___description'
   | 'childrenMarkdownRemark___frontmatter___en___keywords'
-  | 'childrenMarkdownRemark___frontmatter___en___membersSubtitle'
-  | 'childrenMarkdownRemark___frontmatter___en___team'
+  | 'childrenMarkdownRemark___frontmatter___en___items'
   | 'childrenMarkdownRemark___frontmatter___el___navigationLabel'
   | 'childrenMarkdownRemark___frontmatter___el___mainTitle'
   | 'childrenMarkdownRemark___frontmatter___el___mainSubtitle'
@@ -730,18 +731,18 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___el___formSubjectLabel'
   | 'childrenMarkdownRemark___frontmatter___el___formEmailLabel'
   | 'childrenMarkdownRemark___frontmatter___el___formBodyLabel'
-  | 'childrenMarkdownRemark___frontmatter___el___content'
-  | 'childrenMarkdownRemark___frontmatter___el___items'
   | 'childrenMarkdownRemark___frontmatter___el___missions'
   | 'childrenMarkdownRemark___frontmatter___el___goalsTitle'
   | 'childrenMarkdownRemark___frontmatter___el___goalsSubtitle'
   | 'childrenMarkdownRemark___frontmatter___el___goals'
   | 'childrenMarkdownRemark___frontmatter___el___banner'
+  | 'childrenMarkdownRemark___frontmatter___el___membersSubtitle'
+  | 'childrenMarkdownRemark___frontmatter___el___content'
+  | 'childrenMarkdownRemark___frontmatter___el___team'
   | 'childrenMarkdownRemark___frontmatter___el___title'
   | 'childrenMarkdownRemark___frontmatter___el___description'
   | 'childrenMarkdownRemark___frontmatter___el___keywords'
-  | 'childrenMarkdownRemark___frontmatter___el___membersSubtitle'
-  | 'childrenMarkdownRemark___frontmatter___el___team'
+  | 'childrenMarkdownRemark___frontmatter___el___items'
   | 'childrenMarkdownRemark___excerpt'
   | 'childrenMarkdownRemark___rawMarkdownBody'
   | 'childrenMarkdownRemark___fileAbsolutePath'
@@ -806,18 +807,19 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___en___formSubjectLabel'
   | 'childMarkdownRemark___frontmatter___en___formEmailLabel'
   | 'childMarkdownRemark___frontmatter___en___formBodyLabel'
-  | 'childMarkdownRemark___frontmatter___en___content'
-  | 'childMarkdownRemark___frontmatter___en___items'
+  | 'childMarkdownRemark___frontmatter___en___contactformheader'
   | 'childMarkdownRemark___frontmatter___en___missions'
   | 'childMarkdownRemark___frontmatter___en___goalsTitle'
   | 'childMarkdownRemark___frontmatter___en___goalsSubtitle'
   | 'childMarkdownRemark___frontmatter___en___goals'
   | 'childMarkdownRemark___frontmatter___en___banner'
+  | 'childMarkdownRemark___frontmatter___en___membersSubtitle'
+  | 'childMarkdownRemark___frontmatter___en___content'
+  | 'childMarkdownRemark___frontmatter___en___team'
   | 'childMarkdownRemark___frontmatter___en___title'
   | 'childMarkdownRemark___frontmatter___en___description'
   | 'childMarkdownRemark___frontmatter___en___keywords'
-  | 'childMarkdownRemark___frontmatter___en___membersSubtitle'
-  | 'childMarkdownRemark___frontmatter___en___team'
+  | 'childMarkdownRemark___frontmatter___en___items'
   | 'childMarkdownRemark___frontmatter___el___navigationLabel'
   | 'childMarkdownRemark___frontmatter___el___mainTitle'
   | 'childMarkdownRemark___frontmatter___el___mainSubtitle'
@@ -828,18 +830,18 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___el___formSubjectLabel'
   | 'childMarkdownRemark___frontmatter___el___formEmailLabel'
   | 'childMarkdownRemark___frontmatter___el___formBodyLabel'
-  | 'childMarkdownRemark___frontmatter___el___content'
-  | 'childMarkdownRemark___frontmatter___el___items'
   | 'childMarkdownRemark___frontmatter___el___missions'
   | 'childMarkdownRemark___frontmatter___el___goalsTitle'
   | 'childMarkdownRemark___frontmatter___el___goalsSubtitle'
   | 'childMarkdownRemark___frontmatter___el___goals'
   | 'childMarkdownRemark___frontmatter___el___banner'
+  | 'childMarkdownRemark___frontmatter___el___membersSubtitle'
+  | 'childMarkdownRemark___frontmatter___el___content'
+  | 'childMarkdownRemark___frontmatter___el___team'
   | 'childMarkdownRemark___frontmatter___el___title'
   | 'childMarkdownRemark___frontmatter___el___description'
   | 'childMarkdownRemark___frontmatter___el___keywords'
-  | 'childMarkdownRemark___frontmatter___el___membersSubtitle'
-  | 'childMarkdownRemark___frontmatter___el___team'
+  | 'childMarkdownRemark___frontmatter___el___items'
   | 'childMarkdownRemark___excerpt'
   | 'childMarkdownRemark___rawMarkdownBody'
   | 'childMarkdownRemark___fileAbsolutePath'
@@ -1707,11 +1709,7 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___formSubjectLabel'
   | 'frontmatter___en___formEmailLabel'
   | 'frontmatter___en___formBodyLabel'
-  | 'frontmatter___en___content'
-  | 'frontmatter___en___items'
-  | 'frontmatter___en___items___title'
-  | 'frontmatter___en___items___body'
-  | 'frontmatter___en___items___date'
+  | 'frontmatter___en___contactformheader'
   | 'frontmatter___en___mainBackground___sourceInstanceName'
   | 'frontmatter___en___mainBackground___absolutePath'
   | 'frontmatter___en___mainBackground___relativePath'
@@ -1797,6 +1795,13 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___goals___title'
   | 'frontmatter___en___goals___details'
   | 'frontmatter___en___banner'
+  | 'frontmatter___en___membersSubtitle'
+  | 'frontmatter___en___content'
+  | 'frontmatter___en___team'
+  | 'frontmatter___en___team___link'
+  | 'frontmatter___en___team___name'
+  | 'frontmatter___en___team___role'
+  | 'frontmatter___en___team___bio'
   | 'frontmatter___en___title'
   | 'frontmatter___en___description'
   | 'frontmatter___en___keywords'
@@ -1838,12 +1843,10 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___logo___childrenMarkdownRemark'
   | 'frontmatter___en___logo___id'
   | 'frontmatter___en___logo___children'
-  | 'frontmatter___en___membersSubtitle'
-  | 'frontmatter___en___team'
-  | 'frontmatter___en___team___link'
-  | 'frontmatter___en___team___name'
-  | 'frontmatter___en___team___role'
-  | 'frontmatter___en___team___bio'
+  | 'frontmatter___en___items'
+  | 'frontmatter___en___items___title'
+  | 'frontmatter___en___items___body'
+  | 'frontmatter___en___items___date'
   | 'frontmatter___el___navigationLabel'
   | 'frontmatter___el___mainTitle'
   | 'frontmatter___el___mainSubtitle'
@@ -1854,11 +1857,6 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___el___formSubjectLabel'
   | 'frontmatter___el___formEmailLabel'
   | 'frontmatter___el___formBodyLabel'
-  | 'frontmatter___el___content'
-  | 'frontmatter___el___items'
-  | 'frontmatter___el___items___title'
-  | 'frontmatter___el___items___body'
-  | 'frontmatter___el___items___date'
   | 'frontmatter___el___mainBackground___sourceInstanceName'
   | 'frontmatter___el___mainBackground___absolutePath'
   | 'frontmatter___el___mainBackground___relativePath'
@@ -1944,6 +1942,13 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___el___goals___title'
   | 'frontmatter___el___goals___details'
   | 'frontmatter___el___banner'
+  | 'frontmatter___el___membersSubtitle'
+  | 'frontmatter___el___content'
+  | 'frontmatter___el___team'
+  | 'frontmatter___el___team___name'
+  | 'frontmatter___el___team___role'
+  | 'frontmatter___el___team___link'
+  | 'frontmatter___el___team___bio'
   | 'frontmatter___el___title'
   | 'frontmatter___el___description'
   | 'frontmatter___el___keywords'
@@ -1985,12 +1990,10 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___el___logo___childrenMarkdownRemark'
   | 'frontmatter___el___logo___id'
   | 'frontmatter___el___logo___children'
-  | 'frontmatter___el___membersSubtitle'
-  | 'frontmatter___el___team'
-  | 'frontmatter___el___team___name'
-  | 'frontmatter___el___team___role'
-  | 'frontmatter___el___team___link'
-  | 'frontmatter___el___team___bio'
+  | 'frontmatter___el___items'
+  | 'frontmatter___el___items___title'
+  | 'frontmatter___el___items___body'
+  | 'frontmatter___el___items___date'
   | 'excerpt'
   | 'rawMarkdownBody'
   | 'fileAbsolutePath'
@@ -2131,8 +2134,6 @@ export type MarkdownRemarkFrontmatterEl = {
   formSubjectLabel: Maybe<Scalars['String']>;
   formEmailLabel: Maybe<Scalars['String']>;
   formBodyLabel: Maybe<Scalars['String']>;
-  content: Maybe<Scalars['String']>;
-  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElItems>>>;
   mainBackground: Maybe<File>;
   missions: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElMissions>>>;
   goalsTitle: Maybe<Scalars['String']>;
@@ -2140,12 +2141,14 @@ export type MarkdownRemarkFrontmatterEl = {
   goalsBackground: Maybe<File>;
   goals: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElGoals>>>;
   banner: Maybe<Scalars['String']>;
+  membersSubtitle: Maybe<Scalars['String']>;
+  content: Maybe<Scalars['String']>;
+  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElTeam>>>;
   title: Maybe<Scalars['String']>;
   description: Maybe<Scalars['String']>;
   keywords: Maybe<Scalars['String']>;
   logo: Maybe<File>;
-  membersSubtitle: Maybe<Scalars['String']>;
-  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElTeam>>>;
+  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElItems>>>;
 };
 
 export type MarkdownRemarkFrontmatterElFilterInput = {
@@ -2159,8 +2162,6 @@ export type MarkdownRemarkFrontmatterElFilterInput = {
   formSubjectLabel: Maybe<StringQueryOperatorInput>;
   formEmailLabel: Maybe<StringQueryOperatorInput>;
   formBodyLabel: Maybe<StringQueryOperatorInput>;
-  content: Maybe<StringQueryOperatorInput>;
-  items: Maybe<MarkdownRemarkFrontmatterElItemsFilterListInput>;
   mainBackground: Maybe<FileFilterInput>;
   missions: Maybe<MarkdownRemarkFrontmatterElMissionsFilterListInput>;
   goalsTitle: Maybe<StringQueryOperatorInput>;
@@ -2168,12 +2169,14 @@ export type MarkdownRemarkFrontmatterElFilterInput = {
   goalsBackground: Maybe<FileFilterInput>;
   goals: Maybe<MarkdownRemarkFrontmatterElGoalsFilterListInput>;
   banner: Maybe<StringQueryOperatorInput>;
+  membersSubtitle: Maybe<StringQueryOperatorInput>;
+  content: Maybe<StringQueryOperatorInput>;
+  team: Maybe<MarkdownRemarkFrontmatterElTeamFilterListInput>;
   title: Maybe<StringQueryOperatorInput>;
   description: Maybe<StringQueryOperatorInput>;
   keywords: Maybe<StringQueryOperatorInput>;
   logo: Maybe<FileFilterInput>;
-  membersSubtitle: Maybe<StringQueryOperatorInput>;
-  team: Maybe<MarkdownRemarkFrontmatterElTeamFilterListInput>;
+  items: Maybe<MarkdownRemarkFrontmatterElItemsFilterListInput>;
 };
 
 export type MarkdownRemarkFrontmatterElGoals = {
@@ -2260,8 +2263,7 @@ export type MarkdownRemarkFrontmatterEn = {
   formSubjectLabel: Maybe<Scalars['String']>;
   formEmailLabel: Maybe<Scalars['String']>;
   formBodyLabel: Maybe<Scalars['String']>;
-  content: Maybe<Scalars['String']>;
-  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnItems>>>;
+  contactformheader: Maybe<Scalars['String']>;
   mainBackground: Maybe<File>;
   missions: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnMissions>>>;
   goalsTitle: Maybe<Scalars['String']>;
@@ -2269,12 +2271,14 @@ export type MarkdownRemarkFrontmatterEn = {
   goalsBackground: Maybe<File>;
   goals: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnGoals>>>;
   banner: Maybe<Scalars['String']>;
+  membersSubtitle: Maybe<Scalars['String']>;
+  content: Maybe<Scalars['String']>;
+  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnTeam>>>;
   title: Maybe<Scalars['String']>;
   description: Maybe<Scalars['String']>;
   keywords: Maybe<Scalars['String']>;
   logo: Maybe<File>;
-  membersSubtitle: Maybe<Scalars['String']>;
-  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnTeam>>>;
+  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnItems>>>;
 };
 
 export type MarkdownRemarkFrontmatterEnFilterInput = {
@@ -2288,8 +2292,7 @@ export type MarkdownRemarkFrontmatterEnFilterInput = {
   formSubjectLabel: Maybe<StringQueryOperatorInput>;
   formEmailLabel: Maybe<StringQueryOperatorInput>;
   formBodyLabel: Maybe<StringQueryOperatorInput>;
-  content: Maybe<StringQueryOperatorInput>;
-  items: Maybe<MarkdownRemarkFrontmatterEnItemsFilterListInput>;
+  contactformheader: Maybe<StringQueryOperatorInput>;
   mainBackground: Maybe<FileFilterInput>;
   missions: Maybe<MarkdownRemarkFrontmatterEnMissionsFilterListInput>;
   goalsTitle: Maybe<StringQueryOperatorInput>;
@@ -2297,12 +2300,14 @@ export type MarkdownRemarkFrontmatterEnFilterInput = {
   goalsBackground: Maybe<FileFilterInput>;
   goals: Maybe<MarkdownRemarkFrontmatterEnGoalsFilterListInput>;
   banner: Maybe<StringQueryOperatorInput>;
+  membersSubtitle: Maybe<StringQueryOperatorInput>;
+  content: Maybe<StringQueryOperatorInput>;
+  team: Maybe<MarkdownRemarkFrontmatterEnTeamFilterListInput>;
   title: Maybe<StringQueryOperatorInput>;
   description: Maybe<StringQueryOperatorInput>;
   keywords: Maybe<StringQueryOperatorInput>;
   logo: Maybe<FileFilterInput>;
-  membersSubtitle: Maybe<StringQueryOperatorInput>;
-  team: Maybe<MarkdownRemarkFrontmatterEnTeamFilterListInput>;
+  items: Maybe<MarkdownRemarkFrontmatterEnItemsFilterListInput>;
 };
 
 export type MarkdownRemarkFrontmatterEnGoals = {
@@ -3874,6 +3879,23 @@ export type ContactFormQuery = {
             | 'formBodyLabel'
           >
         >;
+      }>;
+    }>;
+  }>;
+};
+
+export type NewsQueryVariables = Exact<{ [key: string]: never }>;
+
+export type NewsQuery = {
+  news: Maybe<{
+    childMarkdownRemark: Maybe<{
+      frontmatter: Maybe<{
+        el: Maybe<{
+          items: Maybe<Array<Maybe<Pick<MarkdownRemarkFrontmatterElItems, 'title' | 'date'>>>>;
+        }>;
+        en: Maybe<{
+          items: Maybe<Array<Maybe<Pick<MarkdownRemarkFrontmatterEnItems, 'title' | 'date'>>>>;
+        }>;
       }>;
     }>;
   }>;

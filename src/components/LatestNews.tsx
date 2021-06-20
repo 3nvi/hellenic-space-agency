@@ -1,12 +1,12 @@
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
-import { NewsPageQuery } from '../../graphql-types';
+import { NewsQuery } from '../../graphql-types';
 import useTranslation from '../hooks/useTranslation';
 import { slugify } from '../utils/common';
 import Link from './Link';
 
 const LatestNews: React.FC = () => {
-  const { news } = useStaticQuery<NewsPageQuery>(graphql`
+  const { news } = useStaticQuery<NewsQuery>(graphql`
     query News {
       news: file(name: { eq: "news" }) {
         childMarkdownRemark {
