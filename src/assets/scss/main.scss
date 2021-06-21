@@ -1770,6 +1770,10 @@ body .landing {
   text-align: center;
   z-index: (_misc(max-spotlight) + 1);
 
+  @include breakpoint('<=medium') {
+    background-attachment: scroll;
+  }
+
   .content {
     display: flex;
     align-items: center;
