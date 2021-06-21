@@ -2428,6 +2428,12 @@ body.is-touch {
   border: none;
   border-radius: 3px;
   background-color: _palette(fg-lighter);
+
+  @include breakpoint('<=medium') {
+    section {
+      margin-bottom: 2em;
+    }
+  }
 }
 
 .visually-hidden {
