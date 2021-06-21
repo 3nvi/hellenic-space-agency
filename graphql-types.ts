@@ -709,11 +709,6 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___en___formEmailLabel'
   | 'childrenMarkdownRemark___frontmatter___en___formBodyLabel'
   | 'childrenMarkdownRemark___frontmatter___en___contactformheader'
-  | 'childrenMarkdownRemark___frontmatter___en___missions'
-  | 'childrenMarkdownRemark___frontmatter___en___goalsTitle'
-  | 'childrenMarkdownRemark___frontmatter___en___goalsSubtitle'
-  | 'childrenMarkdownRemark___frontmatter___en___goals'
-  | 'childrenMarkdownRemark___frontmatter___en___banner'
   | 'childrenMarkdownRemark___frontmatter___en___membersSubtitle'
   | 'childrenMarkdownRemark___frontmatter___en___content'
   | 'childrenMarkdownRemark___frontmatter___en___team'
@@ -721,6 +716,12 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___en___description'
   | 'childrenMarkdownRemark___frontmatter___en___keywords'
   | 'childrenMarkdownRemark___frontmatter___en___items'
+  | 'childrenMarkdownRemark___frontmatter___en___latestNewsTitle'
+  | 'childrenMarkdownRemark___frontmatter___en___missions'
+  | 'childrenMarkdownRemark___frontmatter___en___goalsTitle'
+  | 'childrenMarkdownRemark___frontmatter___en___goalsSubtitle'
+  | 'childrenMarkdownRemark___frontmatter___en___goals'
+  | 'childrenMarkdownRemark___frontmatter___en___banner'
   | 'childrenMarkdownRemark___frontmatter___el___navigationLabel'
   | 'childrenMarkdownRemark___frontmatter___el___mainTitle'
   | 'childrenMarkdownRemark___frontmatter___el___mainSubtitle'
@@ -731,11 +732,6 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___el___formSubjectLabel'
   | 'childrenMarkdownRemark___frontmatter___el___formEmailLabel'
   | 'childrenMarkdownRemark___frontmatter___el___formBodyLabel'
-  | 'childrenMarkdownRemark___frontmatter___el___missions'
-  | 'childrenMarkdownRemark___frontmatter___el___goalsTitle'
-  | 'childrenMarkdownRemark___frontmatter___el___goalsSubtitle'
-  | 'childrenMarkdownRemark___frontmatter___el___goals'
-  | 'childrenMarkdownRemark___frontmatter___el___banner'
   | 'childrenMarkdownRemark___frontmatter___el___membersSubtitle'
   | 'childrenMarkdownRemark___frontmatter___el___content'
   | 'childrenMarkdownRemark___frontmatter___el___team'
@@ -743,6 +739,12 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___el___description'
   | 'childrenMarkdownRemark___frontmatter___el___keywords'
   | 'childrenMarkdownRemark___frontmatter___el___items'
+  | 'childrenMarkdownRemark___frontmatter___el___latestNewsTitle'
+  | 'childrenMarkdownRemark___frontmatter___el___missions'
+  | 'childrenMarkdownRemark___frontmatter___el___goalsTitle'
+  | 'childrenMarkdownRemark___frontmatter___el___goalsSubtitle'
+  | 'childrenMarkdownRemark___frontmatter___el___goals'
+  | 'childrenMarkdownRemark___frontmatter___el___banner'
   | 'childrenMarkdownRemark___excerpt'
   | 'childrenMarkdownRemark___rawMarkdownBody'
   | 'childrenMarkdownRemark___fileAbsolutePath'
@@ -808,11 +810,6 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___en___formEmailLabel'
   | 'childMarkdownRemark___frontmatter___en___formBodyLabel'
   | 'childMarkdownRemark___frontmatter___en___contactformheader'
-  | 'childMarkdownRemark___frontmatter___en___missions'
-  | 'childMarkdownRemark___frontmatter___en___goalsTitle'
-  | 'childMarkdownRemark___frontmatter___en___goalsSubtitle'
-  | 'childMarkdownRemark___frontmatter___en___goals'
-  | 'childMarkdownRemark___frontmatter___en___banner'
   | 'childMarkdownRemark___frontmatter___en___membersSubtitle'
   | 'childMarkdownRemark___frontmatter___en___content'
   | 'childMarkdownRemark___frontmatter___en___team'
@@ -820,6 +817,12 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___en___description'
   | 'childMarkdownRemark___frontmatter___en___keywords'
   | 'childMarkdownRemark___frontmatter___en___items'
+  | 'childMarkdownRemark___frontmatter___en___latestNewsTitle'
+  | 'childMarkdownRemark___frontmatter___en___missions'
+  | 'childMarkdownRemark___frontmatter___en___goalsTitle'
+  | 'childMarkdownRemark___frontmatter___en___goalsSubtitle'
+  | 'childMarkdownRemark___frontmatter___en___goals'
+  | 'childMarkdownRemark___frontmatter___en___banner'
   | 'childMarkdownRemark___frontmatter___el___navigationLabel'
   | 'childMarkdownRemark___frontmatter___el___mainTitle'
   | 'childMarkdownRemark___frontmatter___el___mainSubtitle'
@@ -830,11 +833,6 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___el___formSubjectLabel'
   | 'childMarkdownRemark___frontmatter___el___formEmailLabel'
   | 'childMarkdownRemark___frontmatter___el___formBodyLabel'
-  | 'childMarkdownRemark___frontmatter___el___missions'
-  | 'childMarkdownRemark___frontmatter___el___goalsTitle'
-  | 'childMarkdownRemark___frontmatter___el___goalsSubtitle'
-  | 'childMarkdownRemark___frontmatter___el___goals'
-  | 'childMarkdownRemark___frontmatter___el___banner'
   | 'childMarkdownRemark___frontmatter___el___membersSubtitle'
   | 'childMarkdownRemark___frontmatter___el___content'
   | 'childMarkdownRemark___frontmatter___el___team'
@@ -842,6 +840,12 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___el___description'
   | 'childMarkdownRemark___frontmatter___el___keywords'
   | 'childMarkdownRemark___frontmatter___el___items'
+  | 'childMarkdownRemark___frontmatter___el___latestNewsTitle'
+  | 'childMarkdownRemark___frontmatter___el___missions'
+  | 'childMarkdownRemark___frontmatter___el___goalsTitle'
+  | 'childMarkdownRemark___frontmatter___el___goalsSubtitle'
+  | 'childMarkdownRemark___frontmatter___el___goals'
+  | 'childMarkdownRemark___frontmatter___el___banner'
   | 'childMarkdownRemark___excerpt'
   | 'childMarkdownRemark___rawMarkdownBody'
   | 'childMarkdownRemark___fileAbsolutePath'
@@ -1710,6 +1714,13 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___formEmailLabel'
   | 'frontmatter___en___formBodyLabel'
   | 'frontmatter___en___contactformheader'
+  | 'frontmatter___en___membersSubtitle'
+  | 'frontmatter___en___content'
+  | 'frontmatter___en___team'
+  | 'frontmatter___en___team___link'
+  | 'frontmatter___en___team___name'
+  | 'frontmatter___en___team___role'
+  | 'frontmatter___en___team___bio'
   | 'frontmatter___en___mainBackground___sourceInstanceName'
   | 'frontmatter___en___mainBackground___absolutePath'
   | 'frontmatter___en___mainBackground___relativePath'
@@ -1748,6 +1759,52 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___mainBackground___childrenMarkdownRemark'
   | 'frontmatter___en___mainBackground___id'
   | 'frontmatter___en___mainBackground___children'
+  | 'frontmatter___en___title'
+  | 'frontmatter___en___description'
+  | 'frontmatter___en___keywords'
+  | 'frontmatter___en___logo___sourceInstanceName'
+  | 'frontmatter___en___logo___absolutePath'
+  | 'frontmatter___en___logo___relativePath'
+  | 'frontmatter___en___logo___extension'
+  | 'frontmatter___en___logo___size'
+  | 'frontmatter___en___logo___prettySize'
+  | 'frontmatter___en___logo___modifiedTime'
+  | 'frontmatter___en___logo___accessTime'
+  | 'frontmatter___en___logo___changeTime'
+  | 'frontmatter___en___logo___birthTime'
+  | 'frontmatter___en___logo___root'
+  | 'frontmatter___en___logo___dir'
+  | 'frontmatter___en___logo___base'
+  | 'frontmatter___en___logo___ext'
+  | 'frontmatter___en___logo___name'
+  | 'frontmatter___en___logo___relativeDirectory'
+  | 'frontmatter___en___logo___dev'
+  | 'frontmatter___en___logo___mode'
+  | 'frontmatter___en___logo___nlink'
+  | 'frontmatter___en___logo___uid'
+  | 'frontmatter___en___logo___gid'
+  | 'frontmatter___en___logo___rdev'
+  | 'frontmatter___en___logo___ino'
+  | 'frontmatter___en___logo___atimeMs'
+  | 'frontmatter___en___logo___mtimeMs'
+  | 'frontmatter___en___logo___ctimeMs'
+  | 'frontmatter___en___logo___atime'
+  | 'frontmatter___en___logo___mtime'
+  | 'frontmatter___en___logo___ctime'
+  | 'frontmatter___en___logo___birthtime'
+  | 'frontmatter___en___logo___birthtimeMs'
+  | 'frontmatter___en___logo___blksize'
+  | 'frontmatter___en___logo___blocks'
+  | 'frontmatter___en___logo___publicURL'
+  | 'frontmatter___en___logo___childrenImageSharp'
+  | 'frontmatter___en___logo___childrenMarkdownRemark'
+  | 'frontmatter___en___logo___id'
+  | 'frontmatter___en___logo___children'
+  | 'frontmatter___en___items'
+  | 'frontmatter___en___items___title'
+  | 'frontmatter___en___items___body'
+  | 'frontmatter___en___items___date'
+  | 'frontmatter___en___latestNewsTitle'
   | 'frontmatter___en___missions'
   | 'frontmatter___en___missions___title'
   | 'frontmatter___en___missions___details'
@@ -1795,58 +1852,6 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___goals___title'
   | 'frontmatter___en___goals___details'
   | 'frontmatter___en___banner'
-  | 'frontmatter___en___membersSubtitle'
-  | 'frontmatter___en___content'
-  | 'frontmatter___en___team'
-  | 'frontmatter___en___team___link'
-  | 'frontmatter___en___team___name'
-  | 'frontmatter___en___team___role'
-  | 'frontmatter___en___team___bio'
-  | 'frontmatter___en___title'
-  | 'frontmatter___en___description'
-  | 'frontmatter___en___keywords'
-  | 'frontmatter___en___logo___sourceInstanceName'
-  | 'frontmatter___en___logo___absolutePath'
-  | 'frontmatter___en___logo___relativePath'
-  | 'frontmatter___en___logo___extension'
-  | 'frontmatter___en___logo___size'
-  | 'frontmatter___en___logo___prettySize'
-  | 'frontmatter___en___logo___modifiedTime'
-  | 'frontmatter___en___logo___accessTime'
-  | 'frontmatter___en___logo___changeTime'
-  | 'frontmatter___en___logo___birthTime'
-  | 'frontmatter___en___logo___root'
-  | 'frontmatter___en___logo___dir'
-  | 'frontmatter___en___logo___base'
-  | 'frontmatter___en___logo___ext'
-  | 'frontmatter___en___logo___name'
-  | 'frontmatter___en___logo___relativeDirectory'
-  | 'frontmatter___en___logo___dev'
-  | 'frontmatter___en___logo___mode'
-  | 'frontmatter___en___logo___nlink'
-  | 'frontmatter___en___logo___uid'
-  | 'frontmatter___en___logo___gid'
-  | 'frontmatter___en___logo___rdev'
-  | 'frontmatter___en___logo___ino'
-  | 'frontmatter___en___logo___atimeMs'
-  | 'frontmatter___en___logo___mtimeMs'
-  | 'frontmatter___en___logo___ctimeMs'
-  | 'frontmatter___en___logo___atime'
-  | 'frontmatter___en___logo___mtime'
-  | 'frontmatter___en___logo___ctime'
-  | 'frontmatter___en___logo___birthtime'
-  | 'frontmatter___en___logo___birthtimeMs'
-  | 'frontmatter___en___logo___blksize'
-  | 'frontmatter___en___logo___blocks'
-  | 'frontmatter___en___logo___publicURL'
-  | 'frontmatter___en___logo___childrenImageSharp'
-  | 'frontmatter___en___logo___childrenMarkdownRemark'
-  | 'frontmatter___en___logo___id'
-  | 'frontmatter___en___logo___children'
-  | 'frontmatter___en___items'
-  | 'frontmatter___en___items___title'
-  | 'frontmatter___en___items___body'
-  | 'frontmatter___en___items___date'
   | 'frontmatter___el___navigationLabel'
   | 'frontmatter___el___mainTitle'
   | 'frontmatter___el___mainSubtitle'
@@ -1857,6 +1862,13 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___el___formSubjectLabel'
   | 'frontmatter___el___formEmailLabel'
   | 'frontmatter___el___formBodyLabel'
+  | 'frontmatter___el___membersSubtitle'
+  | 'frontmatter___el___content'
+  | 'frontmatter___el___team'
+  | 'frontmatter___el___team___name'
+  | 'frontmatter___el___team___role'
+  | 'frontmatter___el___team___link'
+  | 'frontmatter___el___team___bio'
   | 'frontmatter___el___mainBackground___sourceInstanceName'
   | 'frontmatter___el___mainBackground___absolutePath'
   | 'frontmatter___el___mainBackground___relativePath'
@@ -1895,6 +1907,52 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___el___mainBackground___childrenMarkdownRemark'
   | 'frontmatter___el___mainBackground___id'
   | 'frontmatter___el___mainBackground___children'
+  | 'frontmatter___el___title'
+  | 'frontmatter___el___description'
+  | 'frontmatter___el___keywords'
+  | 'frontmatter___el___logo___sourceInstanceName'
+  | 'frontmatter___el___logo___absolutePath'
+  | 'frontmatter___el___logo___relativePath'
+  | 'frontmatter___el___logo___extension'
+  | 'frontmatter___el___logo___size'
+  | 'frontmatter___el___logo___prettySize'
+  | 'frontmatter___el___logo___modifiedTime'
+  | 'frontmatter___el___logo___accessTime'
+  | 'frontmatter___el___logo___changeTime'
+  | 'frontmatter___el___logo___birthTime'
+  | 'frontmatter___el___logo___root'
+  | 'frontmatter___el___logo___dir'
+  | 'frontmatter___el___logo___base'
+  | 'frontmatter___el___logo___ext'
+  | 'frontmatter___el___logo___name'
+  | 'frontmatter___el___logo___relativeDirectory'
+  | 'frontmatter___el___logo___dev'
+  | 'frontmatter___el___logo___mode'
+  | 'frontmatter___el___logo___nlink'
+  | 'frontmatter___el___logo___uid'
+  | 'frontmatter___el___logo___gid'
+  | 'frontmatter___el___logo___rdev'
+  | 'frontmatter___el___logo___ino'
+  | 'frontmatter___el___logo___atimeMs'
+  | 'frontmatter___el___logo___mtimeMs'
+  | 'frontmatter___el___logo___ctimeMs'
+  | 'frontmatter___el___logo___atime'
+  | 'frontmatter___el___logo___mtime'
+  | 'frontmatter___el___logo___ctime'
+  | 'frontmatter___el___logo___birthtime'
+  | 'frontmatter___el___logo___birthtimeMs'
+  | 'frontmatter___el___logo___blksize'
+  | 'frontmatter___el___logo___blocks'
+  | 'frontmatter___el___logo___publicURL'
+  | 'frontmatter___el___logo___childrenImageSharp'
+  | 'frontmatter___el___logo___childrenMarkdownRemark'
+  | 'frontmatter___el___logo___id'
+  | 'frontmatter___el___logo___children'
+  | 'frontmatter___el___items'
+  | 'frontmatter___el___items___title'
+  | 'frontmatter___el___items___body'
+  | 'frontmatter___el___items___date'
+  | 'frontmatter___el___latestNewsTitle'
   | 'frontmatter___el___missions'
   | 'frontmatter___el___missions___title'
   | 'frontmatter___el___missions___details'
@@ -1942,58 +2000,6 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___el___goals___title'
   | 'frontmatter___el___goals___details'
   | 'frontmatter___el___banner'
-  | 'frontmatter___el___membersSubtitle'
-  | 'frontmatter___el___content'
-  | 'frontmatter___el___team'
-  | 'frontmatter___el___team___name'
-  | 'frontmatter___el___team___role'
-  | 'frontmatter___el___team___link'
-  | 'frontmatter___el___team___bio'
-  | 'frontmatter___el___title'
-  | 'frontmatter___el___description'
-  | 'frontmatter___el___keywords'
-  | 'frontmatter___el___logo___sourceInstanceName'
-  | 'frontmatter___el___logo___absolutePath'
-  | 'frontmatter___el___logo___relativePath'
-  | 'frontmatter___el___logo___extension'
-  | 'frontmatter___el___logo___size'
-  | 'frontmatter___el___logo___prettySize'
-  | 'frontmatter___el___logo___modifiedTime'
-  | 'frontmatter___el___logo___accessTime'
-  | 'frontmatter___el___logo___changeTime'
-  | 'frontmatter___el___logo___birthTime'
-  | 'frontmatter___el___logo___root'
-  | 'frontmatter___el___logo___dir'
-  | 'frontmatter___el___logo___base'
-  | 'frontmatter___el___logo___ext'
-  | 'frontmatter___el___logo___name'
-  | 'frontmatter___el___logo___relativeDirectory'
-  | 'frontmatter___el___logo___dev'
-  | 'frontmatter___el___logo___mode'
-  | 'frontmatter___el___logo___nlink'
-  | 'frontmatter___el___logo___uid'
-  | 'frontmatter___el___logo___gid'
-  | 'frontmatter___el___logo___rdev'
-  | 'frontmatter___el___logo___ino'
-  | 'frontmatter___el___logo___atimeMs'
-  | 'frontmatter___el___logo___mtimeMs'
-  | 'frontmatter___el___logo___ctimeMs'
-  | 'frontmatter___el___logo___atime'
-  | 'frontmatter___el___logo___mtime'
-  | 'frontmatter___el___logo___ctime'
-  | 'frontmatter___el___logo___birthtime'
-  | 'frontmatter___el___logo___birthtimeMs'
-  | 'frontmatter___el___logo___blksize'
-  | 'frontmatter___el___logo___blocks'
-  | 'frontmatter___el___logo___publicURL'
-  | 'frontmatter___el___logo___childrenImageSharp'
-  | 'frontmatter___el___logo___childrenMarkdownRemark'
-  | 'frontmatter___el___logo___id'
-  | 'frontmatter___el___logo___children'
-  | 'frontmatter___el___items'
-  | 'frontmatter___el___items___title'
-  | 'frontmatter___el___items___body'
-  | 'frontmatter___el___items___date'
   | 'excerpt'
   | 'rawMarkdownBody'
   | 'fileAbsolutePath'
@@ -2134,21 +2140,22 @@ export type MarkdownRemarkFrontmatterEl = {
   formSubjectLabel: Maybe<Scalars['String']>;
   formEmailLabel: Maybe<Scalars['String']>;
   formBodyLabel: Maybe<Scalars['String']>;
+  membersSubtitle: Maybe<Scalars['String']>;
+  content: Maybe<Scalars['String']>;
+  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElTeam>>>;
   mainBackground: Maybe<File>;
+  title: Maybe<Scalars['String']>;
+  description: Maybe<Scalars['String']>;
+  keywords: Maybe<Scalars['String']>;
+  logo: Maybe<File>;
+  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElItems>>>;
+  latestNewsTitle: Maybe<Scalars['String']>;
   missions: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElMissions>>>;
   goalsTitle: Maybe<Scalars['String']>;
   goalsSubtitle: Maybe<Scalars['String']>;
   goalsBackground: Maybe<File>;
   goals: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElGoals>>>;
   banner: Maybe<Scalars['String']>;
-  membersSubtitle: Maybe<Scalars['String']>;
-  content: Maybe<Scalars['String']>;
-  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElTeam>>>;
-  title: Maybe<Scalars['String']>;
-  description: Maybe<Scalars['String']>;
-  keywords: Maybe<Scalars['String']>;
-  logo: Maybe<File>;
-  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElItems>>>;
 };
 
 export type MarkdownRemarkFrontmatterElFilterInput = {
@@ -2162,21 +2169,22 @@ export type MarkdownRemarkFrontmatterElFilterInput = {
   formSubjectLabel: Maybe<StringQueryOperatorInput>;
   formEmailLabel: Maybe<StringQueryOperatorInput>;
   formBodyLabel: Maybe<StringQueryOperatorInput>;
+  membersSubtitle: Maybe<StringQueryOperatorInput>;
+  content: Maybe<StringQueryOperatorInput>;
+  team: Maybe<MarkdownRemarkFrontmatterElTeamFilterListInput>;
   mainBackground: Maybe<FileFilterInput>;
+  title: Maybe<StringQueryOperatorInput>;
+  description: Maybe<StringQueryOperatorInput>;
+  keywords: Maybe<StringQueryOperatorInput>;
+  logo: Maybe<FileFilterInput>;
+  items: Maybe<MarkdownRemarkFrontmatterElItemsFilterListInput>;
+  latestNewsTitle: Maybe<StringQueryOperatorInput>;
   missions: Maybe<MarkdownRemarkFrontmatterElMissionsFilterListInput>;
   goalsTitle: Maybe<StringQueryOperatorInput>;
   goalsSubtitle: Maybe<StringQueryOperatorInput>;
   goalsBackground: Maybe<FileFilterInput>;
   goals: Maybe<MarkdownRemarkFrontmatterElGoalsFilterListInput>;
   banner: Maybe<StringQueryOperatorInput>;
-  membersSubtitle: Maybe<StringQueryOperatorInput>;
-  content: Maybe<StringQueryOperatorInput>;
-  team: Maybe<MarkdownRemarkFrontmatterElTeamFilterListInput>;
-  title: Maybe<StringQueryOperatorInput>;
-  description: Maybe<StringQueryOperatorInput>;
-  keywords: Maybe<StringQueryOperatorInput>;
-  logo: Maybe<FileFilterInput>;
-  items: Maybe<MarkdownRemarkFrontmatterElItemsFilterListInput>;
 };
 
 export type MarkdownRemarkFrontmatterElGoals = {
@@ -2264,21 +2272,22 @@ export type MarkdownRemarkFrontmatterEn = {
   formEmailLabel: Maybe<Scalars['String']>;
   formBodyLabel: Maybe<Scalars['String']>;
   contactformheader: Maybe<Scalars['String']>;
+  membersSubtitle: Maybe<Scalars['String']>;
+  content: Maybe<Scalars['String']>;
+  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnTeam>>>;
   mainBackground: Maybe<File>;
+  title: Maybe<Scalars['String']>;
+  description: Maybe<Scalars['String']>;
+  keywords: Maybe<Scalars['String']>;
+  logo: Maybe<File>;
+  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnItems>>>;
+  latestNewsTitle: Maybe<Scalars['String']>;
   missions: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnMissions>>>;
   goalsTitle: Maybe<Scalars['String']>;
   goalsSubtitle: Maybe<Scalars['String']>;
   goalsBackground: Maybe<File>;
   goals: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnGoals>>>;
   banner: Maybe<Scalars['String']>;
-  membersSubtitle: Maybe<Scalars['String']>;
-  content: Maybe<Scalars['String']>;
-  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnTeam>>>;
-  title: Maybe<Scalars['String']>;
-  description: Maybe<Scalars['String']>;
-  keywords: Maybe<Scalars['String']>;
-  logo: Maybe<File>;
-  items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnItems>>>;
 };
 
 export type MarkdownRemarkFrontmatterEnFilterInput = {
@@ -2293,21 +2302,22 @@ export type MarkdownRemarkFrontmatterEnFilterInput = {
   formEmailLabel: Maybe<StringQueryOperatorInput>;
   formBodyLabel: Maybe<StringQueryOperatorInput>;
   contactformheader: Maybe<StringQueryOperatorInput>;
+  membersSubtitle: Maybe<StringQueryOperatorInput>;
+  content: Maybe<StringQueryOperatorInput>;
+  team: Maybe<MarkdownRemarkFrontmatterEnTeamFilterListInput>;
   mainBackground: Maybe<FileFilterInput>;
+  title: Maybe<StringQueryOperatorInput>;
+  description: Maybe<StringQueryOperatorInput>;
+  keywords: Maybe<StringQueryOperatorInput>;
+  logo: Maybe<FileFilterInput>;
+  items: Maybe<MarkdownRemarkFrontmatterEnItemsFilterListInput>;
+  latestNewsTitle: Maybe<StringQueryOperatorInput>;
   missions: Maybe<MarkdownRemarkFrontmatterEnMissionsFilterListInput>;
   goalsTitle: Maybe<StringQueryOperatorInput>;
   goalsSubtitle: Maybe<StringQueryOperatorInput>;
   goalsBackground: Maybe<FileFilterInput>;
   goals: Maybe<MarkdownRemarkFrontmatterEnGoalsFilterListInput>;
   banner: Maybe<StringQueryOperatorInput>;
-  membersSubtitle: Maybe<StringQueryOperatorInput>;
-  content: Maybe<StringQueryOperatorInput>;
-  team: Maybe<MarkdownRemarkFrontmatterEnTeamFilterListInput>;
-  title: Maybe<StringQueryOperatorInput>;
-  description: Maybe<StringQueryOperatorInput>;
-  keywords: Maybe<StringQueryOperatorInput>;
-  logo: Maybe<FileFilterInput>;
-  items: Maybe<MarkdownRemarkFrontmatterEnItemsFilterListInput>;
 };
 
 export type MarkdownRemarkFrontmatterEnGoals = {
@@ -4066,7 +4076,7 @@ export type LandingPageQuery = {
         en: Maybe<
           Pick<
             MarkdownRemarkFrontmatterEn,
-            'mainTitle' | 'goalsTitle' | 'goalsSubtitle' | 'banner'
+            'mainTitle' | 'latestNewsTitle' | 'goalsTitle' | 'goalsSubtitle' | 'banner'
           > & {
             mainBackground: Maybe<BackgroundImageFluidFragment>;
             missions: Maybe<
@@ -4085,7 +4095,7 @@ export type LandingPageQuery = {
         el: Maybe<
           Pick<
             MarkdownRemarkFrontmatterEl,
-            'mainTitle' | 'goalsTitle' | 'goalsSubtitle' | 'banner'
+            'mainTitle' | 'latestNewsTitle' | 'goalsTitle' | 'goalsSubtitle' | 'banner'
           > & {
             mainBackground: Maybe<BackgroundImageFluidFragment>;
             missions: Maybe<

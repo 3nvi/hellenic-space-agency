@@ -2512,6 +2512,11 @@ body.is-touch {
     border: none;
   }
 
+  &-title {
+    color: _palette(accent5);
+    font-weight: bold;
+  }
+
   &-item {
     padding: 1em 2em;
     border-radius: 10px;

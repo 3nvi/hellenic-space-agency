@@ -21,6 +21,7 @@ const Landing: React.FC<Page<LandingPageQuery>> = ({ data }) => {
     banner,
     mainTitle,
     mainBackground,
+    latestNewsTitle,
     goals,
     goalsTitle,
     goalsSubtitle,
@@ -40,6 +41,7 @@ const Landing: React.FC<Page<LandingPageQuery>> = ({ data }) => {
             <h1>{mainTitle}</h1>
           </header>
           <div className="latest-news-wrapper">
+            <h4 className="latest-news-title">{latestNewsTitle}</h4>
             <LatestNews />
           </div>
         </div>
@@ -226,6 +228,7 @@ export const query = graphql`
             mainBackground {
               ...BackgroundImageFluid
             }
+            latestNewsTitle
             missions {
               title
               details
@@ -249,6 +252,7 @@ export const query = graphql`
             mainBackground {
               ...BackgroundImageFluid
             }
+            latestNewsTitle
             missions {
               title
               details
