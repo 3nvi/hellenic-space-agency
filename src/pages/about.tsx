@@ -68,7 +68,7 @@ export const query = graphql`
             mainBackground {
               childImageSharp {
                 fluid(quality: 70, maxWidth: 1920) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_noBase64
                 }
               }
             }
@@ -77,7 +77,7 @@ export const query = graphql`
             mainBackground {
               childImageSharp {
                 fluid(quality: 70, maxWidth: 1920) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_noBase64
                 }
               }
             }
