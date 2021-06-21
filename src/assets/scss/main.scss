@@ -1325,8 +1325,11 @@ input[type='button'],
   overflow: hidden;
   position: relative;
 
-  @include breakpoint('<=medium') {
-    background-attachment: scroll;
+  &,
+  &::before {
+    @include breakpoint('<=medium') {
+      background-attachment: scroll;
+    }
   }
 
   // Force spotlights to stack in reverse order (needed for our box
@@ -1774,8 +1777,11 @@ body .landing {
   text-align: center;
   z-index: (_misc(max-spotlight) + 1);
 
-  @include breakpoint('<=medium') {
-    background-attachment: scroll;
+  &,
+  &::before {
+    @include breakpoint('<=medium') {
+      background-attachment: scroll;
+    }
   }
 
   .content {
