@@ -1325,6 +1325,10 @@ input[type='button'],
   overflow: hidden;
   position: relative;
 
+  @include breakpoint('<=medium') {
+    background-attachment: scroll;
+  }
+
   // Force spotlights to stack in reverse order (needed for our box
   // shadows to overlap stuff in the right direction).
   @for $i from 1 through _misc(max-spotlight) {
