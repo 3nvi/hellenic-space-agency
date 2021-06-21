@@ -11,6 +11,7 @@ import Link from '../components/Link';
 import { Link as ScrollLink } from 'react-scroll/modules';
 import BackgroundImage from 'gatsby-background-image';
 import Markdown from '../components/Markdown';
+import LatestNews from '../components/LatestNews';
 import { LandingPageQuery } from '../../graphql-types';
 
 const Landing: React.FC<Page<LandingPageQuery>> = ({ data }) => {
@@ -20,6 +21,7 @@ const Landing: React.FC<Page<LandingPageQuery>> = ({ data }) => {
     banner,
     mainTitle,
     mainBackground,
+    latestNewsTitle,
     goals,
     goalsTitle,
     goalsSubtitle,
@@ -38,6 +40,10 @@ const Landing: React.FC<Page<LandingPageQuery>> = ({ data }) => {
           <header>
             <h1>{mainTitle}</h1>
           </header>
+          <div className="latest-news-wrapper">
+            <h4 className="latest-news-title">{latestNewsTitle}</h4>
+            <LatestNews />
+          </div>
         </div>
         <ScrollLink
           to="one"
@@ -222,6 +228,7 @@ export const query = graphql`
             mainBackground {
               ...BackgroundImageFluid
             }
+            latestNewsTitle
             missions {
               title
               details
@@ -245,6 +252,7 @@ export const query = graphql`
             mainBackground {
               ...BackgroundImageFluid
             }
+            latestNewsTitle
             missions {
               title
               details

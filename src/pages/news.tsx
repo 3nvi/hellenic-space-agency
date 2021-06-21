@@ -6,6 +6,7 @@ import Layout from '../components/Layout';
 import Markdown from '../components/Markdown';
 import SEO from '../components/SEO';
 import { NewsPageQuery } from '../../graphql-types';
+import { slugify } from '../utils/common';
 
 const News: React.FC<Page<NewsPageQuery>> = ({ data }) => {
   const translatedData = useTranslation(data.news);
@@ -28,7 +29,7 @@ const News: React.FC<Page<NewsPageQuery>> = ({ data }) => {
                     })}
                   </script>
                 </Helmet>
-                <section className="news-item col-12">
+                <section className="news-item col-12" id={slugify(item.title)}>
                   <header className="flex justify-between">
                     <h3>{item.title}</h3>
                     <time>{new Date(item.date).toLocaleDateString('el')}</time>
