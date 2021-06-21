@@ -209,7 +209,7 @@ export const query = graphql`
   fragment BackgroundImageFluid on File {
     childImageSharp {
       fluid(quality: 70, maxWidth: 1920) {
-        ...GatsbyImageSharpResolutions_tracedSVG
+        ...GatsbyImageSharpFluid_tracedSVG
       }
     }
   }
