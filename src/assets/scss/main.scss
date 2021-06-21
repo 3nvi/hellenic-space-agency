@@ -1328,7 +1328,7 @@ input[type='button'],
   &,
   &::before {
     @include breakpoint('<=medium') {
-      background-attachment: scroll;
+      background-attachment: scroll !important;
     }
   }
 
@@ -1780,7 +1780,7 @@ body .landing {
   &,
   &::before {
     @include breakpoint('<=medium') {
-      background-attachment: scroll;
+      background-attachment: scroll !important;
     }
   }
 
