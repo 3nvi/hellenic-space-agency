@@ -9,7 +9,7 @@ en:
       now conducts the third Research Announcement on the Earth Observations (EO-RA3)
       for its Earth observation satellite projects.  \nApplication deadline: July
       27 2021. [Learn more](https://www.eorc.jaxa.jp/en/research/ra/3rd_ra_eo/index.html)"
-    date: 
+    date: 2021-06-27T21:00:00Z
   - title: The President of H.S.C. at IAF
     body: The President of H.S.C., Prof. Ioannis A. Daglis, participates in a roundtable
       discussion of the [International Astronomical Federation (IAF)](https://www.iafastro.org/)
