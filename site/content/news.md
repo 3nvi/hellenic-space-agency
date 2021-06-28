@@ -63,7 +63,7 @@ el:
     body: "Η [Ιαπωνική Διαστημική Υπηρεσία (JAXA)](https://global.jaxa.jp/) δέχεται
       ερευνητικές προτάσεις σχετικά με τις ιαπωνικές αποστολές παρατήρησης της Γης.
       \  \nΠροθεσμία Υποβολής: 27 Ιουλίου 2021. [Μάθετε περισσότερα](https://www.eorc.jaxa.jp/en/research/ra/3rd_ra_eo/index.html)"
-    date: 
+    date: 2021-06-27T21:00:00Z
   - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στην IAF
     body: 'Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής, συμμετέχει σε στρογγυλή
       τράπεζα της [International Astronomical Federation (IAF)](https://www.iafastro.org/)
