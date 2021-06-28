@@ -8,7 +8,7 @@ en:
     body: The President of H.S.C., Prof. Ioannis A. Daglis, participates in a roundtable
       discussion of the [International Astronomical Federation (IAF)](https://www.iafastro.org/)
       about space exploration and its related dangers. [Learn more](https://www.iafastro.org/events/global-series-conferences/glex-2021/plenary-programme/thursday-17-june-2021/human-roads-to-outer-space-real-and-imaginary-dangers.html)
-    date: 2021-06-12T10:14:50Z
+    date: 2021-06-12T10:14:50.000+00:00
   - title: Galileo Masters Competition
     body: "The [Galileo Masters](https://galileo-masters.eu/) is the global innovation
       competition scouting for cutting-edge solutions using satellite navigation data.
@@ -53,11 +53,16 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Υποβολή ερευνητικών προτάσεων στη JAXA
+    body: "Η [Ιαπωνική Διαστημική Υπηρεσία (JAXA)](https://global.jaxa.jp/) δέχεται
+      ερευνητικές προτάσεις σχετικά με τις ιαπωνικές αποστολές παρατήρησης της Γης.
+      \  \nΠροθεσμία Υποβολής: 27 Ιουλίου 2021. [Μάθετε περισσότερα](https://www.eorc.jaxa.jp/en/research/ra/3rd_ra_eo/index.html)"
+    date: 
   - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στην IAF
     body: 'Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής, συμμετέχει σε στρογγυλή
       τράπεζα της [International Astronomical Federation (IAF)](https://www.iafastro.org/)
       για την εξερεύνηση του διαστήματος και τους κινδύνους της. [Μάθετε περισσότερα](https://www.iafastro.org/events/global-series-conferences/glex-2021/plenary-programme/thursday-17-june-2021/human-roads-to-outer-space-real-and-imaginary-dangers.html) '
-    date: 2021-06-12T10:03:31Z
+    date: 2021-06-12T10:03:31.000+00:00
   - title: Διαγωνισμός Galileo Masters
     body: |-
       Το [Galileo Masters](https://galileo-masters.eu/) είναι ένας παγκόσμιος διαγωνισμός καινοτομίας που αναζητά λύσεις αιχμής χρησιμοποιώντας δορυφορικά δεδομένα πλοήγησης. Από τον Απρίλιο, με την υποστήριξη του παγκοσμίου διαστημικού δικτύου συνεργασίας περισσότερων από 89 συνεργατών, αναζητώνται οι καλύτερες εφαρμογές δορυφορικού εντοπισμού και πλοήγησης (Global Navigation Satellite System - GNSS) και επιχειρηματικές ιδέες στον τομέα της γεωργίας, της υγείας, της διαδικτυακής ασφάλειας, του περιβάλλοντος, κ.ά.
