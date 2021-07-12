@@ -59,6 +59,12 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στο ISF
+    body: Συμμετοχή του Προέδρου του ΕΛ.ΚΕ.Δ. Καθ. Ιωάννη Α. Δαγκλή στην τηλεδιάσκεψη
+      του [International Space Forum (ISF) 2019 – The Mediterranean Chapter](https://www.asi.it/2021/07/webinar-on-the-follow-on-activities-of-the-iv-international-space-forum-isf-2019-the-mediteranean-chapter/),
+      που οργανώθηκε από τον [Ιταλικό Διαστημικό Οργανισμό (ASI)](https://www.asi.it/)
+      και το [Mediterranea University of Reggio Calabria](http://www.unirc.it/).
+    date: 2021-07-05T09:01:38Z
   - title: Υποβολή ερευνητικών προτάσεων στη JAXA
     body: "Η [Ιαπωνική Διαστημική Υπηρεσία (JAXA)](https://global.jaxa.jp/) δέχεται
       ερευνητικές προτάσεις σχετικά με τις ιαπωνικές αποστολές παρατήρησης της Γης.
