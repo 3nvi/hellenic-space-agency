@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: The President of H.S.C. at ISF
+    body: Participation of the President of the Hellenic Space Center Prof. Ioannis
+      A. Daglis in the virtual meeting [International Space Forum (ISF) 2019 – The
+      Mediterranean Chapter](https://www.asi.it/2021/07/webinar-on-the-follow-on-activities-of-the-iv-international-space-forum-isf-2019-the-mediteranean-chapter/),
+      organised by the [Italian Space Agency (ASI)](https://www.asi.it/) and the [Mediterranea
+      University of Reggio Calabria](http://www.unirc.it/).
+    date: 2021-07-05T09:03:08Z
   - title: JAXA call for research proposals
     body: "The [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/)
       now conducts the third Research Announcement on the Earth Observations (EO-RA3)
