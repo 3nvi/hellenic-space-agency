@@ -18,17 +18,17 @@ en:
       organised by the [Italian Space Agency (ASI)](https://www.asi.it/) and the [Mediterranea
       University of Reggio Calabria](http://www.unirc.it/).
     date: 2021-07-05T09:03:08Z
-  - title: H.S.C. at Alpha Mission Delos
-    body: The President and the CEO of the Hellenic Space Center, Prof. Ioannis A.
-      Daglis and Dr. Nick Sergis, participated in the launch event of "Alpha Mission
-      Delos”, held on the island of Delos.
-    date: 2021-06-24T09:20:42Z
   - title: JAXA call for research proposals
     body: "The [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/)
       now conducts the third Research Announcement on the Earth Observations (EO-RA3)
       for its Earth observation satellite projects.  \nApplication deadline: July
       27 2021. [Learn more](https://www.eorc.jaxa.jp/en/research/ra/3rd_ra_eo/index.html)"
     date: 2021-06-27T21:00:00Z
+  - title: H.S.C. at Alpha Mission Delos
+    body: The President and the CEO of the Hellenic Space Center, Prof. Ioannis A.
+      Daglis and Dr. Nick Sergis, participated in the launch event of "Alpha Mission
+      Delos”, held on the island of Delos.
+    date: 2021-06-24T09:20:42Z
   - title: The President of H.S.C. at IAF
     body: The President of H.S.C., Prof. Ioannis A. Daglis, participates in a roundtable
       discussion of the [International Astronomical Federation (IAF)](https://www.iafastro.org/)
@@ -92,16 +92,16 @@ el:
       που οργανώθηκε από τον [Ιταλικό Διαστημικό Οργανισμό (ASI)](https://www.asi.it/)
       και το [Mediterranea University of Reggio Calabria](http://www.unirc.it/).
     date: 2021-07-05T09:01:38Z
-  - title: Το ΕΛ.ΚΕ.Δ. στην Alpha Mission Delos
-    body: Ο Πρόεδρος και ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής
-      και Δρ. Νικόλαος Σέργης, συμμετείχαν στην εναρκτήρια εκδήλωση της ‘’Alpha Mission
-      Delos’’, που πραγματοποιήθηκε στο νησί της Δήλου.
-    date: 2021-06-24T09:20:11Z
   - title: Υποβολή ερευνητικών προτάσεων στη JAXA
     body: "Η [Ιαπωνική Διαστημική Υπηρεσία (JAXA)](https://global.jaxa.jp/) δέχεται
       ερευνητικές προτάσεις σχετικά με τις ιαπωνικές αποστολές παρατήρησης της Γης.
       \  \nΠροθεσμία Υποβολής: 27 Ιουλίου 2021. [Μάθετε περισσότερα](https://www.eorc.jaxa.jp/en/research/ra/3rd_ra_eo/index.html)"
     date: 2021-06-27T21:00:00Z
+  - title: Το ΕΛ.ΚΕ.Δ. στην Alpha Mission Delos
+    body: Ο Πρόεδρος και ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής
+      και Δρ. Νικόλαος Σέργης, συμμετείχαν στην εναρκτήρια εκδήλωση της ‘’Alpha Mission
+      Delos’’, που πραγματοποιήθηκε στο νησί της Δήλου.
+    date: 2021-06-24T09:20:11Z
   - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στην IAF
     body: 'Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής, συμμετέχει σε στρογγυλή
       τράπεζα της [International Astronomical Federation (IAF)](https://www.iafastro.org/)
