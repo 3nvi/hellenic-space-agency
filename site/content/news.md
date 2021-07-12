@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Round-table discussion about H.S.C. at HELAS Conference
+    body: 'Round-table discussion “Hellenic Space Center, national space program and
+      participation in ESA space missions”, coordinated by the President of the Hellenic
+      Space Center Prof. Ioannis A. Daglis at the [15th Hellenic Astronomical Conference](https://helas.gr/conf/2021/),
+      with the participation of: Prof. V. Angelopoulos (UCLA, USA), Dr. I. Dandouras
+      (IRAP, France), Prof. T. Sarris (DUTH), Dr. A. Solomonidou (Caltech/JPL, USA).'
+    date: 2021-07-07T09:11:15Z
   - title: The President of H.S.C. at ISF
     body: Participation of the President of the Hellenic Space Center Prof. Ioannis
       A. Daglis in the virtual meeting [International Space Forum (ISF) 2019 – The
