@@ -4,6 +4,11 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: H.S.C. at Alpha Mission Delos
+    body: The President and the CEO of the Hellenic Space Center, Prof. Ioannis A.
+      Daglis and Dr. Nick Sergis, participated in the launch event of "Alpha Mission
+      Delos”, held on the island of Delos.
+    date: 2021-06-24T09:20:42Z
   - title: Round-table discussion about H.S.C. at HELAS Conference
     body: 'Round-table discussion “Hellenic Space Center, national space program and
       participation in ESA space missions”, coordinated by the President of the Hellenic
