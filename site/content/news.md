@@ -12,9 +12,10 @@ en:
       (IRAP, France), Prof. T. Sarris (DUTH), Dr. A. Solomonidou (Caltech/JPL, USA).'
     date: 2021-07-07T09:11:15Z
   - title: National Space Policy and a Strategic Action Plan
-    body: The H.S.C. has submitted its proposal on the National Space Policy and the
-      Strategic Action Plan to the Minister of [Digital Governance](https://mindigital.gr/)
+    body: "The H.S.C. has submitted its proposal on the National Space Policy and
+      the Strategic Action Plan to the Minister of [Digital Governance](https://mindigital.gr/)
       and the Secretary General of the [Hellenic Telecommunications and Post Commission](https://www.eett.gr/).
+      \ \n[View the Proposal here](http://shorturl.at/zFV03)."
     date: 2021-07-06T09:39:11Z
   - title: The President of H.S.C. at ISF
     body: Participation of the President of the Hellenic Space Center Prof. Ioannis
