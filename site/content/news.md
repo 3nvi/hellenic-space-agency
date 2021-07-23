@@ -4,6 +4,11 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: National Space Policy and a Strategic Action Plan
+    body: The H.S.C. has submitted its proposal on the National Space Policy and the
+      Strategic Action Plan to the Minister of [Digital Governance](https://mindigital.gr/)
+      and the Secretary General of the [Hellenic Telecommunications and Post Commission](https://www.eett.gr/).
+    date: 2021-07-06T09:39:11Z
   - title: Round-table discussion about H.S.C. at HELAS Conference
     body: 'Round-table discussion “Hellenic Space Center, national space program and
       participation in ESA space missions”, coordinated by the President of the Hellenic
@@ -78,6 +83,12 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Εθνική Διαστημική Πολιτική και ένα Στρατηγικό Σχέδιο Δράσης
+    body: Το ΕΛ.ΚΕ.Δ. υποβάλλει στον Υπουργό [Ψηφιακής Διακυβέρνησης](https://mindigital.gr/)
+      και τον Γενικό Γραμματέα [Τηλεπικοινωνιών και Ταχυδρομείων](https://www.eett.gr/)
+      τις προτάσεις του για τη διαμόρφωση της Εθνικής Διαστημικής Πολιτικής και για
+      τη χάραξη ενός Στρατηγικού Σχεδίου Δράσης.
+    date: 2021-07-05T21:00:00Z
   - title: Συζήτηση στρογγυλής τραπέζης  για το ΕΛ.ΚΕ.Δ. στο Συνέδριο της ΕΛΑΣΕΤ
     body: 'Διοργάνωση συζήτησης στρογγυλής τραπέζης με τίτλο «Ελληνικό Κέντρο Διαστήματος,
       εθνικά διαστημικά προγράμματα και συμμετοχή σε διαστημικές αποστολές της ESA»,
