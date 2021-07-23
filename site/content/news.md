@@ -15,7 +15,7 @@ en:
     body: "The H.S.C. has submitted its proposal on the National Space Policy and
       the Strategic Action Plan to the Minister of [Digital Governance](https://mindigital.gr/)
       and the Secretary General of the [Hellenic Telecommunications and Post Commission](https://www.eett.gr/).
-      \ \n[View the Proposal here](http://shorturl.at/zFV03)."
+      \ \n[View the Proposal here.](https://uoa2-my.sharepoint.com/:b:/g/personal/iadaglis_o365_uoa_gr/EZ1QaifMxb9KjEHNaDrHOPQBisKOwNZifkk3V41MzKtvwA?e=8MpEiC)"
     date: 2021-07-06T09:39:11Z
   - title: The President of H.S.C. at ISF
     body: Participation of the President of the Hellenic Space Center Prof. Ioannis
@@ -96,7 +96,7 @@ el:
     body: "Το ΕΛ.ΚΕ.Δ. υποβάλλει στον Υπουργό [Ψηφιακής Διακυβέρνησης](https://mindigital.gr/)
       και τον Γενικό Γραμματέα [Τηλεπικοινωνιών και Ταχυδρομείων](https://www.eett.gr/)
       τις προτάσεις του για τη διαμόρφωση της Εθνικής Διαστημικής Πολιτικής και για
-      τη χάραξη ενός Στρατηγικού Σχεδίου Δράσης.  \n[Διαβάστε τις Προτάσεις εδώ](http://shorturl.at/zFV03)."
+      τη χάραξη ενός Στρατηγικού Σχεδίου Δράσης.  \n[Διαβάστε τις Προτάσεις εδώ.](https://uoa2-my.sharepoint.com/:b:/g/personal/iadaglis_o365_uoa_gr/EZ1QaifMxb9KjEHNaDrHOPQBisKOwNZifkk3V41MzKtvwA?e=8MpEiC)"
     date: 2021-07-05T21:00:00Z
   - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στο ISF
     body: Συμμετοχή του Προέδρου του ΕΛ.ΚΕ.Δ. Καθ. Ιωάννη Α. Δαγκλή στην τηλεδιάσκεψη
