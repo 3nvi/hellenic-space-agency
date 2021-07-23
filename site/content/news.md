@@ -15,7 +15,8 @@ en:
     body: "The H.S.C. has submitted its proposal on the National Space Policy and
       the Strategic Action Plan to the Minister of [Digital Governance](https://mindigital.gr/)
       and the Secretary General of the [Hellenic Telecommunications and Post Commission](https://www.eett.gr/).
-      \ \n[View the Proposal here.](https://uoa2-my.sharepoint.com/:b:/g/personal/iadaglis_o365_uoa_gr/EZ1QaifMxb9KjEHNaDrHOPQBisKOwNZifkk3V41MzKtvwA?e=8MpEiC)"
+      \ \n[View the Proposal here](https://uoa2-my.sharepoint.com/:b:/g/personal/iadaglis_o365_uoa_gr/EZ1QaifMxb9KjEHNaDrHOPQBisKOwNZifkk3V41MzKtvwA?e=8MpEiC)
+      (in greek)."
     date: 2021-07-06T09:39:11Z
   - title: The President of H.S.C. at ISF
     body: Participation of the President of the Hellenic Space Center Prof. Ioannis
