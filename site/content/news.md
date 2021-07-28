@@ -38,7 +38,7 @@ en:
     date: 2021-06-24T09:20:42Z
   - title: The President of H.S.C. at IAF
     body: The President of H.S.C., Prof. Ioannis A. Daglis, participates in a roundtable
-      discussion of the [International Astronomical Federation (IAF)](https://www.iafastro.org/)
+      discussion of the [International Astronautical Federation (IAF)](https://www.iafastro.org/)
       about space exploration and its related dangers. [Learn more](https://www.iafastro.org/events/global-series-conferences/glex-2021/plenary-programme/thursday-17-june-2021/human-roads-to-outer-space-real-and-imaginary-dangers.html)
     date: 2021-06-12T10:14:50.000+00:00
   - title: Galileo Masters Competition
