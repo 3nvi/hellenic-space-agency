@@ -10,7 +10,7 @@ en:
       Space Center Prof. Ioannis A. Daglis at the [15th Hellenic Astronomical Conference](https://helas.gr/conf/2021/),
       with the participation of: Prof. V. Angelopoulos (UCLA, USA), Dr. I. Dandouras
       (IRAP, France), Prof. T. Sarris (DUTH), Dr. A. Solomonidou (Caltech/JPL, USA).
-      \ \nWatch the recorded discussion [here](https://youtu.be/eDvrQfNcrFM)."
+      \ \nWatch the recorded discussion [here](https://youtu.be/eDvrQfNcrFM) (in english)."
     date: 2021-07-07T09:11:15Z
   - title: National Space Policy and a Strategic Action Plan
     body: "The H.S.C. has submitted its proposal on the National Space Policy and
