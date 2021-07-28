@@ -117,9 +117,9 @@ el:
       Delos’’, που πραγματοποιήθηκε στο νησί της Δήλου.
     date: 2021-06-24T09:20:11Z
   - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στην IAF
-    body: 'Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής, συμμετέχει σε στρογγυλή
-      τράπεζα της [International Astronomical Federation (IAF)](https://www.iafastro.org/)
-      για την εξερεύνηση του διαστήματος και τους κινδύνους της. [Μάθετε περισσότερα](https://www.iafastro.org/events/global-series-conferences/glex-2021/plenary-programme/thursday-17-june-2021/human-roads-to-outer-space-real-and-imaginary-dangers.html) '
+    body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής, συμμετέχει σε στρογγυλή
+      τράπεζα της [International Astronautical Federation (IAF)](https://www.iafastro.org/)
+      για την εξερεύνηση του διαστήματος και τους κινδύνους της. [Μάθετε περισσότερα](https://www.iafastro.org/events/global-series-conferences/glex-2021/plenary-programme/thursday-17-june-2021/human-roads-to-outer-space-real-and-imaginary-dangers.html)
     date: 2021-06-12T10:03:31.000+00:00
   - title: Διαγωνισμός Galileo Masters
     body: |-
