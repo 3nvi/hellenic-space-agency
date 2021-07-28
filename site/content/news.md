@@ -14,7 +14,7 @@ en:
   - title: National Space Policy and a Strategic Action Plan
     body: "The H.S.C. has submitted its proposal on the National Space Policy and
       the Strategic Action Plan to the Minister of [Digital Governance](https://mindigital.gr/)
-      and the Secretary General for Telecommunications and Post.  \n[View the Proposal
+      and the Secretary General of Telecommunications and Post.  \n[View the Proposal
       here](/assets/6-2021.pdf) (in greek)."
     date: 2021-07-06T09:39:11Z
   - title: The President of H.S.C. at ISF
