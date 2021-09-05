@@ -1668,32 +1668,31 @@ body .landing {
 
   nav {
     position: absolute;
-    right: 10em;
+    right: 8em;
     top: 0;
 
-    ul {
-      margin: 0;
+    ul li {
+      margin-right: 1em;
 
-      li {
+      &.has-children {
+        position: relative;
+      }
+
+      a {
+        border: 0;
         display: inline-block;
-        margin-left: 1em;
+        height: inherit;
+        line-height: inherit;
+        outline: 0;
 
-        a {
-          border: 0;
-          display: inline-block;
-          height: inherit;
-          line-height: inherit;
-          outline: 0;
+        &.button {
+          height: 2em;
+          line-height: 2em;
+          padding: 0 1.25em;
+        }
 
-          &.button {
-            height: 2em;
-            line-height: 2em;
-            padding: 0 1.25em;
-          }
-
-          &:not(.button):before {
-            margin-right: 0.5em;
-          }
+        &:not(.button):before {
+          margin-right: 0.5em;
         }
       }
     }
@@ -1706,13 +1705,17 @@ body .landing {
   }
 }
 
-nav ul li {
-  a {
-    color: inherit;
+nav ul {
+  margin: 0;
 
-    &[aria-current='page'],
-    &.active {
-      color: _palette(accent1);
+  li {
+    a {
+      color: inherit;
+
+      &[aria-current='page'],
+      &.active {
+        color: _palette(accent1);
+      }
     }
   }
 }
@@ -2548,4 +2551,31 @@ body.is-touch {
       line-height: normal;
     }
   }
+}
+
+ul.nav-menu-float {
+  display: block;
+  transition: opacity 0.2s ease-in-out;
+  background: _palette(accent2-transparent);
+  position: absolute;
+  right: 0;
+  min-width: 150px;
+  border-radius: 5px;
+
+  li {
+    padding-left: 0;
+    font-size: 0.8em;
+    line-height: 2.5;
+    white-space: nowrap;
+  }
+}
+
+*:hover > ul.nav-menu-float {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+*:not(:hover) > ul.nav-menu-float {
+  opacity: 0;
+  pointer-events: none;
 }

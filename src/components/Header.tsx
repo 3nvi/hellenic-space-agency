@@ -1,8 +1,9 @@
 import React from 'react';
 import Link from '../components/Link';
 import LanguagePicker from './LanguagePicker';
-import Navigation from './Navigation';
+import DesktopNavigation from './DesktopNavigation';
 import useGetLogo from '../hooks/useGetLogo';
+import MobileNavigation from './MobileNavigation';
 
 const Header: React.FC = () => {
   const [isMenuActive, setMenuActive] = React.useState(false);
@@ -26,7 +27,7 @@ const Header: React.FC = () => {
         <div id="navPanel">
           <div>
             <LanguagePicker />
-            <Navigation orientation="vertical" />
+            <MobileNavigation />
           </div>
         </div>
       </div>
@@ -36,7 +37,7 @@ const Header: React.FC = () => {
           <img src={logo.publicURL} height={60} alt="HSC Logo" />
         </Link>
         <div className="navbar-menu">
-          <Navigation orientation="horizontal" />
+          <DesktopNavigation />
         </div>
         <LanguagePicker />
       </header>
