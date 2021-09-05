@@ -28,7 +28,7 @@ el:
 
     ### Οικονομικό Έτος 2019
 
-      Ακολουθούν οι απολογισμοί Α' & Β' εξαμήνου:
+      Ακολουθούν οι απολογισμοί Α' & Β' χρήσης 2019:
       - [Οικονομικός Απολογισμός 2019 A'](https://res.cloudinary.com/front-end-matters/image/upload/v1630830470/hellenic-space-center/financial_review_2019_A.pdf)
       - [Οικονομικός Απολογισμός 2019 B'](https://res.cloudinary.com/front-end-matters/image/upload/v1630830476/hellenic-space-center/financial_review_2019_B.pdf)
 ---
