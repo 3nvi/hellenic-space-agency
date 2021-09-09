@@ -11,31 +11,31 @@ en:
       with the participation of: Prof. V. Angelopoulos (UCLA, USA), Dr. I. Dandouras
       (IRAP, France), Prof. T. Sarris (DUTH), Dr. A. Solomonidou (Caltech/JPL, USA).
       \ \nWatch the recorded discussion [here](https://youtu.be/eDvrQfNcrFM) (in English)."
-    date: 2021-07-07T09:11:15Z
+    date: 2021-07-07T09:11:15.000+00:00
   - title: National Space Policy and Strategic Action Plan
     body: "The H.S.C. has submitted its proposal on the National Space Policy and
       the Strategic Action Plan to the Minister of [Digital Governance](https://mindigital.gr/)
       and the Secretary General of Telecommunications and Post.  \n[View the Proposal
       here](/assets/6-2021.pdf) (in Greek)."
-    date: 2021-07-06T09:39:11Z
+    date: 2021-07-06T09:39:11.000+00:00
   - title: The President of H.S.C. at ISF
     body: Participation of the President of the Hellenic Space Center Prof. Ioannis
       A. Daglis in the virtual meeting [International Space Forum (ISF) 2019 – The
       Mediterranean Chapter](https://www.asi.it/2021/07/webinar-on-the-follow-on-activities-of-the-iv-international-space-forum-isf-2019-the-mediteranean-chapter/),
       organised by the [Italian Space Agency (ASI)](https://www.asi.it/) and the [Mediterranea
       University of Reggio Calabria](http://www.unirc.it/).
-    date: 2021-07-05T09:03:08Z
+    date: 2021-07-05T09:03:08.000+00:00
   - title: JAXA call for research proposals
     body: "The [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/)
       now conducts the third Research Announcement on the Earth Observations (EO-RA3)
       for its Earth observation satellite projects.  \nApplication deadline: July
       27 2021. [Learn more](https://www.eorc.jaxa.jp/en/research/ra/3rd_ra_eo/index.html)"
-    date: 2021-06-27T21:00:00Z
+    date: 2021-06-27T21:00:00.000+00:00
   - title: H.S.C. at Alpha Mission Delos
     body: The President and the CEO of the Hellenic Space Center, Prof. Ioannis A.
       Daglis and Dr. Nick Sergis, participated in the launch event of "Alpha Mission
       Delos”, held on the island of Delos.
-    date: 2021-06-24T09:20:42Z
+    date: 2021-06-24T09:20:42.000+00:00
   - title: The President of H.S.C. at IAF
     body: The President of H.S.C., Prof. Ioannis A. Daglis, participates in a roundtable
       discussion of the [International Astronautical Federation (IAF)](https://www.iafastro.org/)
@@ -85,6 +85,13 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: 'Επίσκεψη του κ. Taku ARAMAKI, από την Πρεσβεία της Ιαπωνίας στην Ελλάδα,
+      στο ΕΛ.ΚΕ.Δ. '
+    body: Την Τετάρτη, 8 Σεπτεμβρίου 2021, ο κ. Taku ARAMAKI, Αναπληρωτής Επικεφαλής
+      της [Πρεσβείας της Ιαπωνίας στην Ελλάδα](https://www.gr.emb-japan.go.jp/), επισκέφθηκε
+      τον Πρόεδρο του ΕΛ.ΚΕ.Δ. Καθ. Ιωάννη Α. Δαγκλή. Κατά την επίσκεψη συζητήθηκαν
+      θέματα κοινού ενδιαφέροντος που εμπίπτουν στις αρμοδιότητες του ΕΛ.ΚΕ.Δ.
+    date: 2021-09-08T09:00:16Z
   - title: Συζήτηση στρογγυλής τραπέζης για το ΕΛ.ΚΕ.Δ. στο Συνέδριο της ΕΛΑΣΕΤ
     body: "Διοργάνωση συζήτησης στρογγυλής τραπέζης με τίτλο «Ελληνικό Κέντρο Διαστήματος,
       εθνικά διαστημικά προγράμματα και συμμετοχή σε διαστημικές αποστολές της ESA»,
@@ -93,29 +100,29 @@ el:
       των: Καθ. Β. Αγγελόπουλου (UCLA, ΗΠΑ.), Δρ. Ι. Δάνδουρα (IRAP, Γαλλία), Καθ.
       Θ. Σαρρή (ΔΠΘ, Ελλάδα) και Δρ. Α. Σολωμονίδου (Caltech/JPL, ΗΠΑ).  \nΔείτε τη
       βιντεοσκοπημένη συζήτηση [εδώ](https://youtu.be/eDvrQfNcrFM) (στην αγγλική γλώσσα)."
-    date: 2021-07-07T09:12:19Z
+    date: 2021-07-07T09:12:19.000+00:00
   - title: Εθνική Διαστημική Πολιτική και Στρατηγικό Σχέδιο Δράσης
     body: "Το ΕΛ.ΚΕ.Δ. υποβάλλει στον Υπουργό [Ψηφιακής Διακυβέρνησης](https://mindigital.gr/)
       και τον Γενικό Γραμματέα Τηλεπικοινωνιών και Ταχυδρομείων τις προτάσεις του
       για τη διαμόρφωση της Εθνικής Διαστημικής Πολιτικής και για τη χάραξη ενός Στρατηγικού
       Σχεδίου Δράσης.  \n[Διαβάστε τις Προτάσεις εδώ](/assets/6-2021.pdf)."
-    date: 2021-07-05T21:00:00Z
+    date: 2021-07-05T21:00:00.000+00:00
   - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στο ISF
     body: Συμμετοχή του Προέδρου του ΕΛ.ΚΕ.Δ. Καθ. Ιωάννη Α. Δαγκλή στην τηλεδιάσκεψη
       του [International Space Forum (ISF) 2019 – The Mediterranean Chapter](https://www.asi.it/2021/07/webinar-on-the-follow-on-activities-of-the-iv-international-space-forum-isf-2019-the-mediteranean-chapter/),
       που οργανώθηκε από τον [Ιταλικό Διαστημικό Οργανισμό (ASI)](https://www.asi.it/)
       και το [Mediterranea University of Reggio Calabria](http://www.unirc.it/).
-    date: 2021-07-05T09:01:38Z
+    date: 2021-07-05T09:01:38.000+00:00
   - title: Υποβολή ερευνητικών προτάσεων στη JAXA
     body: "Η [Ιαπωνική Διαστημική Υπηρεσία (JAXA)](https://global.jaxa.jp/) δέχεται
       ερευνητικές προτάσεις σχετικά με τις ιαπωνικές αποστολές παρατήρησης της Γης.
       \  \nΠροθεσμία Υποβολής: 27 Ιουλίου 2021. [Μάθετε περισσότερα](https://www.eorc.jaxa.jp/en/research/ra/3rd_ra_eo/index.html)"
-    date: 2021-06-27T21:00:00Z
+    date: 2021-06-27T21:00:00.000+00:00
   - title: Το ΕΛ.ΚΕ.Δ. στην Alpha Mission Delos
     body: Ο Πρόεδρος και ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής
       και Δρ. Νικόλαος Σέργης, συμμετείχαν στην εναρκτήρια εκδήλωση της ‘’Alpha Mission
       Delos’’, που πραγματοποιήθηκε στο νησί της Δήλου.
-    date: 2021-06-24T09:20:11Z
+    date: 2021-06-24T09:20:11.000+00:00
   - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στην IAF
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής, συμμετέχει σε στρογγυλή
       τράπεζα της [International Astronautical Federation (IAF)](https://www.iafastro.org/)
