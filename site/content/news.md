@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Visit of Mr. Taku ARAMAKI, from the Embassy of Japan in Greece, at the
+      H.S.C headquarters.
+    body: On Wednesday, September 8, 2021, Mr. Taku ARAMAKI, the Deputy Chief of Mission
+      from the [Embassy of Japan in Greece](https://www.gr.emb-japan.go.jp/), visited
+      the President of H.S.C., Prof. Ioannis A. Daglis. During the visit, matters
+      of common interest, within the responsibilities of H.S.C., were discussed.
+    date: 2021-09-08T09:00:05Z
   - title: Round-table discussion about H.S.C. at HELAS Conference
     body: "Round-table discussion “Hellenic Space Center, national space program and
       participation in ESA space missions”, coordinated by the President of the Hellenic
