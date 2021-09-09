@@ -4,8 +4,7 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
-  - title: Visit of Mr. Taku ARAMAKI, from the Embassy of Japan in Greece, at the
-      H.S.C headquarters.
+  - title: Visit of Mr. Taku ARAMAKI, Embassy of Japan in Greece
     body: On Wednesday, September 8, 2021, Mr. Taku ARAMAKI, the Deputy Chief of Mission
       from the [Embassy of Japan in Greece](https://www.gr.emb-japan.go.jp/), visited
       the President of H.S.C., Prof. Ioannis A. Daglis. During the visit, matters
