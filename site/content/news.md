@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Postdoctoral Research Fellowships from ESA
+    body: |-
+      [ESA](https://www.esa.int/)'s postdoctoral Research Fellowship programme offers early-career scientists and engineers the possibility to carry out research in a variety of disciplines related to space science, space applications or space technology. [Learn more](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships )
+
+      Deadline for applications: September 27, 2021.
+    date: 2021-09-10T09:00:38Z
   - title: Visit of Mr. Taku ARAMAKI, Embassy of Japan in Greece
     body: On Wednesday, September 8, 2021, Mr. Taku ARAMAKI, the Deputy Chief of Mission
       from the [Embassy of Japan in Greece](https://www.gr.emb-japan.go.jp/), visited
