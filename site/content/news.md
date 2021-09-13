@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Visit of Prof. Vassilis Angelopoulos, UCLA
+    body: On Friday, September 10, 2021, Prof. Angelopoulos ([UCLA](https://www.ucla.edu/))
+      and Prof. Daglis had an extensive discussion on issues of space education, space
+      technology and, in particular, on the challenges and potential of small satellite
+      missions.
+    date: 2021-09-13T08:00:16Z
   - title: Postdoctoral Research Fellowships from ESA
     body: |-
       [ESA](https://www.esa.int/)'s postdoctoral Research Fellowship programme offers early-career scientists and engineers the possibility to carry out research in a variety of disciplines related to space science, space applications or space technology. [Learn more](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships )
