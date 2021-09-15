@@ -103,6 +103,17 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: 'Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στο “Education Revolution Conference” της 85ης
+      Δ.Ε.Θ. '
+    body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής, την Τετάρτη 15/9 συμμετείχε
+      σε συζήτηση με τίτλο “Τεχνολογία και Καινοτομία στην Εκπαίδευση”, μέρος του
+      “[Education Revolution Conference](https://www.socialinnov.gr/education_revolution/
+      )”. Το μονοήμερο συνέδριο οργανώθηκε στο πλαίσιο της[ 85ης Διεθνούς Έκθεσης
+      Θεσσαλονίκης](https://www.thessalonikifair.gr/), από την [U.S. Mission in Greece](https://gr.usembassy.gov/  )
+      σε συνεργασία με την [Socialinnov](https://www.socialinnov.gr/ ) και το [Υπουργείο
+      Ψηφιακής Διακυβέρνησης](https://mindigital.gr/ ), και πραγματοποιήθηκε στην
+      Ενότητα “Ψηφιακή Ελλάδα” (Περίπτερο 12).
+    date: 2021-09-15T13:40:31Z
   - title: Επίσκεψη του Καθ. Βασίλη Αγγελόπουλου, UCLA, στο ΕΛΚΕΔ
     body: Την Παρασκευή, 10 Σεπτεμβρίου 2021, ο κ. Βασίλης Αγγελόπουλος, Καθηγητής
       του [UCLA](https://www.ucla.edu/) (University of California, Los Angeles) και
