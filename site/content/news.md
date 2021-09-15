@@ -4,6 +4,17 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'The President of H.S.C. at the “Education Revolution Conference” of the
+      85th TIF '
+    body: Τhe President of H.S.C, Prof. Ioannis A. Daglis, on Wednesday, September
+      15, participated in a Panel Discussion titled “Technology and Innovation in
+      Education”, a part of the “[Education Revolution Conference](https://www.socialinnov.gr/education_revolution/
+      )”. This one-day event was organized during the[ 85th Thessaloniki International
+      Fair](https://www.thessalonikifair.gr/), by the [U.S. Mission in Greece](https://gr.usembassy.gov/  ),
+      in partnership with [Socialinnov](https://www.socialinnov.gr/ ) and the [Ministry
+      of Digital Governance](https://mindigital.gr/ ), and was hosted at Section “Digital
+      Greece” (Pavilion 12).
+    date: 2021-09-15T13:40:59Z
   - title: Visit of Prof. Vassilis Angelopoulos, UCLA
     body: On Friday, September 10, 2021, Prof. Angelopoulos ([UCLA](https://www.ucla.edu/))
       and Prof. Daglis had an extensive discussion on issues of space education, space
