@@ -114,6 +114,24 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: 'Προκήρυξη: 1st Winter Course on GeoInformation and Space Data management
+      for the Sustainable Development and Needs of the Mediterranean Region '
+    body: "Ως το πρώτο βήμα για την εφαρμογή των προτάσεων που συνδιαμορφώθηκαν κατά
+      το [International Space Forum (ISF)](https://www.iafastro.org/events/international-space-forum-at-ministerial-level-isf/international-space-forum-at-ministerial-level-2019.html),
+      το οποίο πραγματοποιήθηκε στο Reggio Calabria στις 5/9/2019, ο [Ιταλικός Διαστημικός
+      Οργανισμός](https://www.asi.it/) και το [Mediterranea University of Reggio Calabria](https://www.unirc.it/en/),
+      σε συνεργασία με την εταιρία [e-GEOS](https://www.e-geos.it/#/) και την υποστήριξη
+      του [United Nations Office for Outer Space Affairs (UNOOSA)](https://www.unoosa.org/),
+      διοργανώνουν το [1st Winter Course on GeoInformation and Space Data management
+      for the Sustainable Development and Needs of the Mediterranean Region](https://www.asi.it/2021/09/1st-winter-course-on-geoinformation-and-space-data-management-for-the-sustainable-development-and-needs-of-the-mediterranean-region/).\n\nΠροθεσμία
+      υποβολής: 28 Σεπτ. 2021\n\nΟικονομική Υποστήριξη: Προβλέπεται για έως 25 συμμετέχοντες.\n\nΔιαδικασία
+      υποβολής: Ενδιαφερόμενα Δημόσια/Πανεπιστημιακά/Ερευνητικά Ιδρύματα από Μεσογειακές
+      χώρες θα πρέπει να υποβάλουν το βιογραφικό καθώς και τα απαιτούμενα δικαιολογητικά
+      ενός επιλεγμένου υποψηφίου τους αποκλειστικά στον Ιταλικό Διαστημικό Οργανισμό,
+      στη διεύθυνση ηλεκτρονικού ταχυδρομείου που αναφέρεται στην Προκήρυξη.\n\nΔιαβάστε
+      την [Ανακοίνωση](https://www.asi.it/2021/09/1st-winter-course-on-geoinformation-and-space-data-management-for-the-sustainable-development-and-needs-of-the-mediterranean-region/)
+      και την [Προκήρυξη](https://www.asi.it/wp-content/uploads/2021/09/Draft-Announcement-of-Opportunity-Geoinformation-Course-Reggio-Calabria-August-2021-13-set.pdf). "
+    date: 2021-09-23T11:46:36Z
   - title: 'Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στο “Education Revolution Conference” της 85ης
       Δ.Ε.Θ. '
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής, την Τετάρτη 15/9 συμμετείχε
