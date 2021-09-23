@@ -4,6 +4,20 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'Announcement of Opportunity: 1st Winter Course on GeoInformation and Space
+      Data management for the Sustainable Development and Needs of the Mediterranean
+      Region '
+    body: |-
+      As a first step to implement the recommendations of the [International Space Forum (ISF)](https://www.iafastro.org/events/international-space-forum-at-ministerial-level-isf/international-space-forum-at-ministerial-level-2019.html), held in Reggio Calabria on 5/9/2019, the [Italian Space Agency](https://www.asi.it/) and the [Mediterranea University of Reggio Calabria](https://www.unirc.it/en/), in collaboration with the [e-GEOS](https://www.e-geos.it/#/) Company and the support of the [United Nations Office for Outer Space Affairs (UNOOSA)](https://www.unoosa.org/), are organizing the [1st Winter Course on GeoInformation and Space Data management for the Sustainable Development and Needs of the Mediterranean Region](https://www.asi.it/2021/09/1st-winter-course-on-geoinformation-and-space-data-management-for-the-sustainable-development-and-needs-of-the-mediterranean-region/).
+
+      Deadline for applications: Sept. 28, 2021
+
+      Financial support: Offered for up to 25 selected participants.
+
+      Application procedure: Any interested Government/University/Research Institutions of the Mediterranean Countries will have to submit the CV and requested attachments of their selected candidate exclusively to the ASI Office and e-mail address indicated in the Announcement of Opportunity.
+
+      Read the [Announcement](https://www.asi.it/2021/09/1st-winter-course-on-geoinformation-and-space-data-management-for-the-sustainable-development-and-needs-of-the-mediterranean-region/) and the [Announcement of Opportunity](https://www.asi.it/wp-content/uploads/2021/09/Draft-Announcement-of-Opportunity-Geoinformation-Course-Reggio-Calabria-August-2021-13-set.pdf).
+    date: 2021-09-23T11:49:41Z
   - title: 'The President of H.S.C. at the “Education Revolution Conference” of the
       85th TIF '
     body: Τhe President of H.S.C, Prof. Ioannis A. Daglis, on Wednesday, September
