@@ -128,8 +128,7 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
-  - title: 'Προκήρυξη: 1st Winter Course on GeoInformation and Space Data management
-      for the Sustainable Development and Needs of the Mediterranean Region '
+  - title: 'Προκήρυξη: 1st Winter Course on GeoInformation and Space Data management'
     body: "Ως το πρώτο βήμα για την εφαρμογή των προτάσεων που συνδιαμορφώθηκαν κατά
       το [International Space Forum (ISF)](https://www.iafastro.org/events/international-space-forum-at-ministerial-level-isf/international-space-forum-at-ministerial-level-2019.html),
       το οποίο πραγματοποιήθηκε στο Reggio Calabria στις 5/9/2019, ο [Ιταλικός Διαστημικός
