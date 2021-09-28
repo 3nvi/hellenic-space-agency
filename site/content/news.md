@@ -11,7 +11,7 @@ en:
       Abstract submission deadline: Nov. 1st, 2021
 
       [Learn more](https://sseasymposium.org/)
-    date: 
+    date: 2021-09-27T21:00:00Z
   - title: 'Announcement of Opportunity: 1st Winter Course on GeoInformation and Space
       Data management'
     body: |-
