@@ -144,7 +144,7 @@ el:
       Προθεσμία υποβολής: 1 Νοεμβρίου 2021.
 
       [Μάθετε περισσότερα ](https://sseasymposium.org/)
-    date: 
+    date: 2021-09-27T21:00:00Z
   - title: 'Προκήρυξη: 1st Winter Course on GeoInformation and Space Data management'
     body: "Ως το πρώτο βήμα για την εφαρμογή των προτάσεων που συνδιαμορφώθηκαν κατά
       το [International Space Forum (ISF)](https://www.iafastro.org/events/international-space-forum-at-ministerial-level-isf/international-space-forum-at-ministerial-level-2019.html),
