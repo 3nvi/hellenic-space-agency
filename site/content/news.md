@@ -5,8 +5,7 @@ en:
   mainSubtitle: Find out about our latest updates
   items:
   - title: 'Announcement of Opportunity: 1st Winter Course on GeoInformation and Space
-      Data management for the Sustainable Development and Needs of the Mediterranean
-      Region '
+      Data management'
     body: |-
       As a first step to implement the recommendations of the [International Space Forum (ISF)](https://www.iafastro.org/events/international-space-forum-at-ministerial-level-isf/international-space-forum-at-ministerial-level-2019.html), held in Reggio Calabria on 5/9/2019, the [Italian Space Agency](https://www.asi.it/) and the [Mediterranea University of Reggio Calabria](https://www.unirc.it/en/), in collaboration with the [e-GEOS](https://www.e-geos.it/#/) Company and the support of the [United Nations Office for Outer Space Affairs (UNOOSA)](https://www.unoosa.org/), are organizing the [1st Winter Course on GeoInformation and Space Data management for the Sustainable Development and Needs of the Mediterranean Region](https://www.asi.it/2021/09/1st-winter-course-on-geoinformation-and-space-data-management-for-the-sustainable-development-and-needs-of-the-mediterranean-region/).
 
