@@ -127,6 +127,16 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: 4th Symposium on Space Educational Activities (SSEA)
+    body: |-
+      Το Γραφείο Εκπαίδευσης του [Ευρωπαϊκού Οργανισμού Διαστήματος](https://www.esa.int/) οργανώνει το συνέδριο [«4th Symposium on Space Educational Activities (SSEA)»](https://sseasymposium.org/), τον Απρίλιο του 2022, στο Πολυτεχνείο της Καταλονίας ([Politecnica de Catalunya – BarcelonaTech](https://www.upc.edu/en)) της Ισπανίας. Αποτελεί ένα ετήσιο συνέδριο πάνω στην εμπειρία οργάνωσης, διεξαγωγής και συμμετοχής σε εκπαιδευτικές και επιμορφωτικές δραστηριότητες σχετιζόμενες με το Διάστημα, με σκοπό να προωθήσει το έργο νέων ερευνητών.
+
+      Απευθύνεται σε προπτυχιακούς, μεταπτυχιακούς φοιτητές, υποψήφιους διδάκτορες, μεταδιδακτορικούς ερευνητές και μέλη ΔΕΠ, και υπάρχει δυνατότητα οικονομικής υποστήριξης για επιλεγμένους υποψηφίους.
+
+      Προθεσμία υποβολής: 1 Νοεμβρίου 2021.
+
+      [Μάθετε περισσότερα ](https://sseasymposium.org/)
+    date: 
   - title: 'Προκήρυξη: 1st Winter Course on GeoInformation and Space Data management'
     body: "Ως το πρώτο βήμα για την εφαρμογή των προτάσεων που συνδιαμορφώθηκαν κατά
       το [International Space Forum (ISF)](https://www.iafastro.org/events/international-space-forum-at-ministerial-level-isf/international-space-forum-at-ministerial-level-2019.html),
