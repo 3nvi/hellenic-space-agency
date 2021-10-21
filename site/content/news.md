@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'HSC and OHB-Hellas meeting '
+    body: The President and the CEO of the Hellenic Space Center, Prof. Ioannis A.
+      Daglis and Dr. Nick Sergis, had a meeting with Dr. A. Panopoulou, Managing Director
+      of [OHB-Hellas](https://www.ohb-hellas.gr/) and M. Bernou, CTO and Deputy Manager
+      of OHB-Hellas. The meeting took place at the HSC premises and was focused on
+      OHB-Hellas activities and potential synergies with the Greek Space ecosystem.
+    date: 2021-10-06T12:25:15Z
   - title: 'Virtual meeting of HSC and DLR '
     body: The President and the CEO of the Hellenic Space Center, Prof. Ioannis A.
       Daglis and Dr. Nick Sergis, held a virtual meeting with Dr. Walther Pelzer,
