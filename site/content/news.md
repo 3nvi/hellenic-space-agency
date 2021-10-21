@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'Virtual meeting of HSC and DLR '
+    body: The President and the CEO of the Hellenic Space Center, Prof. Ioannis A.
+      Daglis and Dr. Nick Sergis, held a virtual meeting with Dr. Walther Pelzer,
+      Head of the German Space Agency, and Christian Müller, ESA/EU advisor at the
+      [German Aerospace Center](https://www.dlr.de/EN/Home/home_node.html), and discussed
+      topics of mutual interest in the context of opportunities for future collaboration.
+    date: 2021-10-05T12:24:56Z
   - title: 'HCS meeting with SITAEL and Hellenic ASI '
     body: The CEO of the Hellenic Space Center, Dr. Nick Sergis, held a meeting with
       Dr M. Molina, Managing Director of [SITAEL-Italia](https://www.sitael.com/),
