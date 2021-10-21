@@ -18,14 +18,6 @@ en:
       [German Aerospace Center](https://www.dlr.de/EN/Home/home_node.html), and discussed
       topics of mutual interest in the context of opportunities for future collaboration.
     date: 2021-10-05T12:24:56Z
-  - title: 'HCS meeting with SITAEL and Hellenic ASI '
-    body: The CEO of the Hellenic Space Center, Dr. Nick Sergis, held a meeting with
-      Dr M. Molina, Managing Director of [SITAEL-Italia](https://www.sitael.com/),
-      Dr N. Bazakas, General Manager at [SITAEL-Hellas](http://www.sitael-hellas.com/),
-      and Dr A. Potsis, President of the [Hellenic Industrial Space Association (Hellenic
-      ASI)](https://www.hellenic-asi.org/en/). The meeting took place at the HSC premises,
-      and matters of common interest were discussed.
-    date: 2021-09-15T12:24:36Z
   - title: 4th Symposium on Space Educational Activities (SSEA)
     body: |-
       The [Symposium on Space Educational Activities (SSEA)](https://sseasymposium.org/), organised by the [European Space Agency](https://www.esa.int/)’s Education Office, provides a forum for university students, professionals working in education, and other young professionals to present and discuss their experiences organising, running and/or participating in Educational Activities related to Space. The [4th SSEA](https://sseasymposium.org/) is to be held on April 2022 in Barcelona, Spain, and the local organisation team is led by the [Universitat Politècnica de Catalunya · BarcelonaTech](https://www.upc.edu/en). There are also different scholarships available for students.
@@ -47,6 +39,14 @@ en:
 
       Read the [Announcement](https://www.asi.it/2021/09/1st-winter-course-on-geoinformation-and-space-data-management-for-the-sustainable-development-and-needs-of-the-mediterranean-region/) and the [Announcement of Opportunity](https://www.asi.it/wp-content/uploads/2021/09/Draft-Announcement-of-Opportunity-Geoinformation-Course-Reggio-Calabria-August-2021-13-set.pdf).
     date: 2021-09-23T11:49:41Z
+  - title: 'HCS meeting with SITAEL and Hellenic ASI '
+    body: The CEO of the Hellenic Space Center, Dr. Nick Sergis, held a meeting with
+      Dr M. Molina, Managing Director of [SITAEL-Italia](https://www.sitael.com/),
+      Dr N. Bazakas, General Manager at [SITAEL-Hellas](http://www.sitael-hellas.com/),
+      and Dr A. Potsis, President of the [Hellenic Industrial Space Association (Hellenic
+      ASI)](https://www.hellenic-asi.org/en/). The meeting took place at the HSC premises,
+      and matters of common interest were discussed.
+    date: 2021-09-15T12:24:36Z
   - title: 'The President of H.S.C. at the “Education Revolution Conference” of the
       85th TIF '
     body: Τhe President of H.S.C, Prof. Ioannis A. Daglis, on Wednesday, September
