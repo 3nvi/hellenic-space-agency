@@ -171,14 +171,6 @@ el:
       [Γερμανικό Κέντρο Αεροδιαστημικής](https://www.dlr.de/EN/Home/home_node.html).
       Συζητήθηκαν θέματα αμοιβαίου ενδιαφέροντος.
     date: 2021-10-05T12:23:12Z
-  - title: 'Συνάντηση ΕΛ.ΚΕ.Δ.-SITAEL-ΕΒΙΔΙΤΕ '
-    body: Την Τετάρτη 15 Σεπτεμβρίου, ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ. συναντήθηκε
-      με τον Δρ. Marco Molina, Managing Director της [SITAEL-Italia](https://www.sitael.com/),
-      τον Δρ. Νίκο Μπαζάκα, Διευθυντή της [SITAEL-Hellas](http://www.sitael-hellas.com/)
-      και τον Δρ. Αθανάσιο Πότση, Πρόεδρο της [Ένωσης Ελληνικών Βιομηχανιών Διαστημικής
-      Τεχνολογίας & Εφαρμογών (ΕΒΙΔΙΤΕ)](https://www.hellenic-asi.org/). Η συνάντηση
-      πραγματοποιήθηκε στα γραφεία του ΕΛ.ΚΕ.Δ. και συζητήθηκαν θέματα αμοιβαίου ενδιαφέροντος.
-    date: 2021-09-15T12:22:20Z
   - title: 4th Symposium on Space Educational Activities (SSEA)
     body: |-
       Το Γραφείο Εκπαίδευσης του [Ευρωπαϊκού Οργανισμού Διαστήματος](https://www.esa.int/) οργανώνει το συνέδριο [«4th Symposium on Space Educational Activities (SSEA)»](https://sseasymposium.org/), τον Απρίλιο του 2022, στο Πολυτεχνείο της Καταλονίας ([Politecnica de Catalunya – BarcelonaTech](https://www.upc.edu/en)) της Ισπανίας. Αποτελεί ένα ετήσιο συνέδριο πάνω στην εμπειρία οργάνωσης, διεξαγωγής και συμμετοχής σε εκπαιδευτικές και επιμορφωτικές δραστηριότητες σχετιζόμενες με το Διάστημα, με σκοπό να προωθήσει το έργο νέων ερευνητών.
@@ -206,6 +198,14 @@ el:
       την [Ανακοίνωση](https://www.asi.it/2021/09/1st-winter-course-on-geoinformation-and-space-data-management-for-the-sustainable-development-and-needs-of-the-mediterranean-region/)
       και την [Προκήρυξη](https://www.asi.it/wp-content/uploads/2021/09/Draft-Announcement-of-Opportunity-Geoinformation-Course-Reggio-Calabria-August-2021-13-set.pdf). "
     date: 2021-09-23T11:46:36Z
+  - title: 'Συνάντηση ΕΛ.ΚΕ.Δ.-SITAEL-ΕΒΙΔΙΤΕ '
+    body: Την Τετάρτη 15 Σεπτεμβρίου, ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ. συναντήθηκε
+      με τον Δρ. Marco Molina, Managing Director της [SITAEL-Italia](https://www.sitael.com/),
+      τον Δρ. Νίκο Μπαζάκα, Διευθυντή της [SITAEL-Hellas](http://www.sitael-hellas.com/)
+      και τον Δρ. Αθανάσιο Πότση, Πρόεδρο της [Ένωσης Ελληνικών Βιομηχανιών Διαστημικής
+      Τεχνολογίας & Εφαρμογών (ΕΒΙΔΙΤΕ)](https://www.hellenic-asi.org/). Η συνάντηση
+      πραγματοποιήθηκε στα γραφεία του ΕΛ.ΚΕ.Δ. και συζητήθηκαν θέματα αμοιβαίου ενδιαφέροντος.
+    date: 2021-09-15T12:22:20Z
   - title: 'Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στο “Education Revolution Conference” της 85ης
       Δ.Ε.Θ. '
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής, την Τετάρτη 15/9 συμμετείχε
