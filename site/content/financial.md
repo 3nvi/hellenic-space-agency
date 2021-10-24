@@ -7,7 +7,7 @@ en:
 
     Financial statements:
 
-    * [Financial statements up until 31/12/2020](https://app.forestry.io/sites/4hemrvcyxggaxa/body-media//assets/31-12-2020_-9-46.pdf "Παρουσίαση")
+    * [Financial statements up until 31/12/2020](/assets/31-12-2020_-9-46.pdf "Preview")
 
     ***
 
