@@ -23,7 +23,6 @@ sections:
 - type: document
   path: site/content/financial.md
   label: Financial Data
-  match: "**/*"
 - type: document
   path: site/content/careers.md
   label: Careers

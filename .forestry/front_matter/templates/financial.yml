@@ -1,0 +1,30 @@
+---
+label: Financial
+hide_body: true
+fields:
+- type: field_group
+  name: en
+  label: en
+  fields:
+  - type: text
+    name: navigationLabel
+    label: navigationLabel
+  - type: text
+    name: mainTitle
+    label: mainTitle
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: el
+  label: el
+  fields:
+  - type: text
+    name: navigationLabel
+    label: navigationLabel
+  - type: text
+    name: mainTitle
+    label: mainTitle
+  - type: textarea
+    name: content
+    label: content
