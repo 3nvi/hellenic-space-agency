@@ -32,5 +32,9 @@ fields:
   - type: textarea
     name: content
     label: content
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
 pages:
 - site/content/financial.md
