@@ -32,3 +32,5 @@ fields:
   - type: textarea
     name: content
     label: content
+pages:
+- site/content/financial.md
