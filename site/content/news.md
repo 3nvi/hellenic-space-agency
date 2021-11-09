@@ -10,14 +10,14 @@ en:
       of [OHB-Hellas](https://www.ohb-hellas.gr/) and M. Bernou, CTO and Deputy Manager
       of OHB-Hellas. The meeting took place at the HSC premises and was focused on
       OHB-Hellas activities and potential synergies with the Greek Space ecosystem.
-    date: 2021-10-06T12:25:15Z
+    date: 2021-10-06T12:25:15.000+00:00
   - title: 'Virtual meeting of HSC and DLR '
     body: The President and the CEO of the Hellenic Space Center, Prof. Ioannis A.
       Daglis and Dr. Nick Sergis, held a virtual meeting with Dr. Walther Pelzer,
       Head of the German Space Agency, and Christian Müller, ESA/EU advisor at the
       [German Aerospace Center](https://www.dlr.de/EN/Home/home_node.html), and discussed
       topics of mutual interest in the context of opportunities for future collaboration.
-    date: 2021-10-05T12:24:56Z
+    date: 2021-10-05T12:24:56.000+00:00
   - title: 4th Symposium on Space Educational Activities (SSEA)
     body: |-
       The [Symposium on Space Educational Activities (SSEA)](https://sseasymposium.org/), organised by the [European Space Agency](https://www.esa.int/)’s Education Office, provides a forum for university students, professionals working in education, and other young professionals to present and discuss their experiences organising, running and/or participating in Educational Activities related to Space. The [4th SSEA](https://sseasymposium.org/) is to be held on April 2022 in Barcelona, Spain, and the local organisation team is led by the [Universitat Politècnica de Catalunya · BarcelonaTech](https://www.upc.edu/en). There are also different scholarships available for students.
@@ -25,7 +25,7 @@ en:
       Abstract submission deadline: Nov. 1st, 2021
 
       [Learn more](https://sseasymposium.org/)
-    date: 2021-09-27T21:00:00Z
+    date: 2021-09-27T21:00:00.000+00:00
   - title: 'Announcement of Opportunity: 1st Winter Course on GeoInformation and Space
       Data management'
     body: |-
@@ -38,7 +38,7 @@ en:
       Application procedure: Any interested Government/University/Research Institutions of the Mediterranean Countries will have to submit the CV and requested attachments of their selected candidate exclusively to the ASI Office and e-mail address indicated in the Announcement of Opportunity.
 
       Read the [Announcement](https://www.asi.it/2021/09/1st-winter-course-on-geoinformation-and-space-data-management-for-the-sustainable-development-and-needs-of-the-mediterranean-region/) and the [Announcement of Opportunity](https://www.asi.it/wp-content/uploads/2021/09/Draft-Announcement-of-Opportunity-Geoinformation-Course-Reggio-Calabria-August-2021-13-set.pdf).
-    date: 2021-09-23T11:49:41Z
+    date: 2021-09-23T11:49:41.000+00:00
   - title: 'HCS meeting with SITAEL and Hellenic ASI '
     body: The CEO of the Hellenic Space Center, Dr. Nick Sergis, held a meeting with
       Dr M. Molina, Managing Director of [SITAEL-Italia](https://www.sitael.com/),
@@ -46,7 +46,7 @@ en:
       and Dr A. Potsis, President of the [Hellenic Industrial Space Association (Hellenic
       ASI)](https://www.hellenic-asi.org/en/). The meeting took place at the HSC premises,
       and matters of common interest were discussed.
-    date: 2021-09-15T12:24:36Z
+    date: 2021-09-15T12:24:36.000+00:00
   - title: 'The President of H.S.C. at the “Education Revolution Conference” of the
       85th TIF '
     body: Τhe President of H.S.C, Prof. Ioannis A. Daglis, on Wednesday, September
@@ -57,25 +57,25 @@ en:
       in partnership with [Socialinnov](https://www.socialinnov.gr/ ) and the [Ministry
       of Digital Governance](https://mindigital.gr/ ), and was hosted at Section “Digital
       Greece” (Pavilion 12).
-    date: 2021-09-15T13:40:59Z
+    date: 2021-09-15T13:40:59.000+00:00
   - title: Visit of Prof. Vassilis Angelopoulos, UCLA
     body: On Friday, September 10, 2021, Prof. Angelopoulos ([UCLA](https://www.ucla.edu/))
       and Prof. Daglis had an extensive discussion on issues of space education, space
       technology and, in particular, on the challenges and potential of small satellite
       missions.
-    date: 2021-09-13T08:00:16Z
+    date: 2021-09-13T08:00:16.000+00:00
   - title: Postdoctoral Research Fellowships from ESA
     body: |-
       [ESA](https://www.esa.int/)'s postdoctoral Research Fellowship programme offers early-career scientists and engineers the possibility to carry out research in a variety of disciplines related to space science, space applications or space technology. [Learn more](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships )
 
       Deadline for applications: September 27, 2021.
-    date: 2021-09-10T09:00:38Z
+    date: 2021-09-10T09:00:38.000+00:00
   - title: Visit of Mr. Taku ARAMAKI, Embassy of Japan in Greece
     body: On Wednesday, September 8, 2021, Mr. Taku ARAMAKI, the Deputy Chief of Mission
       from the [Embassy of Japan in Greece](https://www.gr.emb-japan.go.jp/), visited
       the President of H.S.C., Prof. Ioannis A. Daglis. During the visit, matters
       of common interest, within the responsibilities of H.S.C., were discussed.
-    date: 2021-09-08T09:00:05Z
+    date: 2021-09-08T09:00:05.000+00:00
   - title: Round-table discussion about H.S.C. at HELAS Conference
     body: "Round-table discussion “Hellenic Space Center, national space program and
       participation in ESA space missions”, coordinated by the President of the Hellenic
@@ -157,20 +157,26 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: 'Επίσκεψη Προέδρου και Δ/ντος Συμβούλου ΕΛ.ΚΕ.Δ. στο Ευρωπαϊκό Κέντρο Αστροναυτών '
+    body: |-
+      Την Παρασκευή, 8 Οκτωβρίου 2021, ο Πρόεδρος και ο Διευθύνων Σύμβουλος του Ελληνικού Κέντρου Διαστήματος επισκέφθηκαν τις εγκαταστάσεις του [Ευρωπαϊκού Κέντρου Αστροναυτών (ΕΚΑ)](https://www.esa.int/About_Us/EAC) στην Κολωνία, όπου είχαν την ευκαιρία να συναντηθούν με τον επικεφαλής του Κέντρου, Dr. Frank De Winne, από τον οποίο ενημερώθηκαν για τις δραστηριότητες του ΕΚΑ, ενώ συζήτησαν και πλαίσιο συνεργασίας με έμφαση στη δυνατότητα ένταξης φοιτητών και νέων επιστημόνων από ελληνικά εκπαιδευτικά ιδρύματα σε προγράμματα εκπαίδευσης του ΕΚΑ.
+
+      Στη συνέχεια ξεναγήθηκαν στο [Ινστιτούτο Αεροδιαστημικής Ιατρικής](https://www.dlr.de/me/en/) του [Γερμανικού Κέντρου Αεροδιαστημικής](https://www.dlr.de/DE/Home/home_node.html), από την επικεφαλής του Τμήματος Βαρυτικής Βιολογίας και Αντιπρόεδρο του Ινστιτούτου, Dr. Ruth Hemmersbach, η οποία τους παρουσίασε τις εγκαταστάσεις και ανέλυσε τη λειτουργία του Ινστιτούτου.
+    date: 2021-10-08T11:33:05Z
   - title: 'Συνάντηση ΕΛ.ΚΕ.Δ.-OHB Hellas '
     body: Την Τετάρτη 6 Οκτωβρίου, ο Πρόεδρος και ο Διευθύνων Σύμβουλος του ΕΛΚΕΔ
       είχαν συνάντηση με τους επικεφαλής της [ΟΗΒ-Hellas](https://www.ohb-hellas.gr/),
       Δρ. Κατερίνα Πανοπούλου, Managing Director, και Mathieu Bernou, CTO and Deputy
       Managing Director. Η συνάντηση πραγματοποιήθηκε στα γραφεία του ΕΛ.ΚΕ.Δ. και
       συζητήθηκαν θέματα κοινού ενδιαφέροντος των δύο πλευρών.
-    date: 2021-10-06T12:23:39Z
+    date: 2021-10-06T12:23:39.000+00:00
   - title: 'Διαδικτυακή συνάντηση ΕΛ.ΚΕ.Δ.-DLR '
     body: Την Τρίτη 5 Οκτωβρίου, ο Πρόεδρος και ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ.
       είχαν διαδικτυακή συνάντηση με τον Δρ. Walther Pelzer, επικεφαλής της Γερμανικής
       Διαστημικής Υπηρεσίας, και τον Christian Müller αρμόδιο για θέματα ESA/EU στο
       [Γερμανικό Κέντρο Αεροδιαστημικής](https://www.dlr.de/EN/Home/home_node.html).
       Συζητήθηκαν θέματα αμοιβαίου ενδιαφέροντος.
-    date: 2021-10-05T12:23:12Z
+    date: 2021-10-05T12:23:12.000+00:00
   - title: 4th Symposium on Space Educational Activities (SSEA)
     body: |-
       Το Γραφείο Εκπαίδευσης του [Ευρωπαϊκού Οργανισμού Διαστήματος](https://www.esa.int/) οργανώνει το συνέδριο [«4th Symposium on Space Educational Activities (SSEA)»](https://sseasymposium.org/), τον Απρίλιο του 2022, στο Πολυτεχνείο της Καταλονίας ([Politecnica de Catalunya – BarcelonaTech](https://www.upc.edu/en)) της Ισπανίας. Αποτελεί ένα ετήσιο συνέδριο πάνω στην εμπειρία οργάνωσης, διεξαγωγής και συμμετοχής σε εκπαιδευτικές και επιμορφωτικές δραστηριότητες σχετιζόμενες με το Διάστημα, με σκοπό να προωθήσει το έργο νέων ερευνητών.
@@ -180,7 +186,7 @@ el:
       Προθεσμία υποβολής: 1 Νοεμβρίου 2021.
 
       [Μάθετε περισσότερα ](https://sseasymposium.org/)
-    date: 2021-09-27T21:00:00Z
+    date: 2021-09-27T21:00:00.000+00:00
   - title: 'Προκήρυξη: 1st Winter Course on GeoInformation and Space Data management'
     body: "Ως το πρώτο βήμα για την εφαρμογή των προτάσεων που συνδιαμορφώθηκαν κατά
       το [International Space Forum (ISF)](https://www.iafastro.org/events/international-space-forum-at-ministerial-level-isf/international-space-forum-at-ministerial-level-2019.html),
@@ -197,7 +203,7 @@ el:
       στη διεύθυνση ηλεκτρονικού ταχυδρομείου που αναφέρεται στην Προκήρυξη.\n\nΔιαβάστε
       την [Ανακοίνωση](https://www.asi.it/2021/09/1st-winter-course-on-geoinformation-and-space-data-management-for-the-sustainable-development-and-needs-of-the-mediterranean-region/)
       και την [Προκήρυξη](https://www.asi.it/wp-content/uploads/2021/09/Draft-Announcement-of-Opportunity-Geoinformation-Course-Reggio-Calabria-August-2021-13-set.pdf). "
-    date: 2021-09-23T11:46:36Z
+    date: 2021-09-23T11:46:36.000+00:00
   - title: 'Συνάντηση ΕΛ.ΚΕ.Δ.-SITAEL-ΕΒΙΔΙΤΕ '
     body: Την Τετάρτη 15 Σεπτεμβρίου, ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ. συναντήθηκε
       με τον Δρ. Marco Molina, Managing Director της [SITAEL-Italia](https://www.sitael.com/),
@@ -205,7 +211,7 @@ el:
       και τον Δρ. Αθανάσιο Πότση, Πρόεδρο της [Ένωσης Ελληνικών Βιομηχανιών Διαστημικής
       Τεχνολογίας & Εφαρμογών (ΕΒΙΔΙΤΕ)](https://www.hellenic-asi.org/). Η συνάντηση
       πραγματοποιήθηκε στα γραφεία του ΕΛ.ΚΕ.Δ. και συζητήθηκαν θέματα αμοιβαίου ενδιαφέροντος.
-    date: 2021-09-15T12:22:20Z
+    date: 2021-09-15T12:22:20.000+00:00
   - title: 'Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στο “Education Revolution Conference” της 85ης
       Δ.Ε.Θ. '
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής, την Τετάρτη 15/9 συμμετείχε
@@ -216,7 +222,7 @@ el:
       σε συνεργασία με την [Socialinnov](https://www.socialinnov.gr/ ) και το [Υπουργείο
       Ψηφιακής Διακυβέρνησης](https://mindigital.gr/ ), και πραγματοποιήθηκε στην
       Ενότητα “Ψηφιακή Ελλάδα” (Περίπτερο 12).
-    date: 2021-09-15T13:40:31Z
+    date: 2021-09-15T13:40:31.000+00:00
   - title: Επίσκεψη του Καθ. Βασίλη Αγγελόπουλου, UCLA, στο ΕΛΚΕΔ
     body: Την Παρασκευή, 10 Σεπτεμβρίου 2021, ο κ. Βασίλης Αγγελόπουλος, Καθηγητής
       του [UCLA](https://www.ucla.edu/) (University of California, Los Angeles) και
@@ -225,20 +231,20 @@ el:
       ΕΛ.ΚΕ.Δ., Καθ. Ιωάννη Α. Δαγκλή. Κατά την επίσκεψη οι κκ. Δαγκλής και Αγγελόπουλος
       συζήτησαν για θέματα διαστημικής εκπαίδευσης, διαστημικής τεχνολογίας και ιδιαίτερα
       για τις προκλήσεις και τα οφέλη των προγραμμάτων μικρών δορυφόρων.
-    date: 2021-09-13T08:00:27Z
+    date: 2021-09-13T08:00:27.000+00:00
   - title: Μεταδιδακτορικές Υποτροφίες από την ESA
     body: |-
       Το Πρόγραμμα Μεταδιδακτορικών Υποτροφιών του Ευρωπαϊκού Οργανισμού Διαστήματος ([ESA](https://www.esa.int/)) δίνει σε νέους επιστήμονες και μηχανικούς τη δυνατότητα να διεξάγουν έρευνα πάνω σε μια ποικιλία αντικειμένων σχετικών με τη διαστημική επιστήμη, τις διαστημικές εφαρμογές και τη διαστημική τεχνολογία. [Μάθετε περισσότερα](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships )
 
       Προθεσμία υποβολής αιτήσεων: 27 Σεπτεμβρίου 2021
-    date: 2021-09-10T09:00:46Z
+    date: 2021-09-10T09:00:46.000+00:00
   - title: 'Επίσκεψη του κ. Taku ARAMAKI, από την Πρεσβεία της Ιαπωνίας στην Ελλάδα,
       στο ΕΛ.ΚΕ.Δ. '
     body: Την Τετάρτη, 8 Σεπτεμβρίου 2021, ο κ. Taku ARAMAKI, Αναπληρωτής Επικεφαλής
       της [Πρεσβείας της Ιαπωνίας στην Ελλάδα](https://www.gr.emb-japan.go.jp/), επισκέφθηκε
       τον Πρόεδρο του ΕΛ.ΚΕ.Δ. Καθ. Ιωάννη Α. Δαγκλή. Κατά την επίσκεψη συζητήθηκαν
       θέματα κοινού ενδιαφέροντος που εμπίπτουν στις αρμοδιότητες του ΕΛ.ΚΕ.Δ.
-    date: 2021-09-08T09:00:16Z
+    date: 2021-09-08T09:00:16.000+00:00
   - title: Συζήτηση στρογγυλής τραπέζης για το ΕΛ.ΚΕ.Δ. στο Συνέδριο της ΕΛΑΣΕΤ
     body: "Διοργάνωση συζήτησης στρογγυλής τραπέζης με τίτλο «Ελληνικό Κέντρο Διαστήματος,
       εθνικά διαστημικά προγράμματα και συμμετοχή σε διαστημικές αποστολές της ESA»,
