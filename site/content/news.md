@@ -4,6 +4,16 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'Internships at the ESA European Astronaut Centre in Porz-Wahn, Germany '
+    body: |-
+      [Spaceship EAC](https://www.esa.int/About_Us/EAC/Spaceship_EAC) is an initiative, based at the [European Astronaut Center](https://www.esa.int/About_Us/EAC) in Germany, helping [ESA](https://www.esa.int/) and researchers prepare for the future of space exploration.
+
+      The Directorate of Human and Robotic Exploration Programmes (ExPeRT) of Spaceship EAC has announced internship opportunities, for students in their final years of a University course at master's level.
+
+      Application deadline: Nov. 30, 2021
+
+      [Learn more](https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-ExPeRT-(Spaceship-EAC)-Department-ESOC/727829401/)
+    date: 2021-11-09T12:45:09Z
   - title: 'Visit of Vice Minister Theodore Livanios at the HSC '
     body: On Tuesday, October 19th, 2021, the vice minister of [Digital Governance](https://mindigital.gr/dioikisi),
       Mr. T. Livanios, visited the Hellenic Space Center and met with the President
