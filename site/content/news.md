@@ -4,6 +4,14 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'Visit of Vice Minister Theodore Livanios at the HSC '
+    body: On Tuesday, October 19th, 2021, the vice minister of [Digital Governance](https://mindigital.gr/dioikisi),
+      Mr. T. Livanios, visited the Hellenic Space Center and met with the President
+      and members of the Board of Directors. Mr. Livanios and his associates were
+      briefed on the Center’s activities, and discussed the HSC proposal for the design,
+      development and implementation of a small nano-satellite cluster and related
+      ground segment, aimed at providing a variety of Earth Observation services.
+    date: 2021-10-19T11:39:34Z
   - title: 'Visit to the European Astronaut Center '
     body: |-
       On Friday, October 8th, 2021, the President and the CEO of the Hellenic Space Center, Prof. Ioannis A. Daglis and Dr. Nick Sergis, visited the premises of the [European Astronaut Centre (EAC)](https://www.esa.int/About_Us/EAC) in Cologne, where they had the opportunity to meet with the Head of the Centre, Dr. Frank De Winne, from whom they were briefed on the activities of the EAC, while they also discussed a framework of cooperation with emphasis on the potential participation of students and young scientists from Greece in training programs at EAC.
