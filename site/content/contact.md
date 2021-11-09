@@ -6,10 +6,8 @@ en:
   contactFormHeader: |-
     ### Contact Form
     Please fill in the form below and we'll get in touch with you as soon as possible
-  mapHeader: |-
-    ### Address
-    Leoforos Kifissias 178, Chalandri, 15231, Greece  \
-    [info@hsc.gov.gr](mailto:info@hsc.gov.gr)
+  mapHeader: "### Address\n\nLeoforos Kifissias 178, Chalandri, 15231, Greece    \nCall
+    center: +30 214 406 6040  \n[info@hsc.gov.gr](mailto:info@hsc.gov.gr)"
   formSuccessMessage: Your message has been sent!
   formSubmitMessage: Send Message
   formSubjectLabel: Subject
