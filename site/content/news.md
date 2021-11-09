@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'Visit to the European Astronaut Center '
+    body: |-
+      On Friday, October 8th, 2021, the President and the CEO of the Hellenic Space Center, Prof. Ioannis A. Daglis and Dr. Nick Sergis, visited the premises of the [European Astronaut Centre (EAC)](https://www.esa.int/About_Us/EAC) in Cologne, where they had the opportunity to meet with the Head of the Centre, Dr. Frank De Winne, from whom they were briefed on the activities of the EAC, while they also discussed a framework of cooperation with emphasis on the potential participation of students and young scientists from Greece in training programs at EAC.
+
+      Afterwards, Dr. Ruth Hemmersbach, Head of the Department of Gravitational Biology and Acting Head of the [German Aerospace Center](https://www.dlr.de/DE/Home/home_node.html)[ Institute of Aerospace Medicine](https://www.dlr.de/me/en/), offered them a tour around the Institute, presented the facilities and explained the various projects of the Institute.
+    date: 2021-10-08T11:34:42Z
   - title: 'HSC and OHB-Hellas meeting '
     body: The President and the CEO of the Hellenic Space Center, Prof. Ioannis A.
       Daglis and Dr. Nick Sergis, had a meeting with Dr. A. Panopoulou, Managing Director
