@@ -26,10 +26,8 @@ el:
   contactFormHeader: |-
     ### Φόρμα Επικοινωνίας
     Συμπληρώστε την ακόλουθη φόρμα και θα επικοινωνήσουμε μαζί σας το συντομότερο δυνατόν.
-  mapHeader: |-
-    ### Διεύθυνση
-    Λεωφ. Κηφισίας 178, Χαλάνδρι, 15231, Ελλάδα  \
-    [info@hsc.gov.gr](mailto:info@hsc.gov.gr)
+  mapHeader: "### Διεύθυνση\n\nΛεωφ. Κηφισίας 178, Χαλάνδρι, 15231, Ελλάδα    \nΤηλεφωνικό
+    κέντρο: 214 406 6040  \n[info@hsc.gov.gr](mailto:info@hsc.gov.gr)"
   formSuccessMessage: Το μήνυμα σας στάλθηκε με επιτυχία!
   formSubmitMessage: Αποστολή Μηνύματος
   formSubjectLabel: Τίτλος
