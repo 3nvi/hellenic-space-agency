@@ -6,9 +6,7 @@ en:
   items:
   - title: 'Internships at the ESA European Astronaut Centre in Porz-Wahn, Germany '
     body: |-
-      [Spaceship EAC](https://www.esa.int/About_Us/EAC/Spaceship_EAC) is an initiative, based at the [European Astronaut Center](https://www.esa.int/About_Us/EAC) in Germany, helping [ESA](https://www.esa.int/) and researchers prepare for the future of space exploration.
-
-      The Directorate of Human and Robotic Exploration Programmes (ExPeRT) of Spaceship EAC has announced internship opportunities, for students in their final years of a University course at master's level.
+      [Spaceship EAC](https://www.esa.int/About_Us/EAC/Spaceship_EAC) is an initiative, based at the [European Astronaut Center](https://www.esa.int/About_Us/EAC) in Germany, helping [ESA](https://www.esa.int/) and researchers prepare for the future of space exploration. The Directorate of Human and Robotic Exploration Programmes (ExPeRT) of Spaceship EAC has announced internship opportunities, for students in their final years of a University course at master's level.
 
       Application deadline: Nov. 30, 2021
 
