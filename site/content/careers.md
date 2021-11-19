@@ -19,7 +19,7 @@ en:
   mainSubtitle: 'Evaluation results of the applications for Special Scientific Personnel
     recruitment at H.S.C. '
   content: |-
-    As part the H.S.C. recruiting process, and in accordance with the relevant [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf), the evaluation results of the applications for ten (10) positions of Special Scientific Personnel have been announced.
+    As part of the H.S.C. recruiting process, and in accordance with the relevant [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf), the evaluation results of the applications for ten (10) positions of Special Scientific Personnel have been announced.
 
     * [Temporary Ranking Table per Position](/assets/1087_2021.pdf)
     * [Temporary Table of Rejected Applications](/assets/1088_2021.pdf)
