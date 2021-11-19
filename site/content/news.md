@@ -5,11 +5,11 @@ en:
   mainSubtitle: Find out about our latest updates
   items:
   - title: 'Evaluation results of the applications for Special Scientific Personnel
-      recruitment at H.S.C. '
-    body: According to the [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf)
-      of ten (10) positions of Special Scientific Personnel, as a part of the H.S.C.
-      recruiting process, the application evaluation results have been announced in
-      the [About > Careers](https://hsc.gov.gr/en/careers/) tab.
+      recruitment at the H.S.C. '
+    body: The results of the evaluation process regarding the ten (10) positions of
+      Special Scientific Personnel (ref. [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf)),
+      have been announced in the [About > Careers](https://hsc.gov.gr/en/careers/)
+      tab.
     date: 2021-11-19T11:38:33Z
   - title: 'Internships at the ESA European Astronaut Centre in Porz-Wahn, Germany '
     body: |-
