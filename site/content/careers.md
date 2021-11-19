@@ -30,6 +30,4 @@ en:
 
     * Objection Form (in [.pdf](/assets/objection_form.pdf) or [.docx](/assets/objection_form.docx) format)
 
-    It should be highlighted that the objection concerns the legality of the application and not the evaluation assessment of the Evaluation and Selection Commitee.
-
 ---
