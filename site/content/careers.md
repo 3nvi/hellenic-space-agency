@@ -26,7 +26,7 @@ en:
 
     Applicants are entitled to submit their objections by Wednesday, 24th of November 2021, until 23:59, **via e-mail exclusively**, by sending a filled Objection Form at the H.S.C. Secretary, at [sec@hsc.gov.gr](mailto:sec@hsc.gov.gr).
 
-    * Objection Form (in .pdf or [.docx](/assets/_.docx) format)
+    * Objection Form (in [.pdf](/assets/_.pdf) or [.docx](/assets/_.docx) format)
 
     It should be highlighted that the objection concerns the legality of the application and not the evaluation assessment of the Evaluation and Selection Commitee.
 
