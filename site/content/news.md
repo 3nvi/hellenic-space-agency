@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'Evaluation results of the applications for Special Scientific Personnel
+      recruitment at H.S.C. '
+    body: According to the [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf)
+      of ten (10) positions of Special Scientific Personnel, as a part of the H.S.C.
+      recruiting process, the application evaluation results have been announced in
+      the [About > Careers](https://hsc.gov.gr/en/careers/) tab.
+    date: 2021-11-19T11:38:33Z
   - title: 'Internships at the ESA European Astronaut Centre in Porz-Wahn, Germany '
     body: |-
       [Spaceship EAC](https://www.esa.int/About_Us/EAC/Spaceship_EAC) is an initiative, based at the [European Astronaut Center](https://www.esa.int/About_Us/EAC) in Germany, helping [ESA](https://www.esa.int/) and researchers prepare for the future of space exploration. The Directorate of Human and Robotic Exploration Programmes (ExPeRT) of Spaceship EAC has announced internship opportunities, for students in their final years of a University course at master's level.
