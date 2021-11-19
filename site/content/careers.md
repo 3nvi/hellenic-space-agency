@@ -24,7 +24,7 @@ en:
     1. [Temporary Ranking Table per Position](/assets/1087_2021.pdf)
     2. [Temporary Table of Rejected Applications](/assets/1088_2021.pdf)
 
-    Applicants are entitled to submit their objections by Wednesday, 24th of November 2021, until 23:59, **via e-mail exclusively**, by sending a filled Objection Form at the H.S.C. Secretary, at [sec@hsc.gov.gr](mailto:sec@hsc.gov.gr).
+    Applicants are entitled to submit their objections by Wednesday, 24th of November 2021, 23:59, **via e-mail exclusively**, by sending a filled Objection Form at the H.S.C. Secretariat, [sec@hsc.gov.gr](mailto:sec@hsc.gov.gr).
 
     Objection Form (in [.pdf](/assets/objection_form.pdf) or [.docx](/assets/objection_form.docx) format)
 
