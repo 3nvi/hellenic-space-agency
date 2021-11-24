@@ -13,7 +13,7 @@ en:
     ### Financial Year 2019
 
     * [Financial Report A](/assets/financial_report_2019_a.pdf) (1/1/2019 - 8/8/2019)
-    * Financial Report B (9/8/2019 - 31/12/2019)
+    * [Financial Report B](/assets/financial_report_2019_b.pdf) (9/8/2019 - 31/12/2019)
 el:
   navigationLabel: Οικονομικά Στοιχεία
   mainTitle: Οικονομικά Στοιχεία
