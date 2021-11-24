@@ -4,17 +4,16 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
-  - title: 'HSC meeting with the 3rd Lab Center of East Attika '
-    body: On Tuesday, November 2nd, 2021, Mr. A. Paliouras, Headmaster of the [3rd
-      Lab Center of East Attika – Rafina](http://3sek-an-attik.att.sch.gr/), visited
-      the premises of the H.S.C., in order to present the educational programme [“Earth
-      from Space”](https://robotics-edu.gr/earth-from-space/), which has been developed
-      by the Rafina Space Student Group and is comprised by a series of educational
-      activities about space. This programme is targeted to young students, informing
-      them about space professions, space science and engineering. During the visit,
-      the potential synergies of H.S.C. and the Student Group were discussed, aiming
-      at the support of further activities of the Student Group.
-    date: 2021-11-02T14:28:16Z
+  - title: 'Visit of the Ambassador of Argentina at the HSC '
+    body: On Wednesday, November 3rd, 2021, the [Ambassador of Argentina in Greece](https://egrec.cancilleria.gob.ar/),
+      Mrs. Maria Lucia Dougherty de Sanchez, visited the premises of the Hellenic
+      Space Center. The Ambassador had the opportunity to meet with the President
+      of the H.S.C., Prof. Ioannis Daglis, and the C.E.O., Dr. Nick Sergis, and to
+      discuss potential collaboration between the H.S.C. and Argentinian governmental
+      entities responsible for Space Research and Technology (e.g. CONAE, CONICET),
+      in the framework of the existing agreement between the two countries on scientific
+      and technological cooperation.
+    date: 2021-11-03T14:28:39Z
   - title: 'Evaluation results of the applications for Special Scientific Personnel
       recruitment at the H.S.C. '
     body: The results of the evaluation process regarding the ten (10) positions of
@@ -30,6 +29,17 @@ en:
 
       [Learn more](https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-ExPeRT-(Spaceship-EAC)-Department-ESOC/727829401/)
     date: 2021-11-09T12:45:09Z
+  - title: 'HSC meeting with the 3rd Lab Center of East Attika '
+    body: On Tuesday, November 2nd, 2021, Mr. A. Paliouras, Headmaster of the [3rd
+      Lab Center of East Attika – Rafina](http://3sek-an-attik.att.sch.gr/), visited
+      the premises of the H.S.C., in order to present the educational programme [“Earth
+      from Space”](https://robotics-edu.gr/earth-from-space/), which has been developed
+      by the Rafina Space Student Group and is comprised by a series of educational
+      activities about space. This programme is targeted to young students, informing
+      them about space professions, space science and engineering. During the visit,
+      the potential synergies of H.S.C. and the Student Group were discussed, aiming
+      at the support of further activities of the Student Group.
+    date: 2021-11-02T14:28:16Z
   - title: 'Visit of Vice Minister Theodore Livanios at the HSC '
     body: On Tuesday, October 19th, 2021, the vice minister of [Digital Governance](https://mindigital.gr/dioikisi),
       Mr. T. Livanios, visited the Hellenic Space Center and met with the President
