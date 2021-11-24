@@ -3,6 +3,8 @@ en:
   navigationLabel: Financial Data
   mainTitle: Financial Data
   content: |-
+    The Annual Reports of the H.S.C. can be found here:
+
     ### Financial Year 2020
 
     * [Financial Report](/assets/financial_report_2020.pdf) (1/1/2020 - 31/12/2020)
