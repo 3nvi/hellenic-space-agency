@@ -4,6 +4,17 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'HSC meeting with the 3rd Lab Center of East Attika '
+    body: On Tuesday, November 2nd, 2021, Mr. A. Paliouras, Headmaster of the [3rd
+      Lab Center of East Attika – Rafina](http://3sek-an-attik.att.sch.gr/), visited
+      the premises of the H.S.C., in order to present the educational programme [“Earth
+      from Space”](https://robotics-edu.gr/earth-from-space/), which has been developed
+      by the Rafina Space Student Group and is comprised by a series of educational
+      activities about space. This programme is targeted to young students, informing
+      them about space professions, space science and engineering. During the visit,
+      the potential synergies of H.S.C. and the Student Group were discussed, aiming
+      at the support of further activities of the Student Group.
+    date: 2021-11-02T14:28:16Z
   - title: 'Evaluation results of the applications for Special Scientific Personnel
       recruitment at the H.S.C. '
     body: The results of the evaluation process regarding the ten (10) positions of
