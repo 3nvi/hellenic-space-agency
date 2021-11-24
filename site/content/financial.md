@@ -3,7 +3,7 @@ en:
   navigationLabel: Financial Data
   mainTitle: Financial Data
   content: |-
-    Here follow the Annual Reports of the H.S.C. (in greek).
+    Here follow the Annual Reports of the H.S.C. (in Greek).
 
     #### Financial Year 2020
 
