@@ -5,7 +5,7 @@ en:
   content: |-
     ### Financial Year 2020
 
-    * Financial Report (1/1/2020 - 31/12/2020)
+    * [Financial Report](/assets/financial_report_2020.pdf) (1/1/2020 - 31/12/2020)
     * Activity Report
 
     ***
