@@ -10,8 +10,6 @@ en:
     * [Financial Report](/assets/financial_report_2020.pdf) (1/1/2020 - 31/12/2020)
     * [Activity Report](/assets/activity_report_2020.pdf)
 
-    ***
-
     #### Financial Year 2019
 
     * [Financial Report A](/assets/financial_report_2019_a.pdf) (1/1/2019 - 8/8/2019)
