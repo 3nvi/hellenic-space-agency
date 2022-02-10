@@ -15,7 +15,7 @@ en:
       Tonia will open the event giving talks about the sounds of space and the musical
       compositions that will be presented.  \nFree entrance. [Press Release](https://www.safespace-h2020.eu/wp-content/uploads/2022/02/SafeSpace_press_release_lina_tonia_theocharakis.pdf)
       (in greek)"
-    date: 
+    date: 2022-02-09T22:00:00Z
   - title: 'Evaluation results of the applications for Special Scientific Personnel
       recruitment at the H.S.C. '
     body: The results of the evaluation process regarding the ten (10) positions of
