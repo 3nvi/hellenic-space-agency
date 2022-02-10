@@ -13,7 +13,8 @@ en:
       of award-winning composer [Lina Tonia](https://linatonia.com/), played by violins
       and cello. The President of the H.S.C., Prof. Ioannis Daglis, and composer Lina
       Tonia will open the event giving talks about the sounds of space and the musical
-      compositions that will be presented.   \nFree entrance. [Press Release](https://www.safespace-h2020.eu/wp-content/uploads/2022/02/SafeSpace_press_release_lina_tonia_theocharakis.pdf)"
+      compositions that will be presented.  \nFree entrance. [Press Release](https://www.safespace-h2020.eu/wp-content/uploads/2022/02/SafeSpace_press_release_lina_tonia_theocharakis.pdf)
+      (in greek)"
     date: 
   - title: 'Evaluation results of the applications for Special Scientific Personnel
       recruitment at the H.S.C. '
