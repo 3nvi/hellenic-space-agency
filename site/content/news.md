@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 1st LISA in Greece Workshop
+    body: |-
+      On Wednesday, February 23, 2022, the [Physics Department](https://www.physics.auth.gr/en/) of the [Aristotle University of Thessaloniki](https://www.auth.gr/en/), with the support of the Hellenic Space Center, organises a Workshop, which will focus on the possibility of a consolidated Greek effort to the development of the [ESA](https://www.esa.int/) [LISA](https://www.elisascience.org/) mission.
+
+      Learn more: [https://indico.physics.auth.gr/event/11/overview](https://indico.physics.auth.gr/event/11/overview "https://indico.physics.auth.gr/event/11/overview")
+    date: 2022-02-23T07:00:42Z
   - title: Heliophysics 2050 Workshop
     body: |-
       The “Heliophysics 2050 Workshop” will be held virtually on February 23-25, 2022. This year’s topic is “Measurement Techniques and Technologies”. The objective of this Workshop is to facilitate a community discussion to determine what technological advancements are needed to enable transformative advancements in Heliophysics. The Workshop will be a forum to organize and solicit community inputs that will inform the upcoming 2024 NASA Solar and Space Physics Decadal Survey.
