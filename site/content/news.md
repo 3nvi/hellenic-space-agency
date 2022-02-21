@@ -225,6 +225,16 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: 1st LISA in Greece Workshop
+    body: "Την Τετάρτη 23 Φεβρουαρίου 2022, το [Τμήμα Φυσικής](https://www.physics.auth.gr/)
+      του [Αριστοτέλειου Πανεπιστημίου Θεσσαλονίκης](https://www.physics.auth.gr/),
+      με την υποστήριξη του Ελληνικού Κέντρου Διαστήματος, οργανώνει Workshop, το
+      οποίο θα επικεντρωθεί στη δυνατότητα μιας ενοποιημένης ελληνικής προσπάθειας
+      για την ανάπτυξη της αποστολής [LISA](https://www.elisascience.org/) (Laser
+      Interferometer Space Antenna) του [Ευρωπαϊκού Οργανισμού Διαστήματος](https://www.esa.int/).
+      \  \n   \n Μάθετε περισσότερα: [https://indico.physics.auth.gr/event/11/overview](https://indico.physics.auth.gr/event/11/overview
+      \"https://indico.physics.auth.gr/event/11/overview\")"
+    date: 2022-02-23T07:00:07Z
   - title: Heliophysics 2050 Workshop
     body: |-
       Μεταξύ 23 και 25 Φεβρουαρίου 2022, θα διεξαχθεί διαδικτυακά το «Heliophysics 2050 Workshop», με θέμα «Measurement Techniques and Technologies». Σκοπός είναι να πραγματοποιηθεί συζήτηση της επιστημονικής κοινότητας, ώστε να καθοριστούν οι νέες τεχνολογίες και μέθοδοι που απαιτούνται για να προκύψουν σημαντικές πρόοδοι στον τομέα της Ηλιοφυσικής. Το Workshop θα αποτελέσει ένα φόρουμ για την οργάνωση των προτάσεων της κοινότητας, ώστε να χρησιμοποιηθούν για την επερχόμενη «Solar and Space Physics Decadal Survey» που προγραμματίζεται από τη NASA για το 2024.
