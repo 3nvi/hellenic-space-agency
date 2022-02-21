@@ -12,16 +12,16 @@ en:
     date: 2022-02-21T16:20:19Z
   - title: Music concert and public talks under the auspices of the H.S.C.
     body: "The [SafeSpace](https://www.safespace-h2020.eu/) Scientific Research Programme
-      organizes a musical event titled “_Detecting and feeling the sounds of space_”,
-      on Friday, February 18, 2022, at 21:00. The event will be hosted at the [Theoharakis
+      organized a musical event titled “_Detecting and feeling the sounds of space_”,
+      on Friday, February 18, 2022, at 21:00. The event was hosted at the [Theoharakis
       Foundation](https://thf.gr/en/), under the auspices of the Hellenic Space Center,
-      and will premiere the works called “_Electron Emissions_” and “_Radiation Belts_”,
+      and it premiered the works called “_Electron Emissions_” and “_Radiation Belts_”,
       of award-winning composer [Lina Tonia](https://linatonia.com/), played by violins
       and cello. The President of the H.S.C., Prof. Ioannis Daglis, and composer Lina
-      Tonia will open the event giving talks about the sounds of space and the musical
-      compositions that will be presented.  \nFree entrance. [Press Release](https://www.safespace-h2020.eu/wp-content/uploads/2022/02/SafeSpace_press_release_lina_tonia_theocharakis.pdf)
+      Tonia opened the event giving talks about the sounds of space and the musical
+      compositions that were presented.  \nFree entrance. [Press Release](https://www.safespace-h2020.eu/wp-content/uploads/2022/02/SafeSpace_press_release_lina_tonia_theocharakis.pdf)
       (in greek)"
-    date: 2022-02-09T22:00:00Z
+    date: 2022-02-17T22:00:00Z
   - title: 'Evaluation results of the applications for Special Scientific Personnel
       recruitment at the H.S.C. '
     body: The results of the evaluation process regarding the ten (10) positions of
