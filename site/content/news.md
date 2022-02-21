@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Heliphysics 2050 Workshop
+    body: |-
+      The “Heliophysics 2050 Workshop” will be held virtually on February 23-25, 2022. This year’s topic is “Measurement Techniques and Technologies”. The objective of this Workshop is to facilitate a community discussion to determine what technological advancements are needed to enable transformative advancements in Heliophysics. The Workshop will be a forum to organize and solicit community inputs that will inform the upcoming 2024 NASA Solar and Space Physics Decadal Survey.
+
+      Free [registration](https://www.hou.usra.edu/meetings/heliotech2022/registration/) is required for participation. Learn more: [https://www.hou.usra.edu/meetings/heliotech2022/](https://www.hou.usra.edu/meetings/heliotech2022/ "https://www.hou.usra.edu/meetings/heliotech2022/")
+    date: 2022-02-21T16:20:19Z
   - title: Music concert and public talks under the auspices of the H.S.C.
     body: "The [SafeSpace](https://www.safespace-h2020.eu/) Scientific Research Programme
       organizes a musical event titled “_Detecting and feeling the sounds of space_”,
