@@ -219,6 +219,12 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Heliophysics 2050 Workshop
+    body: |-
+      Μεταξύ 23 και 25 Φεβρουαρίου 2022, θα διεξαχθεί διαδικτυακά το «Heliophysics 2050 Workshop», με θέμα «Measurement Techniques and Technologies». Σκοπός είναι να πραγματοποιηθεί συζήτηση της επιστημονικής κοινότητας, ώστε να καθοριστούν οι νέες τεχνολογίες και μέθοδοι που απαιτούνται για να προκύψουν σημαντικές πρόοδοι στον τομέα της Ηλιοφυσικής. Το Workshop θα αποτελέσει ένα φόρουμ για την οργάνωση των προτάσεων της κοινότητας, ώστε να χρησιμοποιηθούν για την επερχόμενη «Solar and Space Physics Decadal Survey» που προγραμματίζεται από τη NASA για το 2024.
+
+      Συμμετοχή με δωρεάν [εγγραφή](https://www.hou.usra.edu/meetings/heliotech2022/registration/). Μάθετε περισσότερα: [https://www.hou.usra.edu/meetings/heliotech2022/](https://www.hou.usra.edu/meetings/heliotech2022/ "https://www.hou.usra.edu/meetings/heliotech2022/")
+    date: 2022-02-21T16:19:18Z
   - title: Μουσική εκδήλωση και ομιλίες υπό την αιγίδα του ΕΛ.ΚΕ.Δ.
     body: "Το Ερευνητικό Πρόγραμμα [SafeSpace](https://www.safespace-h2020.eu/), στο
       πλαίσιο της εξωστρέφειας και επικοινωνίας του με το κοινό, διοργανώνει μουσική
