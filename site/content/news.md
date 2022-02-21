@@ -4,7 +4,7 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
-  - title: Heliphysics 2050 Workshop
+  - title: Heliophysics 2050 Workshop
     body: |-
       The “Heliophysics 2050 Workshop” will be held virtually on February 23-25, 2022. This year’s topic is “Measurement Techniques and Technologies”. The objective of this Workshop is to facilitate a community discussion to determine what technological advancements are needed to enable transformative advancements in Heliophysics. The Workshop will be a forum to organize and solicit community inputs that will inform the upcoming 2024 NASA Solar and Space Physics Decadal Survey.
 
