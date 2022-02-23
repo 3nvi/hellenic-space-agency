@@ -75,7 +75,7 @@ en:
       soft materials as well as biomolecules, primarily proteins. He has received
       awards and distinctions from the American Society for Reproductive Medicine,
       the United States Department of the Navy and the Graduate School of the University
-      of Minnesota. "
+      of Minnesota."
     avatar: "/assets/nounesis.jpg"
   - link: http://users.ntua.gr/karank
     name: Kostantinos Karantzalos
