@@ -41,23 +41,22 @@ en:
   - link: http://www.academyofathens.gr/sites/default/files/Sergis%20long%20CV.pdf
     name: Nick Sergis
     role: Chief Executive Officer
-    bio: |-
-      Dr. Sergis is a researcher in Space Physics. Between 2006 and 2020 he worked at
-      the Office of Space Research and Technology at the Academy of Athens in
-      collaboration with JHU/APL. Since 2017 he is also an Adjunct Researcher at the
-      National Observatory of Athens. His published work includes 77 peer-reviewed
-      papers in scientific journals or book chapters, with over 1700 citations (h=25)
-      and several invited seminars in Greece, Europe and the USA. In 2009 and 2018
-      he received NASA awards for his contribution in the Cassini mission to Saturn
-      and in 2008 he was elected by the Editorial Board of Annales Geophysicae as
-      best reviewer in the field of Magnetospheric Physics. He has experience in the
-      management of research programs and he serves as evaluator for proposals
-      submitted for funding to NASA, the EC and national funding agencies in Europe.
-      He leads or participates to research groups in Space Science and Applications in
-      collaboration with institutes from Europe and the USA. Dr. Sergis has supervised
-      or co-supervised PhD, MSc and undergraduate theses in Greece and abroad. He is
-      a member of the American Geophysical Union (AGU), the European Geosciences
-      Union (EGU) and the International Astronomical Union (IAU).
+    bio: Dr. Sergis is a researcher in Space Physics. Between 2006 and 2020 he worked
+      at the Office of Space Research and Technology at the Academy of Athens in collaboration
+      with JHU/APL. Since 2017 he is also an Adjunct Researcher at the National Observatory
+      of Athens. His published work includes 80 peer-reviewed papers in scientific
+      journals or book chapters, with over 2500 citations (h=30) and several invited
+      seminars in Greece, Europe and the USA. In 2009 and 2018 he received NASA awards
+      for his contribution in the Cassini mission to Saturn and in 2008 he was elected
+      by the Editorial Board of Annales Geophysicae as best reviewer in the field
+      of Magnetospheric Physics. He has experience in the management of research programs
+      and he serves as evaluator for proposals submitted for funding to NASA, the
+      EC and national funding agencies in Europe. He leads or participates to research
+      groups in Space Science and Applications in collaboration with institutes from
+      Europe and the USA. Dr. Sergis has supervised or co-supervised PhD, MSc and
+      undergraduate theses in Greece and abroad. He is a member of the American Geophysical
+      Union (AGU), the European Geosciences Union (EGU) and the International Astronomical
+      Union (IAU).
     avatar: "/assets/sergis.jpg"
   - name: George Nounesis
     link: http://www.rrp.demokritos.gr/file/Biomolecular%20Physics/nounesis_english2010.pdf
