@@ -141,7 +141,7 @@ en:
   - name: Antigoni Giannakaki
     role: Member of Governing Board
     link: https://www.linkedin.com/in/antigoni-giannakaki-355831138/
-    bio: Antigoni Giannakaki is a lawyer which held the position of Supervising Senior
+    bio: Antigoni Giannakaki is a lawyer whο held the position of Supervising Senior
       Lawyer at CPA Law Firm-Member of the Global Network of KPMG-Independent Law
       Practice Professional (September 2006 -2018 ). She was also a Special Associate
       of Secretary General of Information System and Administrative Support of Ministry
