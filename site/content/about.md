@@ -62,27 +62,21 @@ en:
   - name: George Nounesis
     link: http://www.rrp.demokritos.gr/file/Biomolecular%20Physics/nounesis_english2010.pdf
     role: Vice-President
-    bio: "George Nounesis was until recently the Director & Chairman of the\nBoard
-      of the National Centre for Scientific Research “Demokritos”\n(2017-2019). During
-      his tenure he is credited with the “Expansion of\nthe NCSRD Infrastructure Project”
-      a 48 MEuros construction project\nco-financed, by the European Investment Bank
-      and the State of\nGreece and also the rapid growth of technology transfer to
-      start ups\nand multinationals. Dr. Nounesis studied Physics at the National
-      and\nKapodistrian University of Athens. He obtained his PhD at the School\nof
-      Physics and Astronomy of the University of Minnesota. He\ncompleted a three-year
-      Postdoctoral training at the Chemistry Department of the Massachusetts\nInstitute
-      of Technology and the Executive Education Program on “Innovation for Economic
-      Development”at the Harvard Kennedy School of Government. Prior to returning
-      to Greece he held Research Staffappointments at the Center for Materials Science
+    bio: "George Nounesis is the Director & Chairman of the Board of the National
+      Centre for Scientific Research “Demokritos” since 2017. Dr. Nounesis obtained
+      his PhD at the School of Physics and Astronomy of the University of Minnesota
+      and completed a three-year Postdoctoral training at the Chemistry Department
+      of the Massachusetts Institute of Technology and the Executive Education Program
+      on “Innovation for Economic Development” at the Harvard Kennedy School of Government.
+      \nHe has held Research Staff appointments at the Center for Materials Science
       and Engineering at MIT and at the Francis Bitter National Magnet Laboratory.
-      \n\nHe has spent sabbatical leaves at the Centre de Recherche Paul Pascal at
-      CNRS and the Chemistry Department of the University of Bordeaux I as an Invited
-      Professor. His research is mainly focused on structural and thermodynamic studies
-      of nano-structured soft materials as well as of biomolecules, primarily proteins.
-      For his work he has received awards and distinctions from the American Society
-      for Reproductive Medicine, the John S. Latsis Public Benefit Foundation, the
-      Empirikion Foundation, the United States Department of the Navy and the Graduate
-      School of the University of Minnesota"
+      He has spent sabbatical leaves at the Centre de Recherche Paul Pascal at CNRS
+      and the Chemistry Department of the University of Bordeaux I as an Invited Professor.
+      His research focuses on structural and thermodynamic studies of nano-structured
+      soft materials as well as biomolecules, primarily proteins. He has received
+      awards and distinctions from the American Society for Reproductive Medicine,
+      the United States Department of the Navy and the Graduate School of the University
+      of Minnesota. "
     avatar: "/assets/nounesis.jpg"
   - link: http://users.ntua.gr/karank
     name: Kostantinos Karantzalos
