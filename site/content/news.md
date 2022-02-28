@@ -4,10 +4,10 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
-  - title: 'Final evaluation results of the applications for Special Scientific Personnel
-      recruitment at the H.S.C. '
-    body: The final results of the evaluation process regarding the ten (10) positions
-      of Special Scientific Personnel (ref. [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf)),
+  - title: 'Final ranking tables for Special Scientific Personnel recruitment at the
+      H.S.C. '
+    body: The final ranking tables regarding the ten (10) positions of Special Scientific
+      Personnel (ref. [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf)),
       have been announced in the [About > Careers](https://hsc.gov.gr/en/careers/)
       tab.
     date: 2022-02-28T16:00:00Z
