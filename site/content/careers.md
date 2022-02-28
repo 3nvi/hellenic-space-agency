@@ -26,13 +26,15 @@ en:
   mainTitle: Careers
   mainSubtitle: 'Evaluation results of the applications for Special Scientific Personnel
     recruitment at H.S.C. '
-  content: "**February 28, 2022**\n\nAs part of the H.S.C. recruiting process, and
-    in accordance with the relevant [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf),
+  content: "**February 28, 2022  \n**_Final ranking tables for Special Scientific
+    Personnel recruitment at H.S.C._\n\nAs part of the H.S.C. recruiting process,
+    and in accordance with the relevant [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf),
     the final evaluation results of the applications for ten (10) positions of Special
     Scientific Personnel have been announced.\n\n1. [Final Ranking Table per Position](/assets/114_2022.pdf)\n2.
-    [Final Table of Rejected Applications](/assets/115_2022.pdf)\n\n**  \nNovember
-    19, 2021**\n\nAs part of the H.S.C. recruiting process, and in accordance with
-    the relevant [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf),
+    [Final Table of Rejected Applications](/assets/115_2022.pdf)\n\n**November 19,
+    2021**  \n_Evaluation results of the applications for Special Scientific Personnel
+    recruitment at H.S.C._\n\nAs part of the H.S.C. recruiting process, and in accordance
+    with the relevant [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf),
     the evaluation results of the applications for ten (10) positions of Special Scientific
     Personnel have been announced.\n\n1. [Temporary Ranking Table per Position](/assets/1087_2021.pdf)\n2.
     [Temporary Table of Rejected Applications](/assets/1088_2021.pdf)\n\nApplicants
