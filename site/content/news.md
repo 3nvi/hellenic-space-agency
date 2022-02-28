@@ -4,6 +4,10 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'Final evaluation results of the applications for Special Scientific Personnel
+      recruitment at the H.S.C. '
+    body: ''
+    date: 
   - title: 1st LISA in Greece Workshop
     body: |-
       On Wednesday, February 23, 2022, the [Physics Department](https://www.physics.auth.gr/en/) of the [Aristotle University of Thessaloniki](https://www.auth.gr/en/), with the support of the Hellenic Space Center, organises a Workshop, which will focus on the possibility of a consolidated Greek effort to the development of the [ESA](https://www.esa.int/) [LISA](https://www.elisascience.org/) mission.
