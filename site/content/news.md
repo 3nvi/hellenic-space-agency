@@ -6,8 +6,11 @@ en:
   items:
   - title: 'Final evaluation results of the applications for Special Scientific Personnel
       recruitment at the H.S.C. '
-    body: ''
-    date: 
+    body: The final results of the evaluation process regarding the ten (10) positions
+      of Special Scientific Personnel (ref. [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf)),
+      have been announced in the [About > Careers](https://hsc.gov.gr/en/careers/)
+      tab.
+    date: 2022-02-28T16:00:00Z
   - title: 1st LISA in Greece Workshop
     body: |-
       On Wednesday, February 23, 2022, the [Physics Department](https://www.physics.auth.gr/en/) of the [Aristotle University of Thessaloniki](https://www.auth.gr/en/), with the support of the Hellenic Space Center, organises a Workshop, which will focus on the possibility of a consolidated Greek effort to the development of the [ESA](https://www.esa.int/) [LISA](https://www.elisascience.org/) mission.
