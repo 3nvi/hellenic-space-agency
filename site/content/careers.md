@@ -28,12 +28,21 @@ en:
   mainSubtitle: 'Evaluation results of the applications for Special Scientific Personnel
     recruitment at H.S.C. '
   content: |-
+    **February 28, 2022**
+
+    As part of the H.S.C. recruiting process, and in accordance with the relevant [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf), the final evaluation results of the applications for ten (10) positions of Special Scientific Personnel have been announced.
+
+    1. [Final Ranking Table per Position](/assets/114_2022.pdf)
+    2. [Final Table of Rejected Applications](/assets/115_2022.pdf)
+
+    **November 19, 2021**
+
     As part of the H.S.C. recruiting process, and in accordance with the relevant [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf), the evaluation results of the applications for ten (10) positions of Special Scientific Personnel have been announced.
 
     1. [Temporary Ranking Table per Position](/assets/1087_2021.pdf)
     2. [Temporary Table of Rejected Applications](/assets/1088_2021.pdf)
 
-    Applicants are entitled to submit their objections by Wednesday, 24th of November 2021, 23:59, **via e-mail exclusively**, by sending a filled Objection Form at the H.S.C. Secretariat, [sec@hsc.gov.gr](mailto:sec@hsc.gov.gr).
+    Applicants are entitled to submit their objections by Wednesday, 24th of November 2021, 23:59, via e-mail exclusively, by sending a filled Objection Form at the H.S.C. Secretariat, [sec@hsc.gov.gr](mailto:sec@hsc.gov.gr).
 
     Objection Form (in [.pdf](/assets/objection_form.pdf) or [.docx](/assets/objection_form.docx) format)
 
