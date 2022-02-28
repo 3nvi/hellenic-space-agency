@@ -26,7 +26,7 @@ en:
   mainTitle: Careers
   mainSubtitle: 'Evaluation results of the applications for Special Scientific Personnel
     recruitment at H.S.C. '
-  content: "**February 28, 2022  \n**_Final ranking tables for Special Scientific
+  content: "**February 28, 2022**  \n_Final ranking tables for Special Scientific
     Personnel recruitment at H.S.C._\n\nAs part of the H.S.C. recruiting process,
     and in accordance with the relevant [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf),
     the final evaluation results of the applications for ten (10) positions of Special
