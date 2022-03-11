@@ -247,17 +247,12 @@ el:
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
   - title: Cube Sat Summer School 2022 της ESA
-    body: "Το Γραφείο Εκπαίδευσης του [Ευρωπαϊκού Οργανισμού Διαστήματος](https://www.esa.int/)
-      οργανώνει το «Cube Sat Summer School 2022», μεταξύ 8 Αυγούστου και 2 Σεπτεμβρίου
-      2022, στο [ESEC-Galaxia](https://www.esa.int/About_Us/Corporate_news/ESA_ESEC),
-      στο Βέλγιο. Θα περιλαμβάνει πληθώρα διαλέξεων και πρακτικών εργαστηρίων που
-      θα καλύπτουν τον κύκλο ζωής μιας διαστημικής αποστολής, από το σχεδιασμό μέχρι
-      την έγκριση, την εκτόξευση και τη λειτουργία. Ολοκληρώνοντας το Summer School,
-      οι συμμετέχοντες θα έχουν αποκτήσει γνώσεις και ικανότητες απαραίτητες για διαστημικά
-      έργα, ώστε να είναι καλύτερα προετοιμασμένοι για να εργαστούν στον ευρωπαϊκό
-      διαστημικό τομέα.\n\nΠροθεσμία υποβολής αιτήσεων: 21 Μαρτίου 2022.\n\nΜάθετε
-      περισσότερα:  \n[https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School](https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School
-      \"https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School\")"
+    body: |-
+      Το Γραφείο Εκπαίδευσης του [Ευρωπαϊκού Οργανισμού Διαστήματος](https://www.esa.int/) οργανώνει το «Cube Sat Summer School 2022», μεταξύ 8 Αυγούστου και 2 Σεπτεμβρίου 2022, στο [ESEC-Galaxia](https://www.esa.int/About_Us/Corporate_news/ESA_ESEC), στο Βέλγιο. Θα περιλαμβάνει πληθώρα διαλέξεων και πρακτικών εργαστηρίων που θα καλύπτουν τον κύκλο ζωής μιας διαστημικής αποστολής, από το σχεδιασμό μέχρι την έγκριση, την εκτόξευση και τη λειτουργία. Ολοκληρώνοντας το Summer School, οι συμμετέχοντες θα έχουν αποκτήσει γνώσεις και ικανότητες απαραίτητες για διαστημικά έργα, ώστε να είναι καλύτερα προετοιμασμένοι για να εργαστούν στον ευρωπαϊκό διαστημικό τομέα.
+
+      Προθεσμία υποβολής αιτήσεων: 21 Μαρτίου 2022.
+
+      Μάθετε περισσότερα: [https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School](https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School "https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School")
     date: 2022-03-11T10:10:44Z
   - title: 'Οριστικοί πίνακες κατάταξης υποψηφίων για την πρόσληψη Ειδικού Επιστημονικού
       Προσωπικού στο ΕΛ.ΚΕ.Δ. '
