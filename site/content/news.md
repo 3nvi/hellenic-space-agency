@@ -4,6 +4,14 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: ESA's Cube Sat Summer School 2022
+    body: |-
+      [ESA](https://www.esa.int/) Education Office's latest initiative, the “CubeSat Summer School 2022”, will take place over four weeks from 8 August to 2 September 2022 at [ESEC-Galaxia](https://www.esa.int/About_Us/Corporate_news/ESA_ESEC), Belgium. It will deliver an extensive mix of lectures and hands-on activities. The entire project lifecycle of a satellite mission will be covered, from design to verification, launch and operations. Upon completing the Summer School, participants will have gained the multidisciplinary knowledge and skills needed to undertake space-related projects, and will be better prepared to join the European space sector.
+
+      Application deadline: March 21, 2022.
+
+      Learn more: [https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School](https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School "https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School")
+    date: 2022-03-11T10:20:20Z
   - title: 'Final ranking tables for Special Scientific Personnel recruitment at the
       H.S.C. '
     body: The final ranking tables regarding the ten (10) positions of Special Scientific
