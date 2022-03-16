@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: COSPAR Scientific Program Committee
+    body: On Tuesday, March 15, the President and the CEO of the H.S.C. participated
+      in the meeting of the [Scientific Program Committee](https://www.cosparathens2022.org/committees/scientific-committee/)
+      of the [COSPAR](https://cosparhq.cnes.fr/ )-[2022 Assembly](https://www.cosparathens2022.org/).
+      The meeting was held in the premises of [CNES](https://cnes.fr/en) in Paris.
+    date: 2022-03-16T10:33:29Z
   - title: ESA's Cube Sat Summer School 2022
     body: |-
       [ESA](https://www.esa.int/) Education Office's latest initiative, the “CubeSat Summer School 2022”, will take place over four weeks from 8 August to 2 September 2022 at [ESEC-Galaxia](https://www.esa.int/About_Us/Corporate_news/ESA_ESEC), Belgium. It will deliver an extensive mix of lectures and hands-on activities. The entire project lifecycle of a satellite mission will be covered, from design to verification, launch and operations. Upon completing the Summer School, participants will have gained the multidisciplinary knowledge and skills needed to undertake space-related projects, and will be better prepared to join the European space sector.
