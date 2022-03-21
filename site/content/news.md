@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: COSPAR Task Group on Establishing an International Geospace Systems Program
+    body: The President of the H.S.C, Prof. Ioannis Daglis, participated in a meeting
+      of the [COSPAR](https://cosparhq.cnes.fr/) [Task Group on Establishing an International
+      Geospace Systems Program (TGIGSP)](https://cosparhq.cnes.fr/task-group-on-establishing-an-international-geospace-systems-program-tgigsp/)
+      that took place in the [Observatoire de Paris](https://www.observatoiredeparis.psl.eu/?lang=en)
+      on 17 and 18 March 2022.
+    date: 2022-03-18T14:00:09Z
   - title: COSPAR Scientific Program Committee
     body: On Tuesday, March 15, the President and the CEO of the H.S.C. participated
       in the meeting of the [Scientific Program Committee](https://www.cosparathens2022.org/committees/scientific-committee/)
@@ -252,6 +259,13 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: 'COSPAR Task Group on Establishing an International Geospace Systems Program '
+    body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής, συμμετείχε σε συνάντηση του
+      [COSPAR](https://cosparhq.cnes.fr/) [Task Group on Establishing an International
+      Geospace Systems Program (TGIGSP)](https://cosparhq.cnes.fr/task-group-on-establishing-an-international-geospace-systems-program-tgigsp/)
+      στο [Αστεροσκοπείο των Παρισίων](https://www.observatoiredeparis.psl.eu/?lang=en)
+      στις 17 και 18 Μαρτίου 2022.
+    date: 2022-03-18T14:00:57Z
   - title: Επιτροπή Επιστημονικού Προγράμματος της COSPAR
     body: Την Τρίτη 15 Μαρτίου, ο Πρόεδρος και ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ.
       συμμετείχαν στη σύνοδο της [Επιτροπής του Επιστημονικού Προγράμματος](https://www.cosparathens2022.org/committees/scientific-committee/)
