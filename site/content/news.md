@@ -4,6 +4,15 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'Presentation: "Space Technology in the service of earthly everyday life"'
+    body: 'The [Regional Center for Educational Planning of Peloponnese](https://blogs.sch.gr/pekespelop/)
+      in collaboration with the Hellenic Space Center is organising a presentation
+      called “Space Technology in the service of earthly everyday life”, by the C.E.O.
+      of the H.S.C., Dr Nick Sergis. The presentation will be given virtually on Monday,
+      April 11th at 17:00, and will be broadcasted live through the H.S.C. Youtube
+      channel at the following link: [https://youtu.be/0Is00afHt80](https://youtu.be/0Is00afHt80
+      "https://youtu.be/0Is00afHt80")'
+    date: 2022-04-10T17:11:52Z
   - title: COSPAR Task Group on Establishing an International Geospace Systems Program
     body: The President of the H.S.C, Prof. Ioannis Daglis, participated in a meeting
       of the [COSPAR](https://cosparhq.cnes.fr/) [Task Group on Establishing an International
