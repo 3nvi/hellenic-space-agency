@@ -4,12 +4,6 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
-  - title: 'The President of the H.S.C. at a Workshop of the European Commission '
-    body: 'On Thursday, March 31st, 2022, the President of the H.S.C., Prof. Ioannis
-      Daglis, participated in the Workshop "EU-funded R&I for Space Sciences" of DG
-      Defense Industry and Space (DEFIS) of the European Commission, with a presentation
-      on "SafeSpace: Making Space a Safer place for Europe’s assets".'
-    date: 2022-03-31T18:00:00Z
   - title: 'Presentation: "Space Technology in the service of earthly everyday life"'
     body: 'The [Regional Center for Educational Planning of Peloponnese](https://blogs.sch.gr/pekespelop/)
       in collaboration with the Hellenic Space Center is organising a presentation
@@ -19,6 +13,12 @@ en:
       channel. The recording of the talk can be found at: [https://youtu.be/RaJ4QYn8oZY](https://youtu.be/RaJ4QYn8oZY
       "https://youtu.be/RaJ4QYn8oZY")'
     date: 2022-04-10T17:11:52Z
+  - title: 'The President of the H.S.C. at a Workshop of the European Commission '
+    body: 'On Thursday, March 31st, 2022, the President of the H.S.C., Prof. Ioannis
+      Daglis, participated in the Workshop "EU-funded R&I for Space Sciences" of DG
+      Defense Industry and Space (DEFIS) of the European Commission, with a presentation
+      on "SafeSpace: Making Space a Safer place for Europe’s assets".'
+    date: 2022-03-31T18:00:00Z
   - title: COSPAR Task Group on Establishing an International Geospace Systems Program
     body: The President of the H.S.C, Prof. Ioannis Daglis, participated in a meeting
       of the [COSPAR](https://cosparhq.cnes.fr/) [Task Group on Establishing an International
