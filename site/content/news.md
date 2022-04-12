@@ -4,6 +4,9 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: ''
+    body: ''
+    date: 
   - title: 'Presentation: "Space Technology in the service of earthly everyday life"'
     body: 'The [Regional Center for Educational Planning of Peloponnese](https://blogs.sch.gr/pekespelop/)
       in collaboration with the Hellenic Space Center is organising a presentation
@@ -268,12 +271,6 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
-  - title: Συμμετοχή του Προέδρου του ΕΛ.ΚΕ.Δ. σε ημερίδα της Ευρωπαϊκής Επιτροπής
-    body: 'Την Πέμπτη 31 Μαρτίου 2022, ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής,
-      συμμετείχε στην ημερίδα "EU-funded R&I for Space Sciences" της Γενικής Διεύθυνση
-      Αμυντικής Βιομηχανίας και Διαστήματος (DEFIS) της Ευρωπαϊκή Επιτροπής, με την
-      παρουσίαση "SafeSpace: Making Space a Safer place for Europe’s assets".'
-    date: 2022-03-31T18:34:32Z
   - title: 'Ομιλία: "Η Διαστημική Τεχνολογία στην υπηρεσία της γήινης καθημερινότητας"'
     body: 'Το [Περιφερειακό Κέντρο Εκπαιδευτικού Σχεδιασμού (ΠΕ.Κ.Ε.Σ.) Πελοποννήσου](https://blogs.sch.gr/pekespelop/)
       σε συνεργασία με το Ελληνικό Κέντρο Διαστήματος σας προσκαλεί στην εξ αποστάσεως
@@ -284,6 +281,12 @@ el:
       την καταγραφή της ομιλίας ακολουθώντας τον σύνδεσμο: [https://youtu.be/RaJ4QYn8oZY](https://youtu.be/RaJ4QYn8oZY
       "https://youtu.be/RaJ4QYn8oZY")'
     date: 2022-04-10T17:10:58Z
+  - title: Συμμετοχή του Προέδρου του ΕΛ.ΚΕ.Δ. σε ημερίδα της Ευρωπαϊκής Επιτροπής
+    body: 'Την Πέμπτη 31 Μαρτίου 2022, ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής,
+      συμμετείχε στην ημερίδα "EU-funded R&I for Space Sciences" της Γενικής Διεύθυνση
+      Αμυντικής Βιομηχανίας και Διαστήματος (DEFIS) της Ευρωπαϊκή Επιτροπής, με την
+      παρουσίαση "SafeSpace: Making Space a Safer place for Europe’s assets".'
+    date: 2022-03-31T18:34:32Z
   - title: 'COSPAR Task Group on Establishing an International Geospace Systems Program '
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής, συμμετείχε σε συνάντηση του
       [COSPAR](https://cosparhq.cnes.fr/) [Task Group on Establishing an International
