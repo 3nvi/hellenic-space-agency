@@ -286,10 +286,10 @@ el:
     date: 2022-04-10T17:10:58Z
   - title: Συμμετοχή του Προέδρου του ΕΛ.ΚΕ.Δ. σε ημερίδα της Ευρωπαϊκής Επιτροπής
     body: 'Την Πέμπτη 31 Μαρτίου 2022, ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής,
-      συμμετείχε στην ημερίδα "EU-funded R&I for Space Sciences" της Γενικής Διεύθυνση
+      συμμετείχε στην ημερίδα "EU-funded R&I for Space Sciences" της Γενικής Διεύθυνσης
       Αμυντικής Βιομηχανίας και Διαστήματος (DEFIS) της Ευρωπαϊκή Επιτροπής, με την
       παρουσίαση "SafeSpace: Making Space a Safer place for Europe’s assets".'
-    date: 2022-03-31T18:34:32Z
+    date: 2022-03-31T18:33:32Z
   - title: 'COSPAR Task Group on Establishing an International Geospace Systems Program '
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής, συμμετείχε σε συνάντηση του
       [COSPAR](https://cosparhq.cnes.fr/) [Task Group on Establishing an International
