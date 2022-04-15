@@ -16,7 +16,7 @@ en:
       in collaboration with the Hellenic Space Center is organising a presentation
       called “Space Technology in the service of earthly everyday life”, by the C.E.O.
       of the H.S.C., Dr Nick Sergis. The presentation will be given virtually on Monday,
-      April 11th at 17:00, and will be broadcasted live through the H.S.C. Youtube
+      April 11th at 17:30, and will be broadcasted live through the H.S.C. Youtube
       channel. The recording of the talk can be found at: [https://youtu.be/RaJ4QYn8oZY](https://youtu.be/RaJ4QYn8oZY
       "https://youtu.be/RaJ4QYn8oZY")'
     date: 2022-04-10T17:11:52Z
