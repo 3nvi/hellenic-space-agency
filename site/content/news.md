@@ -5,12 +5,13 @@ en:
   mainSubtitle: Find out about our latest updates
   items:
   - title: 'Presentation: "Storms, sounds and colors in Space"'
-    body: The [Regional Center for Educational Planning of Peloponnese](https://blogs.sch.gr/pekespelop/)
+    body: 'The [Regional Center for Educational Planning of Peloponnese](https://blogs.sch.gr/pekespelop/)
       in collaboration with the Hellenic Space Center is organising a presentation
       called “Storms, sounds and colors in Space”, by the President of the H.S.C.,
       Prof. Ioannis Daglis. The presentation will be given virtually on Monday, April
-      18th at 17:30, and will be uploaded at the H.S.C. Youtube channel.
-    date: 2022-04-15T21:34:13Z
+      18th at 17:30, and will be broadcasted live by the H.S.C. Youtube channel at:
+      [https://youtu.be/xTTZ7WH8ubQ](https://youtu.be/xTTZ7WH8ubQ "https://youtu.be/xTTZ7WH8ubQ")'
+    date: 2022-04-15T21:33:13Z
   - title: 'Presentation: "Space Technology in the service of earthly everyday life"'
     body: 'The [Regional Center for Educational Planning of Peloponnese](https://blogs.sch.gr/pekespelop/)
       in collaboration with the Hellenic Space Center is organising a presentation
