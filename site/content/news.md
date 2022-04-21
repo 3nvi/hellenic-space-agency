@@ -296,6 +296,17 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: 'Πρόσκληση εκδήλωσης ενδιαφέροντος για το Living Planet Fellowship 2022
+      της ESA '
+    body: "Ο κύριος στόχος του Living Planet Fellowship της [ESA](https://www.esa.int/)
+      είναι η στήριξη νέων επιστημόνων, μετα-διδακτορικού επιπέδου, σχετικά με Earth
+      Observation, Earth System Science ή Climate Research.   \n  \nΠερισσότερες πληροφορίες
+      για την υποτροφία μπορείτε να βρείτε στον ακόλουθο σύνδεσμο: [https://eo4society.esa.int/2022/04/06/living-planet-fellowship-call-for-proposals-2022/](https://eo4society.esa.int/2022/04/06/living-planet-fellowship-call-for-proposals-2022/
+      \"https://eo4society.esa.int/2022/04/06/living-planet-fellowship-call-for-proposals-2022/\")\n\nΠληροφορίες
+      σχετικά με παρελθούσες και τρέχουσες υποτροφίες: [https://eo4society.esa.int/communities/scientists/living-planet-fellowship/](https://eo4society.esa.int/communities/scientists/living-planet-fellowship/
+      \"https://eo4society.esa.int/communities/scientists/living-planet-fellowship/\")\n\nΠροθεσμία
+      αιτήσεων: 15 Ιουνίου 2022."
+    date: 2022-04-21T12:31:14Z
   - title: Ομιλία για το Πανεπιστήμιο της Άιοβα
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ι. Δαγκλής, έδωσε διαδικτυακή διάλεξη με θέμα
       "[Radiation belt variability connection to interplanetary and magnetospheric
