@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Colloquium for the University of Iowa
+    body: The President of the H.S.C., Prof. I. Daglis, gave a virtual Physics and
+      Astronomy Colloquium on "[Radiation belt variability connection to interplanetary
+      and magnetospheric drivers at various time-scales](https://physics.uiowa.edu/event/92511/0)”
+      at the University of Iowa.
+    date: 2022-04-20T12:15:07Z
   - title: 'Presentation: "Storms, sounds and colors in Space"'
     body: 'The [Regional Center for Educational Planning of Peloponnese](https://blogs.sch.gr/pekespelop/)
       in collaboration with the Hellenic Space Center is organising a presentation
