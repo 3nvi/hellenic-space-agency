@@ -4,6 +4,14 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: ESA's Living Planet Fellowship call for proposals 2022
+    body: |-
+      The main objective of the Living Planet Fellowship is to support young scientists, at post-doctoral level, to undertake cutting-edge research in Earth Observation, Earth System Science or Climate Research, maximising the scientific return of [ESA](https://www.esa.int/) and European EO missions and datasets through the development of novel EO methods, techniques and products, and by delivering excellent scientific results addressing the grand Earth Science challenges of the next decade, enabling improved predictions of the physical interaction of society with the Earth system.
+
+      More information: [https://eo4society.esa.int/2022/04/06/living-planet-fellowship-call-for-proposals-2022/](https://eo4society.esa.int/2022/04/06/living-planet-fellowship-call-for-proposals-2022/ "https://eo4society.esa.int/2022/04/06/living-planet-fellowship-call-for-proposals-2022/")
+
+      Deadline: June 15th, 2022
+    date: 2022-04-21T12:29:08Z
   - title: Colloquium for the University of Iowa
     body: The President of the H.S.C., Prof. I. Daglis, gave a virtual Physics and
       Astronomy Colloquium on "[Radiation belt variability connection to interplanetary
