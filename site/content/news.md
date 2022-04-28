@@ -296,6 +296,11 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Άρθρο του Προέδρου του ΕΛ.ΚΕ.Δ. στην Καθημερινή
+    body: 'Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής, για τις επιπτώσεις του πολέμου
+      της Ουκρανίας στις ευρωπαϊκές διαστημικές δραστηριότητες: [https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/](https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/
+      "https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/")'
+    date: 2022-04-26T09:01:32Z
   - title: 'Πρόσκληση εκδήλωσης ενδιαφέροντος για το Living Planet Fellowship 2022
       της ESA '
     body: "Ο κύριος στόχος του Living Planet Fellowship της [ESA](https://www.esa.int/)
