@@ -4,6 +4,11 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: News article from the President of the H.S.C. on Kathimerini
+    body: 'The President of the H.S.C., Prof. Ioannis Daglis, on the impact of the
+      war in Ukraine on the European space activities (article in greek): [https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/](https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/
+      "https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/")'
+    date: 2022-04-26T09:11:07Z
   - title: ESA's Living Planet Fellowship call for proposals 2022
     body: |-
       The main objective of the Living Planet Fellowship is to support young scientists, at post-doctoral level, to undertake cutting-edge research in Earth Observation, Earth System Science or Climate Research, maximising the scientific return of [ESA](https://www.esa.int/) and European EO missions and datasets through the development of novel EO methods, techniques and products, and by delivering excellent scientific results addressing the grand Earth Science challenges of the next decade, enabling improved predictions of the physical interaction of society with the Earth system.
