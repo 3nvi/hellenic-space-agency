@@ -4,6 +4,18 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: New Scientific Personnel at the H.S.C.
+    body: |-
+      The Hellenic Space Center welcomes its first Scientific Officers:
+
+      * C. Papachristos, Economic Advisor
+      * A. Solomonidou, Space Sciences and Space Exploration
+      * D. Bliziotis, Earth Observation
+      * A. Karmas, Space Data Systems
+      * E. Mylonakis, Space Systems
+
+      The President and the H.S.C. BoD express their warmest wishes for a long and productive career.
+    date: 2022-05-06T12:40:42Z
   - title: News article from the President of the H.S.C. on Kathimerini
     body: 'The President of the H.S.C., Prof. Ioannis Daglis, on the impact of the
       war in Ukraine on the European space activities (article in greek): [https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/](https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/
