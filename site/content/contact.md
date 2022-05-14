@@ -7,7 +7,8 @@ en:
     ### Contact Form
     Please fill in the form below and we'll get in touch with you as soon as possible
   mapHeader: "### Contact Information\n\nLeoforos Kifissias 178, Chalandri, 15231,
-    Greece  \nCall center: +30 214 4066 040 - 041  \n[info@hsc.gov.gr](mailto:info@hsc.gov.gr)"
+    Greece  \nCall center: +30 214 4066 040 - 041  \n[info@hsc.gov.gr](mailto:info@hsc.gov.gr)
+    \ \n  \n[Facebook page](https://www.facebook.com/hsc.gov.gr)  \n[YouTube channel](https://youtu.be/M5vfmygyJ44)"
   formSuccessMessage: Your message has been sent!
   formSubmitMessage: Send Message
   formSubjectLabel: Subject
