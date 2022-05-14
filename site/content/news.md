@@ -8,9 +8,9 @@ en:
     body: The [Regional Center for Educational Planning of Peloponnese](https://blogs.sch.gr/pekespelop/)
       in collaboration with the Hellenic Space Center is organising a presentation
       called “Planetary exploration and employment at NASA and ESA”, by planetary
-      geologist Dr. Anezina Solomonidou, researcher on Planetary Explorations and
-      Space Sciences at the H.S.C. The presentation will be given virtually on Monday,
-      May 16th at 17:30, and will be later uploaded at the [H.S.C. YouTube channel](https://youtu.be/M5vfmygyJ44).
+      geologist Dr. Anezina Solomonidou, researcher on Space Sciences and Space Exploration
+      at the H.S.C. The presentation will be given virtually on Monday, May 16th at
+      17:30, and will be later uploaded at the [H.S.C. YouTube channel](https://youtu.be/M5vfmygyJ44).
     date: 2022-05-14T19:52:30Z
   - title: New Scientific Personnel at the H.S.C.
     body: |-
