@@ -27,7 +27,7 @@ el:
   mapHeader: "### Στοιχεία Επικοινωνίας\n\nΛεωφ. Κηφισίας 178, Χαλάνδρι, 15231, Ελλάδα
     \ \nΤηλεφωνικό κέντρο: 214 4066 040 - 041  \n[info@hsc.gov.gr](mailto:info@hsc.gov.gr)
     \ \n  \n[Σελίδα στο Facebook](https://www.facebook.com/hsc.gov.gr)  \n[Κανάλι
-    στο Youtube](https://youtu.be/M5vfmygyJ44)"
+    στο YouTube](https://youtu.be/M5vfmygyJ44)"
   formSuccessMessage: Το μήνυμα σας στάλθηκε με επιτυχία!
   formSubmitMessage: Αποστολή Μηνύματος
   formSubjectLabel: Τίτλος
