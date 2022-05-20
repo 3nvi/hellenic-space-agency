@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Vangelis Papathanasiou
+    body: The Hellenic Space Center, along with the whole Space community of Greece,
+      farewell Vangelis Papathanasiou, the composer that, with his music, tributed
+      celestial bodies and space exploration. A Greek that honoured and supported
+      our country when needed. His music will always accompany humanity’s journeys
+      to the unknown.
+    date: 2022-05-20T09:21:23Z
   - title: 'Presentation: "Planetary exploration and employment at NASA and ESA"'
     body: The [Regional Center for Educational Planning of Peloponnese](https://blogs.sch.gr/pekespelop/)
       in collaboration with the Hellenic Space Center is organising a presentation
