@@ -329,6 +329,14 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: 'Συναυλία: "Οι [αβέβαιες] Τέσσερις Εποχές"'
+    body: 'Την Δευτέρα 30 Μαΐου στις 20:30 η πρωτοβουλία [ALPHA MISSION – ΔELOS](https://youtu.be/iqkOwMNKuxs)
+      οργανώνει συναυλία κλασικής μουσικής με τίτλο “[Οι \[αβέβαιες\] Τέσσερις Εποχές](https://the-uncertain-four-seasons.info/)”,
+      με τη σύμπραξη του ΕΛ.ΚΕ.Δ. Η συναυλία θα πραγματοποιηθεί στο νησί της Δήλου,
+      θα αναμεταδοθεί ζωντανά στο ARTE, την ΕΡΤ, και θα προβληθεί στον κήπο του Μεγάρου
+      Μουσικής Αθηνών και στα διαδικτυακά κανάλια του. Μάθετε περισσότερα: [https://www.megaron.gr/event/alpha-mission-delos-oi-abebaies-tesseris-epoches/](https://www.megaron.gr/event/alpha-mission-delos-oi-abebaies-tesseris-epoches/
+      "https://www.megaron.gr/event/alpha-mission-delos-oi-abebaies-tesseris-epoches/")'
+    date: 2022-05-30T09:00:33Z
   - title: Βαγγέλης Παπαθανασίου
     body: Το Ελληνικό Κέντρο Διαστήματος, μαζί ολόκληρη τη Διαστημική κοινότητα της
       Ελλάδας, αποχαιρετά τον Βαγγέλη Παπαθανασίου, τον δημιουργό που με τη μουσική
