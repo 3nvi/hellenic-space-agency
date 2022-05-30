@@ -6,7 +6,7 @@ en:
   items:
   - title: 'Concert: "The [uncertain] Four Seasons"'
     body: 'On Monday, May 30, 20:30, [ALPHA MISSION – ΔELOS](https://youtu.be/iqkOwMNKuxs)
-      organises a classical music concert, co-producted by the H.S.C, titled “[The
+      organises a classical music concert, co-produced by the H.S.C, titled “[The
       \[uncertain\] Four Seasons](https://the-uncertain-four-seasons.info/)”. It will
       take place on Delos island, it will be broadcasted live on ARTE and ERT, and
       will be projected in Megaron the Athens Concert Hall. Learn more: [https://www.megaron.gr/event/alpha-mission-delos-oi-abebaies-tesseris-epoches/](https://www.megaron.gr/event/alpha-mission-delos-oi-abebaies-tesseris-epoches/
