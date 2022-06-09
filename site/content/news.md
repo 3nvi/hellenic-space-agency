@@ -4,6 +4,15 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: New Scientific Personnel at the H.S.C.
+    body: |-
+      The Hellenic Space Center welcomes additional Scientific Officers:
+
+      * A. Panagiotopoulos, GNSS Applications
+      * T. Farmakakis, Space Systems
+
+      The President and the H.S.C. BoD express their warmest wishes for a long and productive career.
+    date: 2022-06-09T12:00:09Z
   - title: 'Concert: "The [uncertain] Four Seasons"'
     body: 'On Monday, May 30, 20:30, [ALPHA MISSION – ΔELOS](https://youtu.be/iqkOwMNKuxs)
       organises a classical music concert, supported by the H.S.C, titled “[The \[uncertain\]
