@@ -28,8 +28,10 @@ el:
     ### Φόρμα Επικοινωνίας
     Συμπληρώστε την ακόλουθη φόρμα και θα επικοινωνήσουμε μαζί σας το συντομότερο δυνατόν.
   mapHeader: "### Στοιχεία Επικοινωνίας\n\nΛεωφ. Κηφισίας 178, Χαλάνδρι, 15231, Ελλάδα
-    \ \nΤηλεφωνικό κέντρο: 214 4066 040 - 041  \n[info@hsc.gov.gr](mailto:info@hsc.gov.gr)\n\n[Σελίδα
-    στο Facebook](https://www.facebook.com/hsc.gov.gr)  \n[Κανάλι στο YouTube](https://www.youtube.com/channel/UCaVUEyHJaAC_7VPaUmoW_-A)"
+    \ \nΤηλεφωνικό κέντρο: 214 4066 040 - 041  \n[info@hsc.gov.gr](mailto:info@hsc.gov.gr)\n\n###
+    Social Media\n\n[Σελίδα στο Facebook](https://www.facebook.com/hsc.gov.gr)  \n[Κανάλι
+    στο YouTube](https://www.youtube.com/channel/UCaVUEyHJaAC_7VPaUmoW_-A)  \n[Σελίδα
+    στο LinkedIn](https://www.linkedin.com/company/hellenic-space-center/)"
   formSuccessMessage: Το μήνυμα σας στάλθηκε με επιτυχία!
   formSubmitMessage: Αποστολή Μηνύματος
   formSubjectLabel: Τίτλος
