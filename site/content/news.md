@@ -4,6 +4,23 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: ASI-HSC Webinar
+    body: |-
+      The Italian Space Agency ([Agenzia Spaziale Italiana - ASI](https://www.asi.it/en/)) and the Hellenic Space Center (HSC) invite you to a joint online event promoting the cooperation between the Italian and the Greek Space ecosystems. This virtual event will take place on **Monday, July 11, 10 am to 1pm EEST** and will focus on:
+
+      * Earth Observation and related applications
+      * Nanosatellites and Space technologies
+
+      The event will start with introductory presentations from the two Agencies, and will be followed by an industry session where companies will present their capabilities, heritage, and perspectives on Greek-Italian Space cooperation.
+
+      The event can be attended [here](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZWZmMGUxMzktOTU1Ny00NmViLWJjZmItOTM1YWU2ZmI5YTVk%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522cbfc58d4-e60f-468d-8fe4-90676de085f7%2522%252c%2522Oid%2522%253a%2522446eb7b2-164b-4595-b0a2-7b6bfc3dfcb3%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=1553eb90-fe74-4f1a-9567-4713ff52ec23&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true).
+
+      The ASI and the HSC will encourage and facilitate B2B meetings that will take place in the following weeks. For this purpose, a form has been created where Greek companies can express their interest.
+
+      The form and necessary fill-in directions can be accessed [here](https://docs.google.com/forms/d/e/1FAIpQLSdb8NsfRFfGIHJUbrccUXS7Ug_42cOot8EcXj0oe-2wssTvrg/viewform?usp=sf_link).
+
+      The presentation program will be soon available.
+    date: 2022-07-07T09:00:25Z
   - title: New Scientific Personnel at the H.S.C.
     body: |-
       The Hellenic Space Center welcomes additional Scientific Officers:
