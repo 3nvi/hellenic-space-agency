@@ -9,6 +9,8 @@ en:
       On Wednesday, June 22nd, an event in honor of Space Scientist and Academic Dr. Stamatios Krimizis, was organized by the Hellenic Space Center. The event took place at Megaron, the Athens Concert Hall, and included talks from the Minister of State and Digital Governance Mr. Kyriakos Pierrakakis, the President of the H.S.C Prof. Ioannis Daglis, the President of World Human Forum Ms. Alexandra Mitsotaki, and Director Giannis Vamvakas.
 
       In the scope of the event, Dr. Krimizis received a special award for his overall contribution to Space Sciences, from the President of the H.S.C., and the award-winning documentary “Chasing the planets for 60 years: Stamatis Krimizis” was premiered, directed and produced by Yiannis Vamvakas and including music composition by Vangelis Papathanasiou.
+
+      ![](/assets/thumbnail_krimizis3.jpg)![](/assets/289020573_625723909113053_1199433405886936785_n-copy.jpg)
     date: 2022-07-07T11:00:46Z
   - title: ASI-HSC Webinar
     body: |-
