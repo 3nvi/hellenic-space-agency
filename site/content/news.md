@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: H.S.C. event in honor of Stamatis Krimizis
+    body: |-
+      On Wednesday, June 22nd, an event in honor of Space Scientist and Academic Dr. Stamatios Krimizis, was organized by the Hellenic Space Center. The event took place at Megaron, the Athens Concert Hall, and included talks from the Minister of State and Digital Governance Mr. Kyriakos Pierrakakis, the President of the H.S.C Prof. Ioannis Daglis, the President of World Human Forum Ms. Alexandra Mitsotaki, and Director Giannis Vamvakas.
+
+      In the scope of the event, Dr. Krimizis received a special award for his overall contribution to Space Sciences, from the President of the H.S.C., and the award-winning documentary “Chasing the planets for 60 years: Stamatis Krimizis” was premiered, directed and produced by Yiannis Vamvakas and including music composition by Vangelis Papathanasiou.
+    date: 2022-07-07T11:00:46Z
   - title: ASI-HSC Webinar
     body: |-
       The Italian Space Agency ([Agenzia Spaziale Italiana - ASI](https://www.asi.it/en/)) and the Hellenic Space Center (HSC) invite you to a joint online event promoting the cooperation between the Italian and the Greek Space ecosystems. This virtual event will take place on **Monday, July 11, 10 am to 1pm EEST** and will focus on:
