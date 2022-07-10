@@ -11,7 +11,7 @@ en:
       * Earth Observation and related applications
       * Nanosatellites and Space technologies
 
-      The event will start with introductory presentations from the two Agencies, and will be followed by an industry session where companies will present their capabilities, heritage, and perspectives on Greek-Italian Space cooperation. View the program [here](/assets/program-italy-greece-cooperation-in-space-11-july-2022-final.pdf).
+      The event will start with introductory presentations from the two Agencies, and will be followed by an industry session where companies will present their capabilities, heritage, and perspectives on Greek-Italian Space cooperation. View the program [here](/assets/asi_hsc_prog.pdf).
 
       The event can be attended [here](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_ZWZmMGUxMzktOTU1Ny00NmViLWJjZmItOTM1YWU2ZmI5YTVk%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522cbfc58d4-e60f-468d-8fe4-90676de085f7%2522%252c%2522Oid%2522%253a%2522446eb7b2-164b-4595-b0a2-7b6bfc3dfcb3%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=1553eb90-fe74-4f1a-9567-4713ff52ec23&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true).
 
