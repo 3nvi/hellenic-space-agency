@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'Visit of the H.S.C. President at the Hellenic Parliament Foundation '
+    body: The H.S.C. President Prof. Ioannis Daglis visited the Secretary General
+      of the [Hellenic Parliament Foundation for Parliamentarism and Democracy](https://foundation.parliament.gr/en)
+      Prof. Evanthis Hatzivassiliou. Prof. Hatzivassiliou offered to Prof. Daglis
+      a tour of the exhibition on [Images and Music of the Greek Refugees of 1922](https://foundation.parliament.gr/el/ekthesi/ekthesi-siko-psyhi-moy-eikones-kai-moysikes-ton-prosfygon-toy-22).
+      A discussion on activities of joint interest followed the tour.
+    date: 2022-07-13T16:00:52Z
   - title: ASI-HSC Webinar
     body: |-
       The Italian Space Agency ([Agenzia Spaziale Italiana - ASI](https://www.asi.it/en/)) and the Hellenic Space Center (HSC) invite you to a joint online event promoting the cooperation between the Italian and the Greek Space ecosystems. This virtual event will take place on **Monday, July 11, 10 am to 1pm EEST** and will focus on:
