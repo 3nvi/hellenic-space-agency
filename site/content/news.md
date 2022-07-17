@@ -4,6 +4,14 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: The President of the H.S.C. at the International Academy of Astronautics
+      annual meeting
+    body: The President of the H.S.C., Prof. Ioannis Daglis, gave a presentation on
+      the activities of the Hellenic Space Center during the [annual meeting ](https://iaaspace.org/events/iaa-academy-days/#EVENT-ACADEMYDAYcospar)of
+      the [International Academy of Astronautics](https://iaaspace.org/), which took
+      place at the [Academy of Athens](http://www.academyofathens.gr/), yesterday,
+      Saturday July 16th.
+    date: 2022-07-17T08:11:18Z
   - title: 'Visit of the H.S.C. President at the Hellenic Parliament Foundation '
     body: The H.S.C. President Prof. Ioannis Daglis visited the Secretary General
       of the [Hellenic Parliament Foundation for Parliamentarism and Democracy](https://foundation.parliament.gr/en)
