@@ -4,6 +4,11 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'The President of the H.S.C. at the Space Agency Leaders roundtable '
+    body: On Sunday, July 17th, the President of the H.S.C., Prof. Ioannis Daglis,
+      participated in the Leaders of Space Agencies roundtable, traditionally held
+      at every [COSPAR](https://www.cospar-assembly.org/assembly.php) Assembly.
+    date: 2022-07-17T17:20:19Z
   - title: The President of the H.S.C. at the International Academy of Astronautics
       annual meeting
     body: The President of the H.S.C., Prof. Ioannis Daglis, gave a presentation on
