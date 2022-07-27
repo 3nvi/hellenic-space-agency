@@ -4,6 +4,16 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Visit of NASA delegations at the H.S.C.
+    body: |-
+      Two [NASA](https://www.nasa.gov/) delegations recently visited the premises of the H.S.C. for business meetings.
+
+      On Monday, July 18th, 2022, the H.S.C welcomed Thomas Zurbuchen, NASA Associate Administrator for Space Science, Kathryn Lueders, Associate Administrator for the Space Operations Mission Directorat, with their associates, Rebecca Levy and Cullen Balinski. The President of the H.S.C. gave a brief presentation of the Center, followed by a discussion on the development of a bilateral collaboration.
+
+      On Monday, July 25th, 2022, the H.S.C. premises were visited by Florian Schwandner, Chief of the Earth Science Division at [NASA Ames Research Center](https://www.nasa.gov/ames), Conor Nixon, Associate Laboratory Chief of [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard), Steve Vance, from [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), and Jani Radebaugh, from [Brigham Young University](https://www.byu.edu/). The scientific personnel of the H.S.C. attended the meeting, along with Elias Hatzitheodoridis, [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/), Olga Sykioti, [IAASARS/NOA](https://www.astro.noa.gr/en/), and Ioannis Baziotis, [Agricultural University of Athens (AUA)](https://www2.aua.gr//en).
+
+      Short presentations were given by all the participants and an extensive discussion followed.
+    date: 2022-07-25T14:20:49Z
   - title: 'The President of the H.S.C. at the Space Agency Leaders roundtable '
     body: On Sunday, July 17th, the President of the H.S.C., Prof. Ioannis Daglis,
       participated in the Leaders of Space Agencies roundtable, traditionally held
