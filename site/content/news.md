@@ -5,10 +5,10 @@ en:
   mainSubtitle: Find out about our latest updates
   items:
   - title: Meeting of the Prime Minister with Leaders of Space Agencies
-    body: |-
-      The H.S.C. President, Professor Ioannis Daglis, participated in the informal meeting of the Prime Minister, Mr. Kyriakos Mitsotakis, with space agency leaders, who took part in the [COSPAR-2022](https://www.cosparathens2022.org/) Scientific Assembly in Athens last week.
-
-      ![](/assets/2.jpg)
+    body: The H.S.C. President, Professor Ioannis Daglis, participated in the informal
+      meeting of the Prime Minister, Mr. Kyriakos Mitsotakis, with space agency leaders,
+      who took part in the [COSPAR-2022](https://www.cosparathens2022.org/) Scientific
+      Assembly in Athens last week.
     date: 2022-07-28T10:20:55Z
   - title: Visit of NASA delegations at the H.S.C.
     body: |-
