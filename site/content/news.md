@@ -10,6 +10,12 @@ en:
       who took part in the [COSPAR-2022](https://www.cosparathens2022.org/) Scientific
       Assembly in Athens last week.
     date: 2022-07-28T10:20:55Z
+  - title: 'Workshop at the Princeton Athens Center '
+    body: The President of the H.S.C., Prof. Ioannis Daglis, participated in a workshop
+      organized by the Space Physics Group of Princeton University at the [Princeton
+      Athens Center](https://hellenic.princeton.edu/princeton-athens-center) on Monday,
+      July 25th, 2022.
+    date: 2022-07-25T12:00:53Z
   - title: Visit of NASA delegations at the H.S.C.
     body: |-
       Two [NASA](https://www.nasa.gov/) delegations recently visited the premises of the H.S.C. for business meetings.
