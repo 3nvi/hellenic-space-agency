@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Session in Memory of Prof. Yohsuke Kamide in AOGS Annual Meeting
+    body: On Tuesday, August 2nd, the H.S.C. President Prof. Ioannis Daglis delivered
+      an invited talk at the Special Session in Memory of Prof. [Yohsuke Kamide](https://www.isee.nagoya-u.ac.jp/en/news/2021/20211220-2.html)
+      of the Annual [Asia Oceania Geosciences Society (AOGS)](https://www.asiaoceania.org/society/public.asp?page=home.asp)
+      conference on the contribution of Prof. Kamide to our understanding of the storm-substorm
+      relation.
+    date: 2022-08-02T09:15:45Z
   - title: Meeting of the Prime Minister with Leaders of Space Agencies
     body: The H.S.C. President, Professor Ioannis Daglis, participated in the informal
       meeting of the Prime Minister, Mr. Kyriakos Mitsotakis, with space agency leaders,
