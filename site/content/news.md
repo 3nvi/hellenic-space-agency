@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Dionysis Simopoulos
+    body: The Hellenic Space Center pays its earnest respects to Dionysis Simopoulos,
+      one of the most prominent faces of Science Communication in Greece. For over
+      50 years, Dionysis Simopoulos has immersed the Greek audience into the wonders
+      of Space, in the most professional manner. He will be greatly missed but not
+      forgotten.
+    date: 2022-08-08T10:42:58Z
   - title: Session in Memory of Prof. Yohsuke Kamide in AOGS Annual Meeting
     body: On Tuesday, August 2nd, the H.S.C. President Prof. Ioannis Daglis delivered
       an invited talk at the Special Session in Memory of Prof. [Yohsuke Kamide](https://www.isee.nagoya-u.ac.jp/en/news/2021/20211220-2.html)
