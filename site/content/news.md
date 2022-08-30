@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Postdoctoral Research Fellowships from ESA
+    body: |-
+      [ESA](https://www.esa.int/)'s postdoctoral Research Fellowship programme offers early-career scientists and engineers the possibility to carry out research in a variety of disciplines related to space science, space applications or space technology. [Learn more](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships)
+
+      Deadline for applications: September 19, 2022.
+    date: 2022-08-30T11:30:11Z
   - title: Dionysis Simopoulos
     body: The Hellenic Space Center pays its earnest respects to Dionysis Simopoulos,
       one of the most prominent faces of Science Communication in Greece. For over
