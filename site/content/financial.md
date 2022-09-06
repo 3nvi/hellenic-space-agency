@@ -5,6 +5,10 @@ en:
   content: |-
     Here follow the Annual Reports of the H.S.C. (in Greek).
 
+    #### Financial Year 2021
+
+    * [Financial Report](/assets/financial_report_2021.pdf) (1/1/2021 - 31/12/2021)
+
     #### Financial Year 2020
 
     * [Financial Report](/assets/financial_report_2020.pdf) (1/1/2020 - 31/12/2020)
