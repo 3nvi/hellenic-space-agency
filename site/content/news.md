@@ -4,6 +4,15 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: New Scientific Personnel at the H.S.C.
+    body: |-
+      The Hellenic Space Center welcomes additional Scientific Officers:
+
+      * D. K. Mylonas, Space Systems
+      * D. Christopoulos, Satellite Communications and Integrated Applications
+
+      The President and the H.S.C. BoD express their warmest wishes for a long and productive career.
+    date: 2022-09-07T13:10:39Z
   - title: Postdoctoral Research Fellowships from ESA
     body: |-
       [ESA](https://www.esa.int/)'s postdoctoral Research Fellowship programme offers early-career scientists and engineers the possibility to carry out research in a variety of disciplines related to space science, space applications or space technology. [Learn more](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships)
