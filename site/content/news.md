@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'The H.C.S. at the 86th T.I.F. '
+    body: The Hellenic Space Center (H.C.S.) participates in the [86th Thessaloniki
+      International Fair](https://www.thessalonikifair.gr/en). As an Organization
+      that is supervised the Ministry of Digital Governance, it is hosted on the Ground
+      Floor, at Pavilion 12, which is staffed by the Center’s personnel.
+    date: 2022-09-10T13:20:38Z
   - title: New Scientific Personnel at the H.S.C.
     body: |-
       The Hellenic Space Center welcomes additional Scientific Officers:
