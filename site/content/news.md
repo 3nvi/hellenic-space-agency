@@ -4,6 +4,15 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Delegation of the H.S.C. at the International Astronautical Congress 2022
+    body: The President, I. Daglis, the C.E.O, N. Sergis, and Scientific Personnel
+      of the H.S.C. (D. Bliziotis, Earth Observation) are attending the [International
+      Astronautical Congress 2022](https://www.iafastro.org/events/iac/iac-2022/),
+      the annual summit of the [International Astronautical Federation (IAF)](https://www.iafastro.org/),
+      which is held in Paris, on September 18-22. The President of the H.S.C., Prof.
+      Ioannis Daglis, attended IAF’s General Assembly on Sunday, September 18, addressing
+      the election of the H.S.C. as a new member of the IAF.
+    date: 2022-09-20T11:20:53Z
   - title: 'The H.S.C. at the 86th T.I.F. '
     body: The Hellenic Space Center (H.S.C.) participates in the [86th Thessaloniki
       International Fair](https://www.thessalonikifair.gr/en). As an Organization
