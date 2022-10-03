@@ -4,6 +4,9 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: ''
+    body: ''
+    date: 
   - title: Delegation of the H.S.C. at the International Astronautical Congress 2022
     body: The President, I. Daglis, the C.E.O, N. Sergis, and Scientific Personnel
       of the H.S.C. (D. Bliziotis, Earth Observation) are attending the [International
@@ -459,14 +462,14 @@ el:
   items:
   - title: Διεθνές βραβείο για τη συναυλία “Οι [αβέβαιες] τέσσερις εποχές”
     body: Η συναυλία του [ALPHA MISSION- ΔELOS](https://alphamission.delos.earth/)
-      [“Οι \[αβέβαιες\] τέσσερις εποχές”](https://youtu.be/VMBR9kenFrI) που μεταδόθηκε
-      ζωντανά στις 30 Μαΐου σε όλη την Ευρώπη κέρδισε το βραβείο καλύτερης τηλεοπτικής
-      συναυλίας στο 59ο Golden Prague International Festival. Η συναυλία ήταν συμπαραγωγή
-      του World Human Forum και του ARTE/ZDF σε σύμπραξη με το Ελληνικό Κέντρο Διαστήματος,
-      την Europa Nostra, το Εθνικό Κέντρο Έρευνας Φυσικών Επιστημών «Δημόκριτος»,
-      το Ελληνικό Ίδρυμα Πολιτισμού, το Μέγαρο Μουσικής Αθηνών και σε συνεργασία με
-      την Εφορεία Αρχαιοτήτων Κυκλάδων. Καλλιτεχνικός εταίρος της εκδήλωσης ήταν η
-      Ορχήστρα Νέων της Ευρωπαϊκής Ένωσης.
+      [“Οι \[αβέβαιες\] τέσσερις εποχές” ](https://the-uncertain-four-seasons.info/)που
+      μεταδόθηκε ζωντανά στις 30 Μαΐου σε όλη την Ευρώπη κέρδισε το βραβείο καλύτερης
+      τηλεοπτικής συναυλίας στο 59ο Golden Prague International Festival. Η συναυλία
+      ήταν συμπαραγωγή του World Human Forum και του ARTE/ZDF σε σύμπραξη με το Ελληνικό
+      Κέντρο Διαστήματος, την Europa Nostra, το Εθνικό Κέντρο Έρευνας Φυσικών Επιστημών
+      «Δημόκριτος», το Ελληνικό Ίδρυμα Πολιτισμού, το Μέγαρο Μουσικής Αθηνών και σε
+      συνεργασία με την Εφορεία Αρχαιοτήτων Κυκλάδων. Καλλιτεχνικός εταίρος της εκδήλωσης
+      ήταν η Ορχήστρα Νέων της Ευρωπαϊκής Ένωσης.
     date: 2022-09-28T18:15:53Z
   - title: 'Συμμετοχή κλιμακίου του ΕΛ.ΚΕ.Δ. στο International Astronautical Congress
       2022 '
