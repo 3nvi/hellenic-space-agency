@@ -10,10 +10,10 @@ en:
       was [broadcasted live](https://youtu.be/VMBR9kenFrI) on May 30th across Europe,
       won the award for best TV concert at the 59th Golden Prague International Festival.
       The concert was co-produced by the World Human Forum and ARTE/ZDF in partnership
-      with the Hellenic Space Centre, Europa Nostra, the National Centre for Natural
+      with the Hellenic Space Center, Europa Nostra, the National Centre for Natural
       Sciences Research "Demokritos", the Hellenic Foundation for Culture, the Athens
-      Concert Hall and in collaboration with the Ephorate of Cyclades Antiquities.
-      The artistic partner of the event was the European Union Youth Orchestra.
+      Concert Hall and in collaboration with the Ephorate of Antiquities of Cyclades
+      . The artistic partner of the event was the European Union Youth Orchestra.
     date: 2022-09-27T21:00:00Z
   - title: Delegation of the H.S.C. at the International Astronautical Congress 2022
     body: The President, I. Daglis, the C.E.O, N. Sergis, and Scientific Personnel
