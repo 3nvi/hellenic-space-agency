@@ -4,6 +4,20 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'The H.S.C. at the World Space Week of the UOA '
+    body: The Hellenic Space Center participates in the event organized by the [Section
+      of Astrophysics, Astronomy and Mechanics](http://astro.phys.uoa.gr/) of the
+      [UOA Department of Physics](https://www.phys.uoa.gr/) in the scope of [World
+      Space Week](https://www.worldspaceweek.org/), on Saturday, October 8th, 2022.
+      Personnel of the H.S.C. will demonstrate how a space mission for searching signs
+      of life on Mars can be developed, including a presentation, the construction
+      of a rocket, a spacecraft, and a robotic rover, using a LEGO kit, as well as
+      an astrobiology experiment. Reservations are required for participation, which
+      can be made through a [google form](https://forms.gle/PjTsdSgJckkjeijD7). More
+      information about the event is available (in greek) in the [Physics Department
+      announcement](https://www.phys.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_ekdilosis/ekdilosi_gia_tin_pagkosmia_ebdomada_diastimatos/)
+      and the [Facebook event page](https://www.facebook.com/events/1298477517668687).
+    date: 2022-10-05T13:20:07Z
   - title: International award for "The [uncertain] four seasons" concert
     body: The [ALPHA MISSION-Delos](https://alphamission.delos.earth/) concert ["The
       \[uncertain\] four seasons"](https://the-uncertain-four-seasons.info/), which
