@@ -494,7 +494,7 @@ el:
       δράση απαιτεί [κράτηση θέσεων μέσω google form](https://forms.gle/PjTsdSgJckkjeijD7).
       Περισσότερες πληροφορίες για την εκδήλωση θα βρείτε στην [ανακοίνωση του Τμήματος](https://www.phys.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_ekdilosis/ekdilosi_gia_tin_pagkosmia_ebdomada_diastimatos/)
       και στο [Facebook event](https://www.facebook.com/events/1298477517668687).
-    date: 2022-10-05T13:20:26Z
+    date: 2022-10-05T13:00:26Z
   - title: Διεθνές βραβείο για τη συναυλία “Οι [αβέβαιες] τέσσερις εποχές”
     body: Η συναυλία του [ALPHA MISSION- ΔELOS](https://alphamission.delos.earth/)
       [“Οι \[αβέβαιες\] τέσσερις εποχές” ](https://the-uncertain-four-seasons.info/)που
