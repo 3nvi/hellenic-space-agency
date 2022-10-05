@@ -17,7 +17,7 @@ en:
       information about the event is available (in greek) in the [Physics Department
       announcement](https://www.phys.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_ekdilosis/ekdilosi_gia_tin_pagkosmia_ebdomada_diastimatos/)
       and the [Facebook event page](https://www.facebook.com/events/1298477517668687).
-    date: 2022-10-05T13:20:07Z
+    date: 2022-10-05T13:00:07Z
   - title: International award for "The [uncertain] four seasons" concert
     body: The [ALPHA MISSION-Delos](https://alphamission.delos.earth/) concert ["The
       \[uncertain\] four seasons"](https://the-uncertain-four-seasons.info/), which
