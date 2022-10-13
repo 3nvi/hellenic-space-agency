@@ -31,7 +31,12 @@ el:
     \ \nΤηλεφωνικό κέντρο: 214 4066 040 - 041  \n[info@hsc.gov.gr](mailto:info@hsc.gov.gr)\n\n###
     Social Media\n\n[Σελίδα στο Facebook](https://www.facebook.com/hsc.gov.gr)  \n[Κανάλι
     στο YouTube](https://www.youtube.com/channel/UCaVUEyHJaAC_7VPaUmoW_-A)  \n[Σελίδα
-    στο LinkedIn](https://www.linkedin.com/company/hellenic-space-center/)"
+    στο LinkedIn](https://www.linkedin.com/company/hellenic-space-center/)\n\n###
+    Φορολογικά στοιχεία για έκδοση τιμολογίων\n\nΕπωνυμία: Ελληνικό Κέντρο Διαστήματος
+    (ΕΛΚΕΔ) - Hellenic Space Center  \n\\[ΝΠΙΔ, Κυβερνητικές υπηρεσίες σχετικές με
+    τη Βασική Έρευνα\\]  \nΑ.Φ.Μ.: 996806788  \nΔ.Ο.Υ.: ΦΑΕ ΑΘΗΝΩΝ  \nΈδρα: Λεωφόρος
+    \ Κηφισίας 178, Χαλάνδρι, Τ.Κ: 15231, Ελλάδα, 10ος Όροφος  \nIBAN ΕΤΕ: GR9801101040000010400489331
+    \ \nΤηλέφωνο: 214 4066 040"
   formSuccessMessage: Το μήνυμα σας στάλθηκε με επιτυχία!
   formSubmitMessage: Αποστολή Μηνύματος
   formSubjectLabel: Τίτλος
