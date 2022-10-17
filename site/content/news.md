@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Meeting with the President of the U.A.E. Space Agency at GESDA
+    body: During the [GESDA](https://gesda.global/) (Geneva Science and Diplomacy
+      Anticipator) Summit the President of the H.S.C. Prof. Ioannis Daglis had a meeting
+      with the Minister of State for Public Education and Future Technology and Chair
+      of the [Space Agency](https://space.gov.ae/) of the United Arab Emirates Ms.
+      Sarah bint Yousef Al Amiri.
+    date: 2022-10-17T11:20:36Z
   - title: 'The H.S.C. at the World Space Week of the UOA '
     body: The Hellenic Space Center participates in the event organized by the [Section
       of Astrophysics, Astronomy and Mechanics](http://astro.phys.uoa.gr/) of the
