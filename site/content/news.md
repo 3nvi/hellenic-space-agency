@@ -495,6 +495,13 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Πρακτική άσκηση στην ESA για το 2023
+    body: 'Οι ευκαιρίες πρακτικής άσκησης στον Ευρωπαϊκό Οργανισμό Διαστήματος για
+      το 2023 έχουν ανακοινωθεί. Θα παραμείνουν ανοιχτές για έναν μήνα. Οι θέσεις
+      αφορούν μηχανική, επιστήμες, πληροφορική, φυσικές και κοινωνικές επιστήμες,
+      καθώς και υπηρεσίες επιχειρήσεων και διοίκησης. Περισσότερες πληροφορίες: [https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential](https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential
+      "https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential")[!_Apply_now_to_the_ESA_Student_Internship_Programme](https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential!_Apply_now_to_the_ESA_Student_Internship_Programme)'
+    date: 2022-11-07T11:00:02Z
   - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στο MAST Med 2022
     body: 'Την Πέμπτη, 3 Νοεμβρίου, ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής,
       συμμετείχε ως προσκεκλημένος ομιλητής σε Στρογγυλή Τράπεζα με τίτλο “Digital
