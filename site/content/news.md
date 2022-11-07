@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: ESA internships 2023
+    body: 'The 2023 internship opportunities at ESA have been published! Opportunities
+      are open for one month and positions are available in engineering, science,
+      IT, natural/social sciences, business and administration services. This is your
+      chance to kick-off your experience in space! Learn more: [https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential](https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential
+      "https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential")[!_Apply_now_to_the_ESA_Student_Internship_Programme](https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential!_Apply_now_to_the_ESA_Student_Internship_Programme)'
+    date: 2022-11-07T11:00:34Z
   - title: The President of the H.S.C. at MAST Med 2022
     body: 'On Thursday, November 3rd,The President of H.S.C., Prof. Ioannis A. Daglis,
       participated as an invited panelist in the plenary session “Digital Ocean: from
