@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: The President of the H.S.C. at MAST Med 2022
+    body: 'On Thursday, November 3rd,The President of H.S.C., Prof. Ioannis A. Daglis,
+      participated as an invited panelist in the plenary session “Digital Ocean: from
+      Sea-bed to Space” of the [MAST Med 2022](https://mastconfex.com/med2022/ ) conference,
+      which was held at Grand Hyatt Hotel Athens.'
+    date: 2022-11-03T10:30:42Z
   - title: Meeting with the President of the U.A.E. Space Agency at GESDA
     body: During the [GESDA](https://gesda.global/) (Geneva Science and Diplomacy
       Anticipator) Summit the President of the H.S.C. Prof. Ioannis Daglis had a meeting
