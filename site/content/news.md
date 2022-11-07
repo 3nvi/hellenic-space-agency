@@ -489,6 +489,12 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στο MAST Med 2022
+    body: 'Την Πέμπτη, 3 Νοεμβρίου, ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής,
+      συμμετείχε ως προσκεκλημένος ομιλητής σε Στρογγυλή Τράπεζα με τίτλο “Digital
+      Ocean: from Sea-bed to Space” στο πλαίσιο του διεθνούς συνεδρίου [MAST Med 2022](https://mastconfex.com/med2022/
+      ), στο Grand Hyatt Hotel της Αθήνας.'
+    date: 2022-11-03T10:30:06Z
   - title: Συνάντηση με την Πρόεδρο της Διαστημικής Υπηρεσίας των Η.Α.Ε. στη GESDA
     body: Στο περιθώριο της συνόδου [GESDA](https://gesda.global/) (Geneva Science
       and Diplomacy Anticipator) ο Πρόεδρος του ΕΛ.ΚΕ.Δ Καθ. Ιωάννης Δαγκλής συναντήθηκε
