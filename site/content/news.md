@@ -17,6 +17,19 @@ en:
       Sea-bed to Space” of the [MAST Med 2022](https://mastconfex.com/med2022/ ) conference,
       which was held at Grand Hyatt Hotel Athens.'
     date: 2022-11-03T10:30:42Z
+  - title: The H.S.C. at the MMAIP
+    body: On Tuesday, November 1st, the President of the H.S.C., Prof. I. Daglis,
+      the CEO, Dr N. Sergis, and the Governing Board member, Prof. K. Karantzalos,
+      visited the [Ministry of Maritime Affairs & Insular Policy](https://www.ynanp.gr/en/ )
+      (MMAIP), after invitation. A meeting was held with Minister Mr. I. Plakiotakis,
+      the Deputy Minister Mr. C. Katsafados, and the Secretary General of the Aegean
+      and Island Policy Mr. M. Koutoulakis, as well as with associates of the MMAIP
+      and the [Ministry of Digital Governance](https://mindigital.gr/ ). Topics of
+      mutual interest were discussed, such as the possibility of developing satellite
+      solutions for the detection and monitoring of marine pollution hotspots (e.g.
+      oil spills, sewage) and the investigation of cooperation possibilities between
+      the relevant ministries and agencies.
+    date: 2022-11-01T08:30:25Z
   - title: Meeting with the President of the U.A.E. Space Agency at GESDA
     body: During the [GESDA](https://gesda.global/) (Geneva Science and Diplomacy
       Anticipator) Summit the President of the H.S.C. Prof. Ioannis Daglis had a meeting
@@ -502,19 +515,6 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
-  - title: Το ΕΛ.ΚΕ.Δ. στο ΥΝΑΝΠ
-    body: Την Τρίτη, 1 Νοεμβρίου, ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ι. Δαγκλής, ο Διευθύνων
-      Σύμβουλος, Δρ. Ν. Σέργης και το μέλος του Διοικητικού Συμβουλίου, Καθ. Κ. Καράντζαλος,
-      κατόπιν σχετικής πρόσκλησης, επισκέφτηκαν το [Υπουργείο Ναυτιλίας και Νησιωτικής
-      Πολιτικής](https://www.ynanp.gr/el/ ) (ΥΝΑΝΠ) όπου συναντήθηκαν με τον Υπουργό
-      κ. Ι. Πλακιωτάκη, τον Υφυπουργό κ. Κ. Κατσαφάδο, και τον Γενικό Γραμματέα Αιγαίου
-      και Νησιωτικής Πολιτικής κ. Μ. Κουτουλάκη. Αντικείμενο της συνάντησης, στην
-      οποία παρεβρέθησαν και συνεργάτες του ΥΝΑΝΠ και του [Υπουργείου Ψηφιακής Διακυβέρνησης](https://mindigital.gr/  ),
-      ήταν η αμοιβαία ενημέρωση για θέματα κοινού ενδιαφέροντος, όπως η δυνατότητα
-      ανάπτυξης δορυφορικών λύσεων για εφαρμογή στην ανίχνευση και παρακολούθηση εστιών
-      θαλάσσιας μόλυνσης (π.χ. πετρελαιοκηλίδες, λύματα) και η διερεύνηση των δυνατοτήτων
-      συνεργασίας μεταξύ των συναρμόδιων υπουργείων και φορέων.
-    date: 2022-11-01T08:30:17Z
   - title: Πρακτική άσκηση στην ESA για το 2023
     body: 'Οι ευκαιρίες πρακτικής άσκησης στον Ευρωπαϊκό Οργανισμό Διαστήματος για
       το 2023 έχουν ανακοινωθεί. Θα παραμείνουν ανοιχτές για έναν μήνα. Οι θέσεις
@@ -528,6 +528,19 @@ el:
       Ocean: from Sea-bed to Space” στο πλαίσιο του διεθνούς συνεδρίου [MAST Med 2022](https://mastconfex.com/med2022/
       ), στο Grand Hyatt Hotel της Αθήνας.'
     date: 2022-11-03T10:30:06Z
+  - title: Το ΕΛ.ΚΕ.Δ. στο ΥΝΑΝΠ
+    body: Την Τρίτη, 1 Νοεμβρίου, ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ι. Δαγκλής, ο Διευθύνων
+      Σύμβουλος, Δρ. Ν. Σέργης και το μέλος του Διοικητικού Συμβουλίου, Καθ. Κ. Καράντζαλος,
+      κατόπιν σχετικής πρόσκλησης, επισκέφτηκαν το [Υπουργείο Ναυτιλίας και Νησιωτικής
+      Πολιτικής](https://www.ynanp.gr/el/ ) (ΥΝΑΝΠ) όπου συναντήθηκαν με τον Υπουργό
+      κ. Ι. Πλακιωτάκη, τον Υφυπουργό κ. Κ. Κατσαφάδο, και τον Γενικό Γραμματέα Αιγαίου
+      και Νησιωτικής Πολιτικής κ. Μ. Κουτουλάκη. Αντικείμενο της συνάντησης, στην
+      οποία παρεβρέθησαν και συνεργάτες του ΥΝΑΝΠ και του [Υπουργείου Ψηφιακής Διακυβέρνησης](https://mindigital.gr/  ),
+      ήταν η αμοιβαία ενημέρωση για θέματα κοινού ενδιαφέροντος, όπως η δυνατότητα
+      ανάπτυξης δορυφορικών λύσεων για εφαρμογή στην ανίχνευση και παρακολούθηση εστιών
+      θαλάσσιας μόλυνσης (π.χ. πετρελαιοκηλίδες, λύματα) και η διερεύνηση των δυνατοτήτων
+      συνεργασίας μεταξύ των συναρμόδιων υπουργείων και φορέων.
+    date: 2022-11-01T08:30:17Z
   - title: Συνάντηση με την Πρόεδρο της Διαστημικής Υπηρεσίας των Η.Α.Ε. στη GESDA
     body: Στο περιθώριο της συνόδου [GESDA](https://gesda.global/) (Geneva Science
       and Diplomacy Anticipator) ο Πρόεδρος του ΕΛ.ΚΕ.Δ Καθ. Ιωάννης Δαγκλής συναντήθηκε
