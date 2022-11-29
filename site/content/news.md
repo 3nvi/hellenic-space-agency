@@ -523,6 +523,13 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Η ESA αναζητεί ερευνητές ιατρούς
+    body: 'Ο [Ευρωπαϊκός Οργανισμός Διαστήματος (ESA)](https://www.esa.int/) αναζητεί
+      ερευνητές ιατρούς για να περάσουν έναν χρόνο σε παγωμένο έδαφος διεξάγοντας
+      έρευνα σχετικά με την προσαρμογή των ανθρώπων σε ακραία περιβάλλοντα, ως ένα
+      βήμα προς τις διαστημικές πτήσεις. Μάθετε περισσότερα: [https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica
+      "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica")'
+    date: 2022-11-29T13:20:22Z
   - title: Διαγωνισμός NameExoWorlds 2022 (Greece)
     body: "Με τη συμπλήρωση 10 χρόνων από την ίδρυση του [Γραφείου για την Διάχυση
       της Αστρονομίας](https://www.iau.org/public/oao/) (Office for Astronomy Outreach
