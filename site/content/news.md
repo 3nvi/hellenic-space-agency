@@ -4,6 +4,14 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: The C.E.O of the H.S.C. chairing Europlanet Society Hub
+    body: Dr. Nick Sergis, C.E.O of the Hellenic Space Center, [will be serving as
+      a Chair](https://www.europlanet-society.org/welcome-to-new-chairs-of-regional-hubs/
+      ) of the [Europlanet Society](https://www.europlanet-society.org/ ) [Southeast
+      Regional Hub](https://www.europlanet-society.org/europlanet-society/regional-hubs/southeast-europe/
+      ), taking over from Prof. Ioannis Daglis, H.S.C. President, who has served in
+      the role since 2019.
+    date: 2022-12-02T13:30:45Z
   - title: Medical research doctors wanted by ESA
     body: '[ESA](https://www.esa.int/) is calling medical research doctors to spend
       a year on the ice conducting researching into how humans adapt to living in
