@@ -529,6 +529,14 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ. προεδρεύει σε Hub της Europlanet Society
+    body: Ο Δρ Νίκος Σέργης, Δ/νων Σύμβουλος του Ελληνικού Κέντρου Διαστήματος, [αναλαμβάνει
+      καθήκοντα Προέδρου](https://www.europlanet-society.org/welcome-to-new-chairs-of-regional-hubs/
+      ) του [Southeast Regional Hub](https://www.europlanet-society.org/europlanet-society/regional-hubs/southeast-europe/
+      ) της [Europlanet Society](https://www.europlanet-society.org/), παραλαμβάνοντας
+      τη θέση από τον Καθ. Ιωάννη Δαγκλή, Πρόεδρο του ΕΛ.ΚΕ.Δ., ο οποίος την κατείχε
+      από το 2019.
+    date: 2022-12-02T13:30:49Z
   - title: Η ESA αναζητεί ερευνητές ιατρούς
     body: 'Ο [Ευρωπαϊκός Οργανισμός Διαστήματος (ESA)](https://www.esa.int/) αναζητεί
       ερευνητές ιατρούς για να περάσουν έναν χρόνο σε παγωμένο έδαφος διεξάγοντας
