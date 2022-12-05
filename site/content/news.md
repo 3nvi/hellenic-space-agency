@@ -552,6 +552,12 @@ el:
       βήμα προς τις διαστημικές πτήσεις. Μάθετε περισσότερα: [https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica
       "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica")'
     date: 2022-11-29T13:20:22Z
+  - title: Το ALPHA MISSION - DELOS στο Ευρωπαϊκό Κοινοβούλιο
+    body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής, συμμετείχε εκ μέρους του
+      Ελληνικού Κέντρου Διαστήματος σε [ειδική εκδήλωση](https://worldhumanforum.earth/a-concert-with-a-mission-from-the-sacred-island-of-delos-to-the-european-parliament/)
+      της πρωτοβουλίας [ALPHA MISSION - DELOS](https://alphamission.delos.earth/ )
+      στο Ευρωπαϊκό Κοινοβούλιο, την Τετάρτη 16 Νοεμβρίου.
+    date: 2022-11-16T11:30:37Z
   - title: Διαγωνισμός NameExoWorlds 2022 (Greece)
     body: "Με τη συμπλήρωση 10 χρόνων από την ίδρυση του [Γραφείου για την Διάχυση
       της Αστρονομίας](https://www.iau.org/public/oao/) (Office for Astronomy Outreach
