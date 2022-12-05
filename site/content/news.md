@@ -18,6 +18,12 @@ en:
       extreme environments – as a stand-in to spaceflight. Learn more: [https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica
       "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica")'
     date: 2022-11-29T13:20:30Z
+  - title: ALPHA MISSION - DELOS at the European Parliament
+    body: The President of the H.S.C., Prof. Ioannis Daglis, participated, on behalf
+      of the Hellenic Space Center, in a [special event](https://worldhumanforum.earth/a-concert-with-a-mission-from-the-sacred-island-of-delos-to-the-european-parliament/)
+      of[ ALPHA MISSION - DELOS](https://alphamission.delos.earth/ ) at the European
+      Parliament, on Wednesday, November 16th.
+    date: 
   - title: NameExoWorlds 2022 Competition (Greece)
     body: |-
       To celebrate the 10th anniversary of its [Office for Astronomy Outreach (OAO)](https://www.iau.org/public/oao/), the [International Astronomical Union (IAU)](https://www.iau.org/) is launching a contest to name 20 exoplanetary systems to be observed by the [James Webb Space Telescope](https://webb.nasa.gov/) (JWST). The competition, [NameExoWorlds 2022](https://www.nameexoworlds.iau.org/2022edition ), seeks to bring together both professional astronomers and the wider public, giving them the opportunity to name the 20 selected exoplanets along with their host stars.
