@@ -543,6 +543,13 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Το ΕΛ.ΚΕ.Δ. στο Abu Dhabi Space Debate
+    body: Ο Πρόεδρος και ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ., Ιωάννης Δαγκλής και Νικόλαος
+      Σέργης, συμμετέχουν στο διεθνές συνέδριο "[Abu Dhabi Space Debate](https://www.abudhabispacedebate.com/
+      )", που λαμβάνει χώρα στα Ηνωμένα Αραβικά Εμιράτα το διήμερο 5-6 Δεκεμβρίου
+      2022. Πέρα από τις συναντήσεις ολομέλειας, οι κκ. Δαγκλής και Σέργης συμμετείχαν
+      στις ειδικές συναντήσεις εργασίας "Reducing Space Threats” και "Space Sustainability”.
+    date: 2022-12-06T11:00:35Z
   - title: Ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ. προεδρεύει σε Hub της Europlanet Society
     body: Ο Δρ Νίκος Σέργης, Δ/νων Σύμβουλος του Ελληνικού Κέντρου Διαστήματος, [αναλαμβάνει
       καθήκοντα Προέδρου](https://www.europlanet-society.org/welcome-to-new-chairs-of-regional-hubs/
