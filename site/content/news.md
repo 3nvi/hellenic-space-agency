@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: The H.S.C. at the Abu Dhabi Space Debate
+    body: The President and CEO of the H.S.C., Prof. Ioannis Daglis and Dr. Nick Sergis,
+      participate in the international congress "[Abu Dhabi Space Debate](https://www.abudhabispacedebate.com/
+      )”, which takes place in the United Arabic Emirates on December 5 and 6, 2022.
+      In addition to the plenary sessions, Prof. Daglis and Dr. Sergis further participated
+      in the focused workshops "Reducing Space Threats” and "Space Sustainability”.
+    date: 2022-12-06T11:00:04Z
   - title: The C.E.O of the H.S.C. chairing Europlanet Society Hub
     body: Dr. Nick Sergis, C.E.O of the Hellenic Space Center, [will be serving as
       a Chair](https://www.europlanet-society.org/welcome-to-new-chairs-of-regional-hubs/
