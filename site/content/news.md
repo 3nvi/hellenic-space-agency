@@ -4,6 +4,17 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: The H.S.C. at the 18th Ilan Ramon International Space Conference
+    body: During the [18th Ilan Ramon International Space Conference](https://ramonspaceconference2023.com/)
+      in Tel Aviv, the President and the CEO of the Hellenic Space Center met the
+      Chairman and the Director of the [Israel Space Agency (ISA)](https://www.space.gov.il/en),
+      Prof. Dan Blumberg and Mr. Uri Oron respectively. The meeting addressed matters
+      of mutual interest and investigated possibilities of cooperation between the
+      two agencies. The Ambassador of Greece in Israel, Mr. Kyriakos Loukakis, as
+      well as Mr. Nikolaos Christodoulidis and Mr. Vasilios Liveris, Economic and
+      Commercial Office of the [Greek Embassy](https://www.mfa.gr/missionsabroad/en/israel.html),
+      also participated in the meeting.
+    date: 2023-02-03T10:20:55Z
   - title: The H.S.C. at the Abu Dhabi Space Debate
     body: The President and CEO of the H.S.C., Prof. Ioannis Daglis and Dr. Nick Sergis,
       participate in the international congress "[Abu Dhabi Space Debate](https://www.abudhabispacedebate.com/
