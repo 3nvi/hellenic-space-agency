@@ -9,6 +9,7 @@ To run this project locally, simply:
 ```
 git clone https://github.com/3nvi/hellenic-space-agency
 cd hellenic-space-agency
+npm i
 npm run start
 ```
 
