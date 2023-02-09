@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Prof. C. Synolakis, Governing Board Member of the H.S.C., has been elected
+      as a Member of the NAE
+    body: Prof. Costas Synolakis, Governing Board Member of the H.S.C., has been elected
+      as a Member of the [National Academy of Engineering](https://www.nae.edu/),
+      which is a part of the USA [National Academies of Sciences, Engineering, and
+      Medicine](https://www.nationalacademies.org/). [Learn more](https://www.kathimerini.gr/life/science/562268959/eklogi-toy-kathigiti-kosta-synolaki-os-meloys-tis-ethnikis-akadimias-michanikon-ton-ipa/)
+    date: 2023-02-09T12:35:11Z
   - title: The H.S.C. at the 18th Ilan Ramon International Space Conference
     body: During the [18th Ilan Ramon International Space Conference](https://ramonspaceconference2023.com/)
       in Tel Aviv, the President and the CEO of the Hellenic Space Center met the
