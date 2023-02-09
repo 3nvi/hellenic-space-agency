@@ -14,14 +14,14 @@ en:
       well as Mr. Nikolaos Christodoulidis and Mr. Vasilios Liveris, Economic and
       Commercial Office of the [Greek Embassy](https://www.mfa.gr/missionsabroad/en/israel.html),
       also participated in the meeting.
-    date: 2023-02-03T10:20:55Z
+    date: 2023-02-03T10:20:55.000+00:00
   - title: The H.S.C. at the Abu Dhabi Space Debate
     body: The President and CEO of the H.S.C., Prof. Ioannis Daglis and Dr. Nick Sergis,
       participate in the international congress "[Abu Dhabi Space Debate](https://www.abudhabispacedebate.com/
       )”, which takes place in the United Arabic Emirates on December 5 and 6, 2022.
       In addition to the plenary sessions, Prof. Daglis and Dr. Sergis further participated
       in the focused workshops "Reducing Space Threats” and "Space Sustainability”.
-    date: 2022-12-06T11:00:04Z
+    date: 2022-12-06T11:00:04.000+00:00
   - title: The C.E.O of the H.S.C. chairing Europlanet Society Hub
     body: Dr. Nick Sergis, C.E.O of the Hellenic Space Center, [will be serving as
       a Chair](https://www.europlanet-society.org/welcome-to-new-chairs-of-regional-hubs/
@@ -29,19 +29,19 @@ en:
       Regional Hub](https://www.europlanet-society.org/europlanet-society/regional-hubs/southeast-europe/
       ), taking over from Prof. Ioannis Daglis, H.S.C. President, who has served in
       the role since 2019.
-    date: 2022-12-02T13:30:45Z
+    date: 2022-12-02T13:30:45.000+00:00
   - title: Medical research doctors wanted by ESA
     body: '[ESA](https://www.esa.int/) is calling medical research doctors to spend
       a year on the ice conducting researching into how humans adapt to living in
       extreme environments – as a stand-in to spaceflight. Learn more: [https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica
       "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica")'
-    date: 2022-11-29T13:20:30Z
+    date: 2022-11-29T13:20:30.000+00:00
   - title: ALPHA MISSION - DELOS at the European Parliament
     body: The President of the H.S.C., Prof. Ioannis Daglis, participated, on behalf
       of the Hellenic Space Center, in a [special event](https://worldhumanforum.earth/a-concert-with-a-mission-from-the-sacred-island-of-delos-to-the-european-parliament/)
       of[ ALPHA MISSION - DELOS](https://alphamission.delos.earth/ ) at the European
       Parliament, on Wednesday, November 16th.
-    date: 2022-11-16T11:30:00Z
+    date: 2022-11-16T11:30:00.000+00:00
   - title: NameExoWorlds 2022 Competition (Greece)
     body: |-
       To celebrate the 10th anniversary of its [Office for Astronomy Outreach (OAO)](https://www.iau.org/public/oao/), the [International Astronomical Union (IAU)](https://www.iau.org/) is launching a contest to name 20 exoplanetary systems to be observed by the [James Webb Space Telescope](https://webb.nasa.gov/) (JWST). The competition, [NameExoWorlds 2022](https://www.nameexoworlds.iau.org/2022edition ), seeks to bring together both professional astronomers and the wider public, giving them the opportunity to name the 20 selected exoplanets along with their host stars.
@@ -49,20 +49,20 @@ en:
       The proposals will go through a two-step process of selection. First, a national selection panel will select a national candidate and two backup names. Then a final selection committee will consider the candidates proposed by each country and select a name for each ExoWorld.
 
       Proposal deadline: December 11, 2022. Learn more through the [announcement](https://hub.uoa.gr/nameexoworlds2022/ ) and the [video](https://youtu.be/RZ8VpxQ0ixA ) of the greek selection panel.
-    date: 2022-11-14T12:40:03Z
+    date: 2022-11-14T12:40:03.000+00:00
   - title: ESA internships 2023
     body: 'The 2023 internship opportunities at ESA have been published! Opportunities
       are open for one month and positions are available in engineering, science,
       IT, natural/social sciences, business and administration services. This is your
       chance to kick-off your experience in space! Learn more: [https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential](https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential
       "https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential")[!_Apply_now_to_the_ESA_Student_Internship_Programme](https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential!_Apply_now_to_the_ESA_Student_Internship_Programme)'
-    date: 2022-11-07T11:00:34Z
+    date: 2022-11-07T11:00:34.000+00:00
   - title: The President of the H.S.C. at MAST Med 2022
     body: 'On Thursday, November 3rd,The President of H.S.C., Prof. Ioannis A. Daglis,
       participated as an invited panelist in the plenary session “Digital Ocean: from
       Sea-bed to Space” of the [MAST Med 2022](https://mastconfex.com/med2022/ ) conference,
       which was held at Grand Hyatt Hotel Athens.'
-    date: 2022-11-03T10:30:42Z
+    date: 2022-11-03T10:30:42.000+00:00
   - title: The H.S.C. at the MMAIP
     body: On Tuesday, November 1st, the President of the H.S.C., Prof. I. Daglis,
       the CEO, Dr N. Sergis, and the Governing Board member, Prof. K. Karantzalos,
@@ -75,14 +75,14 @@ en:
       solutions for the detection and monitoring of marine pollution hotspots (e.g.
       oil spills, sewage) and the investigation of cooperation possibilities between
       the relevant ministries and agencies.
-    date: 2022-11-01T08:30:25Z
+    date: 2022-11-01T08:30:25.000+00:00
   - title: Meeting with the President of the U.A.E. Space Agency at GESDA
     body: During the [GESDA](https://gesda.global/) (Geneva Science and Diplomacy
       Anticipator) Summit the President of the H.S.C. Prof. Ioannis Daglis had a meeting
       with the Minister of State for Public Education and Future Technology and Chair
       of the [Space Agency](https://space.gov.ae/) of the United Arab Emirates Ms.
       Sarah bint Yousef Al Amiri.
-    date: 2022-10-17T11:20:36Z
+    date: 2022-10-17T11:20:36.000+00:00
   - title: 'The H.S.C. at the World Space Week of the UOA '
     body: The Hellenic Space Center participates in the event organized by the [Section
       of Astrophysics, Astronomy and Mechanics](http://astro.phys.uoa.gr/) of the
@@ -96,7 +96,7 @@ en:
       information about the event is available (in greek) in the [Physics Department
       announcement](https://www.phys.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_ekdilosis/ekdilosi_gia_tin_pagkosmia_ebdomada_diastimatos/)
       and the [Facebook event page](https://www.facebook.com/events/1298477517668687).
-    date: 2022-10-05T13:00:07Z
+    date: 2022-10-05T13:00:07.000+00:00
   - title: International award for "The [uncertain] four seasons" concert
     body: The [ALPHA MISSION-Delos](https://alphamission.delos.earth/) concert ["The
       \[uncertain\] four seasons"](https://the-uncertain-four-seasons.info/), which
@@ -107,7 +107,7 @@ en:
       Sciences Research "Demokritos", the Hellenic Foundation for Culture, the Athens
       Concert Hall and in collaboration with the Ephorate of Antiquities of Cyclades
       . The artistic partner of the event was the European Union Youth Orchestra.
-    date: 2022-09-27T21:00:00Z
+    date: 2022-09-27T21:00:00.000+00:00
   - title: Delegation of the H.S.C. at the International Astronautical Congress 2022
     body: The President, I. Daglis, the C.E.O, N. Sergis, and Scientific Personnel
       of the H.S.C. (D. Bliziotis, Earth Observation) are attending the [International
@@ -116,13 +116,13 @@ en:
       which is held in Paris, on September 18-22. The President of the H.S.C., Prof.
       Ioannis Daglis, attended IAF’s General Assembly on Sunday, September 18, addressing
       the election of the H.S.C. as a new member of the IAF.
-    date: 2022-09-20T11:20:53Z
+    date: 2022-09-20T11:20:53.000+00:00
   - title: 'The H.S.C. at the 86th T.I.F. '
     body: The Hellenic Space Center (H.S.C.) participates in the [86th Thessaloniki
       International Fair](https://www.thessalonikifair.gr/en). As an Organization
       that is supervised the Ministry of Digital Governance, it is hosted on the Ground
       Floor, at Pavilion 12, which is staffed by the Center’s personnel.
-    date: 2022-09-10T13:20:38Z
+    date: 2022-09-10T13:20:38.000+00:00
   - title: New Scientific Personnel at the H.S.C.
     body: |-
       The Hellenic Space Center welcomes additional Scientific Officers:
@@ -131,39 +131,39 @@ en:
       * D. Christopoulos, Satellite Communications and Integrated Applications
 
       The President and the H.S.C. BoD express their warmest wishes for a long and productive career.
-    date: 2022-09-07T13:10:39Z
+    date: 2022-09-07T13:10:39.000+00:00
   - title: Postdoctoral Research Fellowships from ESA
     body: |-
       [ESA](https://www.esa.int/)'s postdoctoral Research Fellowship programme offers early-career scientists and engineers the possibility to carry out research in a variety of disciplines related to space science, space applications or space technology. [Learn more](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships)
 
       Deadline for applications: September 19, 2022.
-    date: 2022-08-30T11:30:11Z
+    date: 2022-08-30T11:30:11.000+00:00
   - title: Dionysis Simopoulos
     body: The Hellenic Space Center pays its earnest respects to Dionysis Simopoulos,
       one of the most prominent faces of Science Communication in Greece. For over
       50 years, Dionysis Simopoulos has immersed the Greek audience into the wonders
       of Space, in the most professional manner. He will be greatly missed but not
       forgotten.
-    date: 2022-08-08T10:42:58Z
+    date: 2022-08-08T10:42:58.000+00:00
   - title: Session in Memory of Prof. Yohsuke Kamide in AOGS Annual Meeting
     body: On Tuesday, August 2nd, the H.S.C. President Prof. Ioannis Daglis delivered
       an invited talk at the Special Session in Memory of Prof. [Yohsuke Kamide](https://www.isee.nagoya-u.ac.jp/en/news/2021/20211220-2.html)
       of the Annual [Asia Oceania Geosciences Society (AOGS)](https://www.asiaoceania.org/society/public.asp?page=home.asp)
       conference on the contribution of Prof. Kamide to our understanding of the storm-substorm
       relation.
-    date: 2022-08-02T09:15:45Z
+    date: 2022-08-02T09:15:45.000+00:00
   - title: Meeting of the Prime Minister with Leaders of Space Agencies
     body: The H.S.C. President, Professor Ioannis Daglis, participated in the informal
       meeting of the Prime Minister, Mr. Kyriakos Mitsotakis, with space agency leaders,
       who took part in the [COSPAR-2022](https://www.cosparathens2022.org/) Scientific
       Assembly in Athens last week.
-    date: 2022-07-28T10:20:55Z
+    date: 2022-07-28T10:20:55.000+00:00
   - title: 'Workshop at the Princeton Athens Center '
     body: The President of the H.S.C., Prof. Ioannis Daglis, participated in a workshop
       organized by the Space Physics Group of Princeton University at the [Princeton
       Athens Center](https://hellenic.princeton.edu/princeton-athens-center) on Monday,
       July 25th, 2022.
-    date: 2022-07-25T12:00:53Z
+    date: 2022-07-25T12:00:53.000+00:00
   - title: Visit of NASA delegations at the H.S.C.
     body: |-
       Two [NASA](https://www.nasa.gov/) delegations recently visited the premises of the H.S.C. for business meetings.
@@ -173,12 +173,12 @@ en:
       On Monday, July 25th, 2022, the H.S.C. premises were visited by Florian Schwandner, Chief of the Earth Science Division at [NASA Ames Research Center](https://www.nasa.gov/ames), Conor Nixon, Associate Laboratory Chief of [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard), Steve Vance, from [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), and Jani Radebaugh, from [Brigham Young University](https://www.byu.edu/). The scientific personnel of the H.S.C. attended the meeting, along with Elias Hatzitheodoridis, [National Technical University of Athens (NTUA)](https://www.ntua.gr/en/), Olga Sykioti, [IAASARS/NOA](https://www.astro.noa.gr/en/), and Ioannis Baziotis, [Agricultural University of Athens (AUA)](https://www2.aua.gr//en).
 
       Short presentations were given by all the participants and an extensive discussion followed.
-    date: 2022-07-25T14:20:49Z
+    date: 2022-07-25T14:20:49.000+00:00
   - title: 'The President of the H.S.C. at the Space Agency Leaders roundtable '
     body: On Sunday, July 17th, the President of the H.S.C., Prof. Ioannis Daglis,
       participated in the Leaders of Space Agencies roundtable, traditionally held
       at every [COSPAR](https://www.cospar-assembly.org/assembly.php) Assembly.
-    date: 2022-07-17T17:20:19Z
+    date: 2022-07-17T17:20:19.000+00:00
   - title: The President of the H.S.C. at the International Academy of Astronautics
       annual meeting
     body: The President of the H.S.C., Prof. Ioannis Daglis, gave a presentation on
@@ -186,14 +186,14 @@ en:
       the [International Academy of Astronautics](https://iaaspace.org/), which took
       place at the [Academy of Athens](http://www.academyofathens.gr/), yesterday,
       Saturday July 16th.
-    date: 2022-07-17T08:11:18Z
+    date: 2022-07-17T08:11:18.000+00:00
   - title: 'Visit of the H.S.C. President at the Hellenic Parliament Foundation '
     body: The H.S.C. President Prof. Ioannis Daglis visited the Secretary General
       of the [Hellenic Parliament Foundation for Parliamentarism and Democracy](https://foundation.parliament.gr/en)
       Prof. Evanthis Hatzivassiliou. Prof. Hatzivassiliou offered to Prof. Daglis
       a tour of the exhibition on [Images and Music of the Greek Refugees of 1922](https://foundation.parliament.gr/el/ekthesi/ekthesi-siko-psyhi-moy-eikones-kai-moysikes-ton-prosfygon-toy-22).
       A discussion on activities of joint interest followed the tour.
-    date: 2022-07-13T16:00:52Z
+    date: 2022-07-13T16:00:52.000+00:00
   - title: ASI-HSC Webinar
     body: |-
       The Italian Space Agency ([Agenzia Spaziale Italiana - ASI](https://www.asi.it/en/)) and the Hellenic Space Center (HSC) invite you to a joint online event promoting the cooperation between the Italian and the Greek Space ecosystems. This virtual event will take place on **Monday, July 11, 10 am to 1pm EEST** and will focus on:
@@ -210,7 +210,7 @@ en:
       The form and necessary fill-in directions can be accessed [here](https://docs.google.com/forms/d/e/1FAIpQLSdb8NsfRFfGIHJUbrccUXS7Ug_42cOot8EcXj0oe-2wssTvrg/viewform?usp=sf_link).
 
       The presentation program will be soon available.
-    date: 2022-07-07T09:00:25Z
+    date: 2022-07-07T09:00:25.000+00:00
   - title: H.S.C. event in honor of Stamatis Krimizis
     body: |-
       On Wednesday, June 22nd, an event in honor of Space Scientist and Academic Dr. Stamatios Krimizis, was organized by the Hellenic Space Center. The event took place at Megaron, the Athens Concert Hall, and included talks from the Minister of State and Digital Governance Mr. Kyriakos Pierrakakis, the President of the H.S.C Prof. Ioannis Daglis, the President of World Human Forum Ms. Alexandra Mitsotaki, and Director Giannis Vamvakas.
@@ -218,7 +218,7 @@ en:
       In the scope of the event, Dr. Krimizis received a special award for his overall contribution to Space Sciences, from the President of the H.S.C., and the award-winning documentary “Chasing the planets for 60 years: Stamatis Krimizis” was premiered, directed and produced by Yiannis Vamvakas and including music composition by Vangelis Papathanasiou.
 
       ![](/assets/thumbnail_krimizis3.jpg)![](/assets/289020573_625723909113053_1199433405886936785_n-copy.jpg)
-    date: 2022-07-07T11:00:46Z
+    date: 2022-07-07T11:00:46.000+00:00
   - title: New Scientific Personnel at the H.S.C.
     body: |-
       The Hellenic Space Center welcomes additional Scientific Officers:
@@ -227,7 +227,7 @@ en:
       * T. Farmakakis, Space Systems
 
       The President and the H.S.C. BoD express their warmest wishes for a long and productive career.
-    date: 2022-06-09T12:00:09Z
+    date: 2022-06-09T12:00:09.000+00:00
   - title: 'Concert: "The [uncertain] Four Seasons"'
     body: 'On Monday, May 30, 20:30, [ALPHA MISSION – ΔELOS](https://youtu.be/iqkOwMNKuxs)
       organises a classical music concert, supported by the H.S.C, titled “[The \[uncertain\]
@@ -235,14 +235,14 @@ en:
       on Delos island, it will be broadcasted live on ARTE and ERT, and will be projected
       in Megaron the Athens Concert Hall. Learn more: [https://www.megaron.gr/event/alpha-mission-delos-oi-abebaies-tesseris-epoches/](https://www.megaron.gr/event/alpha-mission-delos-oi-abebaies-tesseris-epoches/
       "https://www.megaron.gr/event/alpha-mission-delos-oi-abebaies-tesseris-epoches/")'
-    date: 2022-05-30T09:00:16Z
+    date: 2022-05-30T09:00:16.000+00:00
   - title: Vangelis Papathanasiou
     body: The Hellenic Space Center, together with the Greek Space community, pay
       our last respects to Vangelis, the composer who connected his music to Planetary
       Exploration and completed the beauty of Space. A Greek that honoured and supported
       our country when needed. His music will always accompany humanity’s journeys
       to the unknown.
-    date: 2022-05-20T09:20:23Z
+    date: 2022-05-20T09:20:23.000+00:00
   - title: 'Presentation: "Planetary exploration and employment at NASA and ESA"'
     body: The [Regional Center for Educational Planning of Peloponnese](https://blogs.sch.gr/pekespelop/)
       in collaboration with the Hellenic Space Center is organising a presentation
@@ -250,7 +250,7 @@ en:
       geologist Dr. Anezina Solomonidou, researcher on Space Sciences and Space Exploration
       at the H.S.C. The presentation will be given virtually on Monday, May 16th at
       17:30, and will be later uploaded at the [H.S.C. YouTube channel](https://youtu.be/M5vfmygyJ44).
-    date: 2022-05-14T19:52:30Z
+    date: 2022-05-14T19:52:30.000+00:00
   - title: New Scientific Personnel at the H.S.C.
     body: |-
       The Hellenic Space Center welcomes its first Scientific Officers:
@@ -262,12 +262,12 @@ en:
       * E. Mylonakis, Space Systems
 
       The President and the H.S.C. BoD express their warmest wishes for a long and productive career.
-    date: 2022-05-06T12:40:42Z
+    date: 2022-05-06T12:40:42.000+00:00
   - title: News article from the President of the H.S.C. on Kathimerini
     body: 'The President of the H.S.C., Prof. Ioannis Daglis, on the impact of the
       war in Ukraine on the European space activities (article in greek): [https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/](https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/
       "https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/")'
-    date: 2022-04-26T09:11:07Z
+    date: 2022-04-26T09:11:07.000+00:00
   - title: ESA's Living Planet Fellowship call for proposals 2022
     body: |-
       The main objective of the Living Planet Fellowship is to support young scientists, at post-doctoral level, to undertake cutting-edge research in Earth Observation, Earth System Science or Climate Research, maximising the scientific return of [ESA](https://www.esa.int/) and European EO missions and datasets through the development of novel EO methods, techniques and products, and by delivering excellent scientific results addressing the grand Earth Science challenges of the next decade, enabling improved predictions of the physical interaction of society with the Earth system.
@@ -275,13 +275,13 @@ en:
       More information: [https://eo4society.esa.int/2022/04/06/living-planet-fellowship-call-for-proposals-2022/](https://eo4society.esa.int/2022/04/06/living-planet-fellowship-call-for-proposals-2022/ "https://eo4society.esa.int/2022/04/06/living-planet-fellowship-call-for-proposals-2022/")
 
       Deadline: June 15th, 2022
-    date: 2022-04-21T12:29:08Z
+    date: 2022-04-21T12:29:08.000+00:00
   - title: Colloquium for the University of Iowa
     body: The President of the H.S.C., Prof. I. Daglis, gave a virtual Physics and
       Astronomy Colloquium on "[Radiation belt variability connection to interplanetary
       and magnetospheric drivers at various time-scales](https://physics.uiowa.edu/event/92511/0)”
       at the University of Iowa.
-    date: 2022-04-20T12:15:07Z
+    date: 2022-04-20T12:15:07.000+00:00
   - title: 'Presentation: "Storms, sounds and colors in Space"'
     body: 'The [Regional Center for Educational Planning of Peloponnese](https://blogs.sch.gr/pekespelop/)
       in collaboration with the Hellenic Space Center is organising a presentation
@@ -290,7 +290,7 @@ en:
       18th at 17:30, and will be broadcasted live by the H.S.C. Youtube channel. The
       recording of the talk can be found at at: [https://youtu.be/M5vfmygyJ44](https://youtu.be/M5vfmygyJ44
       "https://youtu.be/M5vfmygyJ44")'
-    date: 2022-04-15T21:32:13Z
+    date: 2022-04-15T21:32:13.000+00:00
   - title: 'Presentation: "Space Technology in the service of earthly everyday life"'
     body: 'The [Regional Center for Educational Planning of Peloponnese](https://blogs.sch.gr/pekespelop/)
       in collaboration with the Hellenic Space Center is organising a presentation
@@ -299,26 +299,26 @@ en:
       April 11th at 17:30, and will be broadcasted live through the H.S.C. Youtube
       channel. The recording of the talk can be found at: [https://youtu.be/RaJ4QYn8oZY](https://youtu.be/RaJ4QYn8oZY
       "https://youtu.be/RaJ4QYn8oZY")'
-    date: 2022-04-10T17:11:52Z
+    date: 2022-04-10T17:11:52.000+00:00
   - title: 'The President of the H.S.C. at a Workshop of the European Commission '
     body: 'On Thursday, March 31st, 2022, the President of the H.S.C., Prof. Ioannis
       Daglis, participated in the Workshop "EU-funded R&I for Space Sciences" of DG
       Defense Industry and Space (DEFIS) of the European Commission, with a presentation
       on "SafeSpace: Making Space a Safer place for Europe’s assets".'
-    date: 2022-03-31T18:00:00Z
+    date: 2022-03-31T18:00:00.000+00:00
   - title: COSPAR Task Group on Establishing an International Geospace Systems Program
     body: The President of the H.S.C, Prof. Ioannis Daglis, participated in a meeting
       of the [COSPAR](https://cosparhq.cnes.fr/) [Task Group on Establishing an International
       Geospace Systems Program (TGIGSP)](https://cosparhq.cnes.fr/task-group-on-establishing-an-international-geospace-systems-program-tgigsp/)
       that took place in the [Observatoire de Paris](https://www.observatoiredeparis.psl.eu/?lang=en)
       on 17 and 18 March 2022.
-    date: 2022-03-18T14:00:09Z
+    date: 2022-03-18T14:00:09.000+00:00
   - title: COSPAR Scientific Program Committee
     body: On Tuesday, March 15, the President and the CEO of the H.S.C. participated
       in the meeting of the [Scientific Program Committee](https://www.cosparathens2022.org/committees/scientific-committee/)
       of the [COSPAR](https://cosparhq.cnes.fr/ )-[2022 Assembly](https://www.cosparathens2022.org/).
       The meeting was held in the premises of [CNES](https://cnes.fr/en) in Paris.
-    date: 2022-03-16T10:33:29Z
+    date: 2022-03-16T10:33:29.000+00:00
   - title: ESA's Cube Sat Summer School 2022
     body: |-
       [ESA](https://www.esa.int/) Education Office's latest initiative, the “CubeSat Summer School 2022”, will take place over four weeks from 8 August to 2 September 2022 at [ESEC-Galaxia](https://www.esa.int/About_Us/Corporate_news/ESA_ESEC), Belgium. It will deliver an extensive mix of lectures and hands-on activities. The entire project lifecycle of a satellite mission will be covered, from design to verification, launch and operations. Upon completing the Summer School, participants will have gained the multidisciplinary knowledge and skills needed to undertake space-related projects, and will be better prepared to join the European space sector.
@@ -326,26 +326,26 @@ en:
       Application deadline: March 21, 2022.
 
       Learn more: [https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School](https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School "https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School")
-    date: 2022-03-11T10:20:20Z
+    date: 2022-03-11T10:20:20.000+00:00
   - title: 'Final ranking tables for Special Scientific Personnel recruitment at the
       H.S.C. '
     body: The final ranking tables regarding the ten (10) positions of Special Scientific
       Personnel (ref. [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf)),
       have been announced in the [About > Careers](https://hsc.gov.gr/en/careers/)
       tab.
-    date: 2022-02-28T16:00:00Z
+    date: 2022-02-28T16:00:00.000+00:00
   - title: 1st LISA in Greece Workshop
     body: |-
       On Wednesday, February 23, 2022, the [Physics Department](https://www.physics.auth.gr/en/) of the [Aristotle University of Thessaloniki](https://www.auth.gr/en/), with the support of the Hellenic Space Center, organises a Workshop, which will focus on the possibility of a consolidated Greek effort to the development of the [ESA](https://www.esa.int/) [LISA](https://www.elisascience.org/) mission.
 
       Learn more: [https://indico.physics.auth.gr/event/11/overview](https://indico.physics.auth.gr/event/11/overview "https://indico.physics.auth.gr/event/11/overview")
-    date: 2022-02-23T07:00:42Z
+    date: 2022-02-23T07:00:42.000+00:00
   - title: Heliophysics 2050 Workshop
     body: |-
       The “Heliophysics 2050 Workshop” will be held virtually on February 23-25, 2022. This year’s topic is “Measurement Techniques and Technologies”. The objective of this Workshop is to facilitate a community discussion to determine what technological advancements are needed to enable transformative advancements in Heliophysics. The Workshop will be a forum to organize and solicit community inputs that will inform the upcoming 2024 NASA Solar and Space Physics Decadal Survey.
 
       Free [registration](https://www.hou.usra.edu/meetings/heliotech2022/registration/) is required for participation. Learn more: [https://www.hou.usra.edu/meetings/heliotech2022/](https://www.hou.usra.edu/meetings/heliotech2022/ "https://www.hou.usra.edu/meetings/heliotech2022/")
-    date: 2022-02-21T16:20:19Z
+    date: 2022-02-21T16:20:19.000+00:00
   - title: Music concert and public talks under the auspices of the H.S.C.
     body: "The [SafeSpace](https://www.safespace-h2020.eu/) Scientific Research Programme
       organized a musical event titled “_Detecting and feeling the sounds of space_”,
@@ -357,14 +357,14 @@ en:
       Tonia opened the event giving talks about the sounds of space and the musical
       compositions that were presented.  \nFree entrance. [Press Release](https://www.safespace-h2020.eu/wp-content/uploads/2022/02/SafeSpace_press_release_lina_tonia_theocharakis.pdf)
       (in greek)"
-    date: 2022-02-17T22:00:00Z
+    date: 2022-02-17T22:00:00.000+00:00
   - title: 'Evaluation results of the applications for Special Scientific Personnel
       recruitment at the H.S.C. '
     body: The results of the evaluation process regarding the ten (10) positions of
       Special Scientific Personnel (ref. [Proclamation](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf)),
       have been announced in the [About > Careers](https://hsc.gov.gr/en/careers/)
       tab.
-    date: 2021-11-19T11:38:33Z
+    date: 2021-11-19T11:38:33.000+00:00
   - title: 'Internships at the ESA European Astronaut Centre in Porz-Wahn, Germany '
     body: |-
       [Spaceship EAC](https://www.esa.int/About_Us/EAC/Spaceship_EAC) is an initiative, based at the [European Astronaut Center](https://www.esa.int/About_Us/EAC) in Germany, helping [ESA](https://www.esa.int/) and researchers prepare for the future of space exploration. The Directorate of Human and Robotic Exploration Programmes (ExPeRT) of Spaceship EAC has announced internship opportunities, for students in their final years of a University course at master's level.
@@ -372,7 +372,7 @@ en:
       Application deadline: Nov. 30, 2021
 
       [Learn more](https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-ExPeRT-(Spaceship-EAC)-Department-ESOC/727829401/)
-    date: 2021-11-09T12:45:09Z
+    date: 2021-11-09T12:45:09.000+00:00
   - title: 'Visit of the Ambassador of Argentina at the HSC '
     body: On Wednesday, November 3rd, 2021, the [Ambassador of Argentina in Greece](https://egrec.cancilleria.gob.ar/),
       Mrs. Maria Lucia Dougherty de Sanchez, visited the premises of the Hellenic
@@ -382,7 +382,7 @@ en:
       entities responsible for Space Research and Technology (e.g. CONAE, CONICET),
       in the framework of the existing agreement between the two countries on scientific
       and technological cooperation.
-    date: 2021-11-03T14:28:39Z
+    date: 2021-11-03T14:28:39.000+00:00
   - title: 'HSC meeting with the 3rd Lab Center of East Attika '
     body: On Tuesday, November 2nd, 2021, Mr. A. Paliouras, Headmaster of the [3rd
       Lab Center of East Attika – Rafina](http://3sek-an-attik.att.sch.gr/), visited
@@ -393,7 +393,7 @@ en:
       them about space professions, space science and engineering. During the visit,
       the potential synergies of H.S.C. and the Student Group were discussed, aiming
       at the support of further activities of the Student Group.
-    date: 2021-11-02T14:28:16Z
+    date: 2021-11-02T14:28:16.000+00:00
   - title: 'Visit of Vice Minister Theodore Livanios at the HSC '
     body: On Tuesday, October 19th, 2021, the vice minister of [Digital Governance](https://mindigital.gr/dioikisi),
       Mr. T. Livanios, visited the Hellenic Space Center and met with the President
@@ -401,13 +401,13 @@ en:
       briefed on the Center’s activities, and discussed the HSC proposal for the design,
       development and implementation of a small nano-satellite cluster and related
       ground segment, aimed at providing a variety of Earth Observation services.
-    date: 2021-10-19T11:39:34Z
+    date: 2021-10-19T11:39:34.000+00:00
   - title: 'Visit to the European Astronaut Center '
     body: |-
       On Friday, October 8th, 2021, the President and the CEO of the Hellenic Space Center, Prof. Ioannis A. Daglis and Dr. Nick Sergis, visited the premises of the [European Astronaut Centre (EAC)](https://www.esa.int/About_Us/EAC) in Cologne, where they had the opportunity to meet with the Head of the Centre, Dr. Frank De Winne, from whom they were briefed on the activities of the EAC, while they also discussed a framework of cooperation with emphasis on the potential participation of students and young scientists from Greece in training programs at EAC.
 
       Afterwards, Dr. Ruth Hemmersbach, Head of the Department of Gravitational Biology and Acting Head of the [German Aerospace Center](https://www.dlr.de/DE/Home/home_node.html)[ Institute of Aerospace Medicine](https://www.dlr.de/me/en/), offered them a tour around the Institute, presented the facilities and explained the various projects of the Institute.
-    date: 2021-10-08T11:34:42Z
+    date: 2021-10-08T11:34:42.000+00:00
   - title: 'HSC and OHB-Hellas meeting '
     body: The President and the CEO of the Hellenic Space Center, Prof. Ioannis A.
       Daglis and Dr. Nick Sergis, had a meeting with Dr. A. Panopoulou, Managing Director
@@ -569,14 +569,15 @@ el:
       και προοπτικές συνεργασίας των δύο φορέων. Στη συνάντηση συμμετείχαν ο Πρέσβυς
       της Ελλάδας στο Ισραήλ κ. Κυριάκος Λουκάκης, και οι κκ. Νίκος Χριστοδουλίδης
       και Βασίλειος Λιβέρης του Γραφείου Οικονομικών και Εμπορικών Υποθέσεων της [Πρεσβείας](https://www.mfa.gr/missionsabroad/israel).
-    date: 2023-02-03T10:20:35Z
+      test test
+    date: 2023-02-03T10:20:35.000+00:00
   - title: Το ΕΛ.ΚΕ.Δ. στο Abu Dhabi Space Debate
     body: Ο Πρόεδρος και ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ., Ιωάννης Δαγκλής και Νικόλαος
       Σέργης, συμμετέχουν στο διεθνές συνέδριο "[Abu Dhabi Space Debate](https://www.abudhabispacedebate.com/
       )", που λαμβάνει χώρα στα Ηνωμένα Αραβικά Εμιράτα το διήμερο 5-6 Δεκεμβρίου
       2022. Πέρα από τις συναντήσεις ολομέλειας, οι κκ. Δαγκλής και Σέργης συμμετείχαν
       στις ειδικές συναντήσεις εργασίας "Reducing Space Threats” και "Space Sustainability”.
-    date: 2022-12-06T11:00:35Z
+    date: 2022-12-06T11:00:35.000+00:00
   - title: Ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ. προεδρεύει σε Hub της Europlanet Society
     body: Ο Δρ Νίκος Σέργης, Δ/νων Σύμβουλος του Ελληνικού Κέντρου Διαστήματος, [αναλαμβάνει
       καθήκοντα Προέδρου](https://www.europlanet-society.org/welcome-to-new-chairs-of-regional-hubs/
@@ -584,20 +585,20 @@ el:
       ) της [Europlanet Society](https://www.europlanet-society.org/), παραλαμβάνοντας
       τη θέση από τον Καθ. Ιωάννη Δαγκλή, Πρόεδρο του ΕΛ.ΚΕ.Δ., ο οποίος την κατείχε
       από το 2019.
-    date: 2022-12-02T13:30:49Z
+    date: 2022-12-02T13:30:49.000+00:00
   - title: Η ESA αναζητεί ερευνητές ιατρούς
     body: 'Ο [Ευρωπαϊκός Οργανισμός Διαστήματος (ESA)](https://www.esa.int/) αναζητεί
       ερευνητές ιατρούς για να περάσουν έναν χρόνο σε παγωμένο έδαφος διεξάγοντας
       έρευνα σχετικά με την προσαρμογή των ανθρώπων σε ακραία περιβάλλοντα, ως ένα
       βήμα προς τις διαστημικές πτήσεις. Μάθετε περισσότερα: [https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica
       "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/WANTED_Research_doctor_in_Antarctica")'
-    date: 2022-11-29T13:20:22Z
+    date: 2022-11-29T13:20:22.000+00:00
   - title: Το ALPHA MISSION - DELOS στο Ευρωπαϊκό Κοινοβούλιο
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής, συμμετείχε εκ μέρους του
       Ελληνικού Κέντρου Διαστήματος σε [ειδική εκδήλωση](https://worldhumanforum.earth/a-concert-with-a-mission-from-the-sacred-island-of-delos-to-the-european-parliament/)
       της πρωτοβουλίας [ALPHA MISSION - DELOS](https://alphamission.delos.earth/ )
       στο Ευρωπαϊκό Κοινοβούλιο, την Τετάρτη 16 Νοεμβρίου.
-    date: 2022-11-16T11:30:37Z
+    date: 2022-11-16T11:30:37.000+00:00
   - title: Διαγωνισμός NameExoWorlds 2022 (Greece)
     body: "Με τη συμπλήρωση 10 χρόνων από την ίδρυση του [Γραφείου για την Διάχυση
       της Αστρονομίας](https://www.iau.org/public/oao/) (Office for Astronomy Outreach
@@ -613,20 +614,20 @@ el:
       από την επιτροπή στην IAU για την τελική επιλογή.\n\nΠροθεσμία υποβολής προτάσεων:
       11 Δεκεμβρίου 2022.  \nΠερισσότερες πληροφορίες στην [ανακοίνωση]( https://hub.uoa.gr/nameexoworlds2022/)
       και το [βίντεο]( https://youtu.be/RZ8VpxQ0ixA) της ελληνικής επιτροπής."
-    date: 2022-11-14T12:40:14Z
+    date: 2022-11-14T12:40:14.000+00:00
   - title: Πρακτική άσκηση στην ESA για το 2023
     body: 'Οι ευκαιρίες πρακτικής άσκησης στον Ευρωπαϊκό Οργανισμό Διαστήματος για
       το 2023 έχουν ανακοινωθεί. Θα παραμείνουν ανοιχτές για έναν μήνα. Οι θέσεις
       αφορούν μηχανική, επιστήμες, πληροφορική, φυσικές και κοινωνικές επιστήμες,
       καθώς και υπηρεσίες επιχειρήσεων και διοίκησης. Περισσότερες πληροφορίες: [https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential](https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential
       "https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential")[!_Apply_now_to_the_ESA_Student_Internship_Programme](https://www.esa.int/About_Us/Careers_at_ESA/Ignite_your_potential!_Apply_now_to_the_ESA_Student_Internship_Programme)'
-    date: 2022-11-07T11:00:02Z
+    date: 2022-11-07T11:00:02.000+00:00
   - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στο MAST Med 2022
     body: 'Την Πέμπτη, 3 Νοεμβρίου, ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Α. Δαγκλής,
       συμμετείχε ως προσκεκλημένος ομιλητής σε Στρογγυλή Τράπεζα με τίτλο “Digital
       Ocean: from Sea-bed to Space” στο πλαίσιο του διεθνούς συνεδρίου [MAST Med 2022](https://mastconfex.com/med2022/
       ), στο Grand Hyatt Hotel της Αθήνας.'
-    date: 2022-11-03T10:30:06Z
+    date: 2022-11-03T10:30:06.000+00:00
   - title: Το ΕΛ.ΚΕ.Δ. στο ΥΝΑΝΠ
     body: Την Τρίτη, 1 Νοεμβρίου, ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ι. Δαγκλής, ο Διευθύνων
       Σύμβουλος, Δρ. Ν. Σέργης και το μέλος του Διοικητικού Συμβουλίου, Καθ. Κ. Καράντζαλος,
@@ -639,14 +640,14 @@ el:
       ανάπτυξης δορυφορικών λύσεων για εφαρμογή στην ανίχνευση και παρακολούθηση εστιών
       θαλάσσιας μόλυνσης (π.χ. πετρελαιοκηλίδες, λύματα) και η διερεύνηση των δυνατοτήτων
       συνεργασίας μεταξύ των συναρμόδιων υπουργείων και φορέων.
-    date: 2022-11-01T08:30:17Z
+    date: 2022-11-01T08:30:17.000+00:00
   - title: Συνάντηση με την Πρόεδρο της Διαστημικής Υπηρεσίας των Η.Α.Ε. στη GESDA
     body: Στο περιθώριο της συνόδου [GESDA](https://gesda.global/) (Geneva Science
       and Diplomacy Anticipator) ο Πρόεδρος του ΕΛ.ΚΕ.Δ Καθ. Ιωάννης Δαγκλής συναντήθηκε
       με την Υπουργό Παιδείας και Τεχνολογίας του Μέλλοντος και Πρόεδρο της [Διαστημικής
       Υπηρεσίας](https://space.gov.ae/) των Ηνωμένων Αραβικών Εμιράτων κα. Sarah bint
       Yousef Al Amiri.
-    date: 2022-10-17T11:20:29Z
+    date: 2022-10-17T11:20:29.000+00:00
   - title: 'Το ΕΛ.ΚΕ.Δ. στην Παγκόσμια Εβδομάδα Διαστήματος του ΕΚΠΑ '
     body: Το Ελληνικό Κέντρο Διαστήματος συμμετέχει στην εκδήλωση που οργανώνει ο
       [Τομέας Αστροφυσικής, Αστρονομίας και Μηχανικής](http://astro.phys.uoa.gr/)
@@ -659,7 +660,7 @@ el:
       δράση απαιτεί [κράτηση θέσεων μέσω google form](https://forms.gle/PjTsdSgJckkjeijD7).
       Περισσότερες πληροφορίες για την εκδήλωση θα βρείτε στην [ανακοίνωση του Τμήματος](https://www.phys.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_ekdilosis/ekdilosi_gia_tin_pagkosmia_ebdomada_diastimatos/)
       και στο [Facebook event](https://www.facebook.com/events/1298477517668687).
-    date: 2022-10-05T13:00:26Z
+    date: 2022-10-05T13:00:26.000+00:00
   - title: Διεθνές βραβείο για τη συναυλία “Οι [αβέβαιες] τέσσερις εποχές”
     body: Η συναυλία του [ALPHA MISSION- ΔELOS](https://alphamission.delos.earth/)
       [“Οι \[αβέβαιες\] τέσσερις εποχές” ](https://the-uncertain-four-seasons.info/)που
@@ -671,7 +672,7 @@ el:
       Πολιτισμού, το Μέγαρο Μουσικής Αθηνών και σε συνεργασία με την Εφορεία Αρχαιοτήτων
       Κυκλάδων. Καλλιτεχνικός εταίρος της εκδήλωσης ήταν η Ορχήστρα Νέων της Ευρωπαϊκής
       Ένωσης.
-    date: 2022-09-27T21:15:53Z
+    date: 2022-09-27T21:15:53.000+00:00
   - title: 'Συμμετοχή κλιμακίου του ΕΛ.ΚΕ.Δ. στο International Astronautical Congress
       2022 '
     body: Ο Πρόεδρος, Ι. Δαγκλής, ο Διευθύνων Σύμβουλος, Ν. Σέργης, και Ειδικό Επιστημονικό
@@ -681,13 +682,13 @@ el:
       που πραγματοποιείται μεταξύ 18-22 Σεπτεμβρίου στο Παρίσι. Ο Πρόεδρος, Καθ. Ιωάννης
       Δαγκλής, συμμετείχε στη Γενική Συνέλευση της IAF, την Κυριακή 18 Σεπτεμβρίου,
       δίνοντας εισήγηση για την εκλογή του ΕΛ.ΚΕ.Δ. ως νέου μέλους της IAF.
-    date: 2022-09-20T11:20:58Z
+    date: 2022-09-20T11:20:58.000+00:00
   - title: 'Το ΕΛ.ΚΕ.Δ. στην 86η Δ.Ε.Θ. '
     body: Το Ελληνικό Κέντρο Διαστήματος (ΕΛ.ΚΕ.Δ.) συμμετέχει στην [86η Διεθνή Έκθεση
       Θεσσαλονίκης](https://www.thessalonikifair.gr/el). Ως Φορέας που υποπτεύεται
       από το Υπουργείο Ψηφιακής Διακυβέρνησης, βρίσκεται στο Ισόγειο, στο Περίπτερο
       12, το οποίο στελεχώνεται από προσωπικό του Κέντρου.
-    date: 2022-09-10T13:20:00Z
+    date: 2022-09-10T13:20:00.000+00:00
   - title: Νέοι Ειδικοί Επιστήμονες στο ΕΛ.ΚΕ.Δ.
     body: |-
       Το Ελληνικό Κέντρο Διαστήματος υποδέχτηκε δύο ακόμη Ειδικούς Επιστήμονες:
@@ -696,18 +697,18 @@ el:
       * Δ. Χριστόπουλος, Δορυφορικές Επικοινωνίες και Ολοκληρωμένες Εφαρμογές
 
       Ο Πρόεδρος και το Διοικητικό Συμβούλιο του ΕΛ.ΚΕ.Δ. εκφράζουν θερμές ευχές για μακρά και παραγωγική σταδιοδρομία.
-    date: 2022-09-07T13:10:09Z
+    date: 2022-09-07T13:10:09.000+00:00
   - title: Μεταδιδακτορικές Υποτροφίες από την ESA
     body: |-
       Το Πρόγραμμα Μεταδιδακτορικών Υποτροφιών του Ευρωπαϊκού Οργανισμού Διαστήματος ([ESA](https://www.esa.int/)) δίνει σε νέους επιστήμονες και μηχανικούς τη δυνατότητα να διεξάγουν έρευνα πάνω σε μια πληθώρα αντικειμένων σχετικών με την επιστήμη του διαστήματος, τις διαστημικές εφαρμογές και τη διαστημική τεχνολογία. [Μάθετε περισσότερα](https://www.cosmos.esa.int/web/space-science-faculty/opportunities/research-fellowships)
 
       Προθεσμία υποβολής αιτήσεων: 19 Σεπτεμβρίου 2022.
-    date: 2022-08-30T11:29:22Z
+    date: 2022-08-30T11:29:22.000+00:00
   - title: Διονύσης Σιμόπουλος
     body: Το Ελληνικό Κέντρο Διαστήματος αποχαιρετά τον Διονύση Σιμόπουλο, τον άνθρωπο
       που ταυτίστηκε με την Επικοινωνία της Επιστήμης και για 50 χρόνια έφερε το Ελληνικό
       κοινό, με τρόπο επαγγελματικό, πιο κοντά στον θαυμαστό κόσμο του Διαστήματος.
-    date: 2022-08-08T09:43:37Z
+    date: 2022-08-08T09:43:37.000+00:00
   - title: Συνεδρία προς τιμήν του Καθ. Yohsuke Kamide στο συνέδριο της AOGS
     body: Την Τρίτη, 2 Αυγούστου, ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής, συμμετείχε
       ως προσκεκλημένος ομιλητής στη συνεδρία που διοργανώθηκε προς τιμήν του εκλιπόντος
@@ -716,19 +717,19 @@ el:
       (AOGS)](https://www.asiaoceania.org/society/public.asp?page=home.asp), με ομιλία
       για τη συμβολή του κ. Kamide στην κατανόηση της σχέσης διαστημικών καταιγίδων
       και υποκαταιγίδων.
-    date: 2022-08-02T09:15:50Z
+    date: 2022-08-02T09:15:50.000+00:00
   - title: Συνάντηση του Πρωθυπουργού με τους Ηγέτες Διαστημικών Υπηρεσιών
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθηγητής Ιωάννης Δαγκλής, συμμετείχε στην άτυπη
       συνάντηση του πρωθυπουργού, κ. Κυριάκου Μητσοτάκη, με τους ηγέτες διαστημικών
       υπηρεσιών, που συμμετείχαν στο Παγκόσμιο Συνέδριο Διαστημικών Επιστημών [COSPAR-2022](https://www.cosparathens2022.org/)
       που πραγματοποιήθηκε την προηγούμενη εβδομάδα στην Αθήνα.
-    date: 2022-07-28T10:20:01Z
+    date: 2022-07-28T10:20:01.000+00:00
   - title: Συνάντηση εργασίας στο Princeton Athens Center
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής, συμμετείχε σε συνάντηση εργασίας
       που διοργάνωσε η Ομάδα Διαστημικής Φυσικής του Πανεπιστημίου του Πρίνστον στην
       Αθήνα ([Princeton Athens Center](https://hellenic.princeton.edu/princeton-athens-center))
       τη Δευτέρα, 25 Ιουλίου 2022.
-    date: 2022-07-25T12:00:41Z
+    date: 2022-07-25T12:00:41.000+00:00
   - title: Επίσκεψη κλιμακίων της NASA στο ΕΛ.ΚΕ.Δ.
     body: |-
       Δύο κλιμάκια της [NASA](https://www.nasa.gov/) επισκέφθηκαν το ΕΛ.ΚΕ.Δ. προσφάτως για συναντήσεις εργασίας.
@@ -738,20 +739,20 @@ el:
       Τη Δευτέρα 25 Ιουλίου 2022, επισκέφθηκαν το ΕΛ.ΚΕ.Δ. οι επιστήμονες Florian Schwandner από το [NASA Ames Research Center](https://www.nasa.gov/ames), Conor Nixon από το [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard/), Steve Vance από το [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), και Jani Radebaugh από το [Πανεπιστήμιο Brigham Young](https://www.byu.edu/) της Πολιτείας της Utah. Στη συνάντηση, εκτός από το επιστημονικό προσωπικό του ΕΛ.ΚΕ.Δ., προσκλήθηκαν να συμμετάσχουν και οι συνάδελφοι: Ηλίας Χατζηθεοδωρίδης, Καθηγητής στο [Ε.Μ.Π.](https://www.ntua.gr/el/), Όλγα Συκιώτη, Ερευνήτρια στο [ΙΑΑΔΕΤ](https://www.astro.noa.gr/), Ιωάννης Μπαζιώτης, Καθηγητής στο [Γεωπονικό Πανεπιστήμιο Αθηνών](https://www2.aua.gr/el).
 
       Έγιναν σύντομες παρουσιάσεις από όλους τους συμμετέχοντες και ακολούθησε εκτενής συζήτηση.
-    date: 2022-07-25T14:20:53Z
+    date: 2022-07-25T14:20:53.000+00:00
   - title: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. στη στρογγυλή τράπεζα των ηγετών των Διαστημικών
       Υπηρεσιών
     body: Την Κυριακή, 17 Ιουλίου, ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής,
       συμμετείχε στο πάνελ των ηγετών των Διαστημικών Υπηρεσιών που παραδοσιακά λαμβάνει
       χώρα στα συνέδρια της [COSPAR](https://www.cospar-assembly.org/assembly.php).
-    date: 2022-07-17T17:20:49Z
+    date: 2022-07-17T17:20:49.000+00:00
   - title: 'Ο Πρόεδρος του ΕΛ.ΚΕ.Δ στην ετήσια συνεδρίαση της Διεθνούς Αστροναυτικής
       Ακαδημίας '
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής, παρουσίασε τις δραστηριότητες
       του Κέντρου στην [ετήσια συνεδρίαση ](https://iaaspace.org/events/iaa-academy-days/#EVENT-ACADEMYDAYcospar)της
       [Διεθνούς Αστροναυτικής Ακαδημίας ](https://iaaspace.org/)που πραγματοποιήθηκε
       χθες, Σάββατο, 16 Ιουλίου, στην Κεντρική Αίθουσα της [Ακαδημίας Αθηνών](http://www.academyofathens.gr/).
-    date: 2022-07-17T08:00:59Z
+    date: 2022-07-17T08:00:59.000+00:00
   - title: Επίσκεψη του Προέδρου του ΕΛ.ΚΕ.Δ. στο Ίδρυμα της Βουλής των Ελλήνων
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ. Καθηγητής Ιωάννης Δαγκλής επισκέφθηκε σήμερα, Τετάρτη
       13 Ιουλίου, τον Γενικό Γραμματέα του [Ιδρύματος της Βουλής των Ελλήνων για τον
@@ -759,7 +760,7 @@ el:
       Ευάνθη Χατζηβασιλείου. Ο κ. Χατζηβασιλείου ξενάγησε τον κ. Δαγκλή στην έκθεση
       του Ιδρύματος "[ΣΗΚΩ ΨΥΧΗ ΜΟΥ!... Εικόνες και μουσικές των προσφύγων του ’22](https://foundation.parliament.gr/el/ekthesi/ekthesi-siko-psyhi-moy-eikones-kai-moysikes-ton-prosfygon-toy-22)”.
       Ακολούθησε συζήτηση για δράσεις κοινού ενδιαφέροντος.
-    date: 2022-07-13T16:00:48Z
+    date: 2022-07-13T16:00:48.000+00:00
   - title: Διαδικτυακή συνάντηση ASI-ΕΛ.ΚΕ.Δ.
     body: |-
       Η Ιταλική Υπηρεσία Διαστήματος ([Agenzia Spaziale Italiana - ASI](https://www.asi.it/en/)) και το Ελληνικό Κέντρο Διαστήματος (ΕΛ.ΚΕ.Δ.) σας προσκαλούν σε κοινή διαδικτυακή εκδήλωση, με σκοπό την προώθηση της συνεργασίας των Ιταλικών και Ελληνικών οικοσυστημάτων του Διαστήματος. Η εκδήλωση θα λάβει χώρα τη **Δευτέρα 11 Ιουλίου, 10 π.μ. με 1 μ.μ. ώρα Ελλάδος** με κύριους θεματικούς άξονες:
@@ -776,7 +777,7 @@ el:
       Μπορείτε να βρείτε τη φόρμα και οδηγίες συμπλήρωσης σε [αυτόν το σύνδεσμο](https://docs.google.com/forms/d/e/1FAIpQLSdb8NsfRFfGIHJUbrccUXS7Ug_42cOot8EcXj0oe-2wssTvrg/viewform?usp=sf_link).
 
       Το πρόγραμμα των ομιλιών θα είναι σύντομα διαθέσιμο.
-    date: 2022-07-07T09:00:34Z
+    date: 2022-07-07T09:00:34.000+00:00
   - title: Εκδήλωση του ΕΛ.ΚΕ.Δ. προς τιμήν του Σταμάτη Κριμιζή
     body: |-
       Την Τετάρτη 22 Ιουνίου, το Ελληνικό Κέντρο Διαστήματος οργάνωσε εκδήλωση προς τιμήν του Διαστημικού Επιστήμονα και Ακαδημαϊκού κ. Σταμάτη Κριμιζή. Η εκδήλωση πραγματοποιήθηκε στο Μέγαρο Μουσικής Αθηνών και περιλάμβανε χαιρετισμούς από τον Υπουργό Επικρατείας & Ψηφιακής Διακυβέρνησης κ. Κυριάκο Πιερρακάκη, τον Πρόεδρο του ΕΛ.ΚΕ.Δ. κ. Ιωάννη Δαγκλή, την Πρόεδρο του World Human Forum κ. Αλεξάνδρα Μητσοτάκη, και τον Σκηνοθέτη κ. Γιάννη Βαμβακά.
@@ -784,7 +785,7 @@ el:
       Στο πλαίσιο της εκδήλωσης, πραγματοποιήθηκε βράβευση του κ. Κριμιζή για τη συνολική του προσφορά στις Διαστημικές Επιστήμες από τον Πρόεδρο του ΕΛ.ΚΕ.Δ. Καθ. Ιωάννη Δαγκλή και παρουσιάστηκε σε πρώτη δημόσια προβολή το βραβευμένο ντοκιμαντέρ «_Κυνηγώντας τους πλανήτες για 60 χρόνια: Σταμάτης Κριμιζής_», σε σκηνοθεσία και παραγωγή του Γιάννη Βαμβακά και μουσική του Βαγγέλη Παπαθανασίου.
 
       ![](/assets/thumbnail_krimizis3.jpg)![](/assets/289020573_625723909113053_1199433405886936785_n-copy.jpg)
-    date: 2022-07-07T11:00:12Z
+    date: 2022-07-07T11:00:12.000+00:00
   - title: Νέοι Ειδικοί Επιστήμονες στο ΕΛ.ΚΕ.Δ.
     body: |-
       Το Ελληνικό Κέντρο Διαστήματος υποδέχτηκε δύο ακόμη Ειδικούς Επιστήμονες:
@@ -793,7 +794,7 @@ el:
       * Τ. Φαρμακάκης, Διαστημικά Συστήματα
 
       Ο Πρόεδρος και το Διοικητικό Συμβούλιο του ΕΛ.ΚΕ.Δ. εκφράζουν θερμές ευχές για μακρά και παραγωγική σταδιοδρομία.
-    date: 2022-06-09T12:00:47Z
+    date: 2022-06-09T12:00:47.000+00:00
   - title: 'Συναυλία: "Οι [αβέβαιες] Τέσσερις Εποχές"'
     body: 'Την Δευτέρα 30 Μαΐου στις 20:30 η πρωτοβουλία [ALPHA MISSION – ΔELOS](https://youtu.be/iqkOwMNKuxs)
       οργανώνει συναυλία κλασικής μουσικής με τίτλο “[Οι \[αβέβαιες\] Τέσσερις Εποχές](https://the-uncertain-four-seasons.info/)”,
@@ -801,14 +802,14 @@ el:
       θα αναμεταδοθεί ζωντανά στο ARTE, την ΕΡΤ, και θα προβληθεί στον κήπο του Μεγάρου
       Μουσικής Αθηνών και στα διαδικτυακά κανάλια του. Μάθετε περισσότερα: [https://www.megaron.gr/event/alpha-mission-delos-oi-abebaies-tesseris-epoches/](https://www.megaron.gr/event/alpha-mission-delos-oi-abebaies-tesseris-epoches/
       "https://www.megaron.gr/event/alpha-mission-delos-oi-abebaies-tesseris-epoches/")'
-    date: 2022-05-30T09:00:33Z
+    date: 2022-05-30T09:00:33.000+00:00
   - title: Βαγγέλης Παπαθανασίου
     body: Το Ελληνικό Κέντρο Διαστήματος, μαζί ολόκληρη τη Διαστημική κοινότητα της
       Ελλάδας, αποχαιρετά τον Βαγγέλη Παπαθανασίου, τον δημιουργό που με τη μουσική
       του μας ταξίδεψε στους πλανήτες και έδωσε μελωδία στη Διαστημική Εξερεύνηση,
       τον Έλληνα που τίμησε, αλλά και στήριξε τη χώρα μας όποτε χρειάστηκε. Η μουσική
       του θα συνοδεύει και θα χρωματίζει πάντοτε τα ταξίδια της ανθρωπότητας στο άγνωστο.
-    date: 2022-05-20T09:20:41Z
+    date: 2022-05-20T09:20:41.000+00:00
   - title: 'Ομιλία: "Πλανητική Εξερεύνηση και η απασχόληση σε NASA και ESA"'
     body: 'Το [Περιφερειακό Κέντρο Εκπαιδευτικού Σχεδιασμού (ΠΕ.Κ.Ε.Σ.) Πελοποννήσου](https://blogs.sch.gr/pekespelop/)
       σε συνεργασία με το Ελληνικό Κέντρο Διαστήματος σας προσκαλεί στην εξ αποστάσεως
@@ -817,7 +818,7 @@ el:
       “Πλανητική Εξερεύνηση και η απασχόληση σε NASA και ESA”, η οποία θα πραγματοποιηθεί
       τη Δευτέρα 16 Μαΐου, στις 5:30 μμ., και θα αναρτηθεί στο [κανάλι του ΕΛ.ΚΕ.Δ.
       στο YouTube](https://youtu.be/M5vfmygyJ44).'
-    date: 2022-05-14T19:53:32Z
+    date: 2022-05-14T19:53:32.000+00:00
   - title: Νέοι Ειδικοί Επιστήμονες στο ΕΛ.ΚΕ.Δ.
     body: |-
       Το Ελληνικό Κέντρο Διαστήματος υποδέχτηκε τους πρώτους του Ειδικούς Επιστήμονες:
@@ -829,12 +830,12 @@ el:
       * Ε. Μυλωνάκης, Διαστημικά Συστήματα
 
       Ο Πρόεδρος και το Διοικητικό Συμβούλιο του ΕΛ.ΚΕ.Δ. εκφράζουν θερμές ευχές για μακρά και παραγωγική σταδιοδρομία.
-    date: 2022-05-06T12:39:53Z
+    date: 2022-05-06T12:39:53.000+00:00
   - title: Άρθρο του Προέδρου του ΕΛ.ΚΕ.Δ. στην Καθημερινή
     body: 'Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής, για τις επιπτώσεις του πολέμου
       της Ουκρανίας στις ευρωπαϊκές διαστημικές δραστηριότητες: [https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/](https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/
       "https://www.kathimerini.gr/world/561824389/o-ioannis-dagklis-stin-k-o-polemos-pernaei-sto-diastima/")'
-    date: 2022-04-26T09:01:32Z
+    date: 2022-04-26T09:01:32.000+00:00
   - title: 'Πρόσκληση εκδήλωσης ενδιαφέροντος για το Living Planet Fellowship 2022
       της ESA '
     body: "Ο κύριος στόχος του Living Planet Fellowship της [ESA](https://www.esa.int/)
@@ -845,13 +846,13 @@ el:
       σχετικά με παρελθούσες και τρέχουσες υποτροφίες: [https://eo4society.esa.int/communities/scientists/living-planet-fellowship/](https://eo4society.esa.int/communities/scientists/living-planet-fellowship/
       \"https://eo4society.esa.int/communities/scientists/living-planet-fellowship/\")\n\nΠροθεσμία
       αιτήσεων: 15 Ιουνίου 2022."
-    date: 2022-04-21T12:31:14Z
+    date: 2022-04-21T12:31:14.000+00:00
   - title: Ομιλία για το Πανεπιστήμιο της Άιοβα
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ι. Δαγκλής, έδωσε διαδικτυακή διάλεξη με θέμα
       "[Radiation belt variability connection to interplanetary and magnetospheric
       drivers at various time-scales](https://physics.uiowa.edu/event/92511/0)” στη
       σειρά σεμιναρίων Φυσικής και Αστρονομίας του Πανεπιστημίου της Άιοβα.
-    date: 2022-04-20T12:15:00Z
+    date: 2022-04-20T12:15:00.000+00:00
   - title: 'Ομιλία: "Καταιγίδες, ήχοι και χρώματα στο Διάστημα"'
     body: 'Το [Περιφερειακό Κέντρο Εκπαιδευτικού Σχεδιασμού (ΠΕ.Κ.Ε.Σ.) Πελοποννήσου](https://blogs.sch.gr/pekespelop/)
       σε συνεργασία με το Ελληνικό Κέντρο Διαστήματος σας προσκαλεί στην εξ αποστάσεως
@@ -861,7 +862,7 @@ el:
       του ΕΛ.ΚΕ.Δ. στο YouTube. Μπορείτε να παρακολουθήσετε την καταγραφή της ομιλίας
       ακολουθώντας τον σύνδεσμο: [https://youtu.be/M5vfmygyJ44](https://youtu.be/M5vfmygyJ44
       "https://youtu.be/M5vfmygyJ44")'
-    date: 2022-04-15T21:30:36Z
+    date: 2022-04-15T21:30:36.000+00:00
   - title: 'Ομιλία: "Η Διαστημική Τεχνολογία στην υπηρεσία της γήινης καθημερινότητας"'
     body: 'Το [Περιφερειακό Κέντρο Εκπαιδευτικού Σχεδιασμού (ΠΕ.Κ.Ε.Σ.) Πελοποννήσου](https://blogs.sch.gr/pekespelop/)
       σε συνεργασία με το Ελληνικό Κέντρο Διαστήματος σας προσκαλεί στην εξ αποστάσεως
@@ -871,20 +872,20 @@ el:
       ζωντανά μέσω καναλιού του ΕΛ.ΚΕ.Δ. στο YouTube. Μπορείτε να παρακολουθήσετε
       την καταγραφή της ομιλίας ακολουθώντας τον σύνδεσμο: [https://youtu.be/RaJ4QYn8oZY](https://youtu.be/RaJ4QYn8oZY
       "https://youtu.be/RaJ4QYn8oZY")'
-    date: 2022-04-10T17:10:58Z
+    date: 2022-04-10T17:10:58.000+00:00
   - title: Συμμετοχή του Προέδρου του ΕΛ.ΚΕ.Δ. σε ημερίδα της Ευρωπαϊκής Επιτροπής
     body: 'Την Πέμπτη 31 Μαρτίου 2022, ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής,
       συμμετείχε στην ημερίδα "EU-funded R&I for Space Sciences" της Γενικής Διεύθυνσης
       Αμυντικής Βιομηχανίας και Διαστήματος (DEFIS) της Ευρωπαϊκή Επιτροπής, με την
       παρουσίαση "SafeSpace: Making Space a Safer place for Europe’s assets".'
-    date: 2022-03-31T18:33:32Z
+    date: 2022-03-31T18:33:32.000+00:00
   - title: 'COSPAR Task Group on Establishing an International Geospace Systems Program '
     body: Ο Πρόεδρος του ΕΛ.ΚΕ.Δ., Καθ. Ιωάννης Δαγκλής, συμμετείχε σε συνάντηση του
       [COSPAR](https://cosparhq.cnes.fr/) [Task Group on Establishing an International
       Geospace Systems Program (TGIGSP)](https://cosparhq.cnes.fr/task-group-on-establishing-an-international-geospace-systems-program-tgigsp/)
       στο [Αστεροσκοπείο των Παρισίων](https://www.observatoiredeparis.psl.eu/?lang=en)
       στις 17 και 18 Μαρτίου 2022.
-    date: 2022-03-18T14:00:57Z
+    date: 2022-03-18T14:00:57.000+00:00
   - title: Επιτροπή Επιστημονικού Προγράμματος της COSPAR
     body: Την Τρίτη 15 Μαρτίου, ο Πρόεδρος και ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ.
       συμμετείχαν στη σύνοδο της [Επιτροπής του Επιστημονικού Προγράμματος](https://www.cosparathens2022.org/committees/scientific-committee/)
@@ -892,7 +893,7 @@ el:
       πραγματοποιηθεί [τον Ιούλιο του 2022 στην Αθήνα](https://www.cosparathens2022.org/).
       Η συνάντηση έλαβε χώρα στις εγκαταστάσεις της [Γαλλικής Διαστημικής Υπηρεσίας
       (CNES)](https://cnes.fr/en) στο Παρίσι.
-    date: 2022-03-16T10:30:43Z
+    date: 2022-03-16T10:30:43.000+00:00
   - title: Cube Sat Summer School 2022 της ESA
     body: |-
       Το Γραφείο Εκπαίδευσης του [Ευρωπαϊκού Οργανισμού Διαστήματος](https://www.esa.int/) οργανώνει το «CubeSat Summer School 2022», μεταξύ 8 Αυγούστου και 2 Σεπτεμβρίου 2022, στο [ESEC-Galaxia](https://www.esa.int/About_Us/Corporate_news/ESA_ESEC), στο Βέλγιο. Θα περιλαμβάνει πληθώρα διαλέξεων και πρακτικών εργαστηρίων που θα καλύπτουν τον κύκλο ζωής μιας διαστημικής αποστολής, από το σχεδιασμό μέχρι την έγκριση, την εκτόξευση και τη λειτουργία. Ολοκληρώνοντας το Summer School, οι συμμετέχοντες θα έχουν αποκτήσει γνώσεις και ικανότητες απαραίτητες για διαστημικά έργα, ώστε να είναι καλύτερα προετοιμασμένοι για να εργαστούν στον ευρωπαϊκό διαστημικό τομέα.
@@ -900,14 +901,14 @@ el:
       Προθεσμία υποβολής αιτήσεων: 21 Μαρτίου 2022.
 
       Μάθετε περισσότερα: [https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School](https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School "https://www.esa.int/Education/ESA_Academy/Participate_in_ESA_Academy_s_very_first_CubeSat_Summer_School")
-    date: 2022-03-11T10:10:44Z
+    date: 2022-03-11T10:10:44.000+00:00
   - title: 'Οριστικοί πίνακες κατάταξης υποψηφίων για την πρόσληψη Ειδικού Επιστημονικού
       Προσωπικού στο ΕΛ.ΚΕ.Δ. '
     body: Οι οριστικοί πίνακες κατάταξης των υποψηφίων για την κάλυψη δέκα (10) θέσεων
       Ειδικού Επιστημονικού Προσωπικού στο πλαίσιο της υπ’ αρ. οικ.129/19-2-2021 (Τεύχος
       Προκηρύξεων Α.Σ.Ε.Π. 8/26.02.2021) [Προκήρυξης](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf),
       έχουν ανακοινωθεί στην ενότητα [Ο Φορέας > Θέσεις Εργασίας](https://hsc.gov.gr/el/careers/).
-    date: 2022-02-28T16:00:00Z
+    date: 2022-02-28T16:00:00.000+00:00
   - title: 1st LISA in Greece Workshop
     body: "Την Τετάρτη 23 Φεβρουαρίου 2022, το [Τμήμα Φυσικής](https://www.physics.auth.gr/)
       του [Αριστοτέλειου Πανεπιστημίου Θεσσαλονίκης](https://www.physics.auth.gr/),
@@ -917,13 +918,13 @@ el:
       Interferometer Space Antenna) του [Ευρωπαϊκού Οργανισμού Διαστήματος](https://www.esa.int/).
       \  \n   \n Μάθετε περισσότερα: [https://indico.physics.auth.gr/event/11/overview](https://indico.physics.auth.gr/event/11/overview
       \"https://indico.physics.auth.gr/event/11/overview\")"
-    date: 2022-02-23T07:00:07Z
+    date: 2022-02-23T07:00:07.000+00:00
   - title: Heliophysics 2050 Workshop
     body: |-
       Μεταξύ 23 και 25 Φεβρουαρίου 2022, θα διεξαχθεί διαδικτυακά το «Heliophysics 2050 Workshop», με θέμα «Measurement Techniques and Technologies». Σκοπός είναι να πραγματοποιηθεί συζήτηση της επιστημονικής κοινότητας, ώστε να καθοριστούν οι νέες τεχνολογίες και μέθοδοι που απαιτούνται για να προκύψουν σημαντικές πρόοδοι στον τομέα της Ηλιοφυσικής. Το Workshop θα αποτελέσει ένα φόρουμ για την οργάνωση των προτάσεων της κοινότητας, ώστε να χρησιμοποιηθούν για την επερχόμενη «Solar and Space Physics Decadal Survey» που προγραμματίζεται από τη NASA για το 2024.
 
       Συμμετοχή με δωρεάν [εγγραφή](https://www.hou.usra.edu/meetings/heliotech2022/registration/). Μάθετε περισσότερα: [https://www.hou.usra.edu/meetings/heliotech2022/](https://www.hou.usra.edu/meetings/heliotech2022/ "https://www.hou.usra.edu/meetings/heliotech2022/")
-    date: 2022-02-21T16:19:18Z
+    date: 2022-02-21T16:19:18.000+00:00
   - title: Μουσική εκδήλωση και ομιλίες υπό την αιγίδα του ΕΛ.ΚΕ.Δ.
     body: "Το Ερευνητικό Πρόγραμμα [SafeSpace](https://www.safespace-h2020.eu/), στο
       πλαίσιο της εξωστρέφειας και επικοινωνίας του με το κοινό, διοργάνωσε μουσική
@@ -937,14 +938,14 @@ el:
       Kαθ. Ιωάννη Α. Δαγκλή και τη συνθέτρια Λίνα Τόνια για τους ήχους του διαστήματος
       και για τις μουσικές συνθέσεις που ακούστηκαν.  \nΕίσοδος ελεύθερη. [Δελτίο
       τύπου](https://www.safespace-h2020.eu/wp-content/uploads/2022/02/SafeSpace_press_release_lina_tonia_theocharakis.pdf)"
-    date: 2022-02-17T22:00:00Z
+    date: 2022-02-17T22:00:00.000+00:00
   - title: 'Αποτελέσματα αξιολόγησης αιτήσεων για την πρόσληψη Ειδικού Επιστημονικού
       Προσωπικού στο ΕΛ.ΚΕ.Δ. '
     body: Τα αποτελέσματα της αξιολόγησης των αιτήσεων των υποψηφίων για την κάλυψη
       δέκα (10) θέσεων Ειδικού Επιστημονικού Προσωπικού στο πλαίσιο της υπ’ αρ. οικ.129/19-2-2021
       (Τεύχος Προκηρύξεων Α.Σ.Ε.Π. 8/26.02.2021) [Προκήρυξης](https://res.cloudinary.com/front-end-matters/image/upload/v1614419555/hellenic-space-center/%CE%A0%CF%81%CE%BF%CE%BA%CE%AE%CF%81%CF%85%CE%BE%CE%B7.pdf),
       έχουν ανακοινωθεί στην ενότητα [Ο Φορέας > Θέσεις Εργασίας](https://hsc.gov.gr/el/careers/).
-    date: 2021-11-19T11:38:07Z
+    date: 2021-11-19T11:38:07.000+00:00
   - title: 'Ερευνητικές υποτροφίες στο Ευρωπαϊκό Κέντρο Αστροναυτών της ESA στο Porz-Wahn
       της Γερμανίας '
     body: |-
@@ -953,7 +954,7 @@ el:
       Προθεσμία υποβολής αιτήσεων: 30/11/2021.
 
       [Μάθετε περισσότερα](https://jobs.esa.int/job/Porz-Wahn-Intern-in-the-ExPeRT-(Spaceship-EAC)-Department-ESOC/727829401/)
-    date: 2021-11-09T12:42:01Z
+    date: 2021-11-09T12:42:01.000+00:00
   - title: 'Επίσκεψη της Πρέσβεως της Αργεντινής '
     body: Την Τετάρτη, 3 Νοεμβρίου 2021, επισκέφθηκε το Ελληνικό Κέντρο Διαστήματος
       η [Πρέσβης της Αργεντινής στην Ελλάδα](https://egrec.cancilleria.gob.ar/), κ.
@@ -963,7 +964,7 @@ el:
       υπηρεσίες της Αργεντινής αρμόδιες για θέματα Διαστημικής Έρευνας και Τεχνολογίας
       (π.χ. CONAE, CONICET), στο πλαίσιο υπάρχουσας συμφωνίας μεταξύ των δυο χωρών
       για επιστημονική και τεχνολογική συνεργασία.
-    date: 2021-11-03T14:27:45Z
+    date: 2021-11-03T14:27:45.000+00:00
   - title: 'Επίσκεψη Δ/ντή 3ου Ε.Κ. Αν. Αττικής - Ραφήνας '
     body: Την Τρίτη, 2 Νοεμβρίου 2021, επισκέφθηκε το ΕΛ.ΚΕ.Δ. ο κ. Α. Παλιούρας,
       Διευθυντής του [3ου Ε.Κ. Ανατολικής Αττικής - Ραφήνας](http://3sek-an-attik.att.sch.gr/),
@@ -975,7 +976,7 @@ el:
       Επιστήμη και τη Μηχανική. Στη συνάντηση που πραγματοποιήθηκε, εξετάστηκαν οι
       δυνατότητες υποστήριξης από το ΕΛ.ΚΕ.Δ. της λειτουργίας της Μαθητικής Ομάδας
       Διαστημικής Ραφήνας και της περαιτέρω ανάπτυξης των εκπαιδευτικών της δράσεων.
-    date: 2021-11-02T14:27:20Z
+    date: 2021-11-02T14:27:20.000+00:00
   - title: 'Επίσκεψη Υφυπουργού Θ. Λιβάνιου στο ΕΛ.ΚΕ.Δ. '
     body: Την Τρίτη 19 Οκτωβρίου 2021 επισκέφθηκε το ΕΛ.ΚΕ.Δ. ο [Υφυπουργός Ειδικών
       Ψηφιακών Έργων και Κτηματολογίου](https://mindigital.gr/dioikisi) κ. Θ. Λιβάνιος
@@ -985,13 +986,13 @@ el:
       την υλοποίηση μικρού σμήνους νανοδορυφόρων και τη λειτουργία συναφών υποδομών
       εδάφους, με τελικό σκοπό την παροχή υπηρεσιών δορυφορικής παρατήρησης της Γης
       προς το Ελληνικό Δημόσιο.
-    date: 2021-10-19T11:38:52Z
+    date: 2021-10-19T11:38:52.000+00:00
   - title: 'Επίσκεψη Προέδρου και Δ/ντος Συμβούλου ΕΛ.ΚΕ.Δ. στο Ευρωπαϊκό Κέντρο Αστροναυτών '
     body: |-
       Την Παρασκευή, 8 Οκτωβρίου 2021, ο Πρόεδρος και ο Διευθύνων Σύμβουλος του Ελληνικού Κέντρου Διαστήματος επισκέφθηκαν τις εγκαταστάσεις του [Ευρωπαϊκού Κέντρου Αστροναυτών (ΕΚΑ)](https://www.esa.int/About_Us/EAC) στην Κολωνία, όπου είχαν την ευκαιρία να συναντηθούν με τον επικεφαλής του Κέντρου, Dr. Frank De Winne, από τον οποίο ενημερώθηκαν για τις δραστηριότητες του ΕΚΑ, ενώ συζήτησαν και πλαίσιο συνεργασίας με έμφαση στη δυνατότητα ένταξης φοιτητών και νέων επιστημόνων από ελληνικά εκπαιδευτικά ιδρύματα σε προγράμματα εκπαίδευσης του ΕΚΑ.
 
       Στη συνέχεια ξεναγήθηκαν στο [Ινστιτούτο Αεροδιαστημικής Ιατρικής](https://www.dlr.de/me/en/) του [Γερμανικού Κέντρου Αεροδιαστημικής](https://www.dlr.de/DE/Home/home_node.html), από την επικεφαλής του Τμήματος Βαρυτικής Βιολογίας και Αντιπρόεδρο του Ινστιτούτου, Dr. Ruth Hemmersbach, η οποία τους παρουσίασε τις εγκαταστάσεις και ανέλυσε τη λειτουργία του Ινστιτούτου.
-    date: 2021-10-08T11:33:05Z
+    date: 2021-10-08T11:33:05.000+00:00
   - title: 'Συνάντηση ΕΛ.ΚΕ.Δ.-OHB Hellas '
     body: Την Τετάρτη 6 Οκτωβρίου, ο Πρόεδρος και ο Διευθύνων Σύμβουλος του ΕΛΚΕΔ
       είχαν συνάντηση με τους επικεφαλής της [ΟΗΒ-Hellas](https://www.ohb-hellas.gr/),
