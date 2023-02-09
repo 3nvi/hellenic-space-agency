@@ -561,6 +561,14 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Εκλογή του Καθ. Κ. Συνολάκη, μέλους του Δ.Σ. του ΕΛ.ΚΕ.Δ., ως μέλος της
+      ΝΑΕ
+    body: Ο Καθ. Κώστας Συνολάκης, Μέλος του Δ.Σ. του ΕΛ.ΚΕ.Δ., εξελέγη ως Μέλος της
+      Εθνικής Ακαδημίας Μηχανικών ([National Academy of Engineering - ΝΑΕ](https://www.nae.edu/)),
+      η οποία αποτελεί τμήμα των Ακαδημιών Επιστημών, Μηχανικών και Ιατρικής ([National
+      Academies of Sciences, Engineering, and Medicine](https://www.nationalacademies.org/))
+      των ΗΠΑ. [Μάθετε περισσότερα](https://www.kathimerini.gr/life/science/562268959/eklogi-toy-kathigiti-kosta-synolaki-os-meloys-tis-ethnikis-akadimias-michanikon-ton-ipa/)
+    date: 2023-02-09T12:35:24Z
   - title: Το ΕΛ.ΚΕ.Δ. στο 18th Ilan Ramon Space Conference
     body: 'Στο περιθώριο του διεθνούς συνεδρίου [18th Ilan Ramon Space Conference](https://ramonspaceconference2023.com/)
       στο Τελ Αβίβ, ο Πρόεδρος και ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ. συναντήθηκαν
