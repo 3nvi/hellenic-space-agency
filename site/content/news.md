@@ -4,6 +4,14 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: The Summer School Alpbach – An in-depth learning experience, on space science
+      and engineering
+    body: 'The “[Summer School Alpbach](https://www.summerschoolalpbach.at/)” will
+      be held in 2023 in Austria and will welcome 60 participants from ESA member
+      states, including Greece. The School topic is: “Exoplanets: Understanding alien
+      worlds in diverse environments”, and the deadline for applications is February
+      28, 2023. [Learn more](/assets/alpbach_school_gr_post.pdf )'
+    date: 2023-02-14T14:20:57Z
   - title: Prof. C. Synolakis, Governing Board Member of the H.S.C., has been elected
       as a Member of the NAE
     body: Prof. Costas Synolakis, Governing Board Member of the H.S.C., has been elected
