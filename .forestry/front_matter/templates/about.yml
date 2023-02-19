@@ -18,6 +18,12 @@ fields:
   - type: text
     name: membersSubtitle
     label: membersSubtitle
+  - name: staffSubtitle
+    type: text
+    config:
+      required: false
+    label: staffSubtitle
+    description: The text that appears as title above the scientific staff list
   - type: textarea
     name: content
     label: content
@@ -102,6 +108,12 @@ fields:
   - type: text
     name: membersSubtitle
     label: membersSubtitle
+  - name: staffSubtitle
+    type: text
+    config:
+      required: false
+    label: staffSubtitle
+    description: Η επικεφαλιδα που εμφανιζεται πανω απο το επιστημονικο προσωπικο
   - type: textarea
     name: content
     label: content
