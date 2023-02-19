@@ -46,6 +46,43 @@ fields:
       label: avatar
     config:
       labelField: name
+  - name: scientific_staff
+    type: field_group_list
+    fields:
+    - name: name
+      type: text
+      config:
+        required: false
+      label: name
+    - name: role
+      type: text
+      config:
+        required: false
+      label: role
+    - name: link
+      type: text
+      config:
+        required: false
+      label: link
+    - name: bio
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: bio
+    - name: avatar
+      type: file
+      config:
+        maxSize: 64
+      label: avatar
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: scientific staff
   - type: file
     name: mainBackground
     label: mainBackground
@@ -93,6 +130,43 @@ fields:
       label: avatar
     config:
       labelField: name
+  - name: scientific_staff
+    type: field_group_list
+    fields:
+    - name: name
+      type: text
+      config:
+        required: false
+      label: name
+    - name: role
+      type: text
+      config:
+        required: false
+      label: role
+    - name: link
+      type: text
+      config:
+        required: false
+      label: link
+    - name: bio
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: bio
+    - name: avatar
+      type: file
+      config:
+        maxSize: 64
+      label: avatar
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: scientific staff
   - type: file
     name: mainBackground
     label: mainBackground
