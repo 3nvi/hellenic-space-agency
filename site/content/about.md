@@ -370,6 +370,6 @@ el:
     link: https://www.researchgate.net/profile/Afroditi-Nasi
     bio: Lorem Ipsum Doloret Sit Amet
     avatar: "/assets/download.jpeg"
-  staffSubtitle: ''
+  staffSubtitle: Επιστημονικό Προσωπικό
 
 ---
