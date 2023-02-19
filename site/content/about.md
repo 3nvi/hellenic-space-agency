@@ -148,6 +148,12 @@ en:
       Bank of Greece.
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
+  scientificStaff:
+  - name: Afroditi Nasi
+    role: PhD Fellow
+    link: https://www.researchgate.net/profile/Afroditi-Nasi
+    avatar: "/assets/download.jpeg"
+    bio: Lorem Ipsum Dolores Sit Amet
 el:
   navigationLabel: Πληροφορίες
   mainTitle: Σχετικά με το ΕΛ.ΚΕ.Δ
@@ -357,5 +363,6 @@ el:
       Πλαίσιο των Αγορών Χρήματος και Κεφαλαίου» του Πανεπιστημίου Πειραιώς."
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
+  scientificStaff: []
 
 ---
