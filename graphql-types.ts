@@ -698,12 +698,10 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark'
   | 'childrenMarkdownRemark___id'
   | 'childrenMarkdownRemark___frontmatter___title'
-  | 'childrenMarkdownRemark___frontmatter___en___navigationLabel'
   | 'childrenMarkdownRemark___frontmatter___en___mainTitle'
   | 'childrenMarkdownRemark___frontmatter___en___mainSubtitle'
-  | 'childrenMarkdownRemark___frontmatter___en___membersSubtitle'
+  | 'childrenMarkdownRemark___frontmatter___en___navigationLabel'
   | 'childrenMarkdownRemark___frontmatter___en___content'
-  | 'childrenMarkdownRemark___frontmatter___en___team'
   | 'childrenMarkdownRemark___frontmatter___en___latestNewsTitle'
   | 'childrenMarkdownRemark___frontmatter___en___missions'
   | 'childrenMarkdownRemark___frontmatter___en___goalsTitle'
@@ -722,12 +720,14 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___en___description'
   | 'childrenMarkdownRemark___frontmatter___en___keywords'
   | 'childrenMarkdownRemark___frontmatter___en___items'
-  | 'childrenMarkdownRemark___frontmatter___el___navigationLabel'
+  | 'childrenMarkdownRemark___frontmatter___en___membersSubtitle'
+  | 'childrenMarkdownRemark___frontmatter___en___team'
+  | 'childrenMarkdownRemark___frontmatter___en___scientificStaff'
+  | 'childrenMarkdownRemark___frontmatter___en___staffSubtitle'
   | 'childrenMarkdownRemark___frontmatter___el___mainTitle'
   | 'childrenMarkdownRemark___frontmatter___el___mainSubtitle'
-  | 'childrenMarkdownRemark___frontmatter___el___membersSubtitle'
+  | 'childrenMarkdownRemark___frontmatter___el___navigationLabel'
   | 'childrenMarkdownRemark___frontmatter___el___content'
-  | 'childrenMarkdownRemark___frontmatter___el___team'
   | 'childrenMarkdownRemark___frontmatter___el___latestNewsTitle'
   | 'childrenMarkdownRemark___frontmatter___el___missions'
   | 'childrenMarkdownRemark___frontmatter___el___goalsTitle'
@@ -745,6 +745,10 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___frontmatter___el___description'
   | 'childrenMarkdownRemark___frontmatter___el___keywords'
   | 'childrenMarkdownRemark___frontmatter___el___items'
+  | 'childrenMarkdownRemark___frontmatter___el___membersSubtitle'
+  | 'childrenMarkdownRemark___frontmatter___el___team'
+  | 'childrenMarkdownRemark___frontmatter___el___scientificStaff'
+  | 'childrenMarkdownRemark___frontmatter___el___staffSubtitle'
   | 'childrenMarkdownRemark___excerpt'
   | 'childrenMarkdownRemark___rawMarkdownBody'
   | 'childrenMarkdownRemark___fileAbsolutePath'
@@ -799,12 +803,10 @@ export type FileFieldsEnum =
   | 'childrenMarkdownRemark___internal___type'
   | 'childMarkdownRemark___id'
   | 'childMarkdownRemark___frontmatter___title'
-  | 'childMarkdownRemark___frontmatter___en___navigationLabel'
   | 'childMarkdownRemark___frontmatter___en___mainTitle'
   | 'childMarkdownRemark___frontmatter___en___mainSubtitle'
-  | 'childMarkdownRemark___frontmatter___en___membersSubtitle'
+  | 'childMarkdownRemark___frontmatter___en___navigationLabel'
   | 'childMarkdownRemark___frontmatter___en___content'
-  | 'childMarkdownRemark___frontmatter___en___team'
   | 'childMarkdownRemark___frontmatter___en___latestNewsTitle'
   | 'childMarkdownRemark___frontmatter___en___missions'
   | 'childMarkdownRemark___frontmatter___en___goalsTitle'
@@ -823,12 +825,14 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___en___description'
   | 'childMarkdownRemark___frontmatter___en___keywords'
   | 'childMarkdownRemark___frontmatter___en___items'
-  | 'childMarkdownRemark___frontmatter___el___navigationLabel'
+  | 'childMarkdownRemark___frontmatter___en___membersSubtitle'
+  | 'childMarkdownRemark___frontmatter___en___team'
+  | 'childMarkdownRemark___frontmatter___en___scientificStaff'
+  | 'childMarkdownRemark___frontmatter___en___staffSubtitle'
   | 'childMarkdownRemark___frontmatter___el___mainTitle'
   | 'childMarkdownRemark___frontmatter___el___mainSubtitle'
-  | 'childMarkdownRemark___frontmatter___el___membersSubtitle'
+  | 'childMarkdownRemark___frontmatter___el___navigationLabel'
   | 'childMarkdownRemark___frontmatter___el___content'
-  | 'childMarkdownRemark___frontmatter___el___team'
   | 'childMarkdownRemark___frontmatter___el___latestNewsTitle'
   | 'childMarkdownRemark___frontmatter___el___missions'
   | 'childMarkdownRemark___frontmatter___el___goalsTitle'
@@ -846,6 +850,10 @@ export type FileFieldsEnum =
   | 'childMarkdownRemark___frontmatter___el___description'
   | 'childMarkdownRemark___frontmatter___el___keywords'
   | 'childMarkdownRemark___frontmatter___el___items'
+  | 'childMarkdownRemark___frontmatter___el___membersSubtitle'
+  | 'childMarkdownRemark___frontmatter___el___team'
+  | 'childMarkdownRemark___frontmatter___el___scientificStaff'
+  | 'childMarkdownRemark___frontmatter___el___staffSubtitle'
   | 'childMarkdownRemark___excerpt'
   | 'childMarkdownRemark___rawMarkdownBody'
   | 'childMarkdownRemark___fileAbsolutePath'
@@ -1703,16 +1711,10 @@ export type MarkdownRemarkEdge = {
 export type MarkdownRemarkFieldsEnum =
   | 'id'
   | 'frontmatter___title'
-  | 'frontmatter___en___navigationLabel'
   | 'frontmatter___en___mainTitle'
   | 'frontmatter___en___mainSubtitle'
-  | 'frontmatter___en___membersSubtitle'
+  | 'frontmatter___en___navigationLabel'
   | 'frontmatter___en___content'
-  | 'frontmatter___en___team'
-  | 'frontmatter___en___team___link'
-  | 'frontmatter___en___team___name'
-  | 'frontmatter___en___team___role'
-  | 'frontmatter___en___team___bio'
   | 'frontmatter___en___mainBackground___sourceInstanceName'
   | 'frontmatter___en___mainBackground___absolutePath'
   | 'frontmatter___en___mainBackground___relativePath'
@@ -1852,16 +1854,22 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___en___items___title'
   | 'frontmatter___en___items___body'
   | 'frontmatter___en___items___date'
-  | 'frontmatter___el___navigationLabel'
+  | 'frontmatter___en___membersSubtitle'
+  | 'frontmatter___en___team'
+  | 'frontmatter___en___team___link'
+  | 'frontmatter___en___team___name'
+  | 'frontmatter___en___team___role'
+  | 'frontmatter___en___team___bio'
+  | 'frontmatter___en___scientificStaff'
+  | 'frontmatter___en___scientificStaff___name'
+  | 'frontmatter___en___scientificStaff___role'
+  | 'frontmatter___en___scientificStaff___link'
+  | 'frontmatter___en___scientificStaff___bio'
+  | 'frontmatter___en___staffSubtitle'
   | 'frontmatter___el___mainTitle'
   | 'frontmatter___el___mainSubtitle'
-  | 'frontmatter___el___membersSubtitle'
+  | 'frontmatter___el___navigationLabel'
   | 'frontmatter___el___content'
-  | 'frontmatter___el___team'
-  | 'frontmatter___el___team___name'
-  | 'frontmatter___el___team___role'
-  | 'frontmatter___el___team___link'
-  | 'frontmatter___el___team___bio'
   | 'frontmatter___el___mainBackground___sourceInstanceName'
   | 'frontmatter___el___mainBackground___absolutePath'
   | 'frontmatter___el___mainBackground___relativePath'
@@ -2000,6 +2008,18 @@ export type MarkdownRemarkFieldsEnum =
   | 'frontmatter___el___items___title'
   | 'frontmatter___el___items___body'
   | 'frontmatter___el___items___date'
+  | 'frontmatter___el___membersSubtitle'
+  | 'frontmatter___el___team'
+  | 'frontmatter___el___team___name'
+  | 'frontmatter___el___team___role'
+  | 'frontmatter___el___team___link'
+  | 'frontmatter___el___team___bio'
+  | 'frontmatter___el___scientificStaff'
+  | 'frontmatter___el___scientificStaff___name'
+  | 'frontmatter___el___scientificStaff___role'
+  | 'frontmatter___el___scientificStaff___link'
+  | 'frontmatter___el___scientificStaff___bio'
+  | 'frontmatter___el___staffSubtitle'
   | 'excerpt'
   | 'rawMarkdownBody'
   | 'fileAbsolutePath'
@@ -2130,12 +2150,10 @@ export type MarkdownRemarkFrontmatter = {
 };
 
 export type MarkdownRemarkFrontmatterEl = {
-  navigationLabel: Maybe<Scalars['String']>;
   mainTitle: Maybe<Scalars['String']>;
   mainSubtitle: Maybe<Scalars['String']>;
-  membersSubtitle: Maybe<Scalars['String']>;
+  navigationLabel: Maybe<Scalars['String']>;
   content: Maybe<Scalars['String']>;
-  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElTeam>>>;
   mainBackground: Maybe<File>;
   latestNewsTitle: Maybe<Scalars['String']>;
   missions: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElMissions>>>;
@@ -2156,15 +2174,17 @@ export type MarkdownRemarkFrontmatterEl = {
   keywords: Maybe<Scalars['String']>;
   logo: Maybe<File>;
   items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElItems>>>;
+  membersSubtitle: Maybe<Scalars['String']>;
+  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElTeam>>>;
+  scientificStaff: Maybe<Array<Maybe<MarkdownRemarkFrontmatterElScientificStaff>>>;
+  staffSubtitle: Maybe<Scalars['String']>;
 };
 
 export type MarkdownRemarkFrontmatterElFilterInput = {
-  navigationLabel: Maybe<StringQueryOperatorInput>;
   mainTitle: Maybe<StringQueryOperatorInput>;
   mainSubtitle: Maybe<StringQueryOperatorInput>;
-  membersSubtitle: Maybe<StringQueryOperatorInput>;
+  navigationLabel: Maybe<StringQueryOperatorInput>;
   content: Maybe<StringQueryOperatorInput>;
-  team: Maybe<MarkdownRemarkFrontmatterElTeamFilterListInput>;
   mainBackground: Maybe<FileFilterInput>;
   latestNewsTitle: Maybe<StringQueryOperatorInput>;
   missions: Maybe<MarkdownRemarkFrontmatterElMissionsFilterListInput>;
@@ -2185,6 +2205,10 @@ export type MarkdownRemarkFrontmatterElFilterInput = {
   keywords: Maybe<StringQueryOperatorInput>;
   logo: Maybe<FileFilterInput>;
   items: Maybe<MarkdownRemarkFrontmatterElItemsFilterListInput>;
+  membersSubtitle: Maybe<StringQueryOperatorInput>;
+  team: Maybe<MarkdownRemarkFrontmatterElTeamFilterListInput>;
+  scientificStaff: Maybe<MarkdownRemarkFrontmatterElScientificStaffFilterListInput>;
+  staffSubtitle: Maybe<StringQueryOperatorInput>;
 };
 
 export type MarkdownRemarkFrontmatterElGoals = {
@@ -2240,6 +2264,26 @@ export type MarkdownRemarkFrontmatterElMissionsFilterListInput = {
   elemMatch: Maybe<MarkdownRemarkFrontmatterElMissionsFilterInput>;
 };
 
+export type MarkdownRemarkFrontmatterElScientificStaff = {
+  name: Maybe<Scalars['String']>;
+  role: Maybe<Scalars['String']>;
+  link: Maybe<Scalars['String']>;
+  bio: Maybe<Scalars['String']>;
+  avatar: Maybe<File>;
+};
+
+export type MarkdownRemarkFrontmatterElScientificStaffFilterInput = {
+  name: Maybe<StringQueryOperatorInput>;
+  role: Maybe<StringQueryOperatorInput>;
+  link: Maybe<StringQueryOperatorInput>;
+  bio: Maybe<StringQueryOperatorInput>;
+  avatar: Maybe<FileFilterInput>;
+};
+
+export type MarkdownRemarkFrontmatterElScientificStaffFilterListInput = {
+  elemMatch: Maybe<MarkdownRemarkFrontmatterElScientificStaffFilterInput>;
+};
+
 export type MarkdownRemarkFrontmatterElTeam = {
   name: Maybe<Scalars['String']>;
   role: Maybe<Scalars['String']>;
@@ -2261,12 +2305,10 @@ export type MarkdownRemarkFrontmatterElTeamFilterListInput = {
 };
 
 export type MarkdownRemarkFrontmatterEn = {
-  navigationLabel: Maybe<Scalars['String']>;
   mainTitle: Maybe<Scalars['String']>;
   mainSubtitle: Maybe<Scalars['String']>;
-  membersSubtitle: Maybe<Scalars['String']>;
+  navigationLabel: Maybe<Scalars['String']>;
   content: Maybe<Scalars['String']>;
-  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnTeam>>>;
   mainBackground: Maybe<File>;
   latestNewsTitle: Maybe<Scalars['String']>;
   missions: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnMissions>>>;
@@ -2288,15 +2330,17 @@ export type MarkdownRemarkFrontmatterEn = {
   keywords: Maybe<Scalars['String']>;
   logo: Maybe<File>;
   items: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnItems>>>;
+  membersSubtitle: Maybe<Scalars['String']>;
+  team: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnTeam>>>;
+  scientificStaff: Maybe<Array<Maybe<MarkdownRemarkFrontmatterEnScientificStaff>>>;
+  staffSubtitle: Maybe<Scalars['String']>;
 };
 
 export type MarkdownRemarkFrontmatterEnFilterInput = {
-  navigationLabel: Maybe<StringQueryOperatorInput>;
   mainTitle: Maybe<StringQueryOperatorInput>;
   mainSubtitle: Maybe<StringQueryOperatorInput>;
-  membersSubtitle: Maybe<StringQueryOperatorInput>;
+  navigationLabel: Maybe<StringQueryOperatorInput>;
   content: Maybe<StringQueryOperatorInput>;
-  team: Maybe<MarkdownRemarkFrontmatterEnTeamFilterListInput>;
   mainBackground: Maybe<FileFilterInput>;
   latestNewsTitle: Maybe<StringQueryOperatorInput>;
   missions: Maybe<MarkdownRemarkFrontmatterEnMissionsFilterListInput>;
@@ -2318,6 +2362,10 @@ export type MarkdownRemarkFrontmatterEnFilterInput = {
   keywords: Maybe<StringQueryOperatorInput>;
   logo: Maybe<FileFilterInput>;
   items: Maybe<MarkdownRemarkFrontmatterEnItemsFilterListInput>;
+  membersSubtitle: Maybe<StringQueryOperatorInput>;
+  team: Maybe<MarkdownRemarkFrontmatterEnTeamFilterListInput>;
+  scientificStaff: Maybe<MarkdownRemarkFrontmatterEnScientificStaffFilterListInput>;
+  staffSubtitle: Maybe<StringQueryOperatorInput>;
 };
 
 export type MarkdownRemarkFrontmatterEnGoals = {
@@ -2371,6 +2419,26 @@ export type MarkdownRemarkFrontmatterEnMissionsFilterInput = {
 
 export type MarkdownRemarkFrontmatterEnMissionsFilterListInput = {
   elemMatch: Maybe<MarkdownRemarkFrontmatterEnMissionsFilterInput>;
+};
+
+export type MarkdownRemarkFrontmatterEnScientificStaff = {
+  name: Maybe<Scalars['String']>;
+  role: Maybe<Scalars['String']>;
+  link: Maybe<Scalars['String']>;
+  avatar: Maybe<File>;
+  bio: Maybe<Scalars['String']>;
+};
+
+export type MarkdownRemarkFrontmatterEnScientificStaffFilterInput = {
+  name: Maybe<StringQueryOperatorInput>;
+  role: Maybe<StringQueryOperatorInput>;
+  link: Maybe<StringQueryOperatorInput>;
+  avatar: Maybe<FileFilterInput>;
+  bio: Maybe<StringQueryOperatorInput>;
+};
+
+export type MarkdownRemarkFrontmatterEnScientificStaffFilterListInput = {
+  elemMatch: Maybe<MarkdownRemarkFrontmatterEnScientificStaffFilterInput>;
 };
 
 export type MarkdownRemarkFrontmatterEnTeam = {
@@ -3989,7 +4057,7 @@ export type AboutPageQuery = {
         el: Maybe<
           Pick<
             MarkdownRemarkFrontmatterEl,
-            'mainTitle' | 'mainSubtitle' | 'content' | 'membersSubtitle'
+            'mainTitle' | 'mainSubtitle' | 'content' | 'membersSubtitle' | 'staffSubtitle'
           > & {
             team: Maybe<
               Array<
@@ -3997,6 +4065,16 @@ export type AboutPageQuery = {
                   Pick<MarkdownRemarkFrontmatterElTeam, 'bio' | 'link' | 'name' | 'role'> & {
                     avatar: Maybe<Pick<File, 'publicURL'>>;
                   }
+                >
+              >
+            >;
+            scientificStaff: Maybe<
+              Array<
+                Maybe<
+                  Pick<
+                    MarkdownRemarkFrontmatterElScientificStaff,
+                    'bio' | 'link' | 'name' | 'role'
+                  > & { avatar: Maybe<Pick<File, 'publicURL'>> }
                 >
               >
             >;
@@ -4008,7 +4086,7 @@ export type AboutPageQuery = {
         en: Maybe<
           Pick<
             MarkdownRemarkFrontmatterEn,
-            'mainTitle' | 'mainSubtitle' | 'content' | 'membersSubtitle'
+            'mainTitle' | 'mainSubtitle' | 'content' | 'membersSubtitle' | 'staffSubtitle'
           > & {
             mainBackground: Maybe<{
               childImageSharp: Maybe<{ fluid: Maybe<GatsbyImageSharpFluid_WithWebpFragment> }>;
@@ -4019,6 +4097,16 @@ export type AboutPageQuery = {
                   Pick<MarkdownRemarkFrontmatterEnTeam, 'bio' | 'link' | 'name' | 'role'> & {
                     avatar: Maybe<Pick<File, 'publicURL'>>;
                   }
+                >
+              >
+            >;
+            scientificStaff: Maybe<
+              Array<
+                Maybe<
+                  Pick<
+                    MarkdownRemarkFrontmatterEnScientificStaff,
+                    'bio' | 'link' | 'name' | 'role'
+                  > & { avatar: Maybe<Pick<File, 'publicURL'>> }
                 >
               >
             >;

@@ -30,16 +30,30 @@ const About: React.FC<Page<AboutPageQuery>> = ({ data }) => {
           <section id="content">
             <Markdown>{translatedData.content}</Markdown>
           </section>
-          <article>
-            <div style={{ margin: '5em auto' }}>
-              <header className="major">
-                <h2>{translatedData.membersSubtitle}</h2>
-              </header>
-            </div>
-            {translatedData.team.map(member => (
-              <Profile key={member.name} member={member as MarkdownRemarkFrontmatterElTeam} />
-            ))}
-          </article>
+          {translatedData.team?.length > 0 && (
+            <article>
+              <div style={{ margin: '5em auto' }}>
+                <header className="major">
+                  <h2>{translatedData.membersSubtitle}</h2>
+                </header>
+              </div>
+              {translatedData.team.map(member => (
+                <Profile key={member.name} member={member as MarkdownRemarkFrontmatterElTeam} />
+              ))}
+            </article>
+          )}
+          {translatedData.scientificStaff?.length > 0 && (
+            <article>
+              <div style={{ margin: '5em auto' }}>
+                <header className="major">
+                  <h2>{translatedData.staffSubtitle}</h2>
+                </header>
+              </div>
+              {translatedData.scientificStaff.map(member => (
+                <Profile key={member.name} member={member as MarkdownRemarkFrontmatterElTeam} />
+              ))}
+            </article>
+          )}
         </div>
       </main>
     </Layout>
@@ -56,6 +70,7 @@ export const query = graphql`
             mainSubtitle
             content
             membersSubtitle
+            staffSubtitle
             team {
               avatar {
                 publicURL
@@ -65,6 +80,15 @@ export const query = graphql`
               name
               role
             }
+            #            scientificStaff {
+            #              avatar {
+            #                publicURL
+            #              }
+            #              bio
+            #              link
+            #              name
+            #              role
+            #            }
             mainBackground {
               childImageSharp {
                 fluid(quality: 70, maxWidth: 1920) {
@@ -85,6 +109,7 @@ export const query = graphql`
             mainSubtitle
             content
             membersSubtitle
+            staffSubtitle
             team {
               avatar {
                 publicURL
@@ -94,6 +119,15 @@ export const query = graphql`
               name
               role
             }
+            #            scientificStaff {
+            #              avatar {
+            #                publicURL
+            #              }
+            #              bio
+            #              link
+            #              name
+            #              role
+            #            }
           }
         }
       }
