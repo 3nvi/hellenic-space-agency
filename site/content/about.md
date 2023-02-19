@@ -148,12 +148,7 @@ en:
       Bank of Greece.
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
-  scientificStaff:
-  - name: Afroditi Nasi
-    role: PhD Fellow
-    link: https://www.researchgate.net/profile/Afroditi-Nasi
-    avatar: "/assets/download.jpeg"
-    bio: Lorem Ipsum Dolores Sit Amet
+  scientificStaff: []
   staffSubtitle: Scientific Staff
 el:
   navigationLabel: Πληροφορίες
