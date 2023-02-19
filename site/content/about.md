@@ -369,7 +369,7 @@ el:
     role: Υποψηφιος Διδακτωρ
     link: https://www.researchgate.net/profile/Afroditi-Nasi
     bio: Lorem Ipsum Doloret Sit Amet
-    avatar: "/assets/download.jpeg"
+    avatar: "/assets/thumbnail_krimizis3.jpg"
   staffSubtitle: Επιστημονικό Προσωπικό
 
 ---
