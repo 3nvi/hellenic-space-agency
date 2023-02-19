@@ -154,6 +154,7 @@ en:
     link: https://www.researchgate.net/profile/Afroditi-Nasi
     avatar: "/assets/download.jpeg"
     bio: Lorem Ipsum Dolores Sit Amet
+  staffSubtitle: Scientific Staff
 el:
   navigationLabel: Πληροφορίες
   mainTitle: Σχετικά με το ΕΛ.ΚΕ.Δ
@@ -369,5 +370,6 @@ el:
     link: https://www.researchgate.net/profile/Afroditi-Nasi
     bio: Lorem Ipsum Doloret Sit Amet
     avatar: "/assets/download.jpeg"
+  staffSubtitle: ''
 
 ---
