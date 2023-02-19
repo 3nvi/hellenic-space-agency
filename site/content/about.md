@@ -363,6 +363,11 @@ el:
       Πλαίσιο των Αγορών Χρήματος και Κεφαλαίου» του Πανεπιστημίου Πειραιώς."
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
-  scientificStaff: []
+  scientificStaff:
+  - name: Αφροδιτη Ναση
+    role: Υποψηφιος Διδακτωρ
+    link: https://www.researchgate.net/profile/Afroditi-Nasi
+    bio: Lorem Ipsum Doloret Sit Amet
+    avatar: "/assets/download.jpeg"
 
 ---
