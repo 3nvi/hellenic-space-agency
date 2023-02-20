@@ -80,15 +80,15 @@ export const query = graphql`
               name
               role
             }
-            #            scientificStaff {
-            #              avatar {
-            #                publicURL
-            #              }
-            #              bio
-            #              link
-            #              name
-            #              role
-            #            }
+            scientificStaff {
+              avatar {
+                publicURL
+              }
+              bio
+              link
+              name
+              role
+            }
             mainBackground {
               childImageSharp {
                 fluid(quality: 70, maxWidth: 1920) {
@@ -119,15 +119,15 @@ export const query = graphql`
               name
               role
             }
-            #            scientificStaff {
-            #              avatar {
-            #                publicURL
-            #              }
-            #              bio
-            #              link
-            #              name
-            #              role
-            #            }
+            scientificStaff {
+              avatar {
+                publicURL
+              }
+              bio
+              link
+              name
+              role
+            }
           }
         }
       }
