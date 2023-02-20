@@ -149,6 +149,21 @@ en:
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
   scientificStaff:
+  - name: Thanasis Karmas
+    role: ''
+    link: https://gr.linkedin.com/in/karmas
+    bio: Graduate from the School of Electrical and Computer Engineering from the
+      National Technical University of Athens (NTUA) and holder of an M.Sc. in Geoinformatics
+      from the interdisciplinary and interdepartmental Master's Program of NTUA. He
+      has several years of experience in the private and research sector in applications
+      related to Big Data Analytics, Earth Observation, and Geoinformatics as well
+      as in the design and development of Cloud based services, distributed databases,
+      and WebGIS systems with very high requirements in uptime and availability. He
+      has actively worked in the data management domain with tight security specifications
+      in both the private sector and in projects funded by the European Union and
+      has coordinated small and medium-sized technical teams of software and data
+      engineers.
+    avatar: "/assets/karmas.JPG"
   - name: 'Dimitris Bliziotis '
     role: ''
     link: 'https://www.linkedin.com/in/dimitrios-bliziotis  '
@@ -165,21 +180,6 @@ en:
       business roadmaps in various private companies and has participated to the technical
       validation of 6 Earth Observation satellite missions.
     avatar: "/assets/bliziotis.JPG"
-  - name: Thanasis Karmas
-    role: ''
-    link: https://gr.linkedin.com/in/karmas
-    bio: Graduate from the School of Electrical and Computer Engineering from the
-      National Technical University of Athens (NTUA) and holder of an M.Sc. in Geoinformatics
-      from the interdisciplinary and interdepartmental Master's Program of NTUA. He
-      has several years of experience in the private and research sector in applications
-      related to Big Data Analytics, Earth Observation, and Geoinformatics as well
-      as in the design and development of Cloud based services, distributed databases,
-      and WebGIS systems with very high requirements in uptime and availability. He
-      has actively worked in the data management domain with tight security specifications
-      in both the private sector and in projects funded by the European Union and
-      has coordinated small and medium-sized technical teams of software and data
-      engineers.
-    avatar: "/assets/karmas.JPG"
   - name: Manolis Mylonakis
     role: ''
     link: 'https://www.linkedin.com/in/mmylonakis '
