@@ -360,6 +360,21 @@ el:
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
   scientificStaff:
+  - name: Μανόλης Μυλωνάκης
+    role: ''
+    link: 'https://www.linkedin.com/in/mmylonakis '
+    bio: 'Απόφοιτος του τμήματος Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών
+      του Πανεπιστημίου Πατρών και κάτοχος τίτλου M.Sc. Wireless Communications του
+      Πανεπιστημίου Southampton. Έχει πολυετή εμπειρία στον ιδιωτικό και ερευνητικό
+      τομέα, δούλεψε επί σειρά ετών στην Airbus Defence & Space σε Αγγλία (Portsmouth)
+      και Γαλλία (Τουλούζη) με αντικείμενο το RF/Telecom Engineering, Antenna Design,
+      MW Instruments & Radars, Assembly Integration & Testing. Ακόμη δούλεψε ως ΑΙΤ
+      Engineer στις εγκαταστάσεις της ESA στην Ολλανδία με τους δορυφόρους GNSS Galileo.
+      Έχει συμμετάσχει στις παρακάτω αποστολές/προγράμματα: MetOp-SG, Sentinel-1 C&D,
+      OneWeb, Radar for Zephyr, WIVERN, EutelSat Quantum, Inmarsat 6 και σε πληθώρα
+      ερευνητικών δραστηριοτήτων/ προγραμμάτων Η2020. Έχει συντονίσει μικρού και μεσαίου
+      μεγέθους ομάδες μηχανικών και τεχνικών.'
+    avatar: "/assets/manolis.jpg"
   - name: Θανάσης Κάρμας
     role: ''
     link: https://gr.linkedin.com/in/karmas
