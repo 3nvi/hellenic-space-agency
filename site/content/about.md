@@ -360,6 +360,21 @@ el:
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
   scientificStaff:
+  - name: Αναστάσιος Παναγιωτόπουλος
+    role: ''
+    link: ''
+    bio: Απόφοιτος του τμήματος Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών από
+      το Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης και  κάτοχος M.Sc. Aeronautical and
+      Space Systems του Πανεπιστημίου ISAE-SUPAERO (Τουλούζη, Γαλλία), δούλεψε στη
+      Γαλλική Διαστημική Υπηρεσία (CNES) και στο Observatoire Midi-Pyrénées στη Γαλλία
+      (Τουλούζη), με αντικείμενα τα Global Navigation Satellite Systems (GNSS) και
+      το Satellite Remote Sensing αντίστοιχα. Ακόμη, εργάστηκε ως GNSS Engineer στo
+      startup εγχείρημα Spaceweal στη Θεσσαλονίκη, σε συνεργασία με το συνεργατικό
+      σχηματισμό διαστημικών τεχνολογιών και εφαρμογών si-Cluster (Corallia). Παράλληλα,
+      έχει συμμετάσχει σε εκπαιδευτικά προγράμματα STEΑM ως εκπαιδευτής ρομποτικής,
+      σε συνεργασία με εκπαιδευτικούς φορείς και Κέντρα Δημιουργικής Απασχόλησης Παιδιών
+      (ΚΔΑΠ) στη Θεσσαλονίκη.
+    avatar: "/assets/panagiotopoulos.jpeg"
   - name: Μανόλης Μυλωνάκης
     role: ''
     link: 'https://www.linkedin.com/in/mmylonakis '
