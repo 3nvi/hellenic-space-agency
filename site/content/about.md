@@ -149,6 +149,22 @@ en:
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
   scientificStaff:
+  - name: 'Dimitris Bliziotis '
+    role: ''
+    link: 'https://www.linkedin.com/in/dimitrios-bliziotis  '
+    bio: Graduate from the School of Rural, Surveying and Geoinformatics Engineering
+      from the National Technical University of Athens (NTUA) and holder of an M.Sc.
+      in Geoinformatics from the interdisciplinary and interdepartmental Master's
+      Program of NTUA. He has several years of experience in the private and research
+      sector in applications related to Earth Observation, Geoinformatics, Data mining/machine
+      learning, Imagery Intelligence (IMINT), Geospatial Intelligence (GEOINT) and
+      management of large-scale mapping projects for Defense, Security and Emergency
+      applications. He has actively worked and managed more than 25 projects funded
+      by the European Union (ESA, EC, COPERNICUS, EDA, FRONTEX, SATCEN), coordinated
+      medium-sized technical teams (30 people), contributed to the definition of strategic
+      business roadmaps in various private companies and has participated to the technical
+      validation of 6 Earth Observation satellite missions.
+    avatar: "/assets/bliziotis.JPG"
   - name: Thanasis Karmas
     role: ''
     link: https://gr.linkedin.com/in/karmas
