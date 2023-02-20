@@ -149,6 +149,21 @@ en:
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
   scientificStaff:
+  - name: Anastasios Panagiotopoulos
+    role: ''
+    link: ''
+    bio: 'Graduate from the Department of Electrical and Computer Engineering of the
+      Aristotle University of Thessaloniki (AUTH) and holder of a M.Sc. in Aeronautical
+      and Space Systems from ISAE-SUPAERO Graduate School of Aerospace Engineering
+      (Toulouse, France). He has worked in the French Space Agency (CNES) and in the
+      Observatoire Midi-Pyrénées in France (Toulouse), in the fields of Global Navigation
+      Satellite Systems (GNSS) and Satellite Remote Sensing respectively. Moreover,
+      he has worked as a GNSS Engineer in the startup venture Spaceweal in Thessaloniki,
+      in collaboration with the Cluster for Space Technologies and Applications si-Cluster
+      (Corallia). At the same time, he has participated in STEAM educational programs
+      as robotics instructors, in cooperation with educational institutions and Centers
+      of Creative Activities for Children in Thessaloniki. '
+    avatar: "/assets/panagiotopoulos.jpeg"
   - name: 'Tryfon Farmakakis  '
     role: ''
     link: https://www.linkedin.com/in/tryfon-farmakakis/
