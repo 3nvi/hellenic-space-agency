@@ -148,7 +148,18 @@ en:
       Bank of Greece.
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
-  scientificStaff: []
+  scientificStaff:
+  - name: 'Tryfon Farmakakis  '
+    role: ''
+    link: https://www.linkedin.com/in/tryfon-farmakakis/
+    bio: Graduate from the School of Electrical and Computer Engineering from the
+      National Technical University of Athens (NTUA) and holder of an M.Sc. in Space
+      Science from the International Space University, Strasbourg. He has several
+      years of experience in the private and research sector in applications related
+      to Space Systems, Semantic Web, Databases, Storage Systems, Distributed Systems,
+      Operating Systems and Software Development. He also loves aviation and holds
+      a PPL license.
+    avatar: "/assets/tryfon.jpg"
   staffSubtitle: Scientific Staff
 el:
   navigationLabel: Πληροφορίες
