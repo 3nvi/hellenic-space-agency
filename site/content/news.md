@@ -11,14 +11,14 @@ en:
       states, including Greece. The School topic is: “Exoplanets: Understanding alien
       worlds in diverse environments”, and the deadline for applications is February
       28, 2023. [Learn more](/assets/alpbach_school_gr_post.pdf )'
-    date: 2023-02-14T14:20:57Z
+    date: 2023-02-14T14:20:57.000+00:00
   - title: Prof. C. Synolakis, Governing Board Member of the H.S.C., has been elected
       as a Member of the NAE
     body: Prof. Costas Synolakis, Governing Board Member of the H.S.C., has been elected
       as a Member of the [National Academy of Engineering](https://www.nae.edu/),
       which is a part of the USA [National Academies of Sciences, Engineering, and
       Medicine](https://www.nationalacademies.org/). [Learn more](https://www.kathimerini.gr/life/science/562268959/eklogi-toy-kathigiti-kosta-synolaki-os-meloys-tis-ethnikis-akadimias-michanikon-ton-ipa/)
-    date: 2023-02-09T12:35:11Z
+    date: 2023-02-09T12:35:11.000+00:00
   - title: The H.S.C. at the 18th Ilan Ramon International Space Conference
     body: During the [18th Ilan Ramon International Space Conference](https://ramonspaceconference2023.com/)
       in Tel Aviv, the President and the CEO of the Hellenic Space Center met the
@@ -576,6 +576,14 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: 'Τελετή κοπής Πρωτοχρονιάτικης πίτας στο ΕΛ.ΚΕ.Δ. '
+    body: Την Παρασκευή, 10 Φεβρουαρίου, πραγματοποιήθηκε η κοπή της Πρωτοχρονιάτικης
+      πίτας στα γραφεία του Ελληνικού Κέντρου Διαστήματος, από τον Πρόεδρο, Γιάννη
+      Δαγκλή, παρουσία του Ακαδημαϊκού Σταμάτη Κριμιζή. Παρευρέθηκαν το Διοικητικό
+      και Επιστημονικό Προσωπικό του Κέντρου, ο Διευθύνων Σύμβουλος, Νίκος Σέργης,
+      ο Αναπληρωτής Πρόεδρος, Γιώργος Νούνεσης, καθώς και τα Μέλη του Διοικητικού
+      Συμβουλίου, Παύλος Σωτηριάδης, Κώστας Συνολάκης, και Κώστας Καράντζαλος.
+    date: 2023-02-10T10:10:27Z
   - title: The Summer School Alpbach – Θερινό Σχολείο Επιστήμης και Τεχνολογίας του
       Διαστήματος
     body: 'Το Θερινό Σχολείο «[Summer School Alpbach](https://www.summerschoolalpbach.at/)»
@@ -585,7 +593,7 @@ el:
       κόσμους σε ποικιλόμορφα περιβάλλοντα» και η προθεσμία υποβολής των αιτήσεων
       είναι 28 Φεβρουαρίου 2023. [Μάθετε περισσότερα](/assets/alpbach_school_gr_post.pdf
       )'
-    date: 2023-02-14T14:20:00Z
+    date: 2023-02-14T14:20:00.000+00:00
   - title: Εκλογή του Καθ. Κ. Συνολάκη, μέλους του Δ.Σ. του ΕΛ.ΚΕ.Δ., ως μέλος της
       ΝΑΕ
     body: Ο Καθ. Κώστας Συνολάκης, Μέλος του Δ.Σ. του ΕΛ.ΚΕ.Δ., εξελέγη ως Μέλος της
@@ -593,7 +601,7 @@ el:
       η οποία αποτελεί τμήμα των Ακαδημιών Επιστημών, Μηχανικών και Ιατρικής ([National
       Academies of Sciences, Engineering, and Medicine](https://www.nationalacademies.org/))
       των ΗΠΑ. [Μάθετε περισσότερα](https://www.kathimerini.gr/life/science/562268959/eklogi-toy-kathigiti-kosta-synolaki-os-meloys-tis-ethnikis-akadimias-michanikon-ton-ipa/)
-    date: 2023-02-09T12:35:24Z
+    date: 2023-02-09T12:35:24.000+00:00
   - title: Το ΕΛ.ΚΕ.Δ. στο 18th Ilan Ramon Space Conference
     body: 'Στο περιθώριο του διεθνούς συνεδρίου [18th Ilan Ramon Space Conference](https://ramonspaceconference2023.com/)
       στο Τελ Αβίβ, ο Πρόεδρος και ο Διευθύνων Σύμβουλος του ΕΛ.ΚΕ.Δ. συναντήθηκαν
