@@ -149,6 +149,20 @@ en:
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
   scientificStaff:
+  - name: Manolis Mylonakis
+    role: ''
+    link: 'https://www.linkedin.com/in/mmylonakis '
+    bio: 'Electrical and Computer Engineer graduate from the University of Patras
+      and holder of M. Sc. In Wireless Communications from the University of Southampton.
+      He has worked for Airbus Defence & Space, UK (Portsmouth) and France (Toulouse)
+      in RF/Telecom Engineering, Antenna Design, MW Instruments & Radars and Assembly
+      Integration & Testing. Furthermore, he has worked as an AIT Engineer in ESA,
+      ESTEC, NL for the Galileo GNSS satellites. He has participated in the following
+      satellites missions and programs: MetOp-SG, Sentinel-1 C&D, OneWeb, Radar for
+      Zephyr, WIVERN, EutelSat Quantum, Inmarsat 6 and in varied research activities
+      including H2020 programs. He has coordinated small and medium-sized teams of
+      engineers and technicians.'
+    avatar: "/assets/manolis.jpg"
   - name: Anastasios Panagiotopoulos
     role: ''
     link: ''
