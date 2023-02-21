@@ -149,18 +149,24 @@ en:
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
   scientificStaff:
-  - name: Christos Papachristos
+  - name: Anezina Solomonidou
     role: ''
     link: ''
-    bio: "Dr.  Papachristos holds a BEng in Aerospace Systems Engineering from the
-      University of Southampton in the UK, an MSc in Satellite Communications Engineering
-      from the University of Surrey in the UK, an MBA in Finance from Cardiff Business
-      School in the UK and a PhD in Electrical Engineering (Microwave Communications)
-      from the National Technical University of Athens. \nDr. Papachristos has extensive
-      corporate experience in Greece and the UAE in senior management positions in
-      the Satellite Communications and Space sectors.  Dr. Papachristos is the author
-      of 13 publications in journals and conferences."
-    avatar: "/assets/christos.JPG"
+    bio: 'Dr. Anezina Solomonidou is a planetary scientist specializing in planetary
+      geology and investigating the potentially habitable worlds of our solar system.
+      She has obtained her doctoral title on astronomy and astrophysics from the Paris
+      Observatory in France. She has worked for many years at NASA''s Jet Propulsion
+      Laboratory (JPL) and Caltech in Los Angeles, California, on the Cassini-Huygens
+      and the Europa Clipper missions, as well as the European Space Agency (ESA)
+      in Madrid for the preparation of ESA’s new space mission, JUICE. She has authored
+      a plethora of articles in peer-reviewed scientific journals and chapters in
+      books and more than 10 White Papers to NASA and ESA. Dr. Solomonidou has proposed
+      a series of planetary experiments and has contributed to the design of future
+      missions. She is the President of the Division for Planetary Sciences (PS) for
+      the European Geosciences Union (EGU) and serves as a review panelist for international
+      boards and NASA panels, where she evaluates scientific proposals for planetary
+      research. '
+    avatar: "/assets/anezina-solomonidou_hsc.JPG"
   - name: Thanasis Karmas
     role: ''
     link: https://gr.linkedin.com/in/karmas
@@ -221,6 +227,18 @@ en:
       as robotics instructors, in cooperation with educational institutions and Centers
       of Creative Activities for Children in Thessaloniki. '
     avatar: "/assets/panagiotopoulos.jpeg"
+  - name: Christos Papachristos
+    role: ''
+    link: ''
+    bio: "Dr.  Papachristos holds a BEng in Aerospace Systems Engineering from the
+      University of Southampton in the UK, an MSc in Satellite Communications Engineering
+      from the University of Surrey in the UK, an MBA in Finance from Cardiff Business
+      School in the UK and a PhD in Electrical Engineering (Microwave Communications)
+      from the National Technical University of Athens. \nDr. Papachristos has extensive
+      corporate experience in Greece and the UAE in senior management positions in
+      the Satellite Communications and Space sectors.  Dr. Papachristos is the author
+      of 13 publications in journals and conferences."
+    avatar: "/assets/christos.JPG"
   - name: 'Tryfon Farmakakis  '
     role: ''
     link: https://www.linkedin.com/in/tryfon-farmakakis/
