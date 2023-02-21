@@ -149,24 +149,6 @@ en:
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
   scientificStaff:
-  - name: Anezina Solomonidou
-    role: ''
-    link: ''
-    bio: 'Dr. Anezina Solomonidou is a planetary scientist specializing in planetary
-      geology and investigating the potentially habitable worlds of our solar system.
-      She has obtained her doctoral title on astronomy and astrophysics from the Paris
-      Observatory in France. She has worked for many years at NASA''s Jet Propulsion
-      Laboratory (JPL) and Caltech in Los Angeles, California, on the Cassini-Huygens
-      and the Europa Clipper missions, as well as the European Space Agency (ESA)
-      in Madrid for the preparation of ESA’s new space mission, JUICE. She has authored
-      a plethora of articles in peer-reviewed scientific journals and chapters in
-      books and more than 10 White Papers to NASA and ESA. Dr. Solomonidou has proposed
-      a series of planetary experiments and has contributed to the design of future
-      missions. She is the President of the Division for Planetary Sciences (PS) for
-      the European Geosciences Union (EGU) and serves as a review panelist for international
-      boards and NASA panels, where she evaluates scientific proposals for planetary
-      research. '
-    avatar: "/assets/anezina-solomonidou_hsc.JPG"
   - name: Thanasis Karmas
     role: ''
     link: https://gr.linkedin.com/in/karmas
@@ -239,6 +221,24 @@ en:
       the Satellite Communications and Space sectors.  Dr. Papachristos is the author
       of 13 publications in journals and conferences."
     avatar: "/assets/christos.JPG"
+  - name: Anezina Solomonidou
+    role: ''
+    link: ''
+    bio: 'Dr. Anezina Solomonidou is a planetary scientist specializing in planetary
+      geology and investigating the potentially habitable worlds of our solar system.
+      She has obtained her doctoral title on astronomy and astrophysics from the Paris
+      Observatory in France. She has worked for many years at NASA''s Jet Propulsion
+      Laboratory (JPL) and Caltech in Los Angeles, California, on the Cassini-Huygens
+      and the Europa Clipper missions, as well as the European Space Agency (ESA)
+      in Madrid for the preparation of ESA’s new space mission, JUICE. She has authored
+      a plethora of articles in peer-reviewed scientific journals and chapters in
+      books and more than 10 White Papers to NASA and ESA. Dr. Solomonidou has proposed
+      a series of planetary experiments and has contributed to the design of future
+      missions. She is the President of the Division for Planetary Sciences (PS) for
+      the European Geosciences Union (EGU) and serves as a review panelist for international
+      boards and NASA panels, where she evaluates scientific proposals for planetary
+      research. '
+    avatar: "/assets/anezina-solomonidou_hsc.JPG"
   - name: 'Tryfon Farmakakis  '
     role: ''
     link: https://www.linkedin.com/in/tryfon-farmakakis/
@@ -250,6 +250,21 @@ en:
       Operating Systems and Software Development. He also loves aviation and holds
       a PPL license.
     avatar: "/assets/tryfon.jpg"
+  - name: Dimitrios Christopoulos
+    role: ''
+    link: 'https://scholar.google.lu/citations?user=l82xdV4AAAAJ&hl=en '
+    bio: 'Dimitrios Christopoulos received the electrical and computer engineering
+      diploma from the National Technical University of Athens (NTUA), Athens, Greece,
+      in 2010 and the Ph.D. diploma from the Interdisciplinary Center for Security
+      and Trust, (SnT), University of Luxembourg, in 2014. Early 2016, he joined the
+      Technical Labs of Newtec, in Belgium, later rebranded as STEngineering, iDirect.
+      Throughout his career, Dr. Christopoulos has managed numerous ESA, European
+      Commission and Nationally funded R&D programs for the design, development and
+      productization of  ground segment components for next generation satellite communications
+      systems. He is co-inventor of 4 patents on signal processing for satcoms, author
+      of more than 30 scientific articles and has served as an industrial standardization
+      delegate in ETSI and 3GPP.  '
+    avatar: "/assets/christopoulos.JPG"
   staffSubtitle: Scientific Staff
 el:
   navigationLabel: Πληροφορίες
