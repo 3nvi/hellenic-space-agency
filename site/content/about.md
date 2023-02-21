@@ -149,6 +149,18 @@ en:
     avatar: "/assets/giannakaki.jpg"
   mainBackground: "/assets/pic07.jpg"
   scientificStaff:
+  - name: Christos Papachristos
+    role: ''
+    link: ''
+    bio: "Dr.  Papachristos holds a BEng in Aerospace Systems Engineering from the
+      University of Southampton in the UK, an MSc in Satellite Communications Engineering
+      from the University of Surrey in the UK, an MBA in Finance from Cardiff Business
+      School in the UK and a PhD in Electrical Engineering (Microwave Communications)
+      from the National Technical University of Athens. \nDr. Papachristos has extensive
+      corporate experience in Greece and the UAE in senior management positions in
+      the Satellite Communications and Space sectors.  Dr. Papachristos is the author
+      of 13 publications in journals and conferences."
+    avatar: "/assets/christos.JPG"
   - name: Thanasis Karmas
     role: ''
     link: https://gr.linkedin.com/in/karmas
