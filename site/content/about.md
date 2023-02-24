@@ -220,7 +220,7 @@ en:
       corporate experience in Greece and the UAE in senior management positions in
       the Satellite Communications and Space sectors.  Dr. Papachristos is the author
       of 13 publications in journals and conferences."
-    avatar: "/assets/christos.JPG"
+    avatar: "/assets/papachristos-1.JPG"
   - name: Anezina Solomonidou
     role: ''
     link: ''
