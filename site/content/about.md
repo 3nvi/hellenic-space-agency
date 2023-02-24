@@ -264,7 +264,7 @@ en:
       systems. He is co-inventor of 4 patents on signal processing for satcoms, author
       of more than 30 scientific articles and has served as an industrial standardization
       delegate in ETSI and 3GPP.  '
-    avatar: "/assets/christopoulos.JPG"
+    avatar: "/assets/christopoulos-11.jpg"
   staffSubtitle: Scientific Staff
 el:
   navigationLabel: Πληροφορίες
