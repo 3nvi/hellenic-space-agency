@@ -137,16 +137,11 @@ en:
       a member of the Academia Europae and is the Chair of the National Committee
       on Climate Change of Greece.
     avatar: "/assets/synolakis.jpg"
-  - name: Antigoni Giannakaki
+  - name: Athanasios Dimas
     role: Member of Governing Board
-    link: https://www.linkedin.com/in/antigoni-giannakaki-355831138/
-    bio: Antigoni Giannakaki is a lawyer whο held the position of Supervising Senior
-      Lawyer at CPA Law Firm-Member of the Global Network of KPMG-Independent Law
-      Practice Professional (September 2006 -2018 ). She was also a Special Associate
-      of Secretary General of Information System and Administrative Support of Ministry
-      of Finance, Greece (2013-2015) and remains an Associate Lawyer for the Agricultural
-      Bank of Greece.
-    avatar: "/assets/giannakaki.jpg"
+    link: ''
+    bio: "(To be updated.)"
+    avatar: "/assets/dimas-copy.jpg"
   mainBackground: "/assets/pic07.jpg"
   scientificStaff:
   - name: Thanasis Karmas
