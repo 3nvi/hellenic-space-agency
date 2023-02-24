@@ -189,6 +189,23 @@ en:
       including H2020 programs. He has coordinated small and medium-sized teams of
       engineers and technicians.'
     avatar: "/assets/mylonakis.jpeg"
+  - name: Dimitris Mylonas
+    role: ''
+    link: ''
+    bio: "Diploma in Electrical and Computer Engineering from the National Technical
+      University of Athens and MSc in Space Systems Engineering from the University
+      of Surrey.  \n\nLong experience in the space sector, having worked for a decade
+      for Airbus Defence & Space in France (Toulouse) and in UK (Stevenage), as a
+      flight software engineer, validation responsible, GNC study Lead and software
+      systems architect. Has participated in EO missions (Airbus AS250-based platforms),
+      scientific and planetary exploration missions such as ExoMars Rover Vehicle,
+      Sample Fetch Rover και Lagrange L5. Has acted as the central software validation
+      responsible for the Solar Orbiter mission satellite, leading a multinational
+      team of at least 15 engineers to the final software qualification and acceptance
+      for flight by ESA.  \n\nHas worked in various space technology R&D projects
+      in the private sector in Greece and in ESA – ESTEC TEC-SWE department in the
+      Netherlands. "
+    avatar: "/assets/mylonas-1.JPG"
   - name: Anastasios Panagiotopoulos
     role: ''
     link: ''
