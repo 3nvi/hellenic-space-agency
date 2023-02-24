@@ -238,7 +238,7 @@ en:
       the European Geosciences Union (EGU) and serves as a review panelist for international
       boards and NASA panels, where she evaluates scientific proposals for planetary
       research. '
-    avatar: "/assets/anezina-solomonidou_hsc.JPG"
+    avatar: "/assets/solomonidou-1.JPG"
   - name: 'Tryfon Farmakakis  '
     role: ''
     link: https://www.linkedin.com/in/tryfon-farmakakis/
@@ -249,7 +249,7 @@ en:
       to Space Systems, Semantic Web, Databases, Storage Systems, Distributed Systems,
       Operating Systems and Software Development. He also loves aviation and holds
       a PPL license.
-    avatar: "/assets/tryfon.jpg"
+    avatar: "/assets/farmakakis-1.jpg"
   - name: Dimitrios Christopoulos
     role: ''
     link: 'https://scholar.google.lu/citations?user=l82xdV4AAAAJ&hl=en '
