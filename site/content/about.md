@@ -179,7 +179,7 @@ en:
       medium-sized technical teams (30 people), contributed to the definition of strategic
       business roadmaps in various private companies and has participated to the technical
       validation of 6 Earth Observation satellite missions.
-    avatar: "/assets/bliziotis.JPG"
+    avatar: "/assets/bliziotis-1.JPG"
   - name: Manolis Mylonakis
     role: ''
     link: 'https://www.linkedin.com/in/mmylonakis '
@@ -193,7 +193,7 @@ en:
       Zephyr, WIVERN, EutelSat Quantum, Inmarsat 6 and in varied research activities
       including H2020 programs. He has coordinated small and medium-sized teams of
       engineers and technicians.'
-    avatar: "/assets/manolis.jpg"
+    avatar: "/assets/mylonakis.jpeg"
   - name: Anastasios Panagiotopoulos
     role: ''
     link: ''
@@ -208,7 +208,7 @@ en:
       (Corallia). At the same time, he has participated in STEAM educational programs
       as robotics instructors, in cooperation with educational institutions and Centers
       of Creative Activities for Children in Thessaloniki. '
-    avatar: "/assets/panagiotopoulos.jpeg"
+    avatar: "/assets/panagiotopoulos-1.jpeg"
   - name: Christos Papachristos
     role: ''
     link: ''
