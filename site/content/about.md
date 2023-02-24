@@ -490,7 +490,7 @@ el:
       στον ιδιωτικό τομέα και σε έργα χρηματοδοτούμενα από την Ευρωπαϊκή Ένωση και
       έχει συντονίσει μικρού και μεσαίου μεγέθους ομάδες μηχανικών λογισμικού και
       δεδομένων.
-    avatar: "/assets/karmas.JPG"
+    avatar: "/assets/karmas-1.JPG"
   - name: Δημήτρης Μπληζιώτης
     role: ''
     link: 'https://www.linkedin.com/in/dimitrios-bliziotis '
