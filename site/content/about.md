@@ -163,7 +163,7 @@ en:
       in both the private sector and in projects funded by the European Union and
       has coordinated small and medium-sized technical teams of software and data
       engineers.
-    avatar: "/assets/karmas.JPG"
+    avatar: "/assets/karmas-1.JPG"
   - name: 'Dimitris Bliziotis '
     role: ''
     link: 'https://www.linkedin.com/in/dimitrios-bliziotis  '
