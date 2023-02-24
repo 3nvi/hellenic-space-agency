@@ -2,7 +2,7 @@
 en:
   navigationLabel: The Center
   mainTitle: About H.S.C.
-  mainSubtitle: Mission and Governing Board
+  mainSubtitle: Mission, Governing Board & Personnel
   membersSubtitle: Governing Board
   content: |-
     ## Hellenic Space Center
@@ -260,7 +260,7 @@ en:
       of more than 30 scientific articles and has served as an industrial standardization
       delegate in ETSI and 3GPP.  '
     avatar: "/assets/christopoulos-11.jpg"
-  staffSubtitle: Scientific Staff
+  staffSubtitle: Scientific Personnel
 el:
   navigationLabel: Πληροφορίες
   mainTitle: Σχετικά με το ΕΛ.ΚΕ.Δ
