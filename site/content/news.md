@@ -596,8 +596,8 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
-  - title: Young Graduate Trainee in Information Systems Development for Future Data
-      Analysis
+  - title: Young Graduate Trainee πάνω στην Ανάπτυξη Πληροφοριακών Συστημάτων για
+      την Ανάλυση Μελλοντικών Δεδομένων
     body: 'Το πρόγραμμα Young Graduate Trainee (YGT) της [ESA](https://www.esa.int/)
       προσφέρει στους νέους πτυχιούχους την ευκαιρία να αποκτήσουν πολύτιμη εμπειρία
       στην ανάπτυξη και λειτουργία διαστημικών αποστολών σε ένα διεθνές και πολυπολιτισμικό
