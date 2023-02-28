@@ -4,6 +4,18 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Young Graduate Trainee in Information Systems Development for Future Data
+      Analysis
+    body: "[ESA](https://www.esa.int/)’s Young Graduate Trainee (YGT) Programme offers
+      young graduates the opportunity to gain valuable on-the-job experience in the
+      development and operation of space missions in an international and multicultural
+      environment. ESA has proclaimed a Young Graduate Opportunity in the Directorate
+      of Science, on Information Systems Development for Future Data Analysis. The
+      goal of this project is to develop an information system that provides researchers
+      with the information required to fully exploit the upcoming data sets of the
+      BepiColombo and JUICE missions. Deadline for applications: February 28, 2023.
+      [Learn more]()"
+    date: 2023-02-28T12:00:11Z
   - title: The Summer School Alpbach – An in-depth learning experience, on space science
       and engineering
     body: 'The “[Summer School Alpbach](https://www.summerschoolalpbach.at/)” will
@@ -19,7 +31,7 @@ en:
       Administrative and Scientific Personnel of the Center attended the ceremony,
       along with the C.E.O., N. Sergis, the Vice President, G. Nounesis, and the Governing
       Board Μembers, P. Sotiriadis, C. Synolakis and K. Karantzalos.
-    date: 2023-02-10T10:10:29Z
+    date: 2023-02-10T10:10:29.000+00:00
   - title: Prof. C. Synolakis, Governing Board Member of the H.S.C., has been elected
       as a Member of the NAE
     body: Prof. Costas Synolakis, Governing Board Member of the H.S.C., has been elected
@@ -601,7 +613,7 @@ el:
       και Επιστημονικό Προσωπικό του Κέντρου, ο Διευθύνων Σύμβουλος, Νίκος Σέργης,
       ο Αναπληρωτής Πρόεδρος, Γιώργος Νούνεσης, καθώς και τα Μέλη του Διοικητικού
       Συμβουλίου, Παύλος Σωτηριάδης, Κώστας Συνολάκης, και Κώστας Καράντζαλος.
-    date: 2023-02-10T10:10:27Z
+    date: 2023-02-10T10:10:27.000+00:00
   - title: Εκλογή του Καθ. Κ. Συνολάκη, μέλους του Δ.Σ. του ΕΛ.ΚΕ.Δ., ως μέλος της
       ΝΑΕ
     body: Ο Καθ. Κώστας Συνολάκης, Μέλος του Δ.Σ. του ΕΛ.ΚΕ.Δ., εξελέγη ως Μέλος της
