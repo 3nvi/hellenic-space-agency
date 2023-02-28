@@ -596,6 +596,19 @@ el:
   mainTitle: Νέα
   mainSubtitle: Ενημερωθείτε για τις τελευταίες μας εξελίξεις
   items:
+  - title: Young Graduate Trainee in Information Systems Development for Future Data
+      Analysis
+    body: 'Το πρόγραμμα Young Graduate Trainee (YGT) της [ESA](https://www.esa.int/)
+      προσφέρει στους νέους πτυχιούχους την ευκαιρία να αποκτήσουν πολύτιμη εμπειρία
+      στην ανάπτυξη και λειτουργία διαστημικών αποστολών σε ένα διεθνές και πολυπολιτισμικό
+      περιβάλλον. Η ESA έχει προκηρύξει μια θέση για Young Graduates στο Directorate
+      of Science, πάνω στην Ανάπτυξη Πληροφοριακών Συστημάτων για την Ανάλυση Μελλοντικών
+      Δεδομένων. Ο στόχος αυτού του έργου είναι η ανάπτυξη ενός πληροφοριακού συστήματος
+      που παρέχει στους ερευνητές τις πληροφορίες που απαιτούνται για την πλήρη εκμετάλλευση
+      των επερχόμενων συνόλων δεδομένων των αποστολών BepiColombo και JUICE. Προθεσμία
+      υποβολής αιτήσεων: 28 Φεβρουαρίου 2023. [Μάθετε περισσότερα](https://jobs.esa.int/job/Noordwijk-Young-Graduate-Trainee-in-Information-Systems-Development-for-Future-Data-Analysis/898327501/
+      )'
+    date: 2023-02-28T12:00:59Z
   - title: The Summer School Alpbach – Θερινό Σχολείο Επιστήμης και Τεχνολογίας του
       Διαστήματος
     body: 'Το Θερινό Σχολείο «[Summer School Alpbach](https://www.summerschoolalpbach.at/)»
