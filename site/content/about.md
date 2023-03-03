@@ -252,7 +252,7 @@ en:
       research. '
     avatar: "/assets/solomonidou-1.JPG"
   - name: 'Tryfon Farmakakis  '
-    role: ''
+    role: Space Systems
     link: https://www.linkedin.com/in/tryfon-farmakakis/
     bio: Graduate from the School of Electrical and Computer Engineering from the
       National Technical University of Athens (NTUA) and holder of an M.Sc. in Space
@@ -263,7 +263,7 @@ en:
       a PPL license.
     avatar: "/assets/farmakakis-1.jpg"
   - name: Dimitrios Christopoulos
-    role: ''
+    role: Satellite Communications and Integrated Applications
     link: 'https://scholar.google.lu/citations?user=l82xdV4AAAAJ&hl=en '
     bio: 'Dimitrios Christopoulos received the electrical and computer engineering
       diploma from the National Technical University of Athens (NTUA), Athens, Greece,
