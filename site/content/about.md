@@ -176,7 +176,7 @@ en:
       validation of 6 Earth Observation satellite missions.
     avatar: "/assets/bliziotis-1.JPG"
   - name: Manolis Mylonakis
-    role: ''
+    role: Space Systems
     link: 'https://www.linkedin.com/in/mmylonakis '
     bio: 'Electrical and Computer Engineer graduate from the University of Patras
       and holder of M. Sc. In Wireless Communications from the University of Southampton.
@@ -190,7 +190,7 @@ en:
       engineers and technicians.'
     avatar: "/assets/mylonakis.jpeg"
   - name: Dimitris Mylonas
-    role: ''
+    role: Space Systems
     link: ''
     bio: "Diploma in Electrical and Computer Engineering from the National Technical
       University of Athens and MSc in Space Systems Engineering from the University
