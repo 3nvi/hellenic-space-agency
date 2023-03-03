@@ -234,7 +234,7 @@ en:
       of 13 publications in journals and conferences."
     avatar: "/assets/papachristos-1.JPG"
   - name: Anezina Solomonidou
-    role: ''
+    role: Space Sciences & Space Exploration
     link: ''
     bio: 'Dr. Anezina Solomonidou is a planetary scientist specializing in planetary
       geology and investigating the potentially habitable worlds of our solar system.
