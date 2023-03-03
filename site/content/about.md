@@ -160,7 +160,7 @@ en:
       engineers.
     avatar: "/assets/karmas-1.JPG"
   - name: 'Dimitris Bliziotis '
-    role: ''
+    role: Earth Observation
     link: 'https://www.linkedin.com/in/dimitrios-bliziotis  '
     bio: Graduate from the School of Rural, Surveying and Geoinformatics Engineering
       from the National Technical University of Athens (NTUA) and holder of an M.Sc.
