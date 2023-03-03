@@ -4,6 +4,15 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: Job Opportunities at the European Space Agency
+    body: In 2023, [ESA](https://www.esa.int/) will be recruiting over 200 new colleagues
+      to join its teams and support its mission of the peaceful exploration and use
+      of space for the benefit of everyone. More than 30 vacancies have recently been
+      published and many more will be coming soon, so if you are ready to take the
+      next step in your career, this is your chance! Explore our vacancies and apply
+      today. [Learn more](https://www.esa.int/About_Us/Careers_at_ESA/ESA_recruits_and_not_only_astronauts._Apply_now
+      )
+    date: 2023-03-03T09:40:50Z
   - title: Young Graduate Trainee in Information Systems Development for Future Data
       Analysis
     body: "[ESA](https://www.esa.int/)’s Young Graduate Trainee (YGT) Programme offers
