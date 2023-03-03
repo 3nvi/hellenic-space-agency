@@ -145,7 +145,7 @@ en:
   mainBackground: "/assets/pic07.jpg"
   scientificStaff:
   - name: Thanasis Karmas
-    role: ''
+    role: Space Data Systems
     link: https://gr.linkedin.com/in/karmas
     bio: Graduate from the School of Electrical and Computer Engineering from the
       National Technical University of Athens (NTUA) and holder of an M.Sc. in Geoinformatics
