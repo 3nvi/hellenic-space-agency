@@ -222,7 +222,7 @@ en:
       of Creative Activities for Children in Thessaloniki. '
     avatar: "/assets/panagiotopoulos-1.jpeg"
   - name: Christos Papachristos
-    role: ''
+    role: Economic Advisor/Expert
     link: ''
     bio: "Dr.  Papachristos holds a BEng in Aerospace Systems Engineering from the
       University of Southampton in the UK, an MSc in Satellite Communications Engineering
