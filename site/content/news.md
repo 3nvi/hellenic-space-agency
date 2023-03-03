@@ -4,6 +4,13 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'Presentation of the H.S.C. Scientific Personnel in an AUTH lecture '
+    body: On Friday, January 20th, 2023, members of the Scientific Personnel of the
+      Hellenic Space Center presented Space Engineering topics to students of the
+      Department of Electrical and Computer Engineering of the [Aristotle University
+      of Thessaloniki](https://www.auth.gr/en/ ), upon invitation by Professor Mr.
+      Alkiviadis Hatzopoulos, as part of the "Systems Reliability" course.
+    date: 2023-03-03T10:00:06Z
   - title: Job Opportunities at the European Space Agency
     body: In 2023, [ESA](https://www.esa.int/) will be recruiting over 200 new colleagues
       to join its teams and support its mission of the peaceful exploration and use
