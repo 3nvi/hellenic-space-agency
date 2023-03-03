@@ -475,7 +475,7 @@ el:
   mainBackground: "/assets/pic07.jpg"
   scientificStaff:
   - name: Θανάσης Κάρμας
-    role: ''
+    role: Διαστημικά Συστήματα Δεδομένων
     link: https://gr.linkedin.com/in/karmas
     bio: Απόφοιτος της σχολής Ηλεκτρολόγων Μηχανικών & Μηχανικών Υπολογιστών από το
       Εθνικό Μετσόβιο Πολυτεχνείο και κάτοχος μεταπτυχιακού τίτλου M.Sc. στην Γεωπληροφορική
@@ -490,7 +490,7 @@ el:
       δεδομένων.
     avatar: "/assets/karmas-1.JPG"
   - name: Δημήτρης Μπληζιώτης
-    role: ''
+    role: Δορυφορική Παρατήρηση της Γης
     link: 'https://www.linkedin.com/in/dimitrios-bliziotis '
     avatar: "/assets/bliziotis-1.JPG"
     bio: Απόφοιτος της σχολής Αγρονόμων και Τοπογράφων Μηχανικών - Μηχανικών Γεωπληροφορικής
