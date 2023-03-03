@@ -207,7 +207,7 @@ en:
       Netherlands. "
     avatar: "/assets/mylonas-1.JPG"
   - name: Anastasios Panagiotopoulos
-    role: ''
+    role: GNSS Applications
     link: ''
     bio: 'Graduate from the Department of Electrical and Computer Engineering of the
       Aristotle University of Thessaloniki (AUTH) and holder of a M.Sc. in Aeronautical
