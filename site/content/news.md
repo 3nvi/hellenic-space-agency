@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'The President of the H.S.C. at Khalifa University, Abu Dhabi '
+    body: On Monday, March 13th, the President of the H.S.C., Prof. Ioannis Daglis,
+      visited [Khalifa University](https://www.ku.ac.ae/ ), the top ranking University
+      of the United Arab Emirates, where he gave a colloquium and had a series of
+      contacts.
+    date: 2023-03-13T09:30:14Z
   - title: 'The H.S.C. at SpaceOps 2023 '
     body: On Wednesday, March 8th, the President of the H.S.C., Prof. Ioannis Daglis,
       presented a paper on the role of the H.S.C. in the national Earth observation
