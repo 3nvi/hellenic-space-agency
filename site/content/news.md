@@ -4,6 +4,12 @@ en:
   mainTitle: News
   mainSubtitle: Find out about our latest updates
   items:
+  - title: 'The H.S.C. at SpaceOps 2023 '
+    body: On Wednesday, March 8th, the President of the H.S.C., Prof. Ioannis Daglis,
+      presented a paper on the role of the H.S.C. in the national Earth observation
+      microsatellite program at the [SpaceOps 2023](https://spaceops2023.org/ ) international
+      conference in Dubai (United Arab Emirates).
+    date: 2023-03-08T09:30:39Z
   - title: 'Presentation of the H.S.C. Scientific Personnel in an AUTH lecture '
     body: On Friday, January 20th, 2023, members of the Scientific Personnel of the
       Hellenic Space Center presented Space Engineering topics to students of the
