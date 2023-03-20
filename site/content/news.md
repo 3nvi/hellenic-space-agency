@@ -5,15 +5,15 @@ en:
   mainSubtitle: Find out about our latest updates
   items:
   - title: Career Day in Space Technologies, Applications and Services Made in Greece
-    body: "The Rector of the [National and Kapodistrian University of Athens](https://en.uoa.gr/
-      ), the Inter-Institutional Graduate Program in \"[Space Technologies, Applications
-      and Services](http://star.uoa.gr/index_english.php )\" and the Undergraduate
-      Program in \"[Aerospace Science and Technology](http://www.aerospace.uoa.gr/
-      \t)\" are organizing the Career Day in Space Technologies, Applications and
-      Services Made in Greece for their students. The conference will take place on
-      Tuesday, March 21, 2023, at 9:00 a.m. in the Great Hall of the University of
-      Athens. [Learn more](https://hub.uoa.gr/career-day-in-space-technologies-applications-and-services-made-in-greece/
-      )"
+    body: The Rector of the [National and Kapodistrian University of Athens](https://en.uoa.gr/
+      ), the Inter-Institutional Graduate Program in "[Space Technologies, Applications
+      and Services](http://star.uoa.gr/index_english.php )" and the Undergraduate
+      Program in "[Aerospace Science and Technology](http://www.aerospace.uoa.gr/
+      )" are organizing the Career Day in Space Technologies, Applications and Services
+      Made in Greece for their students. The event was scheduled to take place on
+      Tuesday, March 21, 2023 with a start time of 09.00 am. and has been postponed.
+      The new event date will be soon announced. [Learn more](https://hub.uoa.gr/career-day-in-space-technologies-applications-and-services-made-in-greece/
+      )
     date: 2023-03-20T10:30:30Z
   - title: 'The President of the H.S.C. at Khalifa University, Abu Dhabi '
     body: On Monday, March 13th, the President of the H.S.C., Prof. Ioannis Daglis,
