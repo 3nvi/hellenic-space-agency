@@ -5,10 +5,12 @@ en:
   mainSubtitle: Find out about our latest updates
   items:
   - title: Announcement of an Open International Tender for Framework Agreement
-    body: |-
-      In the context of the "Earth Observation Satellite Mission Planning Service" Project which has been recently included in the Recovery and Resilience Fund (RRF) for Greece (OPS code TA 5201107), the Hellenic Space Center announces an Open International Electronic Tender for a Framework Agreement for the sub-project (A /A 1) "Earth Observation Satellite Mission Planning Service".
-
-      The documentation of the Tender is available at the following link.
+    body: In the context of the "Earth Observation Satellite Mission Planning Service"
+      Project which has been recently included in the Recovery and Resilience Fund
+      (RRF) for Greece (OPS code TA 5201107), the Hellenic Space Center announces
+      an Open International Electronic Tender for a Framework Agreement for the sub-project
+      (A /A 1) "Earth Observation Satellite Mission Planning Service". The documentation
+      of the Tender is available at the following [link](/assets/announcement_of_tender_for_framework_agreement.pdf).
     date: 2023-03-22T13:20:16Z
   - title: Career Day in Space Technologies, Applications and Services Made in Greece
     body: The Rector of the [National and Kapodistrian University of Athens](https://en.uoa.gr/
